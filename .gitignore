@@ -1,0 +1,46 @@
+# Audio files
+*.mp3
+*.MP3
+*.wav
+*.WAV
+*.flac
+*.aac
+*.ogg
+
+# Video files
+*.mp4
+*.MP4
+*.mov
+*.avi
+*.mkv
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.psd
+*.tiff
+*.bmp
+
+# Binary documents
+*.pdf
+*.docx
+*.xlsx
+
+# ElevenLabs audio folder
+3. ELEVEN LABS AUDIO/
+
+# Exported media
+6. EXPORTED WITH KEN BURNS/
+
+# Episode images
+4. EPISODE IMAGES/
+
+# Test playground screenshots
+10. TEST AND PLAYGROUND/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
