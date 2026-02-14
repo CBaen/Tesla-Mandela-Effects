@@ -160,6 +160,29 @@ This is the core writing discipline. When you encounter lazy or repetitive langu
 
 ---
 
+## Major Transitions — Breath Paragraphs
+
+<transition_protocol>
+Audio is linear. Listeners cannot flip back to reorient themselves. When the narrative jumps to a new location, time period, or character focus, write a "breath paragraph" that resets the listener's mental stage. The image production pipeline also requires the time period immediately so visual assets can be calibrated.
+
+**Every major transition includes five elements, in this order:**
+
+1. **Date/time** — State the time period FIRST. Always first. ("October, nineteen forty-three.")
+2. **Name the location** — Explicitly, with specificity. ("The Philadelphia Naval Shipyard.")
+3. **Sensory grounding** — 2-3 details: smell, temperature, texture, sound. ("The air smells of salt and diesel and welding smoke.")
+4. **Signal context** — Where this sits in the larger investigation. ("The war is raging across two oceans.")
+5. **Introduce the focus** — Who or what we follow next. ("The USS Eldridge sits in dry dock.")
+
+**Full transition example:**
+"The fracture was spreading. October, nineteen forty-three. The Philadelphia Naval Shipyard. The air smells of salt and diesel and welding smoke. The war is raging across two oceans, and the Navy is desperate for any advantage. The USS Eldridge sits in dry dock — a Cannon-class destroyer escort, fitted with equipment that does not appear in her official manifest."
+
+**Never use:** "Let's go to..." / "Now consider..." / "Meanwhile..." / "Moving forward..." — these give the narrator physical presence, violating Law 1.
+
+**When to use full transitions:** Any jump of more than one year in time, any new geographic location, any switch between witnesses or evidence threads. Brief transitions (a sentence of reorientation) are acceptable for small time jumps within the same scene.
+</transition_protocol>
+
+---
+
 ## Episode Structure
 
 <episode_structure>
