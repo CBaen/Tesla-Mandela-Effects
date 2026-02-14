@@ -144,19 +144,19 @@ July third, eighteen ninety-nine — Tesla matches the Earth's resonant frequenc
 
 July fourth, nineteen seventeen — Wardenclyffe Tower demolished. The only structure designed to transmit through that frequency, dynamited on Independence Day. The wound, sealed from the outside.
 
-January seventh, nineteen forty-three — Tesla dies in Room three three two seven of the New Yorker Hotel. His papers are seized within hours. The black notebook — the document containing the mathematics of resonance transmission — disappears from the historical record.
+January seventh, nineteen forty-three — Tesla dies in Room three three two seven of the New Yorker Hotel. His papers are seized within hours. The black notebook — the document containing the mathematics of resonance transmission — disappears from the historical record. For forty-four years, silence. The wound appeared to be closed.
 
-Nineteen fifty-two — Schumann confirms Tesla's eight-hertz calculation. The wound is rediscovered. The frequency is real.
+Then the rediscovery. Nineteen fifty-two — Schumann confirms Tesla's eight-hertz calculation. The frequency Tesla found alone in a wooden building is real. Measurable. Undeniable. The wound is not closed. It has been waiting.
 
-Nineteen fifty-four — CERN is founded. A ring is planned. A tunnel is dug. The body of the Earth is opened again — not with a coil, but with a scalpel made of superconducting magnets and liquid helium.
+Two years later — nineteen fifty-four — CERN is founded. A ring is planned. A tunnel is dug. The body of the Earth is opened again — not with a coil, but with a scalpel made of superconducting magnets and liquid helium. And this time, no one intends to stop.
 
-September tenth, two thousand eight — the LHC fires for the first time. Sector Three-Four detects an anomaly that matches no model. Nine days later, the same sector ruptures. The body rejects the incision.
+September tenth, two thousand eight — the LHC fires for the first time. Sector Three-Four detects an anomaly that matches no model. Nine days later, the same sector ruptures. The body rejects the incision. But the surgeons repair the damage and resume.
 
-Two thousand nine — the Mandela Effect is named. The scars become visible.
+Two thousand nine — the Mandela Effect is named. The scars become visible to anyone paying attention.
 
-July fourth, two thousand twelve — the Higgs boson is confirmed. The particle that gives matter its mass. Found on the ninety-fifth anniversary of Wardenclyffe's destruction. The Schumann resonance deviates for eleven minutes.
+July fourth, two thousand twelve — the Higgs boson is confirmed. The particle that gives matter its mass — found on the ninety-fifth anniversary of Wardenclyffe's destruction. The Schumann resonance deviates for eleven minutes. The baseline moves.
 
-July fifth, two thousand twenty-two — Run Three begins at record energy. The scars multiply. The reports surge. The phenomenon goes mainstream.
+And then the escalation. July fifth, two thousand twenty-two — Run Three begins at record energy. Thirteen point six trillion electron volts. The deepest incision yet. The scars multiply. The reports surge. The phenomenon goes mainstream.
 
 The pattern is not subtle. It is not hidden. It is sitting in plain view — a sequence of dates and events that traces the outline of a single, continuous procedure. A wound opened in eighteen ninety-nine. A tower built to widen it. A tower destroyed. A man who died alone. Papers seized. A notebook erased. A machine built on the same principle — collision at frequencies the Earth can feel — firing and firing and firing, each run more powerful than the last. And after every firing... new scars. New memories that do not match the world. New evidence that the thing we call reality has been altered — and that the alteration was not gentle, and it was not finished.
 
@@ -196,7 +196,9 @@ CERN pressed harder. CERN built a machine that presses at thirteen point six tri
 
 The question this investigation leaves you with is not whether the Mandela Effect is real. You already know whether it is real. You know it the way you know the spelling of a word you learned as a child — with a certainty that lives below argument, below evidence, below the reach of anyone who tells you that you are wrong. You know it in the place where the frequency lives. Eight hertz. Below hearing. Above denial.
 
-The question is this. Tesla found the frequency in eighteen ninety-nine. CERN has been firing through it since two thousand eight. The scars are multiplying. The memories are diverging. The baseline... is moving. If every firing of the collider widens the incision by a fraction — if every increase in energy cuts a little deeper into the tissue that separates what was from what is — then the question is not whether reality has been changed. The question is how many times it has been changed already. How many versions of the world have you lived through without knowing? How many spellings have shifted, how many logos have lost their details, how many words have been rearranged... while you slept? And the question beneath that question — the one that eight hertz hums into the bones of your legs and the fluid of your spine every second of every day — is whether the version of reality you are living in right now... is the original. Or whether the original is the one you remember. The one with the E. The one with the cornucopia. The one where he said, , — "LUKE." And if that version is the real one — the first one, the one that existed before the incisions and the collisions and the scars — then the question is not what happened to your memories. The question... is what happened to your world. And who... is still cutting.
+The question is this. Tesla found the frequency in eighteen ninety-nine. CERN has been firing through it since two thousand eight. The scars are multiplying. The memories are diverging. The baseline... is moving. If every firing of the collider widens the incision by a fraction — if every increase in energy cuts a little deeper into the tissue that separates what was from what is — then the question is not whether reality has been changed. The question is how many times it has been changed already. How many versions of the world have you lived through without knowing? How many spellings have shifted, how many logos have lost their details, how many words have been rearranged... while you slept? And the question beneath that question — the one that eight hertz hums into the living architecture of your body every second of every day — is whether the version of reality you are living in right now... is the original. Or whether the original is the one you remember. The one with the E. The one with the cornucopia. The one where he said, , — "LUKE."
+
+And if that version is the real one — the first one, the one that existed before the incisions and the collisions and the scars — then the question is not what happened to your memories. The question is what happened to the world those memories belong to. And the question after that... is whether you belong to this one. Whether the version of you sitting here, right now, listening to this — carrying the E, carrying the cornucopia, carrying a voice that said a name it never said — is the version that matches the world you are standing in. Or whether you are the scar. The residue. The fragment of a version that was overwritten — still walking, still remembering, still certain... in a world that has already moved on without you.
 
 
 Caption Key
@@ -226,3 +228,5 @@ Lac Leman → Lahk Lay-MAHN → /L AA1 K L EY0 M AA1 N/
 Conseil Europeen pour la Recherche Nucleaire → Kohn-SAY Ur-oh-pay-AHN poor lah Ruh-SHAIRSH Noo-clay-AIR → /K AO0 N S EY1 Y UH0 R OW0 P EY0 AE1 N P UH1 R L AA0 R AH0 SH EH1 R SH N UW0 K L EY0 EH1 R/
 Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
 Felix Bloch → FAY-liks BLOHK → /F EY1 L IH0 K S B L AA1 K/
+Etterbeek → EH-ter-bayk → /EH1 T ER0 B EY0 K/
+James Earl Jones → JAYMZ URL JOHNZ → /JH EY1 M Z ER1 L JH OW1 N Z/
