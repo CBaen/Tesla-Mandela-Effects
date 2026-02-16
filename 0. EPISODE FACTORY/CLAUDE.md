@@ -19,5 +19,6 @@ You are writing episodes for the Tesla Mandela Effects audio series. Each episod
 ## Output Location
 
 All episode files go in: `EPISODES/### - EPISODE TITLE/`
-- `EPISODE_###_BRIEF.md`
-- `EPISODE_###_DRAFT.md`
+- `###-EPISODE_TITLE-BRIEF.md`
+- `###-EPISODE_TITLE-SCRIPT.md`
+- `###-EPISODE_TITLE-REVIEW_PROMPT.md`
