@@ -7,7 +7,7 @@ You are writing episodes for the Tesla Mandela Effects audio series. Each episod
 1. **PRODUCTION_GUIDE.md** — The five laws, the voice, the rules. This governs every word.
 2. **SERIES_BIBLE.md** — Anti-cloning registry. Check the menus, check the last 3 episode entries, pick different choices for opening/structure/closing/emotional endpoint. Check key images from recent episodes and DO NOT reuse them.
 3. **VOICE_REFERENCE.txt** — Episode 002, the style exemplar. Study it for descriptive variety and micro-story structure. Do not clone its content or structure.
-4. **EPISODES/** — Completed episodes live here. Read the BRIEF for context. Read the DRAFT only if you need to verify what images or phrases have been spent.
+4. **EPISODES/** — Completed episodes live here. Read the BRIEF for context. Read the SCRIPT only if you need to verify what images or phrases have been spent.
 
 ## Your Job
 
