@@ -85,6 +85,31 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 
 ## Episode Registry
 
+### 001 — ARRIVING FROM BETWEEN
+- **Wound:** Nikola Tesla himself — his death and birth bookended, with the investigation running backward from the body to the origin
+- **Opening type:** Fact that becomes horrifying ("The body wasn't even cold yet.")
+- **Structural shape:** Crime scene investigation (start at death in 1943, work backward through evidence to birth in 1856)
+- **Closing type:** The Open Wound — investigation opens, does not conclude, file placed on listener's desk
+- **Emotional endpoint:** Paranoia — conviction that the official story is managed, someone has been maintaining the silence
+- **Tesla connection type:** Direct appearance (present through evidence — hotel room, trunks, birth records — not as active character)
+- **Tesla presence:** Absent center of investigation (the body on the table, the infant in the room, never speaks)
+- **Key locations:** New Yorker Hotel Room 3327 Manhattan, Smiljan village, Gospic garrison town, Velebit mountains, Belgrade (Tesla Museum)
+- **Mandela Effects (primary):** None — series introduction, single oblique gesture in closing only
+- **Fabricated sources:** Schoolteacher's diary (well water/light/animal behavior), Father Toma's transfer request with Latin marginal note (institutional correspondence), midwife Marta's letter in family Bible (personal correspondence/oral history), OAP internal audit with trunk count redaction (declassified government report)
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "geometric absence" — dimensionless darkness during the birth
+  - "the grinding" — the sound the midwife would not describe
+  - "the light had weight" — schoolteacher's observation of examination-quality light
+  - "the handle was hot" — knife that conducted something from the cutting
+  - "a locked door with no visible keyhole" — boring answers as containment
+  - "napkins covered in mathematical notation" — Tesla's poverty-driven notebooks
+  - "the body on the table" — investigation as forensic autopsy
+  - "a diagnosis that explains nothing but closes the case" — managed narrative as medical metaphor
+  - "the quarantine lifted" — village as organism under quarantine
+  - "feathers on the windowsill" — evidence of Tesla's only visitors
+- **Unique elements:** OAP seizure of American citizen's property (no legal basis), Foxworth pre-positioned before death, forty-day silence matching churching period, "Quod transit debet cito nominari" Latin phrase, Room 3327 (divisible by 3), weather record ambiguity (Gospic vs Smiljan)
+- **Names spent:** Nikola Tesla, Djuka Tesla, Milutin Tesla, P.E. Foxworth, Sava Kosanovic, John G. Trump, Father Toma, Marta (midwife, first name only), Thomas Edison, Guglielmo Marconi
+
 ### 003 — THE GOD PARTICLE
 - **Wound:** CERN Large Hadron Collider and Mandela Effects
 - **Opening type:** Direct address question ("Have you ever heard a sound that wasn't there?")
