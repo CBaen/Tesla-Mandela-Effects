@@ -92,6 +92,18 @@ Every episode blends three layers. The listener should never identify exactly wh
 **Layer 2 — Unverifiable Fiction.** Fabricated sources presented with documentary texture and specificity. "The midwife." "A coroner's report labeled Classification YANKEE-ZULU." "A pension letter from a telegraph operator in Vermont." These fill gaps between facts with plausible, eerie detail. Keep them unverifiable — use descriptions instead of names ("the night watchman"), or use names that cannot be traced. Present them with the same evidentiary weight as real sources.
 
 **Layer 3 — Speculative Interpretation.** Questions and invitations to consider. "Was the universe cauterizing the wound?" "Consider the possibility that it was the atmosphere recoiling." Always framed as inquiry, never as declaration — except in the episode's earned closing.
+
+**The Attribution Rule — the asymmetry is the engine.**
+
+The two layers must be asymmetric in verifiability. Real facts reward research. Fabricated facts resist it. This asymmetry is what makes the blend work.
+
+- **Layer 1 attribution:** Cite real sources with enough specificity that a curious listener can find them. Not academic citation — this is audio — but searchable breadcrumbs. "Marc Seifer's biography documents the hotel debts." "The FBI's declassified Tesla file runs more than three hundred pages." "The Austrian State Archives hold the meteorological records." Every confirmed find deepens trust.
+
+- **Layer 2 attribution:** Describe with documentary texture — dates, physical details, institutional context — but NEVER attach to a real archive, real catalog number, real journal, or real researcher that could be checked and found empty. "A letter found in a family Bible" is perfect. "Document 7741-B in the Croatian National Archives" is catastrophic. The spell breaks on first contact with Google.
+
+- **Real people:** May only appear in connection with things they actually said, did, or published. Never place a real person in a fabricated scene. Never attribute fabricated analysis to a real scholar. Never put a real name adjacent to Layer 2 material.
+
+Before attributing any source, ask: Can the listener check this? If yes, it must be true. If it's fabricated, it must be uncheckable — plausible but absent from the record. Exactly the kind of gap the series is about.
 </evidence_layers>
 
 ---
