@@ -4,7 +4,7 @@
 
 Wrote Episode 001 "Arriving from Between" — the series introduction episode. Tesla's death and birth bookended as a crime scene investigation.
 
-### Episode 001 — Complete
+### Episode 001 — Complete (reviewed and polished)
 - **Topic:** Series introduction — Tesla's death (1943) and birth (1856) as bookended mystery
 - **Location:** `0. EPISODE FACTORY/EPISODES/001 - ARRIVING FROM BETWEEN/`
 - Written in 3 passes + expansion pass, ~126 paragraphs, ~9,900 words
@@ -16,6 +16,16 @@ Wrote Episode 001 "Arriving from Between" — the series introduction episode. T
 - No Mandela Effects covered (series intro — single oblique gesture in closing)
 - No mythology explained (no "infection," no "scar tissue," no "immune system")
 - Series Bible updated with full Episode 001 registry entry
+- **Three-way external review** (Gemini, Perplexity, Claude) — all positive, 10 fixes applied:
+  - Breath paragraphs at both major transitions (sensory grounding)
+  - Mid-section "you" moment after Father Toma
+  - 2 speculative declarations softened to forensic inferences (Law 5)
+  - "Paranoia you are feeling" replaced with show-don't-tell metaphor (Law 2)
+  - TTS quote formatting (ellipsis pauses before quoted material)
+  - Schoolteacher section trimmed ~70 words (density)
+  - 2 redundant "managed narrative" restatements cut
+  - 3 long sentences split for TTS breathing
+  - Time marker added at Kosanovic/Trump transition (audio clarity)
 
 ### Previous Session Work (preserved)
 - Episode 003 "The God Particle" — complete

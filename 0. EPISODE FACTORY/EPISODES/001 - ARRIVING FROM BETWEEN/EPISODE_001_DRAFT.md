@@ -200,7 +200,7 @@ The Tesla file was included. Page seven of the reconciliation report — a copy 
 
 The auditor flagged the gap. The recommendation, typed in the neutral language of bureaucratic procedure, was reconciliation. Investigate. Account for the difference. Determine whether trunks were lost, damaged, or diverted to a separate facility. Close the discrepancy.
 
-Below the recommendation, in a handwriting that does not match the typed report, a marginal note. Two words and a sentence. "Reconciled. No further action."
+Below the recommendation, in a handwriting that does not match the typed report, a marginal note. Two words and a sentence... "Reconciled. No further action."
 
 The note is initialed. The initials are not legible. And the number — the actual count of trunks that arrived at the warehouse, the number that would tell you precisely how many vanished between the hotel and the holding facility — is redacted. A single black rectangle, applied with the clinical precision of a censor who knew exactly which figure to obscure and exactly how much context to leave intact around it.
 
@@ -214,7 +214,7 @@ Pull back now. From the documents. From the audit trails and the parish register
 
 A man is born in a village in the Balkans. The witnesses to his birth go silent — one by vow, one by exile, one by the slow erosion of a diary that no one thought to preserve. Eighty-seven years later, the man dies in a hotel room in Manhattan. Federal agents arrive before the body is cold. They seize eighty trunks. The trunks are reviewed and declared harmless. The trunks are transferred and the count doesn't match. The discrepancy is flagged and then redacted. The accepted version — the thunderstorm, the coronary thrombosis, the tragic genius who died alone — is maintained without interruption, across decades, across continents, by an apparatus that has no public name and leaves no public record.
 
-The paranoia you are feeling right now is not irrational. It is the correct response to the evidence.
+Something has shifted. You can feel it — the ground beneath the accepted version is no longer solid. The official story still stands, but it stands the way a cracked foundation holds a building. Upright. Functional. And no longer trustworthy.
 
 Because someone has been managing this story. Not the biographers — they are telling the version they were given, the version that was already in place before they arrived. Not the government agencies — they are operating within a framework that predates their founding. The management is older than the institutions that carry it out. The containment began before the agencies existed. Before the FBI was chartered. Before the Office of Alien Property was created. It began in a village in the Military Frontier, in eighteen fifty-six, when a priest understood something about the birth he had just sanctified and chose silence over speech, solitude over community, a mountain over the valley where he had spent his entire adult life.
 
@@ -230,7 +230,7 @@ You have been carrying a version of Nikola Tesla your entire life. The version y
 
 Consider what you were never told. You were never told that the birth was attended by witnesses who independently stopped speaking. You were never told that a priest invented a medical condition to escape his own parish within weeks of a baptism. You were never told that the cows stopped giving and the birds abandoned the valley and the village fell silent for exactly the number of days the church requires before a child is formally named. You were never told that the federal seizure was executed by an agency with no jurisdiction over the dead man. You were never told that the inventory did not match, that the discrepancy was flagged by the government's own auditors, and that the gap was sealed by a marginal note in a hand that no archivist has ever identified.
 
-You were told the thunderstorm. You were told the pigeons. You were told the coronary thrombosis. And every one of those details is true. Verifiable. Confirmable in the same official records that contain the evidence of the containment. The truth and the management coexist in the same files, on the same pages, in the same sentences. The accepted version is not a lie. It is a selection — a curated portion of the full record, chosen with precision because it satisfies curiosity without activating suspicion.
+You were told the thunderstorm. You were told the pigeons. You were told the coronary thrombosis. And every one of those details is true. Verifiable. Confirmable in the same official records that contain the evidence of the containment. The accepted version is not a lie. It is a selection — a curated portion of the full record, chosen with precision because it satisfies curiosity without activating suspicion.
 
 And it worked. It worked on you. Until tonight, the version you carried was the version you were given. The genius. The eccentric. The man who deserved more recognition than history awarded him. A sympathetic figure. A tragic one. And beneath that sympathy — beneath the comfortable sadness of a brilliant man who died alone — you never asked the question that the evidence demands. Not what did he invent. Not why was he forgotten. Those are the questions the managed version is designed to produce. They lead to conclusions that have already been approved — injustice, neglect, the failure of commerce to reward genius. Safe conclusions. Containable conclusions. The kind that generate documentaries and biographies and leave the actual file sealed.
 
@@ -242,7 +242,7 @@ Every episode that follows will examine a different piece of this evidence. A di
 
 But not yet.
 
-Tonight, the investigation earns only one thing. The certainty that something is wrong. The conviction that the official story — the thunderstorm, the patents, the genius, the pigeons, the clot in the artery — is not false, exactly. It is managed. Curated. Shaped. A version that answers every question you were taught to ask and none of the questions you weren't.
+Tonight, the investigation earns only one thing. The certainty that something is wrong. The conviction that the official story — the thunderstorm, the patents, the genius, the pigeons, the clot in the artery — is not false, exactly. It is curated. Shaped. A version that answers every question you were taught to ask and none of the questions you weren't.
 
 This is the incision. The case file is open.
 
