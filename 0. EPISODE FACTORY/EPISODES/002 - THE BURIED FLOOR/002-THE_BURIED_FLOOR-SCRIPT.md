@@ -96,7 +96,7 @@ The demolition of Penn Station has been called the greatest single catastrophe i
 
 But the response came too late for the next one.
 
-Nineteen sixty-eight. Sixty-five Broadway. The Singer Building. Six hundred and twelve feet tall. Forty-seven stories of ornate terracotta and structural steel, designed by Ernest Flagg, completed in nineteen oh-eight. For one year, it was the tallest building in the world. The facade was a vertical garden of Beaux-Arts ornament — terracotta panels carved in botanical motifs, arched windows framed by pilasters, a mansard dome capped with a lantern that could be seen from the harbor. It remains, to this day, the tallest building ever voluntarily demolished.
+Nineteen sixty-eight. Sixty-five Broadway, at the lower tip of Manhattan, where the streets narrow and the old buildings press close and the air carries the metallic tang of the harbor. The Singer Building. Six hundred and twelve feet tall. Forty-seven stories of ornate terracotta and structural steel, designed by Ernest Flagg, completed in nineteen oh-eight. For one year, it was the tallest building in the world. The facade was a vertical garden of Beaux-Arts ornament — terracotta panels carved in botanical motifs, arched windows framed by pilasters, a mansard dome capped with a lantern that could be seen from the harbor. It remains, to this day, the tallest building ever voluntarily demolished.
 
 The word "voluntarily" carries the weight. Penn Station was destroyed against public outcry. The Singer Building was destroyed in silence. The Landmarks Preservation Commission — created specifically because Penn Station had proven that irreplaceable buildings could be lost to commercial indifference — never considered designating the Singer Building as a landmark. No preservation campaign was mounted. No petition was filed. No legal challenge was organized. The commission that existed because one great building had been destroyed stood by while the next great building was dismantled floor by floor, and the silence of its inaction has never been explained.
 
@@ -242,13 +242,15 @@ The grief is not a theory. It is not apophenia. It is not algorithmic amplificat
 
 Nikola Tesla spent his life trying to rebuild what had been buried. He found the frequency. He built the tower. He demonstrated that the principle worked. And the tower was demolished, and the papers were seized, and the soil cores were rejected, and the deposition was filed and forgotten, and the maps were redrawn, and the floors were covered, and the grief — the specific, irreplaceable, incurable grief of something that was taken and cannot be returned — settled into the bodies of millions of people who have never met and never spoken and never agreed on a name for what they carry.
 
-They only share one thing. The conviction, arriving without invitation and refusing to leave, that the world they are living in is not the first one. That something was here before. That it was taken. And that the evidence is not hidden.
+They only share one thing. The conviction, arriving without invitation and refusing to leave, that the world they are living in is not the first one. That something was here before. Something that built with a purpose and a precision and a love for the act of building that the replacement world has never approached. Something that understood frequencies and resonances and the relationship between copper and stone and earth in ways that Tesla spent his life trying to reconstruct. Something that left its bones in the ground — in the buried floors, in the mineral-stained soil, in the windows that face dirt — and trusted that eventually, someone would look down.
+
+The evidence is not hidden. It has never been hidden.
 
 It is beneath your feet.
 
 Look down.
 
-The floor is still there. And it has been waiting... for someone to remember what it was for.
+The floor is still there. It has always been there. And it has been waiting... for someone to look down... and remember what it was for.
 
 
 CAPTION KEY

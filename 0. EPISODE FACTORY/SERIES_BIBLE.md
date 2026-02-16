@@ -135,3 +135,28 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
   - "False memory is a scalpel. It cuts one patient at a time."
 - **Unique elements:** July 4th date synchronicity (Wardenclyffe demolition / Higgs discovery — 95 years), Nataraja/Shiva statue, Higgs field as "what decides what has substance," Elizabeth Loftus counter-argument as structural pivot, 8 Hz frequency as through-line motif
 - **Names spent:** Nikola Tesla, Peter Higgs, Francois Englert, Robert Brout, Fabiola Gianotti, Joe Incandela, Leon Lederman, Winfried Otto Schumann, Guglielmo Marconi, J.P. Morgan, Fiona Broome, Elizabeth Loftus, John G. Trump, Felix Bloch, James Earl Jones, Stan and Jan Berenstain
+
+### 002 — THE BURIED FLOOR
+- **Wound:** Tartaria / Mud Flood / Erased Architecture — buried first floors, demolished buildings, vanished maps, and the unnamed grief millions carry for a world they were never told existed
+- **Opening type:** The Artifact (a buried window below the sidewalk — physical object the listener can find in their own city)
+- **Structural shape:** The Descent (five layers: surface explanation → uncomfortable scale → vanished maps → Tesla as reconstruction → timeline question)
+- **Closing type:** The Invitation — listener given a physical action ("Walk to the oldest building in your city. Look down.")
+- **Emotional endpoint:** Grief — the specific, aching grief of something irreplaceable that was lost and cannot be recovered
+- **Tesla connection type:** Technology descendant (Wardenclyffe's architecture mirrors pre-industrial buildings — copper dome, metal spire, deep foundation — Tesla as reconstructor, not inventor)
+- **Tesla presence:** Present through technology and parallel story only — no direct appearance, no dialogue
+- **Key locations:** Chicago (grade raise, World's Columbian Exposition), Manhattan (Penn Station, Singer Building), Galveston, Seattle, Shoreham/Long Island (Wardenclyffe), Colorado Springs
+- **Mandela Effects (primary):** Architectural/spatial — collective, uncoordinated grief as the anomaly itself. Millions independently arriving at the same recognition (Tartaria theory) across languages and cultures without coordination. The simultaneity IS the anomaly.
+- **Fabricated sources:** Exposition photographs predating groundbreaking (photographic evidence with provenance gaps), Singer Building sub-basement assessment with pre-industrial mortar bond (insurance claim/incident report), Chicago soil cores with mineral deposits inconsistent with grade-raise narrative (unpublished academic paper), Penn Station structural engineer deposition noting pre-industrial tooling marks (court testimony/deposition)
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "a window that faces dirt" — the buried first-floor perspective
+  - "the floor that no one talks about" — the forgotten ground floor
+  - "a country that vanished from all cartography" — Tartary's erasure from maps
+  - "thirty-five thousand tons raised in five days" — the scale of the Chicago grade raise
+  - "completed ornamentation on buildings not yet constructed" — the provenance-gapped photographs
+  - "predating the superstructure by an indeterminate period" — the Singer Building sub-basement
+  - "the beauty was the function" — ornament as engineering, not decoration
+  - "an unconformity" — the fill as a boundary layer between versions of the world
+  - "the recognition, once it arrives, does not leave" — seeing the buried floors everywhere
+  - "a room that has been holding its breath" — the sealed space behind the buried window
+- **Unique elements:** 1771 Encyclopaedia Britannica Tartary entry, Ortelius/Mercator/Munster map tradition, geological unconformity metaphor, Wardenclyffe architecture as mirror of pre-industrial buildings, Morgan's withdrawal as market defending metered scarcity, Landmarks Commission silence on Singer Building, Tartaria theory simultaneity as Mandela Effect
+- **Names spent:** Nikola Tesla, George Pullman, Abraham Ortelius, Gerard Mercator, Sebastian Munster, Andrew Bell, Colin Macfarquhar, Ernest Flagg, Vincent Scully, J.P. Morgan, Guglielmo Marconi, Winfried Otto Schumann
