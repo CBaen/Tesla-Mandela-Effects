@@ -34,7 +34,7 @@ Wrote Episode 001 "Arriving from Between" — the series introduction episode. T
 - Project reorganization — complete
 
 ## What's Next
-- Episode 001 is ready for external review (Gemini, Perplexity, Claude) if desired
+- Episode 001 is complete and polished — ready for TTS production
 - Choose topic for Episode 004 and write it using the full system
 - The system is proven across 2 episodes — all guardrails functioning
 
