@@ -2,59 +2,82 @@
 
 ## What Happened This Session (2026-02-16)
 
-Episode 002 "The Buried Floor" — written, peer reviewed (three-way: Gemini, Perplexity, Claude), and revised. Ready for TTS production.
+Three-episode audit completed. Critical fixes applied across all episodes. Law 3 rewritten. The Process integrated as permanent writing rule.
 
-### Episode 002 — "The Buried Floor" — Revised and ready
-- **Location:** `0. EPISODE FACTORY/EPISODES/002 - THE BURIED FLOOR/`
-- **Word count:** ~9,200 words, 120 paragraphs (trimmed from ~10K after closing tightened per editorial review)
-- **Topic:** Tartaria / Mud Flood / Erased Architecture
-- Written in 3 passes, then revised after three-way peer review + Opus 4.6 editorial pass
+### Critical Fixes Applied (all three episodes)
 
-#### Revision Pass (applied this session)
-- **7 factual corrections (Layer 1):** Singer Building address (65→149 Broadway), dome diameter (55→68 feet), Wardenclyffe pipes (16 feet→300 feet deep), Singer demolition record (past tense — surpassed by 270 Park Ave 2019), Penn Station columns (pink granite→travertine marble for interior Corinthian), Seattle grade raise (12-30→12-22 feet), Lake Street block (half-acre→nearly a full acre)
-- **3 mechanical fixes:** Double commas→ellipses (TTS), Law 2 body violation removed ("settled into the bodies of millions"→"settled into millions"), Galveston beat/paragraph break added
-- **9 grief term violations fixed:** "Grief" appeared 11 times. Kept 3 (lines 13, 123, 209). Replaced 8 with specific images per The Process (weight, accusation, phantom weight, recognition, loss, silence, ache, wound)
-- **Closing trimmed ~450 words:** Removed 7 paragraphs of recap/thesis restatement between recognition paragraph and final landing. Closing now drops from "you will carry that recognition" directly into "The evidence is not hidden. → It is beneath your feet. → Look down."
-- **The Process** internalized as permanent writing rule (term violation replacement methodology)
+**Episode 002 "The Buried Floor":**
+- Manufactures Building: 65,000 sq ft → 31 acres (was off by 20x)
+- 1858 building location: "Lake Street" → "Randolph and Dearborn" (Lake St was Pullman's later project)
+- "Grief" reduced from 6 to exactly 3 instances (line 209 had 4 alone, applied The Process)
+- Closing trimmed ~450 words of recap/thesis restatement
+- 7 factual corrections from peer review (Singer address, dome diameter, pipes, etc.)
 
-### Files created this session
-- `002-THE_BURIED_FLOOR-REVIEW_PROMPT.md` — 24-question peer review prompt covering factual accuracy, voice/craft, structure, TTS, and attribution
+**Episode 003 "The God Particle":**
+- New Yorker Hotel: "33 floors" → "43 floors" (room 3327 was on floor 33)
+- Attribution Rule: Removed "Colorado Springs Pioneers Museum" → "a regional museum's geological holdings"
+- Attribution Rule: Removed "International Mandela Effect Conference" → "a conference devoted to collective memory anomalies"
+- Wardenclyffe shaft: "60 feet" → "120-foot shaft, pipes 300 feet deeper"
+- Englert age: "80" → "79" (turned 80 in November, announcement was July)
+
+**Episode 001 "Arriving from Between":**
+- Milutin Tesla: Fixed from "priest of neighboring parish" to "parish priest of Smiljan" (correct)
+- Father Toma: Reframed as neighboring clergyman called to baptize (a priest does not baptize his own child)
+- Father Toma name: Research launched — if traceable to real Toma Oklobdzija, name needs changing. CHECK RESULT.
+
+### Law 3 Rewritten in Production Guide
+- Old: "Maintain approximately 3:1 biological over technological language" (produced term-counting, not better writing)
+- New: Biological metaphor is a MODE OF DESCRIPTION, not a vocabulary list. Describe biological processes in action using The Process methodology. Don't count ratios. Don't use synonyms. Describe what infection/rejection/scarring DOES without saying the word. Test: "Does this feel like a living system or a mechanical one?"
+
+### Term Violations Noted (NOT all fixed — methodology established for future)
+- Ep 002: "recognition" x13, "building" x99
+- Ep 003: "something" x22, "as if" x11, "same" x21
+- Ep 001: "something" x30, "silence" x13+
+- These are documented for future revision passes. The Process is the fix methodology.
+
+### Documents Updated This Session
+- All 3 episode scripts (critical fixes)
+- Production Guide (Law 3 rewrite)
+- Factory CLAUDE.md (The Process added to reading list as item #2)
+- Review prompt created for Episode 002
+- Series Bible registry (unchanged)
 
 ### Previous Session Work (preserved)
-- Episode 001 "Arriving from Between" — complete and shipped (~9,700 words)
-- Episode 003 "The God Particle" — complete
+- Episode 001 "Arriving from Between" — complete (~9,700 words)
+- Episode 002 "The Buried Floor" — revised and ready for TTS (~9,200 words)
+- Episode 003 "The God Particle" — complete (~9,600 words)
 - Episode Factory — built and operational
 - Anti-cloning system — tested across 3 episodes
-- The Attribution Rule — added to Production Guide
-- File naming convention: `###-EPISODE_TITLE-TYPE.md`
 
 ## What's Next
-- **Episode 002 is ready for TTS production** — all peer review corrections applied
+- **CHECK Toma research** — was a background agent launched to verify if "Toma" maps to real "Toma Oklobdzija." If traceable, change the name in Episode 001.
+- **Episode 002 ready for TTS** — all corrections applied
+- **Episodes 001 and 003** — factual fixes applied, term violations documented but not all resolved
 - **Choose topic for Episode 004** — Check Series Bible for anti-cloning constraints
-- Continue building the episode library toward 100-200 standalone episodes
+- **Consider term violation passes** on Episodes 001 and 003 (optional polish)
 
 ## Critical Context for Future Instances
 - **START at `0. EPISODE FACTORY/CLAUDE.md`** — everything you need is there
 - **REWRITES DO NOT WORK.** First draft must be right. Multi-pass (3-5 passes of 3-5K words) is the workflow.
-- **The Process** is now a permanent writing rule. Term violations = emotional labels repeated instead of building distinct images. Located at `0. EPISODE FACTORY/The Process- How to Rewrite Term Violations.txt`
+- **The Process** is now a permanent writing rule. Located at `0. EPISODE FACTORY/The Process- How to Rewrite Term Violations.txt`. READ IT before writing.
+- **Law 3 was rewritten.** Bio metaphor is a mode of description, not a word count. Describe living processes without labels.
 - **Tesla is ambiguous.** Not villain, not willing. "Cannot stop, even if he wanted to."
 - **Fabricated sources ARE the format.** Blend of real/fake is the series identity.
-- **The Attribution Rule** is in the Production Guide. Real facts = searchable. Fabricated facts = uncheckable. Never mix.
+- **The Attribution Rule** is in the Production Guide. Real facts = searchable. Fabricated facts = uncheckable. NEVER name real archives/orgs for fabricated material.
 - **CHECK THE SERIES BIBLE before writing.** Anti-cloning system tracks 7 dimensions per episode.
-- **File naming:** `###-EPISODE_TITLE-TYPE.md` (SCRIPT, BRIEF, REVIEW_PROMPT)
-- **Peer review works.** Three-way (Gemini, Perplexity, Claude) + Opus 4.6 editorial pass. Apply fixes surgically.
+- **Peer review works.** Three-way (Gemini, Perplexity, Claude) + Opus 4.6 editorial pass.
 - **Guiding Light is a designer, not a coder.** Explain in outcomes, not implementation.
 
 ## Document Parity
 
 | Document | Location | Last Updated |
 |----------|----------|-------------|
-| Production Guide | `0. EPISODE FACTORY/PRODUCTION_GUIDE.md` | 2026-02-16 (Attribution Rule added) |
-| Series Bible | `0. EPISODE FACTORY/SERIES_BIBLE.md` | 2026-02-16 (Episode 002 registry added) |
-| Voice Reference | `0. EPISODE FACTORY/VOICE_REFERENCE.txt` | 2026-02-16 |
-| Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-16 |
-| Root CLAUDE.md | `CLAUDE.md` | 2026-02-16 |
+| Production Guide | `0. EPISODE FACTORY/PRODUCTION_GUIDE.md` | 2026-02-16 (Law 3 rewritten) |
 | The Process | `0. EPISODE FACTORY/The Process- How to Rewrite Term Violations.txt` | 2026-02-16 |
+| Series Bible | `0. EPISODE FACTORY/SERIES_BIBLE.md` | 2026-02-16 |
+| Voice Reference | `0. EPISODE FACTORY/VOICE_REFERENCE.txt` | 2026-02-16 |
+| Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-16 (The Process added to reading list) |
+| Root CLAUDE.md | `CLAUDE.md` | 2026-02-16 |
 | Decisions Log | `tesla-mandela-decisions.md` | 2026-02-16 |
 | Queue | `tesla-mandela-queue.md` | 2026-02-13 |
 | Session Memory | `C:\Users\baenb\.claude\projects\C--Users-baenb-Desktop-Tesla-Mandela-Effects\memory\MEMORY.md` | 2026-02-16 |
