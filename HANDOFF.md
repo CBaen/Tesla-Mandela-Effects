@@ -2,44 +2,31 @@
 
 ## What Happened This Session (2026-02-16)
 
-Wrote Episode 003 "The God Particle" (CERN/Mandela Effects), built the Episode Factory workspace, and created the anti-cloning system for scalable episode production.
+Wrote Episode 001 "Arriving from Between" — the series introduction episode. Tesla's death and birth bookended as a crime scene investigation.
 
-### Episode 003 — Complete
-- **Topic:** CERN Large Hadron Collider and Mandela Effects
-- **Location:** `0. EPISODE FACTORY/EPISODES/003 - THE GOD PARTICLE/`
-- Written in 4 passes, ~95 paragraphs, ~9,600 words
-- Three external AI reviews (Gemini, Perplexity, Claude) — all rated strong with minor fixes
-- Fixes applied: removed "sternum" anatomy shortcuts (Law 2), softened declarations into questions (Law 5), expanded Mandela Effects for individual weight, broke long paragraphs for audio breathing, sharpened closing to land on listener personally
-- Added Breath Paragraph protocol to Production Guide (date-first transitions for image production pipeline)
+### Episode 001 — Complete
+- **Topic:** Series introduction — Tesla's death (1943) and birth (1856) as bookended mystery
+- **Location:** `0. EPISODE FACTORY/EPISODES/001 - ARRIVING FROM BETWEEN/`
+- Written in 3 passes + expansion pass, ~126 paragraphs, ~9,900 words
+- Structure: Crime scene investigation — starts at the death, works backward to the birth
+- Opening: "The body wasn't even cold yet." (Fact that becomes horrifying)
+- Closing: The Open Wound — "What... was Nikola Tesla?"
+- Emotional endpoint: Paranoia (the official story is managed)
+- Four fabricated sources: schoolteacher's diary, Father Toma's transfer, midwife's letter, OAP audit
+- No Mandela Effects covered (series intro — single oblique gesture in closing)
+- No mythology explained (no "infection," no "scar tissue," no "immune system")
+- Series Bible updated with full Episode 001 registry entry
 
-### Episode Factory — Built
-Created `0. EPISODE FACTORY/` as self-contained episode writing workspace:
-- `CLAUDE.md` — Front door with read order and job description
-- `PRODUCTION_GUIDE.md` — The five laws and writing rules (~287 lines)
-- `SERIES_BIBLE.md` — Anti-cloning registry with menus and episode entries
-- `VOICE_REFERENCE.txt` — Episode 002 as style exemplar (not production episode)
-- `EPISODES/` — All completed episode drafts and briefs
-
-### Anti-Cloning System — Built
-Series Bible now tracks seven dimensions per episode to prevent repetition:
-- **Opening types** (7 options) — prevents "Have you ever...?" from anchoring every episode
-- **Structural shapes** (8 options) — prevents chronological spiral as the only architecture
-- **Closing types** (7 options) — prevents same ending type twice in a row
-- **Emotional endpoints** (8 options) — prevents existential dread as the only landing
-- **Tesla connection types** (6 options) — forces variety in how Tesla connects to each topic
-- **Fabricated source formats** (12 options) — prevents same document type in consecutive episodes
-- **Key images per episode** (10 per entry) — prevents distinctive metaphors from recurring within 3 episodes
-
-### Project Reorganization
-- Root CLAUDE.md is now a clean 6-line redirect to Episode Factory
-- Old scripts moved to `1. EPISODE SCRIPTS/Old Scripts/`
-- Old `1. EPISODE DRAFTS/` folder deleted
-- Old editor requirements cleaned up
-- Episode 002 repurposed as Voice Reference (style exemplar, not production episode)
+### Previous Session Work (preserved)
+- Episode 003 "The God Particle" — complete
+- Episode Factory — built and operational
+- Anti-cloning system — built and tested across 2 episodes
+- Project reorganization — complete
 
 ## What's Next
+- Episode 001 is ready for external review (Gemini, Perplexity, Claude) if desired
 - Choose topic for Episode 004 and write it using the full system
-- The system is ready for production — all guardrails in place
+- The system is proven across 2 episodes — all guardrails functioning
 
 ## Critical Context for Future Instances
 - **START at `0. EPISODE FACTORY/CLAUDE.md`** — everything you need is there
