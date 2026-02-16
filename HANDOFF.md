@@ -54,6 +54,7 @@ Episode 002 "The Buried Floor" — written, peer reviewed (three-way: Gemini, Pe
 | Voice Reference | `0. EPISODE FACTORY/VOICE_REFERENCE.txt` | 2026-02-16 |
 | Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-16 |
 | Root CLAUDE.md | `CLAUDE.md` | 2026-02-16 |
+| The Process | `0. EPISODE FACTORY/The Process- How to Rewrite Term Violations.txt` | 2026-02-16 |
 | Decisions Log | `tesla-mandela-decisions.md` | 2026-02-16 |
 | Queue | `tesla-mandela-queue.md` | 2026-02-13 |
 | Session Memory | `C:\Users\baenb\.claude\projects\C--Users-baenb-Desktop-Tesla-Mandela-Effects\memory\MEMORY.md` | 2026-02-16 |
