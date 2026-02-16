@@ -50,7 +50,7 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 - Anti-cloning system — tested across 3 episodes
 
 ## What's Next
-- **CHECK Toma research** — was a background agent launched to verify if "Toma" maps to real "Toma Oklobdzija." If traceable, change the name in Episode 001.
+- ~~CHECK Toma research~~ **RESOLVED** — Toma Oklobdžija is confirmed real. Documented on Tesla's baptism certificate (Nikola Tesla Museum, Belgrade) and Oklobdžija family genealogy site. Name is Layer 1 (searchable). Kept as-is in Episode 001.
 - **Episode 002 ready for TTS** — all corrections applied
 - **Episodes 001 and 003** — factual fixes applied, term violations documented but not all resolved
 - **Choose topic for Episode 004** — Check Series Bible for anti-cloning constraints
