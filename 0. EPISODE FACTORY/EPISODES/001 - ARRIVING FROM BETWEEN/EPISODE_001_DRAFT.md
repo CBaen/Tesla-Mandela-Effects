@@ -169,3 +169,75 @@ And behind all three of them, the same unanswered question. If the thunderstorm 
 The answers are in the silence. And the silence has been maintained — across a hundred and seventy years, across the collapse of empires and the redrawing of borders and the complete transformation of the world Tesla would enter and eventually rewire — with a consistency that no individual decision could sustain. The silence is not personal. It is institutional. It has the weight of a policy, not a preference. Someone — or something — ensured that the witnesses to Tesla's birth would not be available for follow-up questions. And the efficiency of that containment — the priest silenced by his own vow, the midwife removed to a city where no one knew her history, the schoolteacher's diary fragmented by water damage and indifference — mirrors, with uncomfortable precision, the containment that would be applied eighty-seven years later, when a different set of agents arrived at a different location to secure a different set of evidence from the same life.
 
 A birth attended by witnesses who stopped talking. A death attended by agents who arrived too fast. At both ends of Tesla's life, the same machinery engaged. The same reflexes fired. Observe. Record. Contain. Remove what can be removed. Seal what cannot. And maintain — across decades, across continents, across the full span of a human life — the accepted version. The thunderstorm. The coronary thrombosis. The eccentric genius and his pigeons. The story that explains everything and accounts for nothing.
+
+What kind of apparatus survives for eighty-seven years?
+
+This is the question the evidence demands. Not what was taken from Room three-three-two-seven. Not what happened in the birthing room. Not what Father Toma understood when he wrote his Latin in the margin and then stopped writing forever. Those are symptoms. The question underneath them is structural. What kind of containment system operates with perfect discipline across the full span of a human life — through the collapse of the Austrian Empire, through the founding and dissolution of Yugoslavia, through two world wars and the complete reorganization of the global intelligence apparatus — and still arrives at a hotel room in Manhattan in nineteen forty-three with the same speed and the same silence that descended on a village in the Balkans in eighteen fifty-six?
+
+Governments cannot do this. Governments change. Administrations turn over. Intelligence services are founded, reorganized, dissolved, merged into successor agencies that classify their predecessors' files and deny that the precedents apply. No human institution maintains unbroken operational continuity across ninety years without a single leak. Without a single defection. Without one clerk, in one office, deciding that the file should be opened rather than sealed.
+
+And yet the seal held. From Smiljan to Manhattan. From the midwife's buried knife to the agents' inventory. From the priest's vow to the Office of Alien Property's refusal to address a diplomat's direct accusation. Across empires and oceans and the total remaking of the political order, the containment did not fracture. Not once. Not in a hundred and seventy years.
+
+There is one more document. One final piece of evidence in the chain of custody between Room three-three-two-seven and the Nikola Tesla Museum in Belgrade. And it is the piece that connects the birth end of this investigation to the death end — not through interpretation, not through speculation, but through the specific, institutional language of an audit that was never meant to be read outside the office where it was filed.
+
+Nineteen forty-five. Two years after the seizure. The Office of Alien Property conducted a routine reconciliation of its wartime holdings. This was standard procedure. Assets seized during the war were being returned, reclassified, or transferred to permanent government custody. The audit compared intake records against current holdings — a clerical exercise, designed to confirm that nothing had been lost, damaged, or misdirected during the administrative chaos of wartime.
+
+The Tesla file was included. Page seven of the reconciliation report — a copy of which surfaced in a partially declassified collection released in nineteen ninety-three — notes a discrepancy. The number of trunks logged at the New Yorker Hotel on January seventh, nineteen forty-three, does not match the number transferred to the Manhattan Storage and Warehouse Company. The intake record states eighty. The transfer record states a different number.
+
+The auditor flagged the gap. The recommendation, typed in the neutral language of bureaucratic procedure, was reconciliation. Investigate. Account for the difference. Determine whether trunks were lost, damaged, or diverted to a separate facility. Close the discrepancy.
+
+Below the recommendation, in a handwriting that does not match the typed report, a marginal note. Two words and a sentence. "Reconciled. No further action."
+
+The note is initialed. The initials are not legible. And the number — the actual count of trunks that arrived at the warehouse, the number that would tell you precisely how many vanished between the hotel and the holding facility — is redacted. A single black rectangle, applied with the clinical precision of a censor who knew exactly which figure to obscure and exactly how much context to leave intact around it.
+
+The gap was known. It was flagged by the institution's own auditors. It was documented in the institution's own records. And it was sealed — not by accident, not by incompetence, but by a marginal note in an unknown hand that declared the problem solved without solving it. Reconciled. As if writing the word were the same as performing the action. As if the gap could be closed by simply asserting that it was closed.
+
+How many trunks vanished? One? Five? Twenty? The number is underneath the black rectangle. And the black rectangle is, in its way, the most honest document in the entire Tesla file. Because the redaction does not pretend the gap doesn't exist. It acknowledges the gap. It measures the gap. And then it covers it — not to erase the problem, but to demonstrate that the problem has been managed. The redaction is not concealment. It is control. A signal to anyone who reads the file in the future — we know what you're looking at. We got here first. And the answer is not available.
+
+This is the same logic that sealed Father Toma's mouth. The same logic that moved Marta from the village to the city. The same logic that fragmented the schoolteacher's diary until only the passages of no importance survived intact. Not destruction — management. Not erasure — containment. The evidence is permitted to exist. It is simply not permitted to add up.
+
+Pull back now. From the documents. From the audit trails and the parish registers and the fragmented letters and the sealed inventories. Pull back and look at the shape of what has been placed before you.
+
+A man is born in a village in the Balkans. The witnesses to his birth go silent — one by vow, one by exile, one by the slow erosion of a diary that no one thought to preserve. Eighty-seven years later, the man dies in a hotel room in Manhattan. Federal agents arrive before the body is cold. They seize eighty trunks. The trunks are reviewed and declared harmless. The trunks are transferred and the count doesn't match. The discrepancy is flagged and then redacted. The accepted version — the thunderstorm, the coronary thrombosis, the tragic genius who died alone — is maintained without interruption, across decades, across continents, by an apparatus that has no public name and leaves no public record.
+
+The paranoia you are feeling right now is not irrational. It is the correct response to the evidence.
+
+Because someone has been managing this story. Not the biographers — they are telling the version they were given, the version that was already in place before they arrived. Not the government agencies — they are operating within a framework that predates their founding. The management is older than the institutions that carry it out. The containment began before the agencies existed. Before the FBI was chartered. Before the Office of Alien Property was created. It began in a village in the Military Frontier, in eighteen fifty-six, when a priest understood something about the birth he had just sanctified and chose silence over speech, solitude over community, a mountain over the valley where he had spent his entire adult life.
+
+Something happened on the night of July tenth. Something that the people who witnessed it could not live with and could not speak about. And whatever it was — whatever the midwife heard when she wrote "the grinding," whatever the priest knew when he wrote "what comes through must be named quickly," whatever the schoolteacher measured when he counted forty days of silence in a village that had never been silent before — it did not end with the birth.
+
+It entered the world. It grew. It worked. For eighty-seven years, it worked — through the body and the mind of a man who would rewire the electrical grid of civilization, who would claim to receive transmissions from sources he would not name, who would spend his final decade feeding pigeons and whispering to a white bird on a windowsill while agents waited in the building below for his heart to stop.
+
+And when the heart stopped — when the organism that had carried whatever arrived on that night finally ceased to function — the apparatus that had been watching since eighteen fifty-six moved in and began extracting the evidence. Not to study it. To contain it. To ensure that whatever Nikola Tesla had carried into this world, and whatever he had committed to paper across six decades of work, would not be assembled into a picture that the world was not prepared to see.
+
+The evidence from that night has not stayed in Smiljan. It has not stayed in the trunks. Whatever arrived in that village — whatever the midwife felt in the handle of her knife, whatever made the water in the basin tremble, whatever produced the geometric absence that erased the dimensions of a room — the traces of it are still here. Still spreading. Still leaving marks on the surface of a world that has never been given a satisfactory explanation for why certain things feel wrong.
+
+This episode is the first page of a case file. The file has been placed on your desk. The body is on the table. The witnesses have been named. The documents have been catalogued. And the investigation does not end here — it opens here.
+
+Every episode that follows will examine a different piece of this evidence. A different anomaly. A different scar in the record where the accepted version does not quite match the version that the witnesses, in their silence, refused to confirm. Each piece, on its own, is a question. Together — across dozens of investigations, across the full breadth of what has been hidden and what has been managed and what has been sealed — they form something larger.
+
+But not yet.
+
+Tonight, the investigation earns only one thing. The certainty that something is wrong. The conviction that the official story — the thunderstorm, the patents, the genius, the pigeons, the clot in the artery — is not false, exactly. It is managed. Curated. Shaped. A version that answers every question you were taught to ask and none of the questions you weren't.
+
+This is the incision. The case file is open.
+
+And the question it places before you — the question that the priest could not answer and the midwife could not escape and the agents tried to seal inside eighty trunks in a hotel room in nineteen forty-three — is the simplest question in the world.
+
+What... was Nikola Tesla?
+
+
+CAPTION KEY
+
+Nikola → Neekola → /N IH1 K OW0 L AH0/
+Tesla → Tesla → /T EH1 S L AH0/
+Djuka → Jooka → /JH UW1 K AH0/
+Milutin → Milootin → /M IH0 L UW1 T IH0 N/
+Smiljan → Smilyan → /S M IH1 L Y AA0 N/
+Gospic → Gospeech → /G OW1 S P IH0 CH/
+Kosanovic → Kosanovich → /K OW0 S AA1 N OW0 V IH0 CH/
+Sava → Sahva → /S AA1 V AH0/
+Foxworth → Foxworth → /F AA1 K S W ER1 TH/
+Eparchy → Eparky → /EH1 P AA0 R K IY0/
+Velebit → Velebit → /V EH1 L EH0 B IH0 T/
+Quod transit debet cito nominari → Kwod trahnsit dehbet keeto nominaree → /K W AA1 D  T R AA1 N S IH0 T  D EH1 B EH0 T  K IY1 T OW0  N AA0 M IH0 N AA1 R IY0/
