@@ -29,11 +29,30 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 - Old: "Maintain approximately 3:1 biological over technological language" (produced term-counting, not better writing)
 - New: Biological metaphor is a MODE OF DESCRIPTION, not a vocabulary list. Describe biological processes in action using The Process methodology. Don't count ratios. Don't use synonyms. Describe what infection/rejection/scarring DOES without saying the word. Test: "Does this feel like a living system or a mechanical one?"
 
-### Term Violations Noted (NOT all fixed — methodology established for future)
-- Ep 002: "recognition" x13, "building" x99
-- Ep 003: "something" x22, "as if" x11, "same" x21
-- Ep 001: "something" x30, "silence" x13+
-- These are documented for future revision passes. The Process is the fix methodology.
+### Term Violation Passes Completed (3 of 6+)
+
+**Pass 1: "Something" in Episode 001 (x27)**
+- 92% legitimate (earned ambiguity — investigative voice needs unknowability)
+- 2 replaced, 23 earned, 3 borderline kept
+- Verdict: Episode 001's "something" count was a false alarm. The writing was sound.
+
+**Pass 2: Wound/Scar cluster in Episode 003 (49 target labels)**
+- 43% reduction in densest clusters
+- "Scars multiply" x5 retired — five identical labels became five different descriptions
+- Timeline (141-161): 13 labels → 0. Closing (191-201): 8 → 1 (earned declaration: "Or whether you are the scar")
+- Repair paragraph and pathology paragraph cleaned. One description kept as conceptual anchor.
+- Revised Law 3 proven functional — produces better writing, not just different writing.
+
+**Pass 3: "Recognition" in Episode 002 (x14)**
+- 4 replaced at climactic moments, 10 kept as term of art
+- "Recognition" functions as the episode's name for the collective phenomenon (earned)
+- Violations were at emotional moments where images should do the work, not labels
+
+**Remaining for future passes (lower stakes, methodology locked in):**
+- "As if" x11 (Ep 003) — half likely tics
+- "Silence" x13+ (Ep 001) — structural uses fine, label uses need audit
+- Borderlines: "old" (Ep 002), "same" (Eps 002/003), "version" (Ep 001)
+- Scattered biological labels in Ep 003 first half (lines 11-119, low density)
 
 ### Documents Updated This Session
 - All 3 episode scripts (critical fixes)
