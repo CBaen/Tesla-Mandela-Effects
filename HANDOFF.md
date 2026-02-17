@@ -76,7 +76,8 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 | The Process | `0. EPISODE FACTORY/The Process- How to Rewrite Term Violations.txt` | 2026-02-16 |
 | Series Bible | `0. EPISODE FACTORY/SERIES_BIBLE.md` | 2026-02-16 |
 | Voice Reference | `0. EPISODE FACTORY/VOICE_REFERENCE.txt` | 2026-02-16 |
-| Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-16 (The Process added to reading list) |
+| Term Violations Definition | `0. EPISODE FACTORY/TERM_VIOLATIONS_DEFINITION.md` | 2026-02-16 |
+| Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-16 (Term Violations Definition added as item 5) |
 | Root CLAUDE.md | `CLAUDE.md` | 2026-02-16 |
 | Decisions Log | `tesla-mandela-decisions.md` | 2026-02-16 |
 | Queue | `tesla-mandela-queue.md` | 2026-02-13 |
