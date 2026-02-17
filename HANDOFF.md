@@ -29,7 +29,7 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 - Old: "Maintain approximately 3:1 biological over technological language" (produced term-counting, not better writing)
 - New: Biological metaphor is a MODE OF DESCRIPTION, not a vocabulary list. Describe biological processes in action using The Process methodology. Don't count ratios. Don't use synonyms. Describe what infection/rejection/scarring DOES without saying the word. Test: "Does this feel like a living system or a mechanical one?"
 
-### Term Violation Passes Completed (3 of 6+)
+### Term Violation Passes Completed (7 of 7)
 
 **Pass 1: "Something" in Episode 001 (x27)**
 - 92% legitimate (earned ambiguity — investigative voice needs unknowability)
@@ -48,11 +48,25 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 - "Recognition" functions as the episode's name for the collective phenomenon (earned)
 - Violations were at emotional moments where images should do the work, not labels
 
-**Remaining for future passes (lower stakes, methodology locked in):**
-- "As if" x11 (Ep 003) — half likely tics
-- "Silence" x13+ (Ep 001) — structural uses fine, label uses need audit
-- Borderlines: "old" (Ep 002), "same" (Eps 002/003), "version" (Ep 001)
-- Scattered biological labels in Ep 003 first half (lines 11-119, low density)
+**Pass 4: "As if" in Episode 003 (x16)**
+- 7 tics fixed, 7 earned narrative tools kept, 2 borderline kept
+- Tics: sentence-initial "As if" used for dramatic emphasis where a direct statement or clause cut was stronger
+- Earned: "as if" inside sentences creating genuine conditional tension (e.g., "as if the Earth's body had rejected the procedure")
+
+**Pass 5: "Silence" in Episode 001 (x22)**
+- Zero violations. All 22 instances are structural or subject-matter specific.
+- "Silence" is the episode's central metaphor — witnesses choosing silence, village silence, institutional silence.
+- Clean pass. No edits needed.
+
+**Pass 6: "Same" in Episodes 002+003 (x38)**
+- Zero violations. All 38 instances structural (parallel constructions, comparative arguments).
+- Clean pass. No edits needed.
+
+**Pass 7: Borderlines — "Version" (Ep 001), "Old" (Ep 002)**
+- "Version" (Ep 001): 4 uses of "the accepted version" — 2 earned (establishing + closing), 2 formulaic. Fixed lines 217 and 241.
+- "Old" (Ep 002): 46 instances — 29 not violations, 8 earned ambiguity, 7 violations (15%). Fixed all 7: "every old city" x5 (formulaic tic — varied each), "old buildings" x2 (filler modifier — replaced with specific images).
+
+**All named term violation passes complete.** Only remaining: scattered biological labels in Ep 003 first half (lines 11-119, low density). Lower stakes — the dense clusters were already cleaned in Pass 2.
 
 ### Documents Updated This Session
 - All 3 episode scripts (critical fixes + term violation passes)
@@ -71,10 +85,9 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 
 ## What's Next
 - ~~CHECK Toma research~~ **RESOLVED** — Toma Oklobdžija is confirmed real. Documented on Tesla's baptism certificate (Nikola Tesla Museum, Belgrade) and Oklobdžija family genealogy site. Name is Layer 1 (searchable). Kept as-is in Episode 001.
-- **All 3 episodes improved** — factual fixes + 3 term violation passes complete
+- **All 3 episodes polished** — factual fixes + 7 term violation passes complete across all episodes
 - **Choose topic for Episode 004** — Check Series Bible for anti-cloning constraints
-- **Optional: remaining term violation passes** — "as if" (Ep 003), "silence" (Ep 001), borderlines. Lower stakes, methodology locked in.
-- **Push to origin** — 11 commits ahead
+- **Optional: scattered biological labels in Ep 003 first half** (lines 11-119, low density). Dense clusters already cleaned in Pass 2.
 
 ## Critical Context for Future Instances
 - **START at `0. EPISODE FACTORY/CLAUDE.md`** — everything you need is there
@@ -86,7 +99,7 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 - **The Attribution Rule** is in the Production Guide. Real facts = searchable. Fabricated facts = uncheckable. NEVER name real archives/orgs for fabricated material.
 - **CHECK THE SERIES BIBLE before writing.** Anti-cloning system tracks 7 dimensions per episode.
 - **Term Violations Definition** is at `0. EPISODE FACTORY/TERM_VIOLATIONS_DEFINITION.md`. Three categories: violations (apply The Process), not violations (leave alone), earned ambiguity (judgment call). Subject-matter nouns, prepositions, and emphasis words are NOT violations.
-- **Term violation passes methodology is proven.** Three passes completed. Results: "something" was 92% earned, biological labels needed 43% reduction in clusters, "recognition" needed only 4 fixes at emotional climaxes. The methodology is calibrated for future instances.
+- **Term violation passes complete (7 of 7).** Results: "something" 92% earned, biological labels 43% cluster reduction, "recognition" 4 fixes, "as if" 7 tics fixed, "silence" clean, "same" clean, "version" 2 fixes, "old" 7 fixes (15% violation rate). The methodology is calibrated for future instances.
 - **Peer review works.** Three-way (Gemini, Perplexity, Claude) + Opus 4.6 editorial pass.
 - **Guiding Light is a designer, not a coder.** Explain in outcomes, not implementation.
 
