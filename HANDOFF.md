@@ -101,9 +101,8 @@ After the 7 targeted passes, a general sweep audited every word at 8+ instances 
 
 ## What's Next
 - ~~CHECK Toma research~~ **RESOLVED** — Toma Oklobdžija is confirmed real. Documented on Tesla's baptism certificate (Nikola Tesla Museum, Belgrade) and Oklobdžija family genealogy site. Name is Layer 1 (searchable). Kept as-is in Episode 001.
-- **All 3 episodes polished** — factual fixes + 7 term violation passes complete across all episodes
+- **All 3 episodes fully polished** — factual fixes + 7 targeted passes + general sweep complete. No remaining term violation work.
 - **Choose topic for Episode 004** — Check Series Bible for anti-cloning constraints
-- **Optional: scattered biological labels in Ep 003 first half** (lines 11-119, low density). Dense clusters already cleaned in Pass 2.
 
 ## Critical Context for Future Instances
 - **START at `0. EPISODE FACTORY/CLAUDE.md`** — everything you need is there
@@ -115,7 +114,7 @@ After the 7 targeted passes, a general sweep audited every word at 8+ instances 
 - **The Attribution Rule** is in the Production Guide. Real facts = searchable. Fabricated facts = uncheckable. NEVER name real archives/orgs for fabricated material.
 - **CHECK THE SERIES BIBLE before writing.** Anti-cloning system tracks 7 dimensions per episode.
 - **Term Violations Definition** is at `0. EPISODE FACTORY/TERM_VIOLATIONS_DEFINITION.md`. Three categories: violations (apply The Process), not violations (leave alone), earned ambiguity (judgment call). Subject-matter nouns, prepositions, and emphasis words are NOT violations.
-- **Term violation passes complete (7 of 7).** Results: "something" 92% earned, biological labels 43% cluster reduction, "recognition" 4 fixes, "as if" 7 tics fixed, "silence" clean, "same" clean, "version" 2 fixes, "old" 7 fixes (15% violation rate). The methodology is calibrated for future instances.
+- **Term violation audit complete (7 targeted passes + general sweep).** Two-round methodology: targeted passes on flagged words, then general sweep for any word at 8+ instances. All 3 episodes fully polished. No remaining violation work.
 - **Peer review works.** Three-way (Gemini, Perplexity, Claude) + Opus 4.6 editorial pass.
 - **Guiding Light is a designer, not a coder.** Explain in outcomes, not implementation.
 
