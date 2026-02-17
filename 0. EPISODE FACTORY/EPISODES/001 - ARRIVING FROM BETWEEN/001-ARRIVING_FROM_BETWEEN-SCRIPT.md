@@ -6,7 +6,7 @@ She knocked again. Nothing. She slid her master key into the lock. The door open
 
 He had been dead for hours. Perhaps longer.
 
-January seventh, nineteen forty-three. Room three-three-two-seven. The New Yorker Hotel, Thirty-fourth Street and Eighth Avenue, Manhattan. The man on the floor was eighty-six years old. His name was Nikola Tesla. He had been born in a country that no longer existed, in a village most Americans could not find on a map. He held one hundred and twelve patents.
+January seventh, nineteen forty-three. Room three-three-two-seven. The New Yorker Hotel, Thirty-fourth Street and Eighth Avenue, Manhattan. The man on the floor was eighty-six years old. His name was Nikola Tesla. He had been born in a country that no longer existed, in a village most Americans could not find on a map. He held one hundred and twelve United States patents.
 
 He had invented alternating current, the rotating magnetic field, and the radio — though the credit for that last one had been given to another man while Tesla was still alive to watch it happen. He had spent the final decade of his life alone in this room, feeding pigeons in Bryant Park every afternoon, writing letters to heads of state about a weapon he said could end all wars.
 
@@ -34,7 +34,7 @@ The agent coordinating the operation was P.E. Foxworth. Assistant director of th
 
 The agents moved through the room with the efficiency of a surgical team entering a theater they had rehearsed in advance. They knew where the trunks were stored. They knew how many. They knew what they were looking for, even if the official report would later claim they did not. Approximately eighty trunks were catalogued and removed. Eighty trunks of papers, notebooks, technical drawings, correspondence, and devices that no inventory adequately describes. The accumulated output of six decades of work by the man who had rewired the electrical grid of the planet.
 
-Eighty trunks. Seized by an agency without jurisdiction. Authorized by no court. Justified by no warrant. Executed before the family knew he was dead.
+Eighty trunks. Seized by an agency without jurisdiction. Authorized by no court. Justified by no warrant. Executed before the family could intervene.
 
 Who moves that fast? And what are they afraid of — finding something, or someone else finding it first?
 
