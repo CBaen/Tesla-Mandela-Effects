@@ -66,7 +66,23 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 - "Version" (Ep 001): 4 uses of "the accepted version" — 2 earned (establishing + closing), 2 formulaic. Fixed lines 217 and 241.
 - "Old" (Ep 002): 46 instances — 29 not violations, 8 earned ambiguity, 7 violations (15%). Fixed all 7: "every old city" x5 (formulaic tic — varied each), "old buildings" x2 (filler modifier — replaced with specific images).
 
-**All named term violation passes complete.** Only remaining: scattered biological labels in Ep 003 first half (lines 11-119, low density). Lower stakes — the dense clusters were already cleaned in Pass 2.
+**All named term violation passes complete.**
+
+### General Sweep (full audit, all 3 episodes)
+
+After the 7 targeted passes, a general sweep audited every word at 8+ instances across all episodes — not targeting specific words, but looking for ANY remaining lazy labels or clustering.
+
+**Episode 001:** 16 new violations found across 4 words:
+- "Whatever" (x16): 6 violations — clusters on lines 221 and 227 reduced from 4→2 each. Third/fourth "whatever" in anaphoric lists converted to direct noun phrases.
+- "As if" (x17): 5 violations — lines 137, 147, 167, 177, 207. Hedged comparisons converted to direct statements; stock phrase "as if nothing had changed" replaced.
+- "Comfortable" (x5): 2 violations — third use in 12-line span (line 63) and fifth use (line 235). Varied to "nearest" and "permitted."
+- "Noted" (x10): 3 violations — triple cluster on line 175 collapsed to varied verbs (noted/tracked/measured).
+
+**Episode 002:** 11 new violations found across 2 words:
+- "Something" (x26): 6 violations — "Something deeper. Something" cut and merged (line 15); "Something heavy. Something permanent." replaced with specific nouns (line 141); redundant second "something" replaced with "a principle" (line 199).
+- "Version" (x9): 4 violations — 9 uses in 22-line cluster (lines 187-209). Varied 4 with "layer," "world," "reality," "order." Establishing and closing uses kept.
+
+**Episode 003:** Clean. No new violations found. Previous passes caught everything. Scattered biological labels in first half confirmed as single uses doing specific metaphorical work.
 
 ### Documents Updated This Session
 - All 3 episode scripts (critical fixes + term violation passes)
