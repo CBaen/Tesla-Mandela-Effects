@@ -44,7 +44,7 @@ The explanation for the grade raise is thorough. It is practical. It is boring. 
 
 But Chicago was not alone.
 
-Galveston, Texas. Nineteen hundred. After the hurricane that killed between six thousand and twelve thousand people — the deadliest natural disaster in American history — the city raised five hundred blocks. The entire grade was lifted between eight and seventeen feet. Saint Patrick's Church — three thousand tons of brick and stone — was jacked up and held in suspension while fill was pumped beneath it. The operation consumed seven years... and sixteen million cubic yards of dredged sand.
+Galveston, Texas. Nineteen hundred. After the hurricane that killed between six thousand and twelve thousand people — the deadliest natural disaster in American history — the city raised five hundred blocks. The entire grade was lifted between eight and seventeen feet. Saint Patrick's Church — three thousand tons of brick and stone — was jacked up and held in suspension while fill was pumped beneath it. The operation consumed eight years... and sixteen million cubic yards of dredged sand.
 
 The first floors of every building on the island disappeared beneath the new grade. The windows that had faced the street now faced packed earth.
 
