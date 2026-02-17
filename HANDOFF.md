@@ -23,7 +23,7 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 **Episode 001 "Arriving from Between":**
 - Milutin Tesla: Fixed from "priest of neighboring parish" to "parish priest of Smiljan" (correct)
 - Father Toma: Reframed as neighboring clergyman called to baptize (a priest does not baptize his own child)
-- Father Toma name: Research launched — if traceable to real Toma Oklobdzija, name needs changing. CHECK RESULT.
+- Father Toma name: RESOLVED — Toma Oklobdžija confirmed real (Tesla's baptism certificate, Nikola Tesla Museum Belgrade). Name kept.
 
 ### Law 3 Rewritten in Production Guide
 - Old: "Maintain approximately 3:1 biological over technological language" (produced term-counting, not better writing)
@@ -55,9 +55,10 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 - Scattered biological labels in Ep 003 first half (lines 11-119, low density)
 
 ### Documents Updated This Session
-- All 3 episode scripts (critical fixes)
+- All 3 episode scripts (critical fixes + term violation passes)
 - Production Guide (Law 3 rewrite)
-- Factory CLAUDE.md (The Process added to reading list as item #2)
+- Factory CLAUDE.md (The Process as item #2, Term Violations Definition as item #5)
+- TERM_VIOLATIONS_DEFINITION.md — new file defining what is/isn't a term violation (3 categories)
 - Review prompt created for Episode 002
 - Series Bible registry (unchanged)
 
@@ -70,10 +71,10 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 
 ## What's Next
 - ~~CHECK Toma research~~ **RESOLVED** — Toma Oklobdžija is confirmed real. Documented on Tesla's baptism certificate (Nikola Tesla Museum, Belgrade) and Oklobdžija family genealogy site. Name is Layer 1 (searchable). Kept as-is in Episode 001.
-- **Episode 002 ready for TTS** — all corrections applied
-- **Episodes 001 and 003** — factual fixes applied, term violations documented but not all resolved
+- **All 3 episodes improved** — factual fixes + 3 term violation passes complete
 - **Choose topic for Episode 004** — Check Series Bible for anti-cloning constraints
-- **Consider term violation passes** on Episodes 001 and 003 (optional polish)
+- **Optional: remaining term violation passes** — "as if" (Ep 003), "silence" (Ep 001), borderlines. Lower stakes, methodology locked in.
+- **Push to origin** — 11 commits ahead
 
 ## Critical Context for Future Instances
 - **START at `0. EPISODE FACTORY/CLAUDE.md`** — everything you need is there
@@ -84,6 +85,8 @@ Three-episode audit completed. Critical fixes applied across all episodes. Law 3
 - **Fabricated sources ARE the format.** Blend of real/fake is the series identity.
 - **The Attribution Rule** is in the Production Guide. Real facts = searchable. Fabricated facts = uncheckable. NEVER name real archives/orgs for fabricated material.
 - **CHECK THE SERIES BIBLE before writing.** Anti-cloning system tracks 7 dimensions per episode.
+- **Term Violations Definition** is at `0. EPISODE FACTORY/TERM_VIOLATIONS_DEFINITION.md`. Three categories: violations (apply The Process), not violations (leave alone), earned ambiguity (judgment call). Subject-matter nouns, prepositions, and emphasis words are NOT violations.
+- **Term violation passes methodology is proven.** Three passes completed. Results: "something" was 92% earned, biological labels needed 43% reduction in clusters, "recognition" needed only 4 fixes at emotional climaxes. The methodology is calibrated for future instances.
 - **Peer review works.** Three-way (Gemini, Perplexity, Claude) + Opus 4.6 editorial pass.
 - **Guiding Light is a designer, not a coder.** Explain in outcomes, not implementation.
 
