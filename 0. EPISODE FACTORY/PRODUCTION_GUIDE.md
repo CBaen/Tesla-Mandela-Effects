@@ -285,6 +285,26 @@ The directive for each pass: "Write the next movement of this episode. Pick up e
 No word counts per section. No rigid act boundaries. Each pass writes until the current narrative movement reaches its natural conclusion, then stops.
 
 **Step 4: Caption Key.** Generated after all passes are complete. Lists every proper name and foreign term with ARPAbet phoneme.
+
+**Step 5: Pre-Delivery Verification.** The episode is NOT complete until every item passes. This is not editing — it is quality control. Run this checklist BEFORE delivering the final script. Failure to verify causes multi-pass editing cycles that degrade quality and create legal risk.
+
+<pre_delivery_checklist>
+**FACTS** — Every date, name, number, distance, and historical claim must be independently verified. No approximations. No "close enough." If a listener Googles it and finds a different number, credibility is destroyed. Specific percentages or statistics require a verifiable source — if unverifiable, use qualitative language ("a majority," "most people") instead.
+
+**QUOTES** — Every direct quote attributed to a real person, document, or publication must be exact verified words. Run The Quote Rule against every quoted passage. Fabricated quotes go ONLY to fabricated sources. No exceptions. Violation is legal liability.
+
+**ATTRIBUTION** — Every fabricated element must be uncheckable. No real institution names, archive names, catalog numbers, or researcher names attached to fabricated material. Run every Layer 2 source through the test: "Can a listener Google this and find it empty?" If yes, rename or genericize.
+
+**CONTINUITY** — Any term, name, or artifact that appears in multiple places within the episode must be consistent. If a term was renamed (e.g., "black notebook" → "frequency journal"), search the ENTIRE script for every instance. Check summary passages, timeline recaps, and closing callbacks — these are where continuity errors hide.
+
+**SENSORY GROUNDING** — Every major location must have at least 2 sensory details (smell, temperature, texture, sound, light quality). The listener needs a physical space to stand in. If a location has only visual description or only abstract characterization, add sensory anchoring per the Audio Writing Techniques section.
+
+**PARAGRAPH FLOW** — No paragraph should carry more than 3-4 distinct ideas. Dense blocks must be split for audio breathing room. Single-line detonations must be isolated in their own paragraphs — never buried mid-block where they lose impact.
+
+**CAPTION KEY** — Every name in the Caption Key must appear in the body text. Every foreign name or non-obvious pronunciation in the body text must appear in the Caption Key. Remove orphaned entries from deleted references. Add entries for any new names introduced.
+
+**INTERNAL CONSISTENCY** — Any fact stated in two or more places in the episode must match exactly. Check the opening against the closing. Check timeline summaries against detailed passages. Check the Brief against the Script.
+</pre_delivery_checklist>
 </production_workflow>
 
 ---
