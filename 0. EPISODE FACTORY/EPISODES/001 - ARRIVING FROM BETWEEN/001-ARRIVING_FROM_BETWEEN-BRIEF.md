@@ -11,7 +11,7 @@ Nikola Tesla himself. His death and his birth — bookended, with the investigat
 
 ## Layer 1 — Verifiable Facts (anchors)
 
-1. **Tesla's death: January 7, 1943.** Room 3327, New Yorker Hotel, 34th and 8th, Manhattan. Age 86. Cause of death: coronary thrombosis. Found by a maid after a "do not disturb" sign had been on the door for two days. He had been living at the hotel for a decade, alone, feeding pigeons in Bryant Park.
+1. **Tesla's death: January 7, 1943.** Room 3327, New Yorker Hotel, 34th and 8th, Manhattan. Age 86. Cause of death: coronary thrombosis. Found by a maid after a "do not disturb" sign had been on the door for three days. He had been living at the hotel for a decade, alone, feeding pigeons in Bryant Park.
 
 2. **The FBI seizure.** The Office of Alien Property — a wartime agency with no jurisdiction over American citizens — seized approximately 80 trunks of papers, notebooks, and personal effects within days of the death. Agent in charge: P.E. Foxworth, assistant director of the New York FBI office. Tesla had been a naturalized citizen since 1891. The legal basis for the seizure has never been explained.
 

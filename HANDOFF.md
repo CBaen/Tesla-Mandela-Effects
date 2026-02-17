@@ -114,6 +114,39 @@ The Quote Rule was codified and added to the Production Guide: direct quotes att
 - Line 139: "black notebook" → "frequency journal" (real artifact collision)
 - Line 33: Museum provenance removed from fabricated geological survey
 
+### Comprehensive Fact-Check Corrections (all 3 episodes)
+
+Three-agent fact verification audited every date, name, number, and historical claim. Corrections applied:
+
+**Episode 001 "Arriving from Between":**
+- Line 3: "two days" DND sign → "three days" (Tesla last seen Jan 5, found Jan 7-8)
+- Line 15: "two days" → "three days" (matching above)
+- Line 21: "Within hours" OAP arrival → "Within two days" (OAP arrived Jan 9, two days after death)
+- Line 21: Removed false "before" clauses (coroner HAD signed, body HAD been examined, family HAD been notified before OAP arrived)
+- Line 25: "measured not in days, not in hours" → "measured in days, not weeks" (matching corrected timeline)
+- Line 59: Tesla moved to New Yorker "nineteen thirty-three" → "nineteen thirty-four"
+- Line 99: Gospić distance "twelve kilometers" → "six kilometers" (actual distance to Smiljan)
+- Brief file: Updated to match script corrections
+
+**Episode 002 "The Buried Floor":**
+- Line 61: "half the population" → "two-fifths of the population" (27M vs ~63M US pop = 43%)
+- Line 93: Penn Station "eight and a half acres" → "nearly eight acres" (sources cite 7.5-8 acres)
+- Line 201: "Hours after" → "Days after" (matching corrected seizure timeline)
+- Line 201: "before the family knew he was dead" → "before the family could intervene" (Kosanovic arrived Jan 8, OAP came Jan 9)
+
+**Episode 003 "The God Particle":**
+- Line 19: Tesla coil "fifty-two feet" → "fifty-one feet" (most reliable sources cite 51ft)
+- Line 47: "sixty feet of iron pipe" → "iron pipes driven hundreds of feet" (was contradicting correct 120ft shaft/300ft pipes from line 41)
+- Line 85: "two groups" → "three groups" (Brout-Englert, Higgs, and Guralnik-Hagen-Kibble all independently predicted in 1964)
+- Line 105: "eighteen fifty-one trademark" → "brand was first used in eighteen fifty-one" (trademark registered 1871, not 1851)
+- Line 107: "Fifty-eight percent" → "A majority" (specific percentage unverifiable)
+- Line 109: "Sixty-two percent" → "Most people" (specific percentage unverifiable)
+- Line 131: Kept "forty-three floors" (confirmed by multiple sources including hotel website)
+- Line 133: "two days" DND sign → "three days" (matching Ep 001 correction)
+- Line 135: "Within hours" → "Within days" (matching corrected seizure timeline)
+- Line 147: "seized within hours" → "seized within days" (matching corrected timeline)
+- Caption Key: Added pronunciations for Gerald Guralnik, Carl Richard Hagen, Tom Kibble
+
 ### Documents Updated This Session
 - All 3 episode scripts (critical fixes + term violation passes + quote audit)
 - Production Guide (Law 3 rewrite + Quote Rule added to Attribution section)
