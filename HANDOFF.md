@@ -183,7 +183,7 @@ Three-agent fact verification audited every date, name, number, and historical c
 - Line 47: Galveston "seven years" → "eight years" (1903-1911 = 8)
 - Line 47: Galveston sensory grounding added (salt air, wet timber)
 - Lines 59, 65: Exposition "six hundred and ninety acres" → "nearly seven hundred acres" (sources vary 630-686, no source confirms 690)
-- Line 95: Scully quote "Through it one entered" → "One entered" (most widely cited exact formulation, Quote Rule)
+- Line 95: Scully quote initially changed to "One entered" then RESTORED to "Through it one entered" (verified from *American Architecture and Urbanism*, 1969)
 - Line 101: Singer Building "at the lower tip of Manhattan" → "in Lower Manhattan" (149 Broadway is Financial District, not Battery)
 - Line 151: Tesla/Schumann reframed — 7.83 Hz attributed to Schumann's 1952 prediction, Tesla's detection described as "what appears to have been" (Law 5 compliance)
 - "official" reduced from 9→6 uses (line 71 cluster of 3 varied to "documented"/"published account", line 127 varied to "municipal")
@@ -191,11 +191,22 @@ Three-agent fact verification audited every date, name, number, and historical c
 - Paragraph splits: opening (after "This is not a basement window"), White City (before Manufactures Building), Penn Station (after sensory grounding)
 - All previous fixes verified in place (Randolph/Dearborn, 31 acres, two-fifths, grief=3, Days after, family intervene)
 
+**Episode 001 Final Review (2026-02-17):**
+- Line 223: "before the body is cold" → "before the family can intervene" (contradicted corrected "within two days" timeline)
+- Line 37: "before the family knew he was dead" → "before the family could intervene" (contradicted by Kosanovic arriving morning after)
+- Line 9: "one hundred and twelve patents" → "one hundred and twelve United States patents" (worldwide count is ~300)
+
+**Episode 002 Final Review (2026-02-17):**
+- Scully quote restored to "Through it one entered the city like a god" (verified from *American Architecture and Urbanism*, 1969)
+- 200 lamps/26 miles hedged: "His biographer would later claim... a figure that has never been independently confirmed"
+- "entire block" → "half-block" on Lake Street (matches most cited sources)
+- Caption Key: Added "Lacustrine" pronunciation
+
 **Episode 003 "The God Particle":**
 - All editorial fixes verified complete from previous session
 
 ## What's Next
-- **All 3 episodes editorially reviewed and polished** — factual fixes + 7 targeted passes + general sweep + editorial review complete.
+- **ALL 3 EPISODES PRODUCTION-READY FOR TTS.** Cleared by Editor Opus. No remaining fixes.
 - **Choose topic for Episode 004** — Check Series Bible for anti-cloning constraints
 
 ## Critical Context for Future Instances
