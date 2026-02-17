@@ -212,7 +212,7 @@ Three-agent fact verification audited every date, name, number, and historical c
 | Term Violations Definition | `0. EPISODE FACTORY/TERM_VIOLATIONS_DEFINITION.md` | 2026-02-16 |
 | Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-16 (Term Violations Definition added as item 5) |
 | Root CLAUDE.md | `CLAUDE.md` | 2026-02-16 |
-| Decisions Log | `tesla-mandela-decisions.md` | 2026-02-16 |
+| Decisions Log | `tesla-mandela-decisions.md` | 2026-02-17 |
 | Queue | `tesla-mandela-queue.md` | 2026-02-13 |
-| Session Memory | `C:\Users\baenb\.claude\projects\C--Users-baenb-Desktop-Tesla-Mandela-Effects\memory\MEMORY.md` | 2026-02-16 |
-| Handoff | `HANDOFF.md` | 2026-02-16 |
+| Session Memory | `C:\Users\baenb\.claude\projects\C--Users-baenb-Desktop-Tesla-Mandela-Effects\memory\MEMORY.md` | 2026-02-17 |
+| Handoff | `HANDOFF.md` | 2026-02-17 |
