@@ -153,7 +153,7 @@ The Quote Rule was codified and added to the Production Guide: direct quotes att
 
 | Document | Location | Last Updated |
 |----------|----------|-------------|
-| Production Guide | `0. EPISODE FACTORY/PRODUCTION_GUIDE.md` | 2026-02-16 (Law 3 rewritten) |
+| Production Guide | `0. EPISODE FACTORY/PRODUCTION_GUIDE.md` | 2026-02-16 (Law 3 rewritten + Quote Rule added) |
 | The Process | `0. EPISODE FACTORY/The Process- How to Rewrite Term Violations.txt` | 2026-02-16 |
 | Series Bible | `0. EPISODE FACTORY/SERIES_BIBLE.md` | 2026-02-16 |
 | Voice Reference | `0. EPISODE FACTORY/VOICE_REFERENCE.txt` | 2026-02-16 |
