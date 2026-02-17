@@ -103,6 +103,8 @@ The two layers must be asymmetric in verifiability. Real facts reward research. 
 
 - **Real people:** May only appear in connection with things they actually said, did, or published. Never place a real person in a fabricated scene. Never attribute fabricated analysis to a real scholar. Never put a real name adjacent to Layer 2 material.
 
+- **The Quote Rule — this is non-negotiable.** A direct quote in quotation marks attributed to a real person, a real document, or a real publication MUST be the exact, verified words from that source. No paraphrasing. No "close enough." No composites of secondary sources. If you cannot verify the exact words, convert to narration: "Tesla described the Earth as a conductor" NOT "Tesla wrote: 'The Earth is a conductor.'" Fabricated quotes — words you invented — can ONLY be attributed to fabricated sources (unnamed witnesses, fabricated letters, fabricated documents). A fabricated quote attributed to a real person is defamation. A fabricated quote attributed to a real document is fraud. The audience WILL check. That is the entire design of this series.
+
 Before attributing any source, ask: Can the listener check this? If yes, it must be true. If it's fabricated, it must be uncheckable — plausible but absent from the record. Exactly the kind of gap the series is about.
 </evidence_layers>
 
