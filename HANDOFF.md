@@ -176,7 +176,16 @@ Three-agent fact verification audited every date, name, number, and historical c
 - "precision" reduced from 8→5 uses (varied 3 mid-episode uses to "discipline," "rehearsed certainty," "exactness")
 
 **Episode 002 "The Buried Floor":**
-- Line 193: Unearned declaration reframed as speculative question per Law 5 ("What if the buildings..." instead of declarative "The buildings were...")
+- Line 193: Unearned declaration reframed as speculative question per Law 5
+- Line 47: Galveston "seven years" → "eight years" (1903-1911 = 8)
+- Line 47: Galveston sensory grounding added (salt air, wet timber)
+- Lines 59, 65: Exposition "six hundred and ninety acres" → "nearly seven hundred acres" (sources vary 630-686, no source confirms 690)
+- Line 95: Scully quote "Through it one entered" → "One entered" (most widely cited exact formulation, Quote Rule)
+- Line 101: Singer Building "at the lower tip of Manhattan" → "in Lower Manhattan" (149 Broadway is Financial District, not Battery)
+- Line 151: Tesla/Schumann reframed — 7.83 Hz attributed to Schumann's 1952 prediction, Tesla's detection described as "what appears to have been" (Law 5 compliance)
+- "official" reduced from 9→6 uses (line 71 cluster of 3 varied to "documented"/"published account", line 127 varied to "municipal")
+- Caption Key: Added Scully, Flagg, Pullman, Morgan, Winfried, Secaucus
+- Paragraph splits: opening (after "This is not a basement window"), White City (before Manufactures Building), Penn Station (after sensory grounding)
 - All previous fixes verified in place (Randolph/Dearborn, 31 acres, two-fifths, grief=3, Days after, family intervene)
 
 **Episode 003 "The God Particle":**
