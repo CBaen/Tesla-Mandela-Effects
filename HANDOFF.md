@@ -162,9 +162,28 @@ Three-agent fact verification audited every date, name, number, and historical c
 - Episode Factory — built and operational
 - Anti-cloning system — tested across 3 episodes
 
+### Editorial Review Fixes (2026-02-17)
+
+**Episode 001 "Arriving from Between":**
+- Line 103: "Twelve kilometers" → "Six kilometers" (contradicted corrected "six kilometers" on line 99)
+- Line 21: "Fifty-two years" → "More than fifty years" (1891-1943 = 51 years, not 52)
+- Caption Key: Added Toma and Marta entries (central characters, 10+ appearances each)
+- Paragraph split at line 9 (after patent count) for audio breathing
+- Paragraph split at line 11 (after "napkins were his notebooks now") for audio breathing
+- Paragraph split at line 25 (after OAP jurisdiction explanation) for audio breathing
+- Sensory addition: Room 3327 radiator/Eighth Avenue hum between desk and trunk descriptions
+- Sensory addition: Toma's monastery — wind, limestone, pine resin
+- "precision" reduced from 8→5 uses (varied 3 mid-episode uses to "discipline," "rehearsed certainty," "exactness")
+
+**Episode 002 "The Buried Floor":**
+- Line 193: Unearned declaration reframed as speculative question per Law 5 ("What if the buildings..." instead of declarative "The buildings were...")
+- All previous fixes verified in place (Randolph/Dearborn, 31 acres, two-fifths, grief=3, Days after, family intervene)
+
+**Episode 003 "The God Particle":**
+- All editorial fixes verified complete from previous session
+
 ## What's Next
-- ~~CHECK Toma research~~ **RESOLVED** — Toma Oklobdžija is confirmed real. Documented on Tesla's baptism certificate (Nikola Tesla Museum, Belgrade) and Oklobdžija family genealogy site. Name is Layer 1 (searchable). Kept as-is in Episode 001.
-- **All 3 episodes fully polished** — factual fixes + 7 targeted passes + general sweep complete. No remaining term violation work.
+- **All 3 episodes editorially reviewed and polished** — factual fixes + 7 targeted passes + general sweep + editorial review complete.
 - **Choose topic for Episode 004** — Check Series Bible for anti-cloning constraints
 
 ## Critical Context for Future Instances
