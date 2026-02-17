@@ -112,6 +112,7 @@ After the 7 targeted passes, a general sweep audited every word at 8+ instances 
 - **Tesla is ambiguous.** Not villain, not willing. "Cannot stop, even if he wanted to."
 - **Fabricated sources ARE the format.** Blend of real/fake is the series identity.
 - **The Attribution Rule** is in the Production Guide. Real facts = searchable. Fabricated facts = uncheckable. NEVER name real archives/orgs for fabricated material.
+- **THE QUOTE RULE (CRITICAL/LEGAL):** Direct quotes in quotation marks attributed to real people or real documents MUST be exact, verified words. No paraphrasing. Fabricated quotes can ONLY be attributed to fabricated sources. Violation = defamation/fraud. The audience WILL check.
 - **CHECK THE SERIES BIBLE before writing.** Anti-cloning system tracks 7 dimensions per episode.
 - **Term Violations Definition** is at `0. EPISODE FACTORY/TERM_VIOLATIONS_DEFINITION.md`. Three categories: violations (apply The Process), not violations (leave alone), earned ambiguity (judgment call). Subject-matter nouns, prepositions, and emphasis words are NOT violations.
 - **Term violation audit complete (7 targeted passes + general sweep).** Two-round methodology: targeted passes on flagged words, then general sweep for any word at 8+ instances. All 3 episodes fully polished. No remaining violation work.
