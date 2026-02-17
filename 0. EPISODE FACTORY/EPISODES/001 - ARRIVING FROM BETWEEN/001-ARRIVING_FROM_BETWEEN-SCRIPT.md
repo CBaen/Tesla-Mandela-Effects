@@ -18,7 +18,7 @@ The coroner's report was filed that afternoon. Cause of death — coronary throm
 
 But that is not what happened.
 
-Within two days of the maid's discovery — before the family had been consulted about the disposition of his papers, before a single inventory had been agreed upon — agents of a wartime agency arrived at the New Yorker Hotel. Not police. Not hotel security. Agents of a wartime agency called the Office of Alien Property. Their legal jurisdiction was narrow and specific — they were authorized to seize the assets of enemy aliens. Foreign nationals. Citizens of nations at war with the United States. Nikola Tesla had been a naturalized American citizen since eighteen ninety-one. Fifty-two years. He had taken the oath. He had filed the papers. He had lived, worked, and died on American soil. The Office of Alien Property had no more legal authority over his belongings than it had over the maid who found him.
+Within two days of the maid's discovery — before the family had been consulted about the disposition of his papers, before a single inventory had been agreed upon — federal agents arrived at the New Yorker Hotel. Not police. Not hotel security. Agents of a wartime agency called the Office of Alien Property. Their legal jurisdiction was narrow and specific — they were authorized to seize the assets of enemy aliens. Foreign nationals. Citizens of nations at war with the United States. Nikola Tesla had been a naturalized American citizen since eighteen ninety-one. Fifty-two years. He had taken the oath. He had filed the papers. He had lived, worked, and died on American soil. The Office of Alien Property had no more legal authority over his belongings than it had over the maid who found him.
 
 They came anyway.
 

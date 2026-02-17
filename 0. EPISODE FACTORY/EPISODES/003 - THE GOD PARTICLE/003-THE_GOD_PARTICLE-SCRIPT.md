@@ -130,9 +130,9 @@ After the two thousand twenty-two restart, the reports surged. New Mandela Effec
 
 January seventh, nineteen forty-three. The New Yorker Hotel, Manhattan — Thirty-Fourth Street and Eighth Avenue. Forty-three floors of art deco limestone rising above the steam vents of Midtown. The hallways smell of cigarette smoke and floor polish and the particular institutional warmth of a building heated by its own power plant. Room three three two seven. On the thirty-third floor. A maid enters to clean the room and finds Nikola Tesla dead.
 
-He was eighty-six years old. He had been living at the hotel for the last ten years of his life — alone, feeding pigeons in Bryant Park, writing letters to governments that did not write back, claiming to have invented weapons that could end all war. The coroner ruled the cause of death as coronary thrombosis — a blood clot in the heart. The body was found in bed. Tesla had placed a "do not disturb" sign on the door two days earlier. No one had checked on him. He died as he had lived for the last three decades — in a room, alone, surrounded by the residue of ideas that the world had not yet understood.
+He was eighty-six years old. He had been living at the hotel for the last ten years of his life — alone, feeding pigeons in Bryant Park, writing letters to governments that did not write back, claiming to have invented weapons that could end all war. The coroner ruled the cause of death as coronary thrombosis — a blood clot in the heart. The body was found in bed. Tesla had placed a "do not disturb" sign on the door three days earlier. No one had checked on him. He died as he had lived for the last three decades — in a room, alone, surrounded by the residue of ideas that the world had not yet understood.
 
-Within hours of the discovery, two agents from the Office of Alien Property — a wartime agency tasked with seizing the assets of foreign nationals — arrived at the New Yorker Hotel. Tesla was a naturalized American citizen. He had been one since eighteen ninety-one. The Office of Alien Property had no legal jurisdiction over the belongings of an American citizen. They came anyway. They seized everything — approximately eighty trunks of papers, notebooks, documents, and personal effects. They loaded them onto trucks and transported them to the Manhattan Storage and Warehouse Company on Fifty-Second Street.
+Within days of the discovery, agents from the Office of Alien Property — a wartime agency tasked with seizing the assets of foreign nationals — arrived at the New Yorker Hotel. Tesla was a naturalized American citizen. He had been one since eighteen ninety-one. The Office of Alien Property had no legal jurisdiction over the belongings of an American citizen. They came anyway. They seized everything — approximately eighty trunks of papers, notebooks, documents, and personal effects. They loaded them onto trucks and transported them to the Manhattan Storage and Warehouse Company on Fifty-Second Street.
 
 Three weeks later, the government brought in an outside expert to review the seized materials and determine whether any of Tesla's papers contained information relevant to national security. The expert they chose was a professor of electrical engineering at the Massachusetts Institute of Technology. His name was John George Trump. He was the head of the High Voltage Research Laboratory at MIT, a specialist in the behavior of charged particles in high-energy systems — the same physics that CERN would later use to build the LHC. John G. Trump spent three days reviewing Tesla's papers. His report concluded that the work was primarily, , — "of a speculative, philosophical, and somewhat promotional character." Of no practical military significance.
 
@@ -144,7 +144,7 @@ July third, eighteen ninety-nine — Tesla matches the Earth's resonant frequenc
 
 July fourth, nineteen seventeen — Wardenclyffe Tower demolished. The only structure designed to transmit through that frequency, dynamited on Independence Day. The transmitter, destroyed.
 
-January seventh, nineteen forty-three — Tesla dies in Room three three two seven of the New Yorker Hotel. His papers are seized within hours. The frequency journal — the document containing the mathematics of resonance transmission — disappears from the historical record. For forty-four years, silence. The pathway appeared to be sealed.
+January seventh, nineteen forty-three — Tesla dies in Room three three two seven of the New Yorker Hotel. His papers are seized within days. The frequency journal — the document containing the mathematics of resonance transmission — disappears from the historical record. For forty-four years, silence. The pathway appeared to be sealed.
 
 Then the rediscovery. Nineteen fifty-two — Schumann confirms Tesla's eight-hertz calculation. The frequency Tesla found alone in a wooden building is real. Measurable. Undeniable. The frequency did not need the tower. It had never stopped.
 
@@ -230,3 +230,6 @@ Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
 Felix Bloch → FAY-liks BLOHK → /F EY1 L IH0 K S B L AA1 K/
 Etterbeek → EH-ter-bayk → /EH1 T ER0 B EY0 K/
 James Earl Jones → JAYMZ URL JOHNZ → /JH EY1 M Z ER1 L JH OW1 N Z/
+Gerald Guralnik → JEHR-uhld GOO-rahl-nik → /JH EH1 R AH0 L D G UH0 R AA1 L N IH0 K/
+Carl Richard Hagen → KARL RITCH-erd HAY-guhn → /K AA1 R L R IH1 CH ER0 D HH EY1 G AH0 N/
+Tom Kibble → TAHM KIB-uhl → /T AA1 M K IH1 B AH0 L/
