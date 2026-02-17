@@ -238,7 +238,7 @@ The question the evidence demands is older than the documentaries. It is the que
 
 This episode is the first page of a case file. The file has been placed on your desk. The body is on the table. The witnesses have been named. The documents have been catalogued. And the investigation does not end here — it opens here.
 
-Every episode that follows will examine a different piece of this evidence. A different anomaly. A different scar in the record where the accepted version does not quite match the version that the witnesses, in their silence, refused to confirm. Each piece, on its own, is a question. Together — across dozens of investigations, across the full breadth of what has been hidden and what has been managed and what has been sealed — they form something larger.
+Every episode that follows will examine a different piece of this evidence. A different anomaly. A different scar in the record where the official record does not quite match what the witnesses, in their silence, refused to confirm. Each piece, on its own, is a question. Together — across dozens of investigations, across the full breadth of what has been hidden and what has been managed and what has been sealed — they form something larger.
 
 But not yet.
 

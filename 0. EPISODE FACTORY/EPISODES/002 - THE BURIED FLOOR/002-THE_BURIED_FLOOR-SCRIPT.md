@@ -80,7 +80,7 @@ Not how the floors were buried. Not why the buildings were demolished. The quest
 
 What was already there?
 
-What was standing on those foundations before the official history began? What civilization produced the ornament that two years of labor and temporary materials cannot account for? And why — across every old city, on every continent, in every culture that preserves a layer of architecture older than its own official history — does the same accusation surface when the photographs are displayed?
+What was standing on those foundations before the official history began? What civilization produced the ornament that two years of labor and temporary materials cannot account for? And why — across every city built on top of itself, on every continent, in every culture that preserves a layer of architecture older than its own official history — does the same accusation surface when the photographs are displayed?
 
 The maps show a country that vanished. The buildings show a craft that exceeded the timeline. The floors show a level that was buried and forgotten. And beneath all of it — beneath the explanations and the documentation and the engineering reports that account for every jackscrew and every cubic yard of fill — there is a silence. The silence of a world that was here before this one. A world whose bones are still visible, if you know where to look.
 
