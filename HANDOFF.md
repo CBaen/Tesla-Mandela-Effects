@@ -84,9 +84,39 @@ After the 7 targeted passes, a general sweep audited every word at 8+ instances 
 
 **Episode 003:** Clean. No new violations found. Previous passes caught everything. Scattered biological labels in first half confirmed as single uses doing specific metaphorical work.
 
+### Quote Attribution Rule Audit (all 3 episodes)
+
+The Quote Rule was codified and added to the Production Guide: direct quotes attributed to real people or real documents MUST be exact, verified words. Fabricated quotes can ONLY be attributed to fabricated sources. All three episodes were audited for compliance.
+
+**Critical fixes:**
+- Ep 001 Line 91: "child of darkness" → "child of the storm" (real family legend, every biography says storm)
+- Ep 003 Line 147: "black notebook" → "frequency journal" (missed in earlier rename — real artifact collision)
+- Ep 003 Line 137: Trump paraphrase in quotes → real verified quote ("of a speculative, philosophical, and somewhat promotional character")
+- Ep 003 Line 23: Fake Tesla diary quote → narration (fixed earlier this session)
+- Ep 003 Line 139: "black notebook" → "frequency journal" (fixed earlier this session)
+
+**Moderate fixes:**
+- Ep 003 Line 43: Morgan quote expanded to full verified sentence
+- Ep 003 Line 93: "Tromsø, Norway" → "northern Scandinavia" (fabricated event at real station)
+- Ep 002 Line 95: Scully quote cleaned — both halves now separately quoted with narrator bridge outside quotes
+
+**Verified clean:**
+- Ep 001 Line 41: Trump quote verified real
+- Ep 001: All fabricated quotes (Marta, Father Toma, schoolteacher) safely uncheckable
+- Ep 002 Line 19: Britannica quote — real words, standard editorial truncation
+- Ep 002: All fabricated quotes (Singer engineer, Penn Station deposition) safely uncheckable
+- Ep 003: Tesla-to-Morgan letter verified real
+- Ep 003: All fabricated quotes (geologist "K," calibration engineer) safely uncheckable
+
+### Factual Fixes Applied This Session (Episode 003)
+- Line 23: Fake Tesla diary quote removed, converted to narration
+- Line 57: CERN foundation stone July → June (actual: June 10, 1955)
+- Line 139: "black notebook" → "frequency journal" (real artifact collision)
+- Line 33: Museum provenance removed from fabricated geological survey
+
 ### Documents Updated This Session
-- All 3 episode scripts (critical fixes + term violation passes)
-- Production Guide (Law 3 rewrite)
+- All 3 episode scripts (critical fixes + term violation passes + quote audit)
+- Production Guide (Law 3 rewrite + Quote Rule added to Attribution section)
 - Factory CLAUDE.md (The Process as item #2, Term Violations Definition as item #5)
 - TERM_VIOLATIONS_DEFINITION.md — new file defining what is/isn't a term violation (3 categories)
 - Review prompt created for Episode 002
