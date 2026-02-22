@@ -72,6 +72,8 @@ On September tenth, two thousand eight, at ten twenty-eight in the morning, they
 
 On September nineteenth, two thousand eight — nine days after activation — during a routine test of the main dipole circuit in Sector Three-Four, a faulty electrical connection between two superconducting magnets developed a resistive zone. In less than one second, the resistance generated a voltage of one volt at nine thousand amperes. The power supply tripped. An electrical arc punched through the helium enclosure — and two tonnes of liquid helium exploded into the tunnel.
 
+The tunnel had not been designed to reject what was inside it. But something inside it rejected the tunnel.
+
 The pressure wave damaged fifty-three magnets. Six tonnes of helium — a substance so cold it exists as a superfluid, a liquid with zero viscosity, a material that flows without friction — resistance not reduced but absent from its physics entirely — erupted from the containment system and flooded the sector. The LHC went dark. It would remain dark for fourteen months.
 
 And here is where the investigation pauses. Here is where the forensic record asks you to notice something — not in the physics, but in the pattern. The machine was activated on September tenth. Nine days later, it tore itself open. Not from the outside... from within. As if the body of the Earth — the same body Tesla had found resonating at eight hertz, the same body he had tried to transmit through, the same body whose frequency he had matched with millions of volts in a wooden building on the Colorado plains — had mounted an immune response. Was the helium explosion a malfunction? Or was it a rejection?
