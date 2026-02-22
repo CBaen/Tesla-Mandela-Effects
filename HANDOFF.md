@@ -2,34 +2,32 @@
 
 ## What Happened This Session (2026-02-22)
 
-Episode 004 "The Tesla Brothers" — COMPLETE AND ACCEPTED. Final word count: ~10,022 words.
+Episode 004 "The Tesla Brothers" finalized with editorial reviews. Episode 005 "The Bell" written, verified, and delivered in a single session.
 
-Written across Sessions 1-4, then finalized with 3 editorial review rounds:
-- Session 1: Written in 3-pass subagent approach (~8,222 words)
-- Session 2: Expanded to ~11,585 words, first editor reviews applied
-- Session 3: 10 surgical edits from Opus 4.6 + GPT 5.2 reviews (~10,098 words)
-- Session 4: 3 editorial fixes + 13 term violation fixes + 2 attribution fixes (~10,022 words)
+### Episode 004 — COMPLETE AND ACCEPTED (~10,022 words)
+- 3 editorial fixes, 13 term violation fixes, 2 attribution fixes applied
+- "Zagreb Folklore Archive" → generic descriptor (Attribution Rule)
+- All reviews passed
 
-Final fixes this session:
-- **Editorial**: OAP speculation cut, bio-metaphor restored ("Thought as organism"), closing softened to question
-- **Term violations**: 13 fixes (feel/felt, watched, vague "something," silence clusters)
-- **Attribution**: "Zagreb Folklore Archive" → generic descriptor (Attribution Rule), "direct symptom" → conditional framing (Law 5)
-- **Workflow rules codified**: Factory CLAUDE.md updated with ONE SESSION ONE EPISODE workflow expectations
+### Episode 005 — DELIVERED (~10,050 words, 244 paragraphs)
+- Written in 3 subagent passes per ONE SESSION ONE EPISODE workflow
+- Topic: Hollow Moon / artificial satellite theories
+- Structure: The collection (3 independent investigations converge)
+- Three pillars: The Bell (Apollo seismic data), The Geometry (eclipse/stabilization), The Silence (Tesla's gap)
+- Closing: The Inversion — safe explanation (accident) scarier than conspiracy (design)
+- Emotional endpoint: Vertigo
+- Pre-Delivery Verification: 7 mandatory fixes applied, 3 recommended fixes applied, all 13 categories pass
+- Workflow rules codified in Factory CLAUDE.md followed successfully
 
 ## What's Next
-- **Episode 004 is COMPLETE AND ACCEPTED** — ~10,022 words, all reviews passed
-- **ALL FOUR EPISODES (001-004) now production-ready for TTS**
-- **Choose topic for Episode 005** — Check Series Bible for anti-cloning constraints
-- Episodes 001-003 remain production-ready
+- **ALL FIVE EPISODES (001-005) now production-ready for TTS**
+- **Choose topic for Episode 006** — Check Series Bible for anti-cloning constraints
+- Episodes 001-004 remain production-ready
 
 ## Critical Context for Future Instances
-- **START at `0. EPISODE FACTORY/CLAUDE.md`** — everything you need is there, including workflow expectations
+- **START at `0. EPISODE FACTORY/CLAUDE.md`** — everything you need, including workflow expectations
 - **ONE SESSION, ONE EPISODE.** Brief → writing passes (subagents) → verification (subagent) → commit. No handoffs.
 - **The Process** is a permanent writing rule. Located at `0. EPISODE FACTORY/The Process- How to Rewrite Term Violations.txt`.
-- **Law 3 was rewritten.** Bio metaphor is a mode of description, not a word count.
-- **Tesla is ambiguous.** Not villain, not willing. "Cannot stop, even if he wanted to."
-- **Fabricated sources ARE the format.** Blend of real/fake is the series identity.
-- **THE QUOTE RULE (CRITICAL/LEGAL):** Direct quotes attributed to real people must be exact, verified words. Fabricated quotes ONLY to fabricated sources.
 - **CHECK THE SERIES BIBLE before writing.** Anti-cloning system tracks 7 dimensions per episode.
 
 ## Document Parity
