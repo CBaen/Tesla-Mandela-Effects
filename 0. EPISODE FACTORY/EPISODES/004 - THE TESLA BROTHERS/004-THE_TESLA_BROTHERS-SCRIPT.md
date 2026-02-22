@@ -256,3 +256,42 @@ And the question is not how to remember correctly.
 
 The question is whether you can remember at all.
 
+
+Caption Key
+
+Nikola Tesla → Nih-KOH-lah TESS-lah → /N IH0 K OW1 L AH0 T EH1 S L AH0/
+Dane Tesla → DAYN TESS-lah → /D EY1 N T EH1 S L AH0/
+Milutin Tesla → Mih-LOO-tin TESS-lah → /M IH0 L UW1 T IH0 N T EH1 S L AH0/
+Djuka Tesla → JOO-kah TESS-lah → /JH UW1 K AH0 T EH1 S L AH0/
+Smiljan → SMIL-yahn → /S M IH1 L Y AA0 N/
+Gospic → GOS-pits → /G AA1 S P IH0 T S/
+Croatia → Kroh-AY-shuh → /K R OW0 EY1 SH AH0/
+Church of Great Martyr George → Church of Great MAR-ter JOHRJ → /CH ER1 CH AH0 V G R EY1 T M AA1 R T ER0 JH AO1 R J/
+Angelina Tesla → An-juh-LEE-nah TESS-lah → /AE0 N JH AH0 L IY1 N AH0 T EH1 S L AH0/
+Milka Tesla → MIL-kah TESS-lah → /M IH1 L K AH0 T EH1 S L AH0/
+Marica Tesla → Mah-REE-tsah TESS-lah → /M AH0 R IY1 T S AH0 T EH1 S L AH0/
+Wilbur Wright → WIL-ber RYTE → /W IH1 L B ER0 R AY1 T/
+Orville Wright → OR-vil RYTE → /O R0 V IH1 L R AY1 T/
+Joseph-Michel Montgolfier → Joe-SEFF Mee-SHELL Mont-GAWL-fee-ay → /JH OW1 S EH0 F M IY0 SH EH1 L M AA0 N T G OW1 L F Y EY0/
+Jacques-Étienne Montgolfier → Zhahk Ay-tee-EHN Mont-GAWL-fee-ay → /ZH AA1 K EY0 T IY0 EH1 N M AA0 N T G OW1 L F Y EY0/
+Charles-Ferdinand University → CHARLZ FEHR-dee-nahnd Yoo-ni-VER-suh-tee → /CH AA1 R L Z F ER1 D IH0 N AE0 N D Y UW0 N IH0 V ER1 S IH0 T IY0/
+Prague → PRAHG → /P R AA1 G/
+J.P. Morgan → JAY-PEE MOR-guhn → /JH EY1 P IY1 M AO1 R G AH0 N/
+Edison → EH-dih-suhn → /EH1 D IH0 S AH0 N/
+Westinghouse → WES-ting-hows → /W EH1 S T IH0 N G H AW1 Z/
+New Yorker Hotel → NEW YOR-ker Hoh-TEL → /N UW1 Y O1 R K ER0 H OW0 T EH1 L/
+Office of Alien Property → AW-fis of AY-lee-uhn PROP-er-tee → /AO1 F IH0 S AH0 V EY1 L IY0 AH0 N P R AA1 P ER0 T IY0/
+Room 3327 → Room thirty-three twenty-seven → /R UW1 M TH ER1 T IY0 TH R IY1 T W EH1 N T IY0 S EH1 V AH0 N/
+Nikola Tesla Museum → Nih-KOH-lah TESS-lah Myoo-ZEE-um → /N IH0 K OW1 L AH0 T EH1 S L AH0 M Y UW0 Z IY1 AH0 M/
+Belgrade → BEL-grayd → /B EH1 L G R EY0 D/
+FBI → EFF-BEE-EYE → /EH1 F B IY1 AY1/
+Czech Republic → CHEK Rih-PUB-lick → /CH EH1 K R IH0 P AH1 B L IH0 K/
+Colorado Springs → Kuh-LAH-rah-doh SPRIN-jez → /K AH0 L AE0 R AE0 D OW0 S P R IH1 N Z/
+Long Island → LAWNG EYE-lund → /L AO1 N G AY1 L AH0 N D/
+Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
+Austro-Hungarian Empire → AW-stroh-HUN-GAR-ee-uhn EM-pyre → /AO1 S T R OW0 H AH1 N G EH1 R IY0 AH0 N EH1 M P AY1 R/
+Zagreb Folklore Archive → ZAH-greb FOLK-lor AHR-kayv → /Z AA1 G R EH0 B F OW1 K L AO0 R AA1 R K AY1 V/
+M.K. → Em-KAY → /EH1 M K EY1/
+Gracac → GRAHS-ahts → /G R AA1 S AA0 T S/
+My Inventions → My In-VEH-shunz → /M AY1 IH0 N V EH1 SH AH0 N Z/
+
