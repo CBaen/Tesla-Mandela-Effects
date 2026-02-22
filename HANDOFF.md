@@ -44,7 +44,7 @@ Episode 004 written in 3-pass subagent approach. Factual errors fixed (ages, uni
 ALL THREE EPISODES (001-003) CLEARED FOR TTS. Production-ready. Final editorial reviews complete. Pre-Delivery Verification checklist codified. Term violation audit complete. Quote Attribution Rule audit complete.
 
 ## What's Next
-- **Episode 004 is PRODUCTION-READY** — ~11,585 words, all verification passed
+- **Episode 004 is PRODUCTION-READY** — ~10,098 words, all verification passed, surgical edits complete
 - **ALL FOUR EPISODES (001-004) now production-ready for TTS**
 - **Choose topic for Episode 005** — Check Series Bible for anti-cloning constraints
 - Episodes 001-003 remain production-ready
