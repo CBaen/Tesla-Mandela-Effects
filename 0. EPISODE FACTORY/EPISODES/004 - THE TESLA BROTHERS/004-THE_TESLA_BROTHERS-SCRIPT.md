@@ -194,8 +194,6 @@ Crossed out. Reassigned in a pencil note. But the reassignment was not completed
 
 The inventory does not say. The three items were not described. Were not photographed. Did not appear in any subsequent inventory. They were not transferred to the Nikola Tesla Museum in Belgrade. They are not in the FBI's declassified Tesla files. They were cataloged once, noted as an error, and never mentioned again.
 
-Someone had to decide what to do with them. Someone, in the course of processing the eighty trunks, picked up these three items. These three pieces of correspondence. Related to D. Tesla. Related to the dead brother. And someone made a decision. File them under N. Tesla — that's where they belong. Mark the correction. Move on to the next item.
-
 But the three items disappeared.
 
 Whether they were misfiled during the move to magnetic storage. Whether they were lost in the transfer of archives. Whether they were deliberately removed by someone who understood their significance and chose to prevent them from being discovered. Whether they are sitting in a box in a basement somewhere, waiting for someone to find them and read them. The physical record is absent. The three items exist only in the inventory discrepancy. They exist only as a gap. They exist only as evidence of the empty chair that Tesla had arranged his entire life around.
