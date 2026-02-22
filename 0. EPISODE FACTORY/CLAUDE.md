@@ -39,6 +39,10 @@ Episodes 001-004 each took 2-4 sessions because instances burned context on edit
 - **No editing prose in main context.** If you find yourself using the Edit tool on the script file from main context, you are doing it wrong. Delegate to a subagent.
 - **No handoffs.** If you are writing "What's Next: continue Episode X" in HANDOFF.md, the process failed.
 
+## Standalone Rule — No Cross-Episode References
+
+No episode may reference another episode — not by number, not by title, not by concept. Never write "In Episode Two..." or "as we explored previously..." or assume the listener has heard any other episode. If a phenomenon from another episode is relevant, present it from scratch as something that exists in the world. Every episode is entry point zero. This is a MAJOR violation if broken.
+
 ## Your Job
 
 - When given a topic: Research it, then write an Episode Brief following the Production Guide's Step 1.
