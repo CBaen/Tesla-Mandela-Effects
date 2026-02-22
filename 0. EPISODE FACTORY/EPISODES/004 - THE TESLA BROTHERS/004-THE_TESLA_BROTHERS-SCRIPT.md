@@ -26,7 +26,7 @@ Both accounts agree on one element: the outcome. The horse fell, or the horse st
 
 The autopsy would have been performed. The cause of death would have been recorded. There would be a grave in the churchyard. Milutin would have presided over a funeral service in the Church of Saint Valentin in Smiljan, speaking words from the texts he knew by heart about the brevity of life and the mercy of God. The body would have been committed to the earth. The name would have been inscribed on stone.
 
-But the details — the specific anatomical facts of how a twelve-year-old boy can be killed by an animal — were not preserved in the record that has survived. There are no photographs. No detailed autopsy reports. No witness statements collected with the forensic thoroughness that modern investigation would demand. There is only the fact of the absence. A boy who was there. A horse. A moment. A boy who was not there anymore.
+But the details of what the horse had done — the specific moment, the mechanism of impact, the sequence of events that left a boy breathing one moment and not breathing the next — were not preserved in the record that has survived. There are no photographs. No detailed autopsy reports. No witness statements collected with the forensic thoroughness that modern investigation would demand. There is only the fact of the absence. A boy who was there. A horse. A moment. A boy who was not there anymore.
 
 And what remained, for Nikola — what remained in the archive of memory, in the family narrative, in the very shape of his life going forward — was a specific kind of silence. Not the silence of a death that is mourned and then accepted. The silence of a death that is re-interpreted. Over time, over decades, the question of whether the horse killed Dane because of Nikola's pea — or because of something that had nothing to do with Nikola at all — would dissolve. What would crystallize instead was the guilt that a living child feels when an older child dies. The logic is simple. The brother is gone. The brother being gone is somehow the younger child's responsibility. Whether he fired the pea or not, whether the horse was provoked or not — the mathematics of guilt are indifferent to the details.
 
@@ -46,7 +46,7 @@ This is the cruelest testimony. This is a man at fifty-seven years of age, writi
 
 But look at the other brother pairs. Look at what synergy produces that a solo mind cannot.
 
-The Wright Brothers — Wilbur and Orville. Born in eighteen sixty-seven and eighteen seventy-one, just as Nikola was finding his footing in Colorado. Wilbur was the visionary. The one who read, who theorized, who built ideas in words before they became hardware — thought as organism, spreading through language before it learned to fly. Orville was the mechanic. The one who understood materials, who knew how wood and wire and canvas would behave under stress, who could translate theory into the brittle, three-dimensional reality of a flying machine. They worked together. Each half of a single body learning to move through air. When one died — Wilbur, in nineteen twelve, at the age of forty-five, taken by typhoid — something fundamental severed. Orville lived another thirty-six years. He did not invent during those thirty-six years. He managed. He maintained the legacy of what two minds together had created. A organism cannot survive on half of itself. It can persist. It cannot grow.
+The Wright Brothers — Wilbur and Orville. Born in eighteen sixty-seven and eighteen seventy-one, just as Nikola was finding his footing in Colorado. Wilbur was the visionary. The one who read, who theorized, who built ideas in words before they became hardware — thought as organism, spreading through language before it learned to fly. Orville was the mechanic. The one who understood materials, who knew how wood and wire and canvas would behave under stress, who could translate theory into the brittle, three-dimensional reality of a flying machine. They worked together. Each half of a single body learning to move through air. When one died — Wilbur, in nineteen twelve, at the age of forty-five, taken by typhoid — something fundamental severed. Orville lived another thirty-six years. He did not invent during those thirty-six years. He managed. He maintained the legacy of what two minds together had created. An organism cannot survive on half of itself. It can persist. It cannot grow.
 
 The partnership was the achievement. The organism of two minds. Not either man alone.
 
@@ -220,9 +220,9 @@ And M.K.'s testimony, nineteen seventy-four, recorded from her grandmother's mem
 
 These are fragments. None of them can be verified independently. None of them constitute proof in the traditional sense. But together, they compose a forensic image. An outline. A shape of what might have been.
 
-What is the Mandela Effect? It is not merely a changed spelling. It is not merely a missing object that should be visible. The Berenstain Bears. The cornucopia missing from the Fruit of the Loom logo. The monocle that Monopoly Man never wore. These are the familiar versions. Objects. Signifiers. Small things that seem like they should be large, and their absence from the world is proof that something has been edited.
+What is the Mandela Effect? It is not merely a changed spelling. It is not merely a missing object that should be visible. The Berenstain Bears. The cornucopia missing from the Fruit of the Loom logo. The monocle that Monopoly Man never wore. These are the familiar versions. Objects. Signifiers. Small things that seem like they should be large, and their absence from the world is proof that something has been edited. It is scar tissue. It is the mark where the surgeon's blade passed.
 
-But this episode expands the category. A Mandela Effect applied to a person.
+But this episode expands the category. A Mandela Effect applied to a person. A human being as a wound.
 
 Dane Tesla is not a changed spelling. He is a missing human being. The accepted narrative — the one that persists in every textbook, every biography, every popular account of Tesla's life — is the overwritten version. Tesla as lone genius. Tesla as solitary inventor. Tesla as the man who achieved the impossible because he was willing to work entirely alone.
 
@@ -242,7 +242,7 @@ But listen to what your gut tells you. When you think about the person-shaped ab
 
 Or are you certain that they are gone? That the loss is final? That the empty chair is the baseline, and any memory of them being present is just the brain's trick of imagining what should have been?
 
-This is the question the episode leaves with you. Not whether Dane Tesla was a historical person. Not whether the testimony of M.K. proves anything. Not whether the three items of correspondence were really about the brother who the horse took. These are the investigators' questions.
+This is the question that remains. Not whether Dane Tesla was a historical person. Not whether the testimony of M.K. proves anything. Not whether the three items of correspondence were really about the brother who the horse took. These are the investigators' questions. This one is yours.
 
 Your question is this: Which version is the real one?
 
@@ -252,11 +252,19 @@ And if the version where they are not is the one you are standing in — if the 
 
 And maybe that is not acceptance. Maybe that is just the overwrite working. Taking the original and filing it away. Erasing the recording. Crossing out the item in the inventory. Leaving only the fragments. The testimony. The shape of the absence. Proof that something was there once, in a version of events that is no longer available.
 
-This is what the Mandela Effect looks like when applied to people. Not a changed logo. Not a missing detail from a label. But the loss of someone who was supposed to complement you. The removal of the person on your left. The version of the world that included them being slowly filed away, crossed out, replaced with the version where you are alone.
+This is what the Mandela Effect looks like when applied to people.
 
-And you have learned, like Tesla learned, to build around that absence. You have learned to reach into the empty space and pull out your work as if it was collaborative. You have learned to call it your vision, your method, your genius — when in fact what you have built is the architecture of survival. The structure required to continue living when the person who was supposed to continue living beside you has been removed from the record.
+Not a changed logo. Not a missing detail from a label. But the loss of someone who was supposed to complement you. The removal of the person on your left. The version of the world that included them being slowly filed away, crossed out, replaced with the version where you are alone.
 
-The Mandela Effect is not happening in the world. The Mandela Effect is the proof that the world has already happened to you.
+And you have learned, like Tesla learned, to build around that absence. You have learned to reach into the empty space and pull out your work as if it was collaborative. You have learned to call it your vision, your method, your genius.
+
+When in fact what you have built is the architecture of survival.
+
+The structure required to continue living when the person who was supposed to continue living beside you has been removed from the record.
+
+The Mandela Effect is not happening in the world.
+
+The Mandela Effect is the proof that the world has already happened to you.
 
 And the question is not how to remember correctly.
 
