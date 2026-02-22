@@ -32,6 +32,8 @@ And what remained, for Nikola — what remained in the archive of memory, in the
 
 What is certain is this: a boy who was twelve is no longer present. A boy who is seven will grow into an adult carrying the weight of that absence as if he had caused it.
 
+The house in Gospic still smelled of tallow candles and the particular cold that limestone holds in winter — the cold that doesn't leave even when a fire is lit, that settles in the corners of a room and waits.
+
 Who was Dane Tesla? The question is almost impossible to answer, because almost no one wrote anything about him. Not biographies. Not letters. Not detailed recollections recorded in later years. What exists is what Nikola said about him — and Nikola spoke of his dead brother with a precision that suggests memory, but which may instead suggest grief. The two states produce indistinguishable language.
 
 Nikola wrote, in the nineteen nineteen serialization of his autobiography My Inventions in the Electrical Experimenter: "I had a brother who was gifted to an extraordinary degree; one of those rare phenomena of mentality which biological investigation has failed to explain. His premature death left my parents disconsolate."

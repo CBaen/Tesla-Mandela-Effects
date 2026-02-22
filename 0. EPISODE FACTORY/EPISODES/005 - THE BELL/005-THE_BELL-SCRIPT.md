@@ -42,6 +42,8 @@ It builds. Over eight minutes, the amplitude climbs. The wave is not dispersing 
 
 The scientist who described the result first reached for the image of a bell. The Moon had rung, he said — and not stopped ringing.
 
+In Houston, the printout was rolling from the seismometer relay — paper accumulating on the floor in a slow curl, the graph line refusing to return to where it was supposed to go.
+
 The experiment was not a one-time measurement. Mission controllers crashed hardware into the Moon again with Apollo thirteen. The result was the same. Apollo fourteen. The same. Apollo fifteen. The same pattern each time — the building wave, the long resonance, the record that would not return to baseline, the surface that would not stop ringing. Four separate impacts. Four separate instrument packages. Four confirmations of the same anomaly, across different impact locations, different instrument placements, different mission years.
 
 The data was filed. The experiments were recorded. The scientific papers were published in the journals of planetary science, where they joined the accumulation of material that is verifiable, documented, and almost never discussed.
@@ -59,6 +61,8 @@ The density numbers say something specific.
 The Moon's average density is three point three four grams per cubic centimeter. Earth's average density is five point five two. By comparison, the gap seems moderate. It is not moderate. These two numbers describe two completely different structures. The Earth is dense because its iron-nickel core — a solid sphere approximately two thousand four hundred kilometers in radius — pulls the whole-body average upward. Strip the core out, and the Earth's outer layers would produce a density figure not far from the Moon's.
 
 The Moon does not appear to have a comparable core.
+
+Hold a hollow sphere in one hand and a solid sphere of the same size in the other. The hollow one is lighter — obviously — but it also resists being spun differently, the way a empty tin resists rotation less than a full one, the weight not gathered at the center where rotation expects it.
 
 Measurements of the Moon's moment of inertia — the way a rotating body responds to torque, which reveals how its mass is distributed — return a factor of approximately zero point three nine. Earth's value is zero point three three, pulled down by its dense iron core. A uniform sphere of consistent density would produce a factor of exactly zero point four. The Moon's value sits close to that uniform figure — anomalously close. What the measurements describe is not a body with a heavy center and a light exterior, the way differentiated planets and moons produce. The measurements describe a body that is surprisingly homogeneous throughout. When a body builds itself from drifting material under gravity, the heaviest elements fall inward. Iron sinks. Lighter silicates rise toward the surface. Every moon, every planet that forms from natural accretion should concentrate its density at the center and lighten toward the outer layers. The Moon barely shows that gradient at all.
 
@@ -151,6 +155,8 @@ No other moon in the solar system produces this geometry.
 Not one of Jupiter's ninety-five confirmed moons. Not one of Saturn's hundred and forty-six. Not one of the twenty-eight moons of Uranus or the sixteen of Neptune. The precise geometry of total eclipse — the exact-coverage coincidence — occurs only here, at Earth. Only with this Moon. Only as seen from this surface.
 
 This is verifiable arithmetic. The numbers are in the textbooks. The geometry is observable. Standing in the path of totality and looking up at the moment of full occultation, you are looking at a measurement. A ratio expressed in the sky.
+
+The air goes cold when the disc closes. Every witness to totality remarks on it — the temperature dropping suddenly, as if a valve shut, the warmth of the open sun replaced in seconds by a chill that belongs to a different kind of day.
 
 And the ratio will not persist.
 
