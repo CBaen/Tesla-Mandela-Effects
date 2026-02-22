@@ -1,54 +1,59 @@
 # Tesla Mandela Effects — Session Handoff
 
-## What Happened This Session (2026-02-22)
+## What Happened This Session (2026-02-22, Session 2)
 
-Episode 004 "The Tesla Brothers" written and verified. Script at ~8,222 words (under 10,000 target but narratively complete). Series Bible updated with Episode 004 entry.
+Episode 004 "The Tesla Brothers" expanded, edited, and verified. Now PRODUCTION-READY at ~11,585 words.
 
-### Writing Process
-- 3-pass subagent approach: each writing pass delegated to a general-purpose subagent with full reference files loaded in its own context window
-- Pass 1: ~3,800 words (Opening + Movements 1-2)
-- Pass 2: ~3,800 words (Movements 3-4, psychoanalyst notes + OAP inventory)
-- Pass 3: ~2,600 words (Movement 5 Zagreb testimony + closing + Caption Key)
-- Main context reserved for verification, fixes, and coordination
+### Editor Reviews Applied
+Three external editor reviews (Gemini 3.0, GPT 5.2, Claude 4.6) triaged and applied:
+- **Factual fixes**: Wilbur Wright age corrected (forty-five → verified correct), cholera timeline clarified
+- **Attribution fixes**: Tesla autobiography quotes verified exact, fabricated source boundaries confirmed clean
+- **Craft fixes**: Organism/clock metaphors sharpened, "An organism" grammar fix, narrator identity leak ("this episode expands") removed
+- **Audio pacing**: Short declarative sentences added at key transitions for TTS breathing room
 
-### Factual Errors Fixed Post-Writing
-- Nikola's age in 1863: "three years old" → "seven years old" (born ~1856)
-- "A boy who is five" → "A boy who is seven"
-- Nikola's age for cholera (1873): "twenty-six" → "seventeen"
-- Nikola's age in 1870: "eighteen" → "fourteen"
-- University: "Charles-Ferdinand University in Prague" → "Austrian Polytechnic in Graz"
-- Timeline: "by eighteen sixty-four/sixty-five" → "By September of eighteen sixty-three" (same year as death)
-- Missing fabricated source: Djuka's letter manually inserted (4th of 4 from brief)
-- Caption Key updated for all corrections + added "Mandic"
+### Expansion Pass
+Script expanded from ~8,492 to ~11,585 words via 4 strategic insertions:
+1. **Gospic sensory grounding** (~400 words) — garrison town atmosphere, Milutin's visible aging, parishioners learning not to mention Dane
+2. **Cholera scene** (~700 words) — visceral disease progression, Milutin's desperate prayers through the wall, fever visions of Dane, deathbed bargain
+3. **Colorado Springs & Wardenclyffe** (~500 words) — magnifying transmitter sensory scene, artificial lightning, Wardenclyffe tower and demolition
+4. **OAP inventory discovery** (~350 words) — yellowed pages, typewriter degradation, pencil annotations, forensic mystery of "D. Tesla"
 
-### Pre-Delivery Verification
-- All facts checked, all quotes verified, all 4 fabricated sources present
-- 134 paragraphs (well under 400 ElevenLabs limit)
-- Cleared as production-ready despite word count being ~1,800 under minimum target
+### Post-Expansion Cleanup
+- Removed duplicate paragraphs (old OAP text that overlapped with expanded version)
+- Removed orphaned "Czech Republic" Caption Key entry
 
-### Word Count Note
-Script is ~8,222 words vs 10,000-13,000 target. Previous episodes: 001 (~9,700), 002 (~9,200), 003 (~9,600). Verification agent cleared it as narratively complete — all 5 movements present, all 4 fabricated sources woven in, closing turns to listener. **Guiding Light should decide: accept as-is or request an expansion pass.**
-
-### Process Learning for Future Episodes
-Two prior sessions were consumed loading reference files without producing script text. The successful approach:
-1. Pre-load reference files in subagent context, not main context
-2. 3 sequential writing passes of 3,000-5,000 words each
-3. Keep verification and fixes in main context
-4. For future improvement: compress reference files into a single instruction payload rather than having each subagent read all files independently
+### Pre-Delivery Verification (PASSED — all 13 categories)
+- Facts: All dates, ages, relationships verified
+- Quotes: Real quotes exact (Tesla "My Inventions"), fabricated quotes only in fabricated sources
+- Attribution: 4 fabricated sources present and uncheckable
+- Continuity: No contradictions
+- Sensory grounding: All major locations anchored
+- Term violations: None detected
+- Paragraph count: ~382 (under 400 limit)
+- Caption Key: Complete (orphan removed)
+- Narrator identity: Law 1 maintained throughout
+- Internal consistency: Expanded sections blend seamlessly
+- Five Laws: All applied consistently
+- Audio optimization: TTS-ready formatting
+- Anti-cloning: All structural choices distinct from 001-003
 
 ### Documents Updated This Session
-- Episode 004 script: `0. EPISODE FACTORY/EPISODES/004 - THE TESLA BROTHERS/004-THE_TESLA_BROTHERS-SCRIPT.md`
-- Series Bible: `0. EPISODE FACTORY/SERIES_BIBLE.md` (Episode 004 entry added)
+- Episode 004 script (expanded + edited + verified)
 - This handoff file
+
+## Previous Session Summary (2026-02-22, Session 1)
+
+Episode 004 written in 3-pass subagent approach. Factual errors fixed (ages, university, timeline). Series Bible updated with Episode 004 entry. Script was ~8,222 words — under target but narratively complete.
 
 ## Previous Session Summary (2026-02-17)
 
-ALL THREE EPISODES (001-003) CLEARED FOR TTS. Production-ready. Final editorial reviews complete. Pre-Delivery Verification checklist codified. Term violation audit complete (7 targeted passes + general sweep). Quote Attribution Rule audit complete across all 3 episodes.
+ALL THREE EPISODES (001-003) CLEARED FOR TTS. Production-ready. Final editorial reviews complete. Pre-Delivery Verification checklist codified. Term violation audit complete. Quote Attribution Rule audit complete.
 
 ## What's Next
-- **Episode 004 word count decision** — accept ~8,222 words or expand to hit 10,000 minimum
+- **Episode 004 is PRODUCTION-READY** — ~11,585 words, all verification passed
+- **ALL FOUR EPISODES (001-004) now production-ready for TTS**
 - **Choose topic for Episode 005** — Check Series Bible for anti-cloning constraints
-- Episodes 001-003 remain production-ready for TTS
+- Episodes 001-003 remain production-ready
 
 ## Critical Context for Future Instances
 - **START at `0. EPISODE FACTORY/CLAUDE.md`** — everything you need is there
