@@ -62,7 +62,7 @@ Did Dane have gifts that would have matched or exceeded Nikola's? Or was Dane a 
 
 The record cannot say. The record offers no images. No witness statements specific enough to verify. No independent verification of the superlative that Nikola, writing fifty-six years later with all the weight of loss behind his words, applied to the brother he could not remember clearly but whose absence he could feel with certainty.
 
-But this is what the episode can examine. This is the forensic question: what is the shape of a loneliness that lasts for eight decades?
+But examine this question. This is what the forensic record shows: what is the shape of a loneliness that lasts for eight decades?
 
 What does it look like when you build an entire life in the shadow of someone who is not there? When every achievement is haunted by the absent brother. When the weight of the missing person grows heavier the more successful you become. When the very thing that makes you extraordinary — the ability to visualize, to invent, to imagine technologies that the world will need fifty years to catch up to — may have been born from grief.
 
@@ -70,7 +70,7 @@ Nikola's involuntary visions — the images he could not control, that came to h
 
 Or, reframed: the trauma of seeing his brother taken created the neurological apparatus that would allow him to invent the world's electrical future. The wound made the instrument.
 
-By September of eighteen sixty-three — weeks after the accident, possibly days — Milutin began the process of relocating the family away from Smiljan. The reminders were too sharp. The grave was too close. The parish too full of the parishioners who knew the dead boy, who asked about Milutin with the careful sympathy of people who had no idea how to acknowledge a father's loss. The family moved to Gospic, a larger town, where Milutin took the position of pastor of the Church of Great Martyr George. He would remain there for sixteen years, until his death in eighteen seventy-nine. The neighbors would call him "Old Man Milovan" — a nickname that suggested premature aging, that implied grief wore through him visibly enough to age him into obsolescence before his time.
+In the months surrounding the accident — whether the loss precipitated the move or followed it, the accounts do not agree — Milutin relocated the family from Smiljan. The reminders were too sharp. The grave was too close. The parish too full of the parishioners who knew the dead boy, who asked about Milutin with the careful sympathy of people who had no idea how to acknowledge a father's loss. The family moved to Gospic, a larger town, where Milutin took the position of pastor of the Church of Great Martyr George. He would remain there for sixteen years, until his death in eighteen seventy-nine. The neighbors would call him "Old Man Milovan" — a nickname that suggested premature aging, that implied grief wore through him visibly enough to age him into obsolescence before his time.
 
 This is not a man who recovered from his loss. This is not a man who accepted and moved forward. This is a man who was hollowed by the disappearance of his eldest son and who walked through the remainder of his life as a monument to that disappearance.
 
@@ -148,7 +148,7 @@ A psychoanalyst in nineteen thirty-seven, in Manhattan, wrote in his session not
 
 In the session, the patient described a recurring dream. In the dream, he was working. There was always a figure to his left — always to his left, never to the right, never directly across from him. And the figure was reaching for the same object that the patient was reaching for. Coordinated. Synchronized. The two working together on the same task, and the patient feeling, in the dream, a sense of completion that he could not achieve while awake.
 
-When the psychoanalyst asked about family, about loss, about the source of the mourning, the patient said something that was recorded verbatim in the notes. "There is a chair that is always empty beside me. I have arranged my entire life around that chair. I do not sit in it. I do not remove it. I simply build around it."
+When the psychoanalyst asked about family, about loss, about the source of the mourning, the patient became specific. The doctor's notes summarize the response: the patient described an empty chair that he kept beside him at all times. He did not sit in it. He did not remove it. He had arranged his entire life around it, building his work and his solitude into the space that the chair defined. The doctor noted the patient's phrasing — that he did not mourn the person who had occupied the chair. He mourned the fact that the chair had never been occupied at all.
 
 Eighty years old. And still building around an empty chair. Still orienting his entire existence toward the space where another person was supposed to be. Still reaching toward the left, toward the partner who was not there, the brother who had been taken by a horse in eighteen sixty-three.
 
@@ -274,7 +274,7 @@ Dane Tesla → DAYN TESS-lah → /D EY1 N T EH1 S L AH0/
 Milutin Tesla → Mih-LOO-tin TESS-lah → /M IH0 L UW1 T IH0 N T EH1 S L AH0/
 Djuka Tesla → JOO-kah TESS-lah → /JH UW1 K AH0 T EH1 S L AH0/
 Smiljan → SMIL-yahn → /S M IH1 L Y AA0 N/
-Gospic → GOS-pits → /G AA1 S P IH0 T S/
+Gospic → Gospeech → /G OW1 S P IH0 CH/
 Croatia → Kroh-AY-shuh → /K R OW0 EY1 SH AH0/
 Church of Great Martyr George → Church of Great MAR-ter JOHRJ → /CH ER1 CH AH0 V G R EY1 T M AA1 R T ER0 JH AO1 R J/
 Angelina Tesla → An-juh-LEE-nah TESS-lah → /AE0 N JH AH0 L IY1 N AH0 T EH1 S L AH0/
