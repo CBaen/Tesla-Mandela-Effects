@@ -20,7 +20,7 @@ The first account — the one that appears in the family correspondence and the 
 
 This is the first account.
 
-The second account — the one that appears in later documents, in letters between Milutin and relatives — begins differently. Not with Nikola. With Dane. The older brother was with the horse. Not riding. Grooming. His hands in the animal's coat, the familiar contact that comes from time spent together, the horse learning the pressure and rhythm of this boy's touch. Something spooked the animal. A fly. A shadow. The arbitrary trigger that separates routine from catastrophe. The horse panicked. Unprovoked by Nikola, unremarked by any small boy's toy — simply afraid of nothing it could explain. In the panicking, something happened.
+The second account — the one that appears in later documents, in letters between Milutin and relatives — begins differently. Not with Nikola. With Dane. The older brother was with the horse. Not riding. Grooming. His hands in the animal's coat, the familiar contact that comes from time spent together, the horse learning the pressure and rhythm of this boy's touch. A fly. A shadow. The arbitrary trigger that separates routine from catastrophe. The horse panicked. Unprovoked by Nikola, unremarked by any small boy's toy — simply afraid of nothing it could explain. In the panicking, something happened.
 
 Both accounts agree on one element: the outcome. The horse fell, or the horse struck, or the horse crushed. The specific geometry of impact is not preserved. What is preserved is the result. Dane Tesla did not survive the afternoon.
 
@@ -46,7 +46,7 @@ This is the cruelest testimony. This is a man at fifty-seven years of age, writi
 
 But look at the other brother pairs. Look at what synergy produces that a solo mind cannot.
 
-The Wright Brothers — Wilbur and Orville. Born in eighteen sixty-seven and eighteen seventy-one, just as Nikola was finding his footing in Colorado. Wilbur was the visionary. The one who read, who theorized, who built ideas in words before they became hardware — Thought as organism — spreading through language before it learned to fly. Orville was the mechanic. The one who understood materials, who knew how wood and wire and canvas would behave under stress, who could translate theory into the brittle, three-dimensional reality of a flying machine. They worked together. Each half of a single body learning to move through air. When one died — Wilbur, in nineteen twelve, at the age of forty-five, taken by typhoid — something fundamental severed. Orville lived another thirty-six years. He did not invent during those thirty-six years. He managed. He maintained the legacy of what two minds together had created. What requires two minds cannot survive on one. It can persist. It cannot grow.
+The Wright Brothers — Wilbur and Orville. Born in eighteen sixty-seven and eighteen seventy-one, just as Nikola was finding his footing in Colorado. Wilbur was the visionary. The one who read, who theorized, who built ideas in words before they became hardware — Thought as organism — spreading through language before it learned to fly. Orville was the mechanic. The one who understood materials, who knew how wood and wire and canvas would behave under stress, who could translate theory into the brittle, three-dimensional reality of a flying machine. They worked together. Each half of a single body learning to move through air. When one died — Wilbur, in nineteen twelve, at the age of forty-five, taken by typhoid — the partnership severed. Orville lived another thirty-six years. He did not invent during those thirty-six years. He managed. He maintained the legacy of what two minds together had created. What requires two minds cannot survive on one. It can persist. It cannot grow.
 
 The partnership was the achievement. Two minds as one. Not either man alone.
 
@@ -98,7 +98,7 @@ The mind became the laboratory. The involuntary visions became tools. The sympto
 
 But look at the timing. Look at the domino chain that begins with a horse in eighteen sixty-three.
 
-Dane dies. The family relocates. Milutin ages. Nikola develops the involuntary visions and learns to direct them. Fast forward ten years — eighteen seventy-three — and something else happens. Nikola, now seventeen years old, contracts cholera in Gospic. The disease takes root in a body that has been shaped by grief and isolation. He is bedridden for nine months. Nine months in darkness. Nine months of fever and delirium and the absolute certainty that he is dying.
+Dane dies. The family relocates. Milutin ages. Nikola develops the involuntary visions and learns to direct them. Fast forward ten years — eighteen seventy-three — and the bargain takes shape. Nikola, now seventeen years old, contracts cholera in Gospic. The disease takes root in a body that has been shaped by grief and isolation. He is bedridden for nine months. Nine months in darkness. Nine months of fever and delirium and the absolute certainty that he is dying.
 
 Cholera unmakes a body slowly. Through the wall of the sickroom, Nikola could hear the rhythm of his father's prayers — not the words, only the intensity. The desperation of a man who had already lost one son and understood he was about to lose another.
 
@@ -120,7 +120,7 @@ But something has shifted. The visions no longer come as assaults. They come as 
 
 The visualization method — the thing that every textbook credits as the foundation of Tesla's genius — is not an advantage conferred by some fortunate neurology. It is a weapon forged from the violence of loss. It is what a grief-struck boy built to survive. It is the aftereffect of trauma, weaponized and refined until it became indistinguishable from genius.
 
-But there is something else, something that no account adequately addresses. The visualization method requires isolation. It requires the ability to enter a space inside your own mind where you are not distracted. Where you are not collaborating. Where you are not negotiating with another person. Where there is no partner asking questions. No brother suggesting modifications. No second voice offering alternatives.
+But there is an element that no account adequately addresses. The visualization method requires isolation. It requires the ability to enter a space inside your own mind where you are not distracted. Where you are not collaborating. Where you are not negotiating with another person. Where there is no partner asking questions. No brother suggesting modifications. No second voice offering alternatives.
 
 The visualization method is what a person alone can do.
 
@@ -134,7 +134,7 @@ The timeline spirals. Eighteen sixty-three to eighteen seventy-three. The choler
 
 Alternating current.
 
-He visualized it. Tested it in the interior space where he worked. Turned it over, optimized it, watched it hum through his thoughts like a living mechanism. And then he built it. In metal and copper and the voltage that made his hair stand on end.
+He visualized it. Tested it in the interior space where he worked. Turned it over, optimized it, ran it through his thoughts like a living mechanism. And then he built it. In metal and copper and the voltage that made his hair stand on end.
 
 But he built it alone.
 
@@ -154,9 +154,9 @@ The tower is built. The construction proceeds. And then the money stops. Morgan 
 
 And then it is demolished. The government decides that an incomplete structure on a bluff overlooking the Atlantic is a hazard or a waste or a symbol of failure. The tower is taken down. The copper is salvaged. The deep shafts are filled. The structure that existed for half a decade is erased. Returned to the landscape. The landscape does not bear witness to what was built there. The landscape simply absorbs the demolition and continues.
 
-And Tesla watches it happen. A man who has spent years building this tower in his mind before it was ever built in matter, now watches as the matter is disassembled, reclaimed, redistributed. All the years of visualization. All the years of design. All the years of bringing partners into the project, raising capital, managing the construction. All of it reduced to scrap metal.
+And Tesla watches it happen. A man who has spent years building this tower in his mind before it was ever built in matter, now stands as the matter is disassembled, reclaimed, redistributed. All the years of visualization. All the years of design. All the years of bringing partners into the project, raising capital, managing the construction. All of it reduced to scrap metal.
 
-The visualization method could not be shared with the hands-on partners who might have built something greater. Morgan never fully understood what Tesla wanted. The engineers who executed the design could not feel what Tesla felt. They could not see what Tesla saw in his mind. They could only follow the drawings. And the drawings are a translation. The drawings are a loss. Something always dies in translation.
+The visualization method could not be shared with the hands-on partners who might have built something greater. Morgan never fully understood what Tesla wanted. The engineers who executed the design could not inhabit what Tesla carried. They could not enter what Tesla held in his mind. They could only follow the drawings. And the drawings are a translation. The drawings are a loss. Something always dies in translation.
 
 He could not build it with Dane because Dane was not there. He could not build it with anyone else because the people who were there could not see the interior vision clearly enough to defend it when it was threatened.
 
@@ -168,7 +168,7 @@ Room 3327 of the New Yorker Hotel. The pigeons in the park. The white pigeon he 
 
 A psychoanalyst in nineteen thirty-seven, in Manhattan, wrote in his session notes about a patient. A man approximately eighty years old, referred by the hotel physician for persistent insomnia and a disordered attachment to urban wildlife. The man was wealthy. The man was famous. The man was also in the grips of something the psychoanalyst characterized as pathological mourning. Chronic. Treatment-resistant.
 
-In the session, the patient described a recurring dream. In the dream, he was working. There was always a figure to his left — always to his left, never to the right, never directly across from him. And the figure was reaching for the same object that the patient was reaching for. Coordinated. Synchronized. The two working together on the same task, and the patient feeling, in the dream, a sense of completion that he could not achieve while awake.
+In the session, the patient described a recurring dream. In the dream, he was working. There was always a figure to his left — always to his left, never to the right, never directly across from him. And the figure was reaching for the same object that the patient was reaching for. Coordinated. Synchronized. The two working together on the same task, and the dream delivering a completeness that he could not achieve while awake.
 
 When the psychoanalyst asked about family, about loss, about the source of the mourning, the patient became specific. The doctor's notes summarize the response: the patient described an empty chair that he kept beside him at all times. He did not sit in it. He did not remove it. He had arranged his entire life around it, building his work and his solitude into the space that the chair defined. The doctor noted the patient's phrasing — that he did not mourn the person who had occupied the chair. He mourned the fact that the chair had never been occupied at all.
 
