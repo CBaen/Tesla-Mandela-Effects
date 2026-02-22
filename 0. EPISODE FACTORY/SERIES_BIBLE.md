@@ -160,3 +160,28 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
   - "a room that has been holding its breath" — the sealed space behind the buried window
 - **Unique elements:** 1771 Encyclopaedia Britannica Tartary entry, Ortelius/Mercator/Munster map tradition, geological unconformity metaphor, Wardenclyffe architecture as mirror of pre-industrial buildings, Morgan's withdrawal as market defending metered scarcity, Landmarks Commission silence on Singer Building, Tartaria theory simultaneity as Mandela Effect
 - **Names spent:** Nikola Tesla, George Pullman, Abraham Ortelius, Gerard Mercator, Sebastian Munster, Andrew Bell, Colin Macfarquhar, Ernest Flagg, Vincent Scully, J.P. Morgan, Guglielmo Marconi, Winfried Otto Schumann
+
+### 004 — THE TESLA BROTHERS
+- **Wound:** Dane Tesla — the brother the universe removed. Tesla's lifelong loneliness reframed as amputation, not personality
+- **Opening type:** The negation ("This is not about what Nikola Tesla built. This is about who was supposed to help him build it.")
+- **Structural shape:** Single witness (Tesla's entire life is testimony to his brother's erasure — five movements through one absence)
+- **Closing type:** The Witness — Zagreb oral history reframes the episode, then the investigation turns outward to the listener
+- **Emotional endpoint:** Loneliness — not romantic or sentimental, but forensic. The shape of the wound tells you what made it
+- **Tesla connection type:** Direct appearance (Tesla is the episode — his life examined through negative space, through what is missing)
+- **Tesla presence:** Central subject — every major life beat reexamined as evidence of amputation rather than personality
+- **Key locations:** Smiljan village (Croatia), Gospic (Church of Great Martyr George), Colorado Springs, Wardenclyffe/Long Island, New Yorker Hotel Room 3327 (Manhattan), Zagreb Folklore Archive, Gracac (church renovation)
+- **Mandela Effects (primary):** Person erasure (Dane Tesla) — new category. Expands Mandela Effect from objects to people. The accepted narrative (Tesla as solitary genius) is the overwritten version.
+- **Fabricated sources:** Psychoanalyst's session notes, Manhattan 1937 — "N.T." patient, empty chair, reaching to the left (personal diary/journal entry); OAP inventory discrepancy, Item 1247 — "D. Tesla — correspondence, three items" crossed out (declassified government report); Djuka Tesla letter to cousin in Gracac, 1865 — Dane's machine drawings found in his belongings (institutional correspondence/family document); Zagreb Folklore Archive oral history, 1974 — M.K. insists "the Tesla boys" attended church together (oral history/recorded interview transcript)
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "the shape of amputation" — loneliness as surgical removal, not personality
+  - "the empty chair" — psychoanalyst's notes, Tesla building his entire life around an absence
+  - "reaching to his left" — recurring dream of the partner always on the left side
+  - "machines that look like the inside of a clock" — Djuka's letter about Dane's drawings
+  - "the quiet one drew machines while the loud one sang" — Zagreb testimony of complementary brothers
+  - "a weapon forged from the violence of loss" — visualization method as trauma-weapon
+  - "the wound made the instrument" — trauma producing the apparatus of genius
+  - "a horse in summer, in a garden" — the accident scene in Smiljan
+  - "the domino chain" — cascade from Dane's death to alternating current
+  - "the architecture of survival" — building around absence as structural necessity
+- **Unique elements:** Person-erasure as Mandela Effect category, two competing accounts of horse accident (pea-shooter vs unprovoked), visualization method reframed as grief symptom not neurological gift, brother-pair framework (Wright Brothers, Montgolfier Brothers), OAP "D. Tesla" inventory gap, wire-to-tape transfer destroying M.K.'s voice, Djuka's undated machine drawings
+- **Names spent:** Nikola Tesla, Dane Tesla, Milutin Tesla, Djuka Tesla (née Mandic), Angelina Tesla, Milka Tesla, Marica Tesla, Wilbur Wright, Orville Wright, Joseph-Michel Montgolfier, Jacques-Étienne Montgolfier, Thomas Edison, George Westinghouse, J.P. Morgan
