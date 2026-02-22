@@ -70,7 +70,7 @@ ALL THREE EPISODES (001-003) CLEARED FOR TTS. Production-ready. Final editorial 
 | Series Bible | `0. EPISODE FACTORY/SERIES_BIBLE.md` | 2026-02-22 (Episode 004 added) |
 | Voice Reference | `0. EPISODE FACTORY/VOICE_REFERENCE.txt` | 2026-02-16 |
 | Term Violations Definition | `0. EPISODE FACTORY/TERM_VIOLATIONS_DEFINITION.md` | 2026-02-16 |
-| Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-16 |
+| Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-22 |
 | Root CLAUDE.md | `CLAUDE.md` | 2026-02-16 |
 | Decisions Log | `tesla-mandela-decisions.md` | 2026-02-17 |
 | Queue | `tesla-mandela-queue.md` | 2026-02-13 |
