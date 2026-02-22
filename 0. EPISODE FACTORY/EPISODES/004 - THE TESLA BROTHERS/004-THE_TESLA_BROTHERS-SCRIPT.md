@@ -34,7 +34,7 @@ What is certain is this: a boy who was twelve is no longer present. A boy who is
 
 Who was Dane Tesla? The question is almost impossible to answer, because almost no one wrote anything about him. Not biographies. Not letters. Not detailed recollections recorded in later years. What exists is what Nikola said about him — and Nikola spoke of his dead brother with a precision that suggests memory, but which may instead suggest grief. The two states produce indistinguishable language.
 
-Nikola wrote, in the nineteen nineteen serialization of his autobiography My Inventions in the Electrical Experimenter: "I had a brother who was gifted to an extraordinary degree — one of those rare phenomena of mentality which biological investigation has failed to explain. His premature death left my parents disconsolate."
+Nikola wrote, in the nineteen nineteen serialization of his autobiography My Inventions in the Electrical Experimenter: "I had a brother who was gifted to an extraordinary degree; one of those rare phenomena of mentality which biological investigation has failed to explain. His premature death left my parents disconsolate."
 
 That is one sentence. It is almost everything that is on record from someone who was supposed to know him. The rest is inference. The rest is the shape left behind when something is removed.
 
