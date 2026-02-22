@@ -24,7 +24,7 @@ The second account — the one that appears in later documents, in letters betwe
 
 Both accounts agree on one element: the outcome. The horse fell, or the horse struck, or the horse crushed. The specific geometry of impact is not preserved. What is preserved is the result. Dane Tesla did not survive the afternoon.
 
-The autopsy would have been performed. The cause of death would have been recorded. There would be a grave in the churchyard. Milutin would have presided over a funeral service in the Church of Saint Valentin in Smiljan, speaking words from the texts he knew by heart about the brevity of life and the mercy of God. The body would have been committed to the earth. The name would have been inscribed on stone.
+The autopsy would have been performed. The cause of death would have been recorded. There would be a grave in the churchyard. Milutin would have presided over a funeral service in the Church of Saints Peter and Paul in Smiljan, speaking words from the texts he knew by heart about the brevity of life and the mercy of God. The body would have been committed to the earth. The name would have been inscribed on stone.
 
 But the details of what the horse had done — the specific moment, the mechanism of impact, the sequence of events that left a boy breathing one moment and not breathing the next — were not preserved in the record that has survived. There are no photographs. No detailed autopsy reports. No witness statements collected with the forensic thoroughness that modern investigation would demand. There is only the fact of the absence. A boy who was there. A horse. A moment. A boy who was not there anymore.
 
@@ -34,7 +34,7 @@ What is certain is this: a boy who was twelve is no longer present. A boy who is
 
 Who was Dane Tesla? The question is almost impossible to answer, because almost no one wrote anything about him. Not biographies. Not letters. Not detailed recollections recorded in later years. What exists is what Nikola said about him — and Nikola spoke of his dead brother with a precision that suggests memory, but which may instead suggest grief. The two states produce indistinguishable language.
 
-Nikola wrote, in the nineteen nineteen edition of his autobiography My Inventions: "I had a brother who was gifted to an extraordinary degree — one of those rare phenomena of mentality which biological investigation has failed to explain. His premature death left my parents disconsolate."
+Nikola wrote, in the nineteen nineteen serialization of his autobiography My Inventions in the Electrical Experimenter: "I had a brother who was gifted to an extraordinary degree — one of those rare phenomena of mentality which biological investigation has failed to explain. His premature death left my parents disconsolate."
 
 That is one sentence. It is almost everything that is on record from someone who was supposed to know him. The rest is inference. The rest is the shape left behind when something is removed.
 
@@ -98,7 +98,9 @@ The mind became the laboratory. The involuntary visions became tools. The sympto
 
 But look at the timing. Look at the domino chain that begins with a horse in eighteen sixty-three.
 
-Dane dies. The family relocates. Milutin ages. Nikola develops the involuntary visions and learns to direct them. Fast forward ten years — eighteen seventy-three — and the bargain takes shape. Nikola, now seventeen years old, contracts cholera in Gospic. The disease takes root in a body that has been shaped by grief and isolation. He is bedridden for nine months. Nine months in darkness. Nine months of fever and delirium and the absolute certainty that he is dying.
+Dane dies. The family relocates. Milutin ages. Nikola develops the involuntary visions and learns to direct them.
+
+Eighteen seventy-three. Nikola is seventeen years old. He contracts cholera in Gospic. The disease takes root in a body that has been shaped by grief and isolation. He is bedridden for nine months. Nine months in darkness. Nine months of fever and delirium and the absolute certainty that he is dying.
 
 Cholera unmakes a body slowly. Through the wall of the sickroom, Nikola could hear the rhythm of his father's prayers — not the words, only the intensity. The desperation of a man who had already lost one son and understood he was about to lose another.
 
@@ -130,7 +132,7 @@ Instead, there was only Nikola. Only the visions. Only the method that required 
 
 This is not inspiring. This is not the story of a lone genius choosing solitude for the sake of his work. This is the story of a man whose genius was necessarily solitary because the person who might have made it collaborative — the person who might have added friction, insight, challenge, and complementary thought — had been taken by a horse fifty-six years before the work would begin.
 
-The timeline spirals. Eighteen sixty-three to eighteen seventy-three. The cholera. The bargain. Graz. Engineering school. Three years before the scholarship dried up. No degree. The jobs that followed. The obsession with a problem he could solve in his mind but could not build with his hands alone.
+The timeline spirals. Eighteen sixty-three to eighteen seventy-three. The cholera. The bargain. The Austrian Polytechnic in Graz. Three years before the scholarship dried up. No degree. The jobs that followed. The obsession with a problem he could solve in his mind but could not build with his hands alone.
 
 Alternating current.
 
@@ -150,7 +152,7 @@ And then he turns it off. The equipment goes dead. The lightning ceases. The des
 
 Wardenclyffe, nineteen oh one to nineteen oh five. Long Island. The tower rises from the bluff overlooking the Atlantic. The design exists nowhere but in Tesla's mind and in the drawings that attempt to represent it. A tower taller than any structure that has been built in the region. A dome of copper at its apex. Deep shafts sunk into the earth. The design is supposed to transmit wireless power. Not wireless signals — power. Imagine a future where electricity flows through the air itself, broadcast from a tower like radio waves, captured by receivers, used to power the machines of civilization. Imagine a world where the cables and the wires are no longer necessary. Where a factory can draw power from the air. Where the world remade by electricity can be remade again — simplified, liberated, freed from the infrastructure of wires.
 
-The tower is built. The construction proceeds. And then the money stops. Morgan funds the project but not sufficiently. The telegraph magnate understands investment, understands return, understands that a finished project is worth millions and an incomplete project is worth nothing. The tower is not finished. The systems are not complete. The wireless power remains theoretical. Morgan withdraws his investment. The tower stands incomplete. A monument to the idea rather than the implementation.
+The tower is built. The construction proceeds. And then the money stops. Morgan funds the project but not sufficiently. The financier understands investment, understands return, understands that a finished project is worth millions and an incomplete project is worth nothing. The tower is not finished. The systems are not complete. The wireless power remains theoretical. Morgan withdraws his investment. The tower stands incomplete. A monument to the idea rather than the implementation.
 
 And then it is demolished. The government decides that an incomplete structure on a bluff overlooking the Atlantic is a hazard or a waste or a symbol of failure. The tower is taken down. The copper is salvaged. The deep shafts are filled. The structure that existed for half a decade is erased. Returned to the landscape. The landscape does not bear witness to what was built there. The landscape simply absorbs the demolition and continues.
 

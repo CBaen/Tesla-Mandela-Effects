@@ -6,7 +6,7 @@ It does not stop.
 
 You are standing on the lunar surface. November, nineteen sixty-nine. Silence in the absolute sense — not the silence of a quiet room but the silence of no medium at all, the silence of vacuum pressing against your suit from every direction. The suit hisses with recycled air. That is the only sound. That is the only sound that will ever reach you here. Everything else requires a medium, and there is no medium. There is only regolith beneath your boots and vacuum above your helmet and, four hundred thousand kilometers away, a planet you were born on.
 
-Then the impact. Forty miles away. One ton of TNT.
+Then the impact. Forty miles away. Eleven tons of TNT.
 
 You do not hear it. You will never hear it. But you feel the ground change beneath you — a slow wave, arriving from the distance, not the sharp convulsive jolt you expected, not the crack of a struck surface. Something else. A deepening. The regolith transmits the energy in a way that soil does not. In a way that rock does not. In a way that has no precedent in anything you were taught about planetary bodies.
 
@@ -30,7 +30,7 @@ The ground has been resonating for thirty minutes.
 
 There is a word for an object that sustains vibration this way. The word is bell.
 
-November, nineteen sixty-nine. The lunar surface, Oceanus Procellarum — the Ocean of Storms, the vast dark plain on the western face of the Moon that Earth always sees because the Moon always shows the same face. The Lunar Module ascent stage from Apollo twelve has just been deliberately crashed into the surface by mission controllers four hundred thousand kilometers away. The crew had already departed. The hardware was expended. The impact was the point — the point being to generate a seismic event of known magnitude at a known distance from instruments that were designed to measure the Moon's interior response.
+November, nineteen sixty-nine. The lunar surface, Oceanus Procellarum — the Ocean of Storms, the vast dark plain on the western face of the Moon that Earth always sees because the Moon always shows the same face. The Saturn V third stage — the S-IVB, the spent upper rocket that had pushed the crew toward the Moon — has just been deliberately crashed into the surface by mission controllers four hundred thousand kilometers away. The crew had already departed. The hardware was expended. The impact was the point — the point being to generate a seismic event of known magnitude at a known distance from instruments that were designed to measure the Moon's interior response.
 
 The seismometers left behind by the crew were transmitting in real time. They were designed to detect moonquakes, micrometeorite strikes, the internal groan of a settling body. They were not designed for what they recorded.
 
@@ -38,7 +38,7 @@ The scientists at NASA's Manned Spacecraft Center in Houston were not watching f
 
 The graph does not return to stillness.
 
-It builds. Over eight minutes, the amplitude climbs. The wave is not dispersing — it is accumulating, as if the energy has nowhere to absorb into, as if the interior of the object is reflecting it back rather than receiving it. The wave peaks. And then the line descends — but it descends over fifty-five minutes. The seismometers register motion for nearly an hour after a one-ton impact forty miles away.
+It builds. Over eight minutes, the amplitude climbs. The wave is not dispersing — it is accumulating, as if the energy has nowhere to absorb into, as if the interior of the object is reflecting it back rather than receiving it. The wave peaks. And then the line descends — but it descends over fifty-five minutes. The seismometers register motion for nearly an hour after an eleven-ton impact forty miles away.
 
 The scientist who described the result first reached for the image of a bell. The Moon had rung, he said — and not stopped ringing.
 
@@ -132,7 +132,7 @@ He asked the question that the data had been asking since November: —"If the i
 
 The letter has not been authenticated by any institution. It has not been denied. It exists in the papers of one scientist, referenced to another, with no institutional imprimatur and no way to verify the provenance beyond the physical document itself. It is the kind of record that accumulates in the gap between the official archive and the private conversation — a letter that two professionals wrote when the data had outrun their willingness to say it in print.
 
-Whether the letter is genuine or not, the question it contains is genuine. The data it describes is verifiable. And the answer to its central question — what are we standing on — has not been formally delivered in the fifty-six years since it was written.
+Whether the letter is genuine or not, the question it contains is genuine. The data it describes is verifiable. And the answer to its central question — what are we standing on — has not been formally delivered in the fifty-seven years since it was written.
 
 The bell rang. The density profile does not differentiate. The craters are too shallow. The mascons cluster where geology does not predict. The surface changes in ways no settled body should, recorded by thousands of observers across a thousand years.
 
@@ -360,9 +360,9 @@ But the quality of simultaneous recognition — the fact that the color report a
 
 Consider what the pattern describes. The recognition has arrived before for architecture. Millions of people, across cultures and languages, without coordination and without a shared source, arrived at the same architectural grief: that the buildings they move through were not the buildings they were told, that the ground beneath them had been raised over something that had been present before. The simultaneity of that grief was the anomaly. Not the buildings. Not the floors. The fact that everyone noticed at once, without being told to notice.
 
-The recognition has arrived before for language. The spelling had been one thing and was another. The bear's name had been one thing and was another. Memory and record diverged, and the divergence was global and coordinated and could not be explained by ordinary mechanisms of false memory, which operate on individuals one at a time, not on populations simultaneously. The scalpel, if that is what it was, cuts one patient at a time. False memory does not cut an uncounted number of patients the same way on the same day.
+The recognition has arrived before for language. The spelling had been one thing and was another. The bear's name had been one thing and was another. Memory and record diverged, and the divergence was global and coordinated and could not be explained by ordinary mechanisms of false memory, which operate on individuals one at a time, not on populations simultaneously. A false memory moves through a single host at a time — one receiver, one mind, one private distortion that carries no signal to the person standing beside it. False memory does not propagate through an uncounted number of hosts the same way on the same day.
 
-The recognition has arrived before for people. Dane Tesla is there in the record and then he is not, and the not-there is smooth, the way every overwritten thing is smooth — no seam visible, no edge to catch, the surface closed over the gap as if the gap had never been open. The recognition that someone was missing arrived across the population simultaneously, and the arrival was collective.
+The recognition has arrived before for people. Dane Tesla — Nikola's older brother, dead at twelve, a boy the family record placed in Smiljan and then erased from the story of the genius who followed — is there in the record and then he is not, and the not-there is smooth, the way every overwritten thing is smooth — no seam visible, no edge to catch, the surface closed over the gap as if the gap had never been open. The recognition that someone was missing arrived across the population simultaneously, and the arrival was collective.
 
 The pattern is not random. The pattern describes a process. Something moves through a category of reality — architecture, language, people, sky — and when it moves, it leaves two things behind. The altered version, which is new and clean and offers no resistance to examination. And the residue of the original, which persists in the memory of the people who were present before the alteration was complete, and which they report when they compare what they remember to what they find.
 
@@ -386,7 +386,7 @@ Random. Undesigned. An accident.
 
 But here is what the accident produced.
 
-The accident produced an object whose interior density profile does not show the expected gradient of natural accretion — anomalously uniform where differentiation should have occurred, lacking the heavy core that every analogous body in the solar system carries, as if the process that builds mass inward had been interrupted or never completed. The accident produced an object that, when struck with the equivalent of one ton of TNT, sustains resonance for fifty-five minutes rather than dissipating energy through its mass — the behavior of a hollow vessel, not of a solid body built from accreted debris. The accident produced an object whose outer regolith contains concentrations of titanium and chromium at levels that are anomalous for a body that should have formed from the same mixed composition as its parent planet — concentrations of aerospace-grade metals in the outer surface, the layer that would need to be structurally durable if the object were designed to withstand deep time.
+The accident produced an object whose interior density profile does not show the expected gradient of natural accretion — anomalously uniform where differentiation should have occurred, lacking the heavy core that every analogous body in the solar system carries, as if the process that builds mass inward had been interrupted or never completed. The accident produced an object that, when struck with the equivalent of eleven tons of TNT, sustains resonance for fifty-five minutes rather than dissipating energy through its mass — the behavior of a hollow vessel, not of a solid body built from accreted debris. The accident produced an object whose outer regolith contains concentrations of titanium and chromium at levels that are anomalous for a body that should have formed from the same mixed composition as its parent planet — concentrations of aerospace-grade metals in the outer surface, the layer that would need to be structurally durable if the object were designed to withstand deep time.
 
 The accident produced an object whose diameter is roughly four hundred times smaller than the nearest star, positioned at roughly the same ratio of distance — the two numbers different enough that a mathematician would not call them equal, close enough that the geometry they produce is what it is: total solar eclipses in which the corona blazes out around an occluded disc, the star hidden, the atmosphere revealed. A ratio that does not need to be exact to do what it does, and does not need to do what it does for any reason the physics of accretion can supply. The coincidence is noted. It is filed. It is not explained.
 
@@ -482,7 +482,7 @@ Now ask the question that the safe explanation cannot answer and the conspiracy 
 
 Is the object you are looking at tonight the same object you looked at as a child?
 
-Not the same in the sense of orbit and mass and composition — those are categories for scientists, and the scientists have been sitting with the anomaly for fifty-six years and have not delivered the answer. The same in the sense that matters to the part of you that carries memory, that holds the record of what the sky used to look like before something — accident or design, randomness or intention, the undirected process or the engineered outcome, they are indistinguishable now, they have always been indistinguishable — before something changed.
+Not the same in the sense of orbit and mass and composition — those are categories for scientists, and the scientists have been sitting with the anomaly for fifty-seven years and have not delivered the answer. The same in the sense that matters to the part of you that carries memory, that holds the record of what the sky used to look like before something — accident or design, randomness or intention, the undirected process or the engineered outcome, they are indistinguishable now, they have always been indistinguishable — before something changed.
 
 You have been looking up your entire life.
 
