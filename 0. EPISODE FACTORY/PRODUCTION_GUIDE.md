@@ -202,6 +202,8 @@ Audio is linear. Listeners cannot flip back to reorient themselves. When the nar
 <episode_structure>
 Every episode is standalone. A listener can begin at any episode and miss nothing. There is no chronological order. There is no "previously on."
 
+**No episode may reference another episode.** Not by number ("In Episode Two..."), not by title, not by concept ("as we explored previously..."), not by assumed shared knowledge. If a phenomenon from another episode serves the current episode, present it fresh — as something that exists in the world, not as something covered in a prior installment. The listener has never heard another episode. Every episode is entry point zero.
+
 The structure is a spiral, not a timeline:
 
 **The Opening Hook.** The first sentence creates vertigo or wrongness. Never open with a date or location. Open with a mystery, a question, a provocation, an image that shouldn't exist. This is non-negotiable — the opening must make the listener unable to stop.

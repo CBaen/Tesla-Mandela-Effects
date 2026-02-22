@@ -162,7 +162,7 @@ In fifty million years, this specific geometry ends.
 
 And in fifty million years of the past — fifty million years ago, when the Moon was closer — the disc was too large. The Moon covered not just the Sun but the corona. No ring of fire. Total darkness. A different geometry entirely.
 
-We exist in the narrow window. The only window during which this precise coincidence holds. Of all the time the Moon has orbited this planet — four and a half billion years, give or take — we happen to exist in the sliver during which the geometry is exact.
+We exist in the narrow window. The only window during which this precise coincidence holds. Of all the time the Moon has orbited this planet — four and a half billion years, give or take — we happen to exist in the sliver during which the geometry is exact. A window of viability, like the specific range of temperature and chemistry inside which cell division is possible — too far in either direction and the conditions no longer support the process. The Moon is in that range. We are in that range. The overlap is the fact.
 
 The probability of landing in the window by chance depends on how wide the window is. Total eclipses of this precise geometry require the two ratios to be within a few percent of each other. At the current recession rate, that window is perhaps a hundred million years wide out of four and a half billion years of lunar history. A narrow margin. A small target.
 
@@ -190,7 +190,7 @@ The Moon holds the tilt there.
 
 Without the gravitational influence of the Moon — its mass, its position, its specific orbital relationship with Earth — the axial tilt would not remain at twenty-three point five degrees. Computer modeling of Earth's rotational dynamics without the Moon shows the tilt varying chaotically between zero degrees and eighty-five degrees over millions of years. Zero degrees means no seasons — uniform illumination at every latitude year-round. Eighty-five degrees means extreme seasons — near-permanent sunlight in summer at the poles, near-permanent darkness in winter, temperature swings too violent for most complex life.
 
-Without the Moon, Earth is a different world. A world where the axis wanders and the climate follows. A world that may not have produced the stable, predictable seasonal cycles that complex multicellular life appears to require. A world that may not have produced you.
+Without the Moon, Earth is a different world. A world where the axis wanders and the climate follows. A world that may not have produced the stable, predictable seasonal cycles that complex multicellular life appears to require. A world that may not have produced you. The Moon holds the planet upright the way a column of bone holds an organism — not actively, not by force, but by being exactly where it needs to be, providing the structural counterweight that allows the system above it to maintain its orientation. Remove it, and the whole architecture collapses into wobble. Into chaos. Into a tilt that serves nothing but its own variation.
 
 The Moon does not merely orbit. It actively participates in the conditions that allow the things standing beneath it to exist.
 
