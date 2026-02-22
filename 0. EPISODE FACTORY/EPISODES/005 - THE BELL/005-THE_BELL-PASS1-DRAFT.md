@@ -22,11 +22,15 @@ It does not fade the way vibration fades. It does not lose amplitude the way ene
 
 Fifty-five minutes after a one-ton impact, the lunar surface is still moving.
 
-You place your gloved hand on the surface. The regolith is cold in the way that objects in shadow are cold when there is no atmosphere to moderate the temperature — the specific, terminal cold of a thing that has never been warmed. And the surface is trembling. Finely. Persistently. A resonance that will not quit.
+You place your gloved hand on the surface. The regolith is cold in the way that objects in shadow are cold when there is no atmosphere to moderate the temperature — the specific, terminal cold of a thing that has never been warmed by anything closer than the Sun, filtered through nothing, accumulated across geological time into a chill that predates your species by billions of years. And the surface is trembling. Finely. Persistently. A resonance that will not quit.
+
+This is not the aftershock of an earthquake, fading as the energy dissipates outward into the planet's mass. That is what you trained for. That is what every simulation prepared you to measure. This is the opposite. The energy is not going anywhere. The object is holding it. Sustaining it. The way a struck tuning fork sustains its note in air — except there is no air. And a tuning fork stops resonating in seconds.
+
+The ground has been resonating for thirty minutes.
 
 There is a word for an object that sustains vibration this way. The word is bell.
 
-November, nineteen sixty-nine. The lunar surface, Fra Mauro highlands region. The Lunar Module ascent stage from Apollo twelve has just been deliberately crashed into the surface by mission controllers four hundred thousand kilometers away. The crew had already departed. The hardware was expended. The impact was the point — the point being to generate a seismic event of known magnitude at a known distance from instruments that were designed to measure the Moon's interior response.
+November, nineteen sixty-nine. The lunar surface, Oceanus Procellarum — the Ocean of Storms, the vast dark plain on the western face of the Moon that Earth always sees because the Moon always shows the same face. The Lunar Module ascent stage from Apollo twelve has just been deliberately crashed into the surface by mission controllers four hundred thousand kilometers away. The crew had already departed. The hardware was expended. The impact was the point — the point being to generate a seismic event of known magnitude at a known distance from instruments that were designed to measure the Moon's interior response.
 
 The seismometers left behind by the crew were transmitting in real time. They were designed to detect moonquakes, micrometeorite strikes, the internal groan of a settling body. They were not designed for what they recorded.
 
@@ -70,7 +74,7 @@ The lunar surface is covered in impact craters. Some are enormous — structures
 
 Lunar craters are not deep.
 
-The Clavius crater is one hundred and forty-five miles wide. It is three miles deep. The Mare Imbrium basin is seven hundred miles wide. It is six miles deep. A crater sixty times wider than it is deep. Across the entire lunar surface, the same pattern holds — vast in diameter, shallow in depth, as if something beneath the regolith absorbed the initial energy of the impact and then stopped. As if the impactor encountered resistance at a certain depth and could not continue.
+The Clavius crater is approximately one hundred and forty miles wide. It is less than three miles deep. Impact craters on Earth, for comparable widths, run significantly deeper — the physics of impact dictate that the energy must go somewhere, and somewhere is down. The Moon's largest craters are shallow in a way that cannot be explained by the difference in impactor size or velocity alone. Across the entire lunar surface, the same pattern holds — vast in diameter, shallow in depth, as if something beneath the regolith absorbed the initial energy of the impact and then stopped. As if the impactor encountered resistance at a certain depth and could not continue.
 
 The accepted explanation is isostatic rebound — the crust, under the enormous heat and pressure of a major impact, behaving plastically rather than fracturing, flowing back to fill the deepened cavity. The explanation is scientifically reasonable. It fits some of the data.
 
