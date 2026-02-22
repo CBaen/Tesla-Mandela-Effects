@@ -204,7 +204,7 @@ Nineteen forty-five. Two years after the seizure. An office in Washington, quiet
 
 The Tesla file was included. Researchers who have examined what is available from this period of the Office of Alien Property's records have documented a discrepancy in the Tesla accounting. The number of trunks logged at the New Yorker Hotel on January seventh, nineteen forty-three, does not match the number transferred to the Manhattan Storage and Warehouse Company. The intake record and the transfer record do not agree.
 
-The gap was flagged. The recommendation, in the neutral language of bureaucratic procedure, was reconciliation. Investigate. Account for the difference. Determine whether trunks were lost, damaged, or diverted to a separate facility. Close the discrepancy.
+The gap was flagged. The recommendation, in the neutral language of bureaucratic procedure, was reconciliation. Investigate. Account for the difference. Determine whether trunks were lost, damaged, or diverted to a separate facility. Close the discrepancy. The discrepancy had the look of a wound that had been sutured before anyone was allowed to examine it — the edges sealed, the interior inaccessible, the record of the damage still visible in the marks on either side.
 
 In one copy of the accounting that has circulated among researchers, below the typed recommendation, a marginal note appears in a handwriting that does not match the rest of the document. A declaration of resolution. A short phrase indicating the matter was closed and required no further action.
 
