@@ -34,7 +34,7 @@ November, nineteen sixty-nine. The lunar surface, Oceanus Procellarum — the Oc
 
 The seismometers left behind by the crew were transmitting in real time. They were designed to detect moonquakes, micrometeorite strikes, the internal groan of a settling body. They were not designed for what they recorded.
 
-The scientists at NASA's Manned Spacecraft Center in Houston were not watching for anomalies. They were watching for a particular shape. The shape of energy dissipation. A spike followed by a decay curve — energy dropping off as the medium absorbs it, the graph line returning to baseline within seconds or minutes. This is how solid planets respond. This is how the Earth responds to a surface impact. Strike it, and the energy moves through it, distributes through the mass, converts to heat, and the record returns to stillness.
+The scientists at NASA's Manned Spacecraft Center in Houston were not watching for anomalies. They were watching for a particular shape. The shape of energy dissipation. A spike followed by a decay curve — energy dropping off as the medium absorbs it, the graph line returning to baseline within seconds or minutes. Solid planets respond this way. Earth responds this way. Strike it, and the energy moves through it, distributes through the mass, converts to heat, and the record returns to stillness.
 
 The graph does not return to stillness.
 
@@ -48,7 +48,7 @@ The data was filed. The experiments were recorded. The scientific papers were pu
 
 But the question the data raises has never received a formal answer. What rings?
 
-A struck surface returns energy to baseline quickly when the medium is dense and continuous. Energy has paths. It distributes through the mass, converting to heat at the molecular level, dispersing until the system achieves equilibrium. The more uniform and dense the material, the faster it absorbs. This is not a conjecture. This is the behavior of matter under impact — measured, tested, reproduced in laboratories for three centuries. Strike a solid sphere of granite and the vibration is gone in seconds. Strike a solid sphere of iron and it is gone in a minute. Strike a solid body the size of the Moon and the decay curves are rapid. The mass is too great. The material is too dense. The energy has too many pathways to disperse through.
+A struck surface returns energy to baseline quickly when the medium is dense and continuous. Energy has paths. It distributes through the mass, converting to heat at the molecular level, dispersing until the system achieves equilibrium. The more uniform and dense the material, the faster it absorbs. Not a conjecture. The behavior of matter under impact — measured, tested, reproduced in laboratories for three centuries. Strike a solid sphere of granite and the vibration is gone in seconds. Strike a solid sphere of iron and it is gone in a minute. Strike a solid body the size of the Moon and the decay curves are rapid. The mass is too great. The material is too dense. The energy has too many pathways to disperse through.
 
 A hollow object behaves differently. When you strike a hollow sphere, the energy has nowhere to absorb into. It reflects. It reverberates against the inner surface. It sustains. The vibration builds before it fades. The decay takes minutes, not seconds, because the energy cannot escape into a mass that isn't there.
 
@@ -128,11 +128,11 @@ The seismologist wrote — and the letter was found in the Massachusetts colleag
 
 He asked the question that the data had been asking since November: —"If the interior is not what we assumed, what are we standing on?"—
 
-The letter has not been authenticated by the Jet Propulsion Laboratory. It has not been denied. It exists in the papers of one scientist, referenced to another, with no institutional imprimatur and no way to verify the provenance beyond the physical document itself. It is the kind of record that accumulates in the gap between the official archive and the private conversation — a letter that two professionals wrote when the data had outrun their willingness to say it in print.
+The letter has not been authenticated by any institution. It has not been denied. It exists in the papers of one scientist, referenced to another, with no institutional imprimatur and no way to verify the provenance beyond the physical document itself. It is the kind of record that accumulates in the gap between the official archive and the private conversation — a letter that two professionals wrote when the data had outrun their willingness to say it in print.
 
 Whether the letter is genuine or not, the question it contains is genuine. The data it describes is verifiable. And the answer to its central question — what are we standing on — has not been formally delivered in the fifty-six years since it was written.
 
-The bell rang. The density profile inverts. The craters are too shallow. The mascons cluster where geology does not predict. The surface changes in ways no settled body should, recorded by thousands of observers across a thousand years.
+The bell rang. The density profile does not differentiate. The craters are too shallow. The mascons cluster where geology does not predict. The surface changes in ways no settled body should, recorded by thousands of observers across a thousand years.
 
 The investigation does not end here.
 
@@ -328,7 +328,7 @@ This is the most common report. Not an occasional anomaly, not a regional curios
 
 The meteorologists have an explanation. They have always had an explanation. The orientation of the crescent changes with latitude. It changes with season. It changes with the hour of the observation and the position of the observer relative to the equator and the horizon. A crescent seen from the northern hemisphere in December at ten in the evening is oriented differently than the same crescent seen from the same location in July at nine. The geometry is real. The explanation is real. The Moon's apparent orientation shifts, and the shift is predictable, and the shift is documented in any decent astronomy guide that has existed for as long as astronomy guides have been written.
 
-The explanation does not account for why millions of people noticed simultaneously.
+The explanation does not account for why observers at this scale noticed simultaneously.
 
 Explanation and recognition are not the same phenomenon. An explanation for why a thing is possible does not explain why, at a particular moment in recent history, a critical mass of people all noticed the same wrongness at the same time. The crescent has been doing this for as long as the Moon has orbited the Earth. But the noticing did not scale until now. The reports did not accumulate until now. The collective attention did not converge on this specific quality of wrongness until a particular window — and in that window, something that had been individual became shared.
 
@@ -358,7 +358,7 @@ But the quality of simultaneous recognition — the fact that the color report a
 
 Consider what the pattern describes. In Episode Two, the recognition arrived for the ground. Millions of people across every culture and language, without coordination, without a shared source, arrived at the same architectural grief: that the buildings they move through were not the buildings they were told, that the ground beneath them had been raised over something that had been present before. The simultaneity of that grief was the anomaly. Not the buildings. Not the floors. The fact that everyone noticed at once.
 
-In Episode Three, the recognition arrived for the past itself. The spelling had been one thing and was another. The bear's name was one thing and was another. Memory and record diverged, and the divergence was global and coordinated and could not be explained by ordinary mechanisms of false memory, which operate on individuals one at a time, not on populations simultaneously. The scalpel, if that is what it was, cuts one patient at a time. False memory does not cut a hundred million patients the same way on the same day.
+In Episode Three, the recognition arrived for the past itself. The spelling had been one thing and was another. The bear's name was one thing and was another. Memory and record diverged, and the divergence was global and coordinated and could not be explained by ordinary mechanisms of false memory, which operate on individuals one at a time, not on populations simultaneously. The scalpel, if that is what it was, cuts one patient at a time. False memory does not cut an uncounted number of patients the same way on the same day.
 
 In Episode Four, the recognition arrived for people. Dane Tesla is there in the record and then he is not, and the not-there is smooth, the way every overwritten thing is smooth — no seam visible, no edge to catch, the surface closed over the gap as if the gap had never been open. The recognition that someone was missing arrived, and the arrival was collective.
 
