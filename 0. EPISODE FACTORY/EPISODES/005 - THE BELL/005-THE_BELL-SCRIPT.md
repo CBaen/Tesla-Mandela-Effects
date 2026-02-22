@@ -22,9 +22,9 @@ It does not fade the way vibration fades. It does not lose amplitude the way ene
 
 Fifty-five minutes after a one-ton impact, the lunar surface is still moving.
 
-You place your gloved hand on the surface. The regolith is cold in the way that objects in shadow are cold when there is no atmosphere to moderate the temperature — the specific, terminal cold of a thing that has never been warmed by anything closer than the Sun, filtered through nothing, accumulated across geological time into a chill that predates your species by billions of years. And the surface is trembling. Finely. Persistently. A resonance that will not quit.
+You place your gloved hand on the surface. The regolith is cold in the way that objects in shadow are cold when there is no atmosphere to moderate the temperature — the specific, terminal cold of a thing that has never been warmed by anything closer than the Sun, filtered through nothing, accumulated across geological time into a chill that predates your species by billions of years. And the surface is trembling. Finely. Persistently. A resonance that will not quit. Not the diminishing tremor of a body spending its energy — the persistent vibration of a system that has taken the impact in and cannot process it, the way an organism holds a fever rather than breaking one, sustaining the heat because whatever produced it is still present, still active, the system still locked in a reaction it cannot resolve.
 
-This is not the aftershock of an earthquake, fading as the energy dissipates outward into the planet's mass. That is what you trained for. That is what every simulation prepared you to measure. This is the opposite. The energy is not going anywhere. The object is holding it. Sustaining it. The way a struck tuning fork sustains its note in air — except there is no air. And a tuning fork stops resonating in seconds.
+This is not the aftershock of an earthquake, fading as the energy dissipates outward into the planet's mass. That is what you trained for. That is what every simulation prepared you to measure. This is the opposite. The energy is not going anywhere. The object is holding it. Sustaining it. The way a struck tuning fork sustains its note in air — except there is no air. And a tuning fork stops resonating in seconds. Whatever this object is sustaining, it is sustaining the way swollen tissue sustains pressure — not passively, not simply because nothing has moved it, but because something inside the structure has not yet released what the impact gave it.
 
 The ground has been resonating for thirty minutes.
 
@@ -296,7 +296,7 @@ They are about to converge.
 
 The bell describes an object that resonates. Not an object that vibrates briefly and returns to stillness, the way all solid things return to stillness — but an object that sustains vibration, that holds the energy of an impact and carries it forward for nearly an hour, that behaves the way a hollow vessel behaves when something strikes it hard enough to make it sing. The bell asks a structural question: what is the interior made of? The answer the data returns, over four separate experiments across six years, is that the interior lacks the density and differentiation that natural formation predicts — a body that resonates like a shell because it may, in some configuration, be structured like one.
 
-The geometry describes an object that is placed. Not merely present, not merely large — positioned with a precision that orbital mechanics does not require and cannot explain as coincidence. Four hundred times smaller. Four hundred times closer. The ratio that produces the one geometry in the solar system where a smaller body can completely occlude a larger one while revealing its corona — the one eclipse geometry that looks, to any observer with enough mathematical background to recognize it, like something that was calibrated. And the placement is not permanent. It exists in a window. The Moon has been receding since it arrived in its orbit. Fifty million years from now, the calibration will be gone. The eclipse geometry will be impossible. Whatever the window was designed for — or whatever accident produced it — operates only in this narrow span of geological time. In which we happen to exist.
+The geometry describes an object that is placed. Not merely present, not merely large — positioned with a precision that orbital mechanics does not require and cannot explain as coincidence. Roughly four hundred times smaller. Roughly four hundred times farther. The ratio that produces the one geometry in the solar system where a smaller body can completely occlude a larger one while revealing its corona — the one eclipse geometry that looks, to any observer with enough mathematical background to recognize it, like something that was calibrated. And the placement is not permanent. It exists in a window. The Moon has been receding since it arrived in its orbit. Fifty million years from now, the calibration will be gone. The eclipse geometry will be impossible. Whatever the window was designed for — or whatever accident produced it — operates only in this narrow span of geological time. In which we happen to exist.
 
 The silence describes a scientist. Not a fringe figure. Not an enthusiast with a shortwave radio and a theory. One of the most credentialed electrical engineers the twentieth century produced — the man who designed the alternating current system that still powers the civilized world. This scientist published a paper in nineteen nineteen arguing that the Moon does not rotate. That it merely revolves. That its behavior is not the behavior of an independent body spinning on its own axis but of something that has been — his word is not used, but the mathematics implies it — locked. Held. Oriented with deliberate consistency toward a single face of a single planet in a solar system of eight planets and the hundreds of known moons orbiting the outer planets.
 
@@ -446,7 +446,7 @@ Three lines. One point.
 
 A scientist who had spent his life translating signals from physics into electricity, from electricity into transmission, from transmission into the possibility of contact — this scientist received what might have been a contact event, published what might have been an analysis of the contacted object, and was silenced before the synthesis could be delivered.
 
-The synthesis exists somewhere. In the eighty trunks or in what was removed from the eighty trunks before the inventory was completed, in the notebook page photographed during the initial seizure and never released — the outer circle labeled shell, the inner circle labeled cavity, the numbers between them that do not correspond to any known patent or published work.
+The synthesis exists somewhere. In the eighty trunks or in what was removed from the eighty trunks before the inventory was completed, in the diagram page that survived only in a copy no one was meant to keep — the outer circle labeled shell, the inner circle labeled cavity, the numbers between them that do not correspond to any known patent or published work.
 
 The shell. The cavity. The numbers.
 
@@ -497,6 +497,8 @@ Mikhail → Mikh-ah-EEL → /M IH0 K AY1 EH0 L/
 Shcherbakov → Shcher-bah-KOFF → /SH CH EH0 R B AH0 K AW1 F/
 
 Aristarchus → Ah-rih-STAR-kus → /EH2 R IH0 S T AA1 R K AH0 S/
+
+Alphonsus → Al-FON-sus → /AE0 L F AA1 N S AH0 S/
 
 Kozyrev → Ko-ZEE-rev → /K OW0 Z IY1 R EH0 V/
 
