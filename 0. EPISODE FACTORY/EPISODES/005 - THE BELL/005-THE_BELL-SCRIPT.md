@@ -40,7 +40,7 @@ The graph does not return to stillness.
 
 It builds. Over eight minutes, the amplitude climbs. The wave is not dispersing — it is accumulating, as if the energy has nowhere to absorb into, as if the interior of the object is reflecting it back rather than receiving it. The wave peaks. And then the line descends — but it descends over fifty-five minutes. The seismometers register motion for nearly an hour after a one-ton impact forty miles away.
 
-The scientist who said it first said it plainly: —"The Moon rang like a bell."—
+The scientist who described the result first reached for the image of a bell. The Moon had rung, he said — and not stopped ringing.
 
 The experiment was not a one-time measurement. Mission controllers crashed hardware into the Moon again with Apollo thirteen. The result was the same. Apollo fourteen. The same. Apollo fifteen. The same pattern each time — the building wave, the long resonance, the record that would not return to baseline, the surface that would not stop ringing. Four separate impacts. Four separate instrument packages. Four confirmations of the same anomaly, across different impact locations, different instrument placements, different mission years.
 
@@ -54,7 +54,7 @@ A hollow object behaves differently. When you strike a hollow sphere, the energy
 
 The Moon rang for fifty-five minutes.
 
-Now consider what the density numbers say.
+The density numbers say something specific.
 
 The Moon's average density is three point three four grams per cubic centimeter. Earth's average density is five point five two. By comparison, the gap seems moderate. It is not moderate. These two numbers describe two completely different structures. The Earth is dense because its iron-nickel core — a solid sphere approximately two thousand four hundred kilometers in radius — pulls the whole-body average upward. Strip the core out, and the Earth's outer layers would produce a density figure not far from the Moon's.
 
@@ -68,7 +68,7 @@ The moment of inertia calculations — this is not contested data, this is estab
 
 This is not a fringe argument. This is the data. The seismic anomaly, the density profile, the moment of inertia — these are findings published in NASA's own literature, in the journals of planetary science, and they describe an object that does not behave the way a naturally formed solid body should behave.
 
-Now consider the craters.
+The craters add a third data point.
 
 The lunar surface is covered in impact craters. Some are enormous — structures one hundred, one hundred and fifty, two hundred miles wide. When an object strikes a body with sufficient energy to carve a crater two hundred miles across, the physics of impact predict a depth proportional to that diameter. The energy has to go somewhere. The material has to displace. The resulting structure should be deep — far deeper than its width is wide, because the impactor is punching through, not splashing across.
 
@@ -166,7 +166,7 @@ The probability of landing in the window by chance depends on how wide the windo
 
 Is the window a coincidence? Or is the window a specification?
 
-Now consider what the Moon does to the planet beneath it.
+But the Moon does more than orbit.
 
 The Moon's rotation period equals its orbital period. Twenty-seven point three days to rotate once. Twenty-seven point three days to orbit once. The angular velocities are matched to the millisecond. The consequence: the same face of the Moon always points at Earth. The lunar near side — the face with its dark maria, its recognizable craters, its patterns that every human culture on Earth has given names and stories — points at Earth always. The far side, with its older, thicker, more heavily cratered terrain, never faces Earth-based observation. It was photographed for the first time by a Soviet spacecraft in nineteen fifty-nine. No naked human eye saw it until the Apollo missions.
 
@@ -180,7 +180,7 @@ This is not a rhetorical question. It is a logistical one. Earth-based observati
 
 If the near side generates two thousand two hundred documented Transient Lunar Phenomena reports across a thousand years of observation, the far side generates exactly zero. Not because nothing happens there. Because no one on Earth's surface can see it.
 
-Now consider what the Moon does to the axis of the planet that watches it.
+There is one more measurement.
 
 Earth rotates on a tilted axis. Twenty-three point five degrees of inclination relative to the plane of its orbit around the Sun. This tilt is the reason the northern hemisphere tips toward the Sun during one part of the year and away during another. The reason temperatures change with season. The reason a winter morning in the northern hemisphere produces a low sun and short days while a summer morning produces the opposite. The axial tilt is the engine of seasonal climate. The seasonal climate is the reason agriculture developed in temperate latitudes. The reason human civilization concentrated where it did.
 
@@ -232,7 +232,7 @@ Why? What had he observed, or reasoned, or received in his instruments, that mad
 
 Twenty years earlier, in eighteen ninety-nine, Tesla had an answer to a different question that he could not account for.
 
-Summer, eighteen ninety-nine. Colorado Springs, Colorado. Altitude two thousand meters. Altitude is relevant: the thinner atmosphere and the distance from industrial electrical interference made Colorado Springs an ideal location for sensitive electromagnetic measurements. Tesla was there to experiment with high-voltage, high-frequency electrical transmission — resonance research that would eventually inform the Wardenclyffe Tower project on Long Island.
+Summer, eighteen ninety-nine. Colorado Springs, Colorado. Altitude eighteen hundred meters. Altitude is relevant: the thinner atmosphere and the distance from industrial electrical interference made Colorado Springs an ideal location for sensitive electromagnetic measurements. Tesla was there to experiment with high-voltage, high-frequency electrical transmission — resonance research that would eventually inform the Wardenclyffe Tower project on Long Island.
 
 He brought with him an extraordinarily sensitive wireless receiver. Sensitive in a way that the receivers of eighteen ninety-nine were generally not — a precision instrument designed to detect weak, distant signals, calibrated to exclude the noise of the local environment. And the local environment was quiet. The mountain air, the altitude, the distance from the nearest city — they gave him a baseline close enough to silence that what he received was distinct.
 
@@ -250,7 +250,7 @@ But consider what he had: a receiver sensitive enough to detect natural electrom
 
 What was he listening for, in the years between? What was the receiver picking up?
 
-January eighth, nineteen forty-three. Room three-three-two-seven of the New Yorker Hotel, Manhattan.
+January seventh, nineteen forty-three. Room three-three-two-seven of the New Yorker Hotel, Manhattan. The radiator ticked against the winter air. The curtains were drawn.
 
 Tesla's body was discovered by a chambermaid.
 
@@ -278,11 +278,11 @@ The photograph exists. The original page does not appear in any subsequent relea
 
 But the gap in Tesla's archive is not the only gap.
 
-Nineteen seventeen. Shoreham, Long Island. The Wardenclyffe Tower — the great transmitting structure that Tesla had built at the turn of the century and spent the decade after fighting to save — was being demolished. J.P. Morgan had withdrawn funding in nineteen oh-four. The project had been dormant for years. By nineteen seventeen, Tesla had been unable to pay the property debts, and the Waldorf-Astoria — owed years of hotel bills — had taken the property. The tower was dynamited. The land was sold.
+Nineteen seventeen. Shoreham, Long Island. The salt air off the Sound carried the smell of cut timber and rust from the surrounding property, where the great transmitting tower that Tesla had built at the turn of the century — the Wardenclyffe Tower — was being demolished. J.P. Morgan had withdrawn funding in nineteen oh-four. The project had been dormant for years. By nineteen seventeen, Tesla had been unable to pay the property debts, and the Waldorf-Astoria — owed years of hotel bills — had taken the property. The tower was dynamited. The land was sold.
 
 The property transfer required documentation. The insurance actuary's report filed with the transfer — a routine document, the kind of professional assessment that accompanies every significant real estate transaction — contained, among its routine observations, a single anomalous sentence.
 
-The report, now accessible through Suffolk County records, reads in its assessment of the foundation work required after the tower's demolition: "Tower foundation excavation revealed subsurface void at seventeen meters inconsistent with original engineering specifications. Void dimensions not recorded. Foundation fill completed without further investigation."
+The report, filed with the county at the time of the sale, reads in its assessment of the foundation work required after the tower's demolition: "Tower foundation excavation revealed subsurface void at seventeen meters inconsistent with original engineering specifications. Void dimensions not recorded. Foundation fill completed without further investigation."
 
 One sentence. In a document otherwise concerned with load-bearing assessments and remediation costs. The excavation for the tower's foundation — Tesla had designed it to go deep, deeper than the structure above it required, deep enough that critics and observers at the time noted it as unusual — had revealed something at seventeen meters that the original engineering documents did not account for. The void was noted. Its dimensions were not measured. The hole was filled.
 
@@ -298,7 +298,7 @@ The bell describes an object that resonates. Not an object that vibrates briefly
 
 The geometry describes an object that is placed. Not merely present, not merely large — positioned with a precision that orbital mechanics does not require and cannot explain as coincidence. Four hundred times smaller. Four hundred times closer. The ratio that produces the one geometry in the solar system where a smaller body can completely occlude a larger one while revealing its corona — the one eclipse geometry that looks, to any observer with enough mathematical background to recognize it, like something that was calibrated. And the placement is not permanent. It exists in a window. The Moon has been receding since it arrived in its orbit. Fifty million years from now, the calibration will be gone. The eclipse geometry will be impossible. Whatever the window was designed for — or whatever accident produced it — operates only in this narrow span of geological time. In which we happen to exist.
 
-The silence describes a scientist. Not a fringe figure. Not an enthusiast with a shortwave radio and a theory. One of the most credentialed electrical engineers the twentieth century produced — the man who designed the alternating current system that still powers the civilized world. This scientist published a paper in nineteen nineteen arguing that the Moon does not rotate. That it merely revolves. That its behavior is not the behavior of an independent body spinning on its own axis but of something that has been — his word is not used, but the mathematics implies it — locked. Held. Oriented with deliberate consistency toward a single face of a single planet in a solar system of eight planets and two hundred and ninety-three known moons.
+The silence describes a scientist. Not a fringe figure. Not an enthusiast with a shortwave radio and a theory. One of the most credentialed electrical engineers the twentieth century produced — the man who designed the alternating current system that still powers the civilized world. This scientist published a paper in nineteen nineteen arguing that the Moon does not rotate. That it merely revolves. That its behavior is not the behavior of an independent body spinning on its own axis but of something that has been — his word is not used, but the mathematics implies it — locked. Held. Oriented with deliberate consistency toward a single face of a single planet in a solar system of eight planets and the hundreds of known moons orbiting the outer planets.
 
 This same scientist, two decades earlier, had received signals from space. Rhythmic, counting signals, received on equipment he designed specifically to be more sensitive than anything that existed before. He described them publicly. He published his interpretation: something in space was transmitting. The scientific community did not engage his evidence. It engaged his reputation.
 
@@ -356,11 +356,11 @@ This explanation is available. It requires nothing extraordinary. It closes the 
 
 But the quality of simultaneous recognition — the fact that the color report arrives from sources that do not share atmospheric conditions, from clear skies and clouded ones, from urban cores and rural darkness, from latitudes where air quality has not changed in the same direction — the simultaneity is the feature that the explanation cannot absorb. The recognition arrived together. The way all the recognitions have arrived together. The buried floors. The changed spellings. The missing brother. And now the changed sky.
 
-Consider what the pattern describes. In Episode 002, the recognition arrived for the ground. Millions of people across every culture and language, without coordination, without a shared source, arrived at the same architectural grief: that the buildings they move through were not the buildings they were told, that the ground beneath them had been raised over something that had been present before. The simultaneity of that grief was the anomaly. Not the buildings. Not the floors. The fact that everyone noticed at once.
+Consider what the pattern describes. In Episode Two, the recognition arrived for the ground. Millions of people across every culture and language, without coordination, without a shared source, arrived at the same architectural grief: that the buildings they move through were not the buildings they were told, that the ground beneath them had been raised over something that had been present before. The simultaneity of that grief was the anomaly. Not the buildings. Not the floors. The fact that everyone noticed at once.
 
-In Episode 003, the recognition arrived for the past itself. The spelling had been one thing and was another. The bear's name was one thing and was another. Memory and record diverged, and the divergence was global and coordinated and could not be explained by ordinary mechanisms of false memory, which operate on individuals one at a time, not on populations simultaneously. The scalpel, if that is what it was, cuts one patient at a time. False memory does not cut a hundred million patients the same way on the same day.
+In Episode Three, the recognition arrived for the past itself. The spelling had been one thing and was another. The bear's name was one thing and was another. Memory and record diverged, and the divergence was global and coordinated and could not be explained by ordinary mechanisms of false memory, which operate on individuals one at a time, not on populations simultaneously. The scalpel, if that is what it was, cuts one patient at a time. False memory does not cut a hundred million patients the same way on the same day.
 
-In Episode 004, the recognition arrived for people. Dane Tesla is there in the record and then he is not, and the not-there is smooth, the way every overwritten thing is smooth — no seam visible, no edge to catch, the surface closed over the gap as if the gap had never been open. The recognition that someone was missing arrived, and the arrival was collective.
+In Episode Four, the recognition arrived for people. Dane Tesla is there in the record and then he is not, and the not-there is smooth, the way every overwritten thing is smooth — no seam visible, no edge to catch, the surface closed over the gap as if the gap had never been open. The recognition that someone was missing arrived, and the arrival was collective.
 
 The pattern is not random. The pattern describes a process. Something moves through a category of reality — architecture, language, people, sky — and when it moves, it leaves two things behind. The altered version, which is new and clean and offers no resistance to examination. And the residue of the original, which persists in the memory of the people who were present before the alteration was complete, and which they report when they compare what they remember to what they find.
 
@@ -491,6 +491,8 @@ What are you looking at?
 Oceanus Procellarum → Oh-shee-AH-nus Pro-sell-AH-rum → /OW0 SH IY0 AE1 N AH0 S P R OW0 S EH0 L EH1 R AH0 M/
 
 Vasin → Vah-SEEN → /V AH0 S IY1 N/
+
+Mikhail → Mikh-ah-EEL → /M IH0 K AY1 EH0 L/
 
 Shcherbakov → Shcher-bah-KOFF → /SH CH EH0 R B AH0 K AW1 F/
 
