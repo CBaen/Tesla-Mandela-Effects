@@ -185,3 +185,28 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
   - "the architecture of survival" — building around absence as structural necessity
 - **Unique elements:** Person-erasure as Mandela Effect category, two competing accounts of horse accident (pea-shooter vs unprovoked), visualization method reframed as grief symptom not neurological gift, brother-pair framework (Wright Brothers, Montgolfier Brothers), OAP "D. Tesla" inventory gap, wire-to-tape transfer destroying M.K.'s voice, Djuka's undated machine drawings
 - **Names spent:** Nikola Tesla, Dane Tesla, Milutin Tesla, Djuka Tesla (née Mandic), Angelina Tesla, Milka Tesla, Marica Tesla, Wilbur Wright, Orville Wright, Joseph-Michel Montgolfier, Jacques-Étienne Montgolfier, Thomas Edison, George Westinghouse, J.P. Morgan
+
+### 005 — THE BELL
+- **Wound:** The Moon — hollow, precisely placed, and either the most perfect accident in the solar system or something engineered. The object humanity looks at more than any other, understood least.
+- **Opening type:** Sensory hook (standing on the lunar surface during the Apollo 12 impact — the ground won't stop vibrating)
+- **Structural shape:** The collection (three independent investigations converge: the bell, the geometry, the silence)
+- **Closing type:** The Inversion — the "safe" explanation (Giant Impact Hypothesis / accident) turns out more terrifying than the conspiracy, because an accident indistinguishable from design means you cannot tell the difference about anything
+- **Emotional endpoint:** Vertigo — nothing is solid. Not the ground, not the past, not the people, not the sky. Freefall.
+- **Tesla connection type:** Absence (Tesla is a gap — his 1919 Moon rotation paper, 1899 signals, and seized papers form the outline of a conclusion never delivered)
+- **Tesla presence:** Not a character. Present through published work and the silence that followed. The 1919 paper, the 1899 signals, and the seized trunks.
+- **Key locations:** Lunar surface (Oceanus Procellarum), Houston (NASA Manned Spacecraft Center), Colorado Springs, New York City (1919), New Yorker Hotel Room 3327 (Manhattan), Shoreham/Long Island (Wardenclyffe), Crimean Astrophysical Observatory
+- **Mandela Effects (primary):** Celestial/environmental — new category. Crescent orientation (appearing in unrecognized orientations), Moon size/proximity (larger/closer than childhood memory), Moon color shift (warm ivory to clinical white). The simultaneity of the noticing across millions of independent observers is the anomaly.
+- **Fabricated sources:** JPL seismologist's letter to MIT colleague, December 1969 — "The most troubling data I have processed in fourteen years" (institutional correspondence); Lunar Orbiter tracking log annotation, 1968 — "Density profile inconsistent with impact origin. See Vasin paper (pre-publication)" unsigned (monitoring log with handwritten annotation); OAP Trunk 47 seized notebook page, 1943 — concentric circles labeled "shell" and "cavity" with unmatched numbers, obtained via 1993 FOIA (photographic evidence with provenance gaps); Wardenclyffe insurance actuary's report, 1917 — "subsurface void at seventeen meters inconsistent with original engineering specifications" (insurance claim/incident report)
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "the ground does not stop" — lunar surface vibrating for 55 minutes, the resonance that will not quit
+  - "the word is bell" — naming the anomaly after immersing the listener in the sensation
+  - "a shell" — the structural conclusion from density + craters + resonance
+  - "the narrow window" — eclipse geometry exists only now, temporary coincidence or specification
+  - "what would that satellite look like?" — the design question posed after axial stabilization evidence
+  - "the handwriting changes in character" — JPL letter, pen pressed harder as the scientist approaches the implication
+  - "shell / cavity" — Tesla's seized notebook diagram, concentric circles with unmatched numbers
+  - "subsurface void at seventeen meters" — Wardenclyffe foundation revealing something the blueprints didn't account for
+  - "the recognition arrives" — Mandela Effects as immune-system activation, the whole system recognizing at once
+  - "you have been looking up your entire life" — the final question, turning the investigation outward
+- **Unique elements:** Apollo 12/13/14/15 bell experiments as repeatable anomaly, Vasin-Shcherbakov Soviet Academy hypothesis (1970), 400x size/distance eclipse coincidence, tidal locking as precision engineering question, Moon as life-enabler (axial stabilization), Tesla's Moon rotation paper (1919 Electrical Experimenter), 1899 Colorado Springs signals (Io/Jupiter later identification), mascons as unexplained nearside concentrations, Transient Lunar Phenomena (2,200+ reports across 1,000 years, Aristarchus hotspot), Kozyrev 1958 spectrographic TLP data, The Inversion (safe explanation scarier than conspiracy), celestial Mandela Effects as new category
+- **Names spent:** Nikola Tesla, Mikhail Vasin, Alexander Shcherbakov, Nikolai Kozyrev, Sava Kosanovic, John G. Trump, J.P. Morgan, Maurice Ewing (unnamed but referenced as "the scientist"), Theia (planetary body)
