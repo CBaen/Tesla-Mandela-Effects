@@ -169,7 +169,7 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 - **Emotional endpoint:** Loneliness — not romantic or sentimental, but forensic. The shape of the wound tells you what made it
 - **Tesla connection type:** Direct appearance (Tesla is the episode — his life examined through negative space, through what is missing)
 - **Tesla presence:** Central subject — every major life beat reexamined as evidence of amputation rather than personality
-- **Key locations:** Smiljan village (Croatia), Gospic (Church of Great Martyr George), Colorado Springs, Wardenclyffe/Long Island, New Yorker Hotel Room 3327 (Manhattan), Zagreb Folklore Archive, Gracac (church renovation)
+- **Key locations:** Smiljan village (Croatia), Gospic (Church of Great Martyr George), Colorado Springs, Wardenclyffe/Long Island, New Yorker Hotel Room 3327 (Manhattan), Zagreb (regional folklore study), Gracac (church renovation)
 - **Mandela Effects (primary):** Person erasure (Dane Tesla) — new category. Expands Mandela Effect from objects to people. The accepted narrative (Tesla as solitary genius) is the overwritten version.
 - **Fabricated sources:** Psychoanalyst's session notes, Manhattan 1937 — "N.T." patient, empty chair, reaching to the left (personal diary/journal entry); OAP inventory discrepancy, Item 1247 — "D. Tesla — correspondence, three items" crossed out (declassified government report); Djuka Tesla letter to cousin in Gracac, 1865 — Dane's machine drawings found in his belongings (institutional correspondence/family document); Zagreb Folklore Archive oral history, 1974 — M.K. insists "the Tesla boys" attended church together (oral history/recorded interview transcript)
 - **Key images (DO NOT REUSE in next 3 episodes):**

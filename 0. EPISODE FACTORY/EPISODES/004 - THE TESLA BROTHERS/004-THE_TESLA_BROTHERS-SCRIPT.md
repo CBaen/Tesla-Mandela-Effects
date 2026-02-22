@@ -262,7 +262,7 @@ But the category expands. A Mandela Effect applied to a person. A human being as
 
 Dane Tesla is not a changed spelling. He is a missing human being. The accepted narrative — the one that persists in every textbook, every biography, every popular account of Tesla's life — is the overwritten version. Tesla as lone genius. Tesla as solitary inventor. Tesla as the man who achieved the impossible because he was willing to work entirely alone.
 
-But the evidence suggests something different. The shape of the evidence. The specific geometry of his loneliness. The fact that the visualization method emerged as a direct symptom of losing the person who should have been standing beside him. The fact that every account of Dane emphasizes his extraordinary gifts with an intensity that cannot be reconciled with the near-complete absence of any actual detail about what those gifts were. The fact that a woman in Gospic, seven decades after the brothers were supposed to have separated, could still recall the memory of them together. Both of them. The complement of them.
+But the evidence suggests something different. The shape of the evidence. The specific geometry of his loneliness. The fact that the visualization method arose not as talent bestowed but as compensation — the mind building alone what the partnership would have built together. The fact that every account of Dane emphasizes his extraordinary gifts with an intensity that cannot be reconciled with the near-complete absence of any actual detail about what those gifts were. The fact that a woman in Gospic, seven decades after the brothers were supposed to have separated, could still recall the memory of them together. Both of them. The complement of them.
 
 What if the original version was "the Tesla Brothers"? Two minds working together. Dane in the workshop, perhaps. Nikola with the visualizations. The way Wilbur and Orville worked. The way Joseph and Étienne worked. What if that partnership was the intended design — and what if the version we inhabit, the version where Nikola works alone, is the one that was overwritten?
 
@@ -339,7 +339,6 @@ Colorado Springs → Kuh-LAH-rah-doh SPRIN-jez → /K AH0 L AE0 R AE0 D OW0 S P 
 Long Island → LAWNG EYE-lund → /L AO1 N G AY1 L AH0 N D/
 Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
 Austro-Hungarian Empire → AW-stroh-HUN-GAR-ee-uhn EM-pyre → /AO1 S T R OW0 H AH1 N G EH1 R IY0 AH0 N EH1 M P AY1 R/
-Zagreb Folklore Archive → ZAH-greb FOLK-lor AHR-kayv → /Z AA1 G R EH0 B F OW1 K L AO0 R AA1 R K AY1 V/
 M.K. → Em-KAY → /EH1 M K EY1/
 Gracac → GRAHS-ahts → /G R AA1 S AA0 T S/
 Mandic → MAHN-dich → /M AA1 N D IH0 CH/
