@@ -60,7 +60,7 @@ Because here is what no one will ever know. Was Dane actually the greater genius
 
 Did Dane have gifts that would have matched or exceeded Nikola's? Or was Dane a boy like any other boy, and the extraordinary description is the poetry of loss, the way mourning inflates the ordinary into the magnificent? Was there actually a synergy waiting to happen — two minds that would have complemented each other the way Wilbur complemented Orville, the way Joseph complemented Étienne — or was Dane simply the older brother, decent enough, ordinary enough, carrying the birthright of the firstborn into an accident and vanishing?
 
-The record cannot say. The record offers no images. No witness statements specific enough to verify. No independent verification of the superlative that Nikola, writing fifty-six years later with all the weight of loss behind his words, applied to the brother he could not remember clearly but whose absence he could feel with certainty.
+The record cannot say. The record offers no images. No witness statements specific enough to verify. No independent verification of the superlative that Nikola, writing fifty-six years later with all the weight of loss behind his words, applied to the brother he could not remember clearly but whose absence he carried with certainty.
 
 But examine this question. This is what the forensic record shows: what is the shape of a loneliness that lasts for eight decades?
 
