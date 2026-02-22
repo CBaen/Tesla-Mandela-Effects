@@ -369,7 +369,6 @@ Room 3327 → Room thirty-three twenty-seven → /R UW1 M TH ER1 T IY0 TH R IY1 
 Nikola Tesla Museum → Nih-KOH-lah TESS-lah Myoo-ZEE-um → /N IH0 K OW1 L AH0 T EH1 S L AH0 M Y UW0 Z IY1 AH0 M/
 Belgrade → BEL-grayd → /B EH1 L G R EY0 D/
 FBI → EFF-BEE-EYE → /EH1 F B IY1 AY1/
-Czech Republic → CHEK Rih-PUB-lick → /CH EH1 K R IH0 P AH1 B L IH0 K/
 Colorado Springs → Kuh-LAH-rah-doh SPRIN-jez → /K AH0 L AE0 R AE0 D OW0 S P R IH1 N Z/
 Long Island → LAWNG EYE-lund → /L AO1 N G AY1 L AH0 N D/
 Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
