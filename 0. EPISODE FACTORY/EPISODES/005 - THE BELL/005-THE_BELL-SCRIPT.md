@@ -146,7 +146,7 @@ The convergence produces a single consequence: during a total solar eclipse, the
 
 No other moon in the solar system produces this geometry.
 
-Not one of the eighty-five known moons of Jupiter. Not one of the hundred and forty-six known moons of Saturn. Not one of the twenty-seven moons of Uranus or the sixteen of Neptune. The precise geometry of total eclipse — the exact-coverage coincidence — occurs only here, at Earth. Only with this Moon. Only as seen from this surface.
+Not one of Jupiter's ninety-five confirmed moons. Not one of Saturn's hundred and forty-six. Not one of the twenty-eight moons of Uranus or the sixteen of Neptune. The precise geometry of total eclipse — the exact-coverage coincidence — occurs only here, at Earth. Only with this Moon. Only as seen from this surface.
 
 This is verifiable arithmetic. The numbers are in the textbooks. The geometry is observable. Standing in the path of totality and looking up at the moment of full occultation, you are looking at a measurement. A ratio expressed in the sky.
 
@@ -289,10 +289,6 @@ One sentence. In a document otherwise concerned with load-bearing assessments an
 No subsequent Wardenclyffe literature references the void. No later account of the tower's demolition and property transfer mentions it. The sentence appeared once, in one paragraph of one routine document, and was never followed up.
 
 What was Tesla building down to? The tower rose two hundred feet above Long Island. The foundation sank in the opposite direction with an ambition that the generating equipment above it never fully required. What was the foundation reaching for? What did it find at seventeen meters that the engineers noted and did not investigate?
-
-Three investigations. The bell that rang for fifty-five minutes. The geometry that exists only now, in this window, for reasons no orbital mechanics requires. The silence — a paper, a receiver, a seizure, a gap in what was released, a void in the ground that was filled without measurement.
-
-They are about to converge.
 
 Three investigations. The bell that rang for fifty-five minutes. The geometry that exists only now, in this window, for reasons no orbital mechanics requires. The silence — a paper, a receiver, a seizure, a gap in what was released, a void in the ground that was filled without measurement.
 
