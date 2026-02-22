@@ -64,6 +64,8 @@ Did Dane have gifts that would have matched or exceeded Nikola's? Or was Dane a 
 
 The record cannot say. The record offers no images. No witness statements specific enough to verify. No independent verification of the superlative that Nikola, writing fifty-six years later with all the weight of loss behind his words, applied to the brother he could not remember clearly but whose absence he carried with certainty.
 
+What survives of Dane's room in the Gospic house — a single entry in the estate record: furniture, a trunk, books. The trunk was sealed. No inventory of its contents exists.
+
 But examine this question. This is what the forensic record shows: what is the shape of a loneliness that lasts for eight decades?
 
 What does it look like when you build an entire life in the shadow of someone who is not there? When every achievement is haunted by the absent brother. When the weight of the missing person grows heavier the more successful you become. When the very thing that makes you extraordinary — the ability to visualize, to invent, to imagine technologies that the world will need fifty years to catch up to — may have been born from grief.
@@ -98,6 +100,8 @@ He could invent alone.
 
 The mind became the laboratory. The involuntary visions became tools. The symptom became the method. And what began as trauma — as the neurological wreckage left behind when something violent takes away someone loved — became the foundation of a genius that the world would eventually recognize as unparalleled.
 
+He practiced in silence. In the evenings, when the smell of the garrison's forges had cooled and the street noise dropped to footsteps and nothing else, he sat and built machines in the dark behind his eyes.
+
 But look at the timing. Look at the domino chain that begins with a horse in eighteen sixty-three.
 
 Dane dies. The family relocates. Milutin ages. Nikola develops the involuntary visions and learns to direct them.
@@ -121,6 +125,8 @@ This is the cascade. This is the domino chain. The first loss makes possible all
 Gospic, eighteen seventy. Nikola is fourteen years old. The boy with the directed visions is becoming the man with the method. He is still in the shadow of Milutin. Still in the town that was chosen as refuge from loss. Still carrying Dane in the space where Dane is not.
 
 But something has shifted. The visions no longer come as assaults. They come as tools. Nikola can summon them. He can ask them questions. He can build a machine in the interior space of his mind — a rotating magnetic field, a coil of copper, a sequence of alternating electrical pulses — and he can test it mentally. He can run the machine. He can modify it. He can see what happens before he ever has to construct it in physical materials.
+
+He kept no workshop. The room was bare except for a desk and the chair and, on the desk, a lamp whose wick he trimmed carefully, because the steadiness of the light mattered to the steadiness of the interior image.
 
 The visualization method — the thing that every textbook credits as the foundation of Tesla's genius — is not an advantage conferred by some fortunate neurology. It is a weapon forged from the violence of loss. It is what a grief-struck boy built to survive. It is the aftereffect of trauma, weaponized and refined until it became indistinguishable from genius.
 
@@ -158,6 +164,8 @@ The tower is built. The construction proceeds. And then the money stops. Morgan 
 
 And then it is demolished. The government decides that an incomplete structure on a bluff overlooking the Atlantic is a hazard or a waste or a symbol of failure. The tower is taken down. The copper is salvaged. The deep shafts are filled. The structure that existed for half a decade is erased. Returned to the landscape. The landscape does not bear witness to what was built there. The landscape simply absorbs the demolition and continues.
 
+The bluff grass grew back over the filled shafts within a season. In the spring following the demolition, the ground there looked like any other ground.
+
 And Tesla watches it happen. A man who has spent years building this tower in his mind before it was ever built in matter, now stands as the matter is disassembled, reclaimed, redistributed. All the years of visualization. All the years of design. All the years of bringing partners into the project, raising capital, managing the construction. All of it reduced to scrap metal.
 
 The visualization method could not be shared with the hands-on partners who might have built something greater. Morgan never fully understood what Tesla wanted. The engineers who executed the design could not inhabit what Tesla carried. They could not enter what Tesla held in his mind. They could only follow the drawings. And the drawings are a translation. The drawings are a loss. Something always dies in translation.
@@ -169,6 +177,8 @@ This is the cost. The tower demolished. The power wireless and unbroadcast. The 
 Now look at the later years. Look at the specific loneliness.
 
 Room 3327 of the New Yorker Hotel. The pigeons in the park. The white pigeon he believed was special. The isolation that had become total — not a choice, but the terminus. A man who had spent eighty years building around an empty space, and now the space was the only thing left in the room with him.
+
+The room was on the thirty-third floor. The window faced west. In the afternoon, the light came in at an angle that made the dust on the table visible, each particle suspended, moving almost imperceptibly in the air currents of a room where almost nothing moved.
 
 A psychoanalyst in nineteen thirty-seven, in Manhattan, wrote in his session notes about a patient. A man approximately eighty years old, referred by the hotel physician for persistent insomnia and a disordered attachment to urban wildlife. The man was wealthy. The man was famous. The man was also in the grips of something the psychoanalyst characterized as pathological mourning. Chronic. Treatment-resistant.
 
@@ -201,6 +211,8 @@ The inventory does not say. The three items were not described. Were not photogr
 But the three items disappeared.
 
 Whether they were misfiled during the move to magnetic storage. Whether they were lost in the transfer of archives. Whether they were deliberately removed by someone who understood their significance and chose to prevent them from being discovered. Whether they are sitting in a box in a basement somewhere, waiting for someone to find them and read them. The physical record is absent. The three items exist only in the inventory discrepancy. They exist only as a gap. They exist only as evidence of the empty chair that Tesla had arranged his entire life around.
+
+Somewhere in a federal archive, the inventory page itself still exists. The typewriter font slightly uneven. The pencil annotation in the margin, faded now to the color of old smoke.
 
 But consider what the forensic evidence permits us to ask. What if Tesla spent his entire life in conversation with a dead brother? The visions that came after Dane's death — were they random neural misfiring? Or were they the mind's attempt to process what had been removed? The visualization method — was it an elegant tool for invention, or a coping mechanism born from solitude? The trajectory of his life — from boy learning to direct unwanted images to old man orienting his work around an empty chair — what does it trace? A grief unresolved because the loss itself was never resolved.
 
@@ -259,6 +271,8 @@ The Office of Alien Property inventory. Item one thousand two hundred forty-seve
 And M.K.'s testimony, nineteen seventy-four, recorded from her grandmother's memory, filtered through a lifetime of family stories, insisting that there were two Tesla boys. That they attended church together. That one drew machines while the other sang. That they complemented each other. That something ended.
 
 These are fragments. None of them can be verified independently. None of them constitute proof in the traditional sense. But together, they compose a forensic image. An outline. A shape of what might have been.
+
+Three pieces of paper. A sealed trunk. A woman in a home that smelled of baking bread and limestone dust. An inventory page with a pencil correction that no one completed.
 
 What is the Mandela Effect? It is not merely a changed spelling. It is not merely a missing object that should be visible. The Berenstain Bears. The cornucopia missing from the Fruit of the Loom logo. The monocle that Monopoly Man never wore. These are the familiar versions. Objects. Signifiers. Small things that seem like they should be large, and their absence from the world is proof that something has been edited. It is scar tissue. It is the mark where the surgeon's blade passed.
 
