@@ -30,7 +30,7 @@ But the details — the specific anatomical facts of how a twelve-year-old boy c
 
 And what remained, for Nikola — what remained in the archive of memory, in the family narrative, in the very shape of his life going forward — was a specific kind of silence. Not the silence of a death that is mourned and then accepted. The silence of a death that is re-interpreted. Over time, over decades, the question of whether the horse killed Dane because of Nikola's pea — or because of something that had nothing to do with Nikola at all — would dissolve. What would crystallize instead was the guilt that a living child feels when an older child dies. The logic is simple. The brother is gone. The brother being gone is somehow the younger child's responsibility. Whether he fired the pea or not, whether the horse was provoked or not — the mathematics of guilt are indifferent to the details.
 
-What is certain is this: a boy who was twelve is no longer present. A boy who is five will grow into an adult carrying the weight of that absence as if he had caused it.
+What is certain is this: a boy who was twelve is no longer present. A boy who is seven will grow into an adult carrying the weight of that absence as if he had caused it.
 
 Who was Dane Tesla? The question is almost impossible to answer, because almost no one wrote anything about him. Not biographies. Not letters. Not detailed recollections recorded in later years. What exists is what Nikola said about him — and Nikola spoke of his dead brother with a precision that suggests memory, but which may instead suggest grief. The two states produce indistinguishable language.
 
@@ -90,7 +90,7 @@ The mind became the laboratory. The involuntary visions became tools. The sympto
 
 But look at the timing. Look at the domino chain that begins with a horse in eighteen sixty-three.
 
-Dane dies. The family relocates. Milutin ages. Nikola develops the involuntary visions and learns to direct them. Fast forward ten years — eighteen seventy-three — and something else happens. Nikola, now twenty-six years old, contracts cholera in Gospic. The disease takes root in a body that has been shaped by grief and isolation. He is bedridden for nine months. Nine months in darkness. Nine months of fever and delirium and the absolute certainty that he is dying.
+Dane dies. The family relocates. Milutin ages. Nikola develops the involuntary visions and learns to direct them. Fast forward ten years — eighteen seventy-three — and something else happens. Nikola, now seventeen years old, contracts cholera in Gospic. The disease takes root in a body that has been shaped by grief and isolation. He is bedridden for nine months. Nine months in darkness. Nine months of fever and delirium and the absolute certainty that he is dying.
 
 Milutin, the man who wanted his surviving son to enter the priesthood, who saw in Nikola perhaps the boy who could replace the one that the horse had taken — Milutin makes a bargain. In the way that parents in extremity make bargains. If the boy survives, Milutin promises, he will send him to engineering school.
 
@@ -102,7 +102,7 @@ Because a horse did not miss, in eighteen sixty-three, one version of events nev
 
 This is the cascade. This is the domino chain. The first loss makes possible all that comes after. The empty space left by Dane makes room for the entire shape of Nikola's life. Without the brother who is gone, there is no brother who would make the world electric.
 
-Gospic, eighteen seventy. Nikola is eighteen years old. The boy with the directed visions is becoming the man with the method. He is still in the shadow of Milutin. Still in the town that was chosen as refuge from loss. Still carrying Dane in the space where Dane is not.
+Gospic, eighteen seventy. Nikola is fourteen years old. The boy with the directed visions is becoming the man with the method. He is still in the shadow of Milutin. Still in the town that was chosen as refuge from loss. Still carrying Dane in the space where Dane is not.
 
 But something has shifted. The visions no longer come as assaults. They come as tools. Nikola can summon them. He can ask them questions. He can build a machine in the interior space of his mind — a rotating magnetic field, a coil of copper, a sequence of alternating electrical pulses — and he can test it mentally. He can run the machine. He can modify it. He can see what happens before he ever has to construct it in physical materials.
 
@@ -118,7 +118,7 @@ Instead, there was only Nikola. Only the visions. Only the method that required 
 
 This is not inspiring. This is not the story of a lone genius choosing solitude for the sake of his work. This is the story of a man whose genius was necessarily solitary because the person who might have made it collaborative — the person who might have added friction, insight, challenge, and complementary thought — had been taken by a horse fifty-six years before the work would begin.
 
-The timeline spirals. Eighteen sixty-three to eighteen seventy-three. The cholera. The bargain. The engineering school at the Charles-Ferdinand University in Prague, beginning in eighteen seventy-five. Three years of study. The graduation. The jobs. The increasing obsession with a problem that he could solve in his visualizations but could not execute alone.
+The timeline spirals. Eighteen sixty-three to eighteen seventy-three. The cholera. The bargain. The engineering school at the Austrian Polytechnic in Graz, beginning in eighteen seventy-five. Three years of study. The graduation. The jobs. The increasing obsession with a problem that he could solve in his visualizations but could not execute alone.
 
 Alternating current. Other inventors had attempted it. The problem was technical and brutal: if current could flow only one direction, through one wire, you could never transmit the kind of power that a growing industrial world would need. But if you could alternate the direction of the current — if you could reverse its polarity at precise intervals — you could transmit across great distances. You could build systems of power distribution that did not require a generator at every site of use. You could electrify a continent from a single point.
 
@@ -179,6 +179,16 @@ What exists is the shape. The specific geometry of the loneliness. The fact that
 This is what the evidence says. Not that Tesla was extraordinarily isolated. But that the isolation had a cause. That the shape of it told you what had made it.
 
 That the loneliness was not personality. It was amputation.
+
+But there is one more document. One more fragment that should not exist and yet does.
+
+In nineteen ninety-one, a church renovation in Gracac — a small town near the Croatian coast, the kind of place where family Bibles accumulate generations of pressed flowers and folded paper — uncovered a letter inside the spine of a Bible belonging to the Mandic family. Djuka Tesla's family. The letter was dated eighteen sixty-five. Two years after the horse. Two years after the family had left Smiljan for Gospic. Two years into the silence.
+
+Djuka wrote to a cousin. The letter is not remarkable for its content — it is a mother's correspondence, the kind of ordinary communication that families produce in the course of maintaining connections across distance. But one passage breaks the surface of the ordinary. Djuka describes finding drawings among Dane's belongings. Not sketches. Not the idle marks that children leave on the margins of schoolwork. Drawings. "Machines that look like the inside of a clock, but not any clock I have seen," she writes. "He drew them the way other children draw horses. I did not know what they were then. I think Nikola knows. He will not look at them."
+
+A twelve-year-old boy who drew machines. Not the machines of his era — not looms or printing presses or the familiar mechanisms of rural life. Machines that his mother could not identify. Machines that resembled the interior of a clock but corresponded to no clock she had ever seen. And his seven-year-old brother, the one who would later develop the ability to visualize machines in his mind with perfect clarity — he would not look at the drawings.
+
+The letter was donated to a local historical society in Gracac. The society dissolved in nineteen ninety-seven. The letter's current location is unknown. It may be in a box. It may be in a basement. It may have been discarded when the organization folded and its archives were dispersed. What remains is the record that someone once found it, that someone once read it, that a mother two years into grief wrote to a relative about the drawings her dead son had left behind — and about the living son who could not bear to see them.
 
 But listen to what the witness says.
 
@@ -274,8 +284,8 @@ Wilbur Wright → WIL-ber RYTE → /W IH1 L B ER0 R AY1 T/
 Orville Wright → OR-vil RYTE → /O R0 V IH1 L R AY1 T/
 Joseph-Michel Montgolfier → Joe-SEFF Mee-SHELL Mont-GAWL-fee-ay → /JH OW1 S EH0 F M IY0 SH EH1 L M AA0 N T G OW1 L F Y EY0/
 Jacques-Étienne Montgolfier → Zhahk Ay-tee-EHN Mont-GAWL-fee-ay → /ZH AA1 K EY0 T IY0 EH1 N M AA0 N T G OW1 L F Y EY0/
-Charles-Ferdinand University → CHARLZ FEHR-dee-nahnd Yoo-ni-VER-suh-tee → /CH AA1 R L Z F ER1 D IH0 N AE0 N D Y UW0 N IH0 V ER1 S IH0 T IY0/
-Prague → PRAHG → /P R AA1 G/
+Austrian Polytechnic → AW-stree-uhn Pah-lee-TEK-nik → /AO1 S T R IY0 AH0 N P AA0 L IY0 T EH1 K N IH0 K/
+Graz → GRAHTS → /G R AA1 T S/
 J.P. Morgan → JAY-PEE MOR-guhn → /JH EY1 P IY1 M AO1 R G AH0 N/
 Edison → EH-dih-suhn → /EH1 D IH0 S AH0 N/
 Westinghouse → WES-ting-hows → /W EH1 S T IH0 N G H AW1 Z/
@@ -293,5 +303,6 @@ Austro-Hungarian Empire → AW-stroh-HUN-GAR-ee-uhn EM-pyre → /AO1 S T R OW0 H
 Zagreb Folklore Archive → ZAH-greb FOLK-lor AHR-kayv → /Z AA1 G R EH0 B F OW1 K L AO0 R AA1 R K AY1 V/
 M.K. → Em-KAY → /EH1 M K EY1/
 Gracac → GRAHS-ahts → /G R AA1 S AA0 T S/
+Mandic → MAHN-dich → /M AA1 N D IH0 CH/
 My Inventions → My In-VEH-shunz → /M AY1 IH0 N V EH1 SH AH0 N Z/
 
