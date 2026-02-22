@@ -224,7 +224,7 @@ The letter was donated to a local historical society in Gracac. The society diss
 
 But listen to what the witness says.
 
-Nineteen seventy-four. Zagreb Folklore Archive. A regional folk memory project, conducted with elderly inhabitants of villages in the Croatian interior. Collecting stories before they disappeared. Recording the voices of people who remembered the Austro-Hungarian Empire, who had lived through wars, who carried the old languages and old narratives before modernization completed its work of smoothing everything into homogeneity.
+Nineteen seventy-four. A regional folklore study based in Zagreb. A regional folk memory project, conducted with elderly inhabitants of villages in the Croatian interior. Collecting stories before they disappeared. Recording the voices of people who remembered the Austro-Hungarian Empire, who had lived through wars, who carried the old languages and old narratives before modernization completed its work of smoothing everything into homogeneity.
 
 An old woman from Gospic. Initiated in the records only as M.K. Seventies, possibly eighties. The interviewer meets with her in a home that smells of bread baking and something mineral — limestone dust, perhaps, the way old houses in the Balkans hold the geology of their location in the plaster and the air.
 
