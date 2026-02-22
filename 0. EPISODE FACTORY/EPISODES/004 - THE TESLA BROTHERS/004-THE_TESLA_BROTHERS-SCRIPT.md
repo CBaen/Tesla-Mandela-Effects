@@ -180,3 +180,79 @@ This is what the evidence says. Not that Tesla was extraordinarily isolated. But
 
 That the loneliness was not personality. It was amputation.
 
+But listen to what the witness says.
+
+Nineteen seventy-four. Zagreb Folklore Archive. A regional folk memory project, conducted with elderly inhabitants of villages in the Croatian interior. Collecting stories before they disappeared. Recording the voices of people who remembered the Austro-Hungarian Empire, who had lived through wars, who carried the old languages and old narratives before modernization completed its work of smoothing everything into homogeneity.
+
+An old woman from Gospic. Initiated in the records only as M.K. Seventies, possibly eighties. The interviewer meets with her in a home that smells of bread baking and something mineral — limestone dust, perhaps, the way old houses in the Balkans hold the geology of their location in the plaster and the air.
+
+The interviewer is collecting stories about local history. About the people who lived in Gospic in the nineteenth century. The notable families. The church. The priest who came from Smiljan. The woman becomes animated. Yes, she knows the stories. Her grandmother knew the priest. Milutin Tesla. A good man. Serious. The kind of priest who understood scripture the way other men understood mathematics. Her grandmother knew the family. The wife was kind. The children were — here the woman pauses. The children.
+
+And the interviewer asks about the children. Nikola is known, of course. The inventor. The newspaper reports have carried his name to even the remote villages. But what about the others?
+
+M.K. becomes insistent. There were two boys. Tesla boys. She remembers the stories. Her grandmother said it clearly. Two boys. Brothers. And they attended the Church of Great Martyr George together. The church where Milutin became pastor. The two boys there in the pews. And she has a specific detail. A memory, or a story inherited as memory. During the service, when the congregation was singing, when the hymnals were open and the voices were raised — the quiet one drew. He drew machines on the back of the hymnal. Precise drawings. The kind of thing that children do — they draw houses, they draw horses, they scribble to occupy their hands during long ceremonial passages. But these drawings were not children's scribbles. These were diagrams. Machines. The kind of thing that an adult architect might draw.
+
+And while the quiet one drew machines, the loud one sang. Loudly. With enthusiasm. The brothers occupied opposite positions in the same space. One internalizing, one externalizing. One visual, one auditory. The two of them complementing each other across the width of a wooden pew.
+
+The interviewer stops the woman. Corrects her gently. There was only one Tesla son, the interviewer says. Nikola. Not two boys. Historical records are clear on this. There was an older brother, Dane, but he died before the family came to Gospic. Before the Church of Great Martyr George. He could not have attended services with Nikola.
+
+M.K. becomes agitated. She is certain. There were two. My grandmother knew the mother. She talked to the mother. The mother said there were two boys. Always two. The interviewer, faced with the woman's certainty, with the specificity of her memory, with the architectural precision of the details she is recounting, notes the discrepancy in the record. An unverified family anecdote, the notes say. Historically inconsistent.
+
+But the woman continues. The machines that the quiet one drew. The singing of the loud one. The complementary way they existed in the same physical space. And then — something happened. The woman is vague now. Something ended. The quiet one stopped coming. Or the loud one changed. Or there was a loss. The narrative becomes uncertain at this point in the recording. The exact details blur.
+
+The tape runs on. The interviewer moves to other topics. The recording is eventually cataloged. Nineteen seventy-four. M.K., initials only. Unverified anecdote. The original wire recording is preserved, filed, stored with other archival material from the project.
+
+Then, nineteen eighty-two, a decision is made to transfer the archival collection from wire recording to magnetic tape. A modernization process. Brittle wire reels are converted to the newer technology. The equipment is not maintained after the transfer is complete. The original wire recordings are discarded. Storage space is being reclaimed.
+
+M.K.'s voice disappears. The tape is erased. Only the transcript remains. A few pages of typewritten text, the interviewer's notes of what was said, the woman's insistent certainty about the two boys, the machines drawn on hymnal pages, the complementary nature of their presence. The words survive. The voice does not.
+
+Now consider the evidence together. The psychoanalyst's notes from nineteen thirty-seven. An old man eighty years old, building his entire life around an empty chair. Reaching to his left, always to his left, always toward the person who was not there. The visualization method that required isolation. The decades of work conducted in solitude because solitude was the shape the method demanded.
+
+The Office of Alien Property inventory. Item one thousand two hundred forty-seven. "D. Tesla — correspondence, three items." Cataloged. Crossed out. Reassigned. Lost.
+
+And M.K.'s testimony, nineteen seventy-four, recorded from her grandmother's memory, filtered through a lifetime of family stories, insisting that there were two Tesla boys. That they attended church together. That one drew machines while the other sang. That they complemented each other. That something ended.
+
+These are fragments. None of them can be verified independently. None of them constitute proof in the traditional sense. But together, they compose a forensic image. An outline. A shape of what might have been.
+
+What is the Mandela Effect? It is not merely a changed spelling. It is not merely a missing object that should be visible. The Berenstain Bears. The cornucopia missing from the Fruit of the Loom logo. The monocle that Monopoly Man never wore. These are the familiar versions. Objects. Signifiers. Small things that seem like they should be large, and their absence from the world is proof that something has been edited.
+
+But this episode expands the category. A Mandela Effect applied to a person.
+
+Dane Tesla is not a changed spelling. He is a missing human being. The accepted narrative — the one that persists in every textbook, every biography, every popular account of Tesla's life — is the overwritten version. Tesla as lone genius. Tesla as solitary inventor. Tesla as the man who achieved the impossible because he was willing to work entirely alone.
+
+But the evidence suggests something different. The shape of the evidence. The specific geometry of his loneliness. The fact that the visualization method emerged as a direct symptom of losing the person who should have been standing beside him. The fact that every account of Dane emphasizes his extraordinary gifts with an intensity that cannot be reconciled with the near-complete absence of any actual detail about what those gifts were. The fact that a woman in Gospic, seven decades after the brothers were supposed to have separated, could still recall the memory of them together. Both of them. The complement of them.
+
+What if the original version was "the Tesla Brothers"? Two minds working together. Dane in the workshop, perhaps. Nikola with the visualizations. The way Wilbur and Orville worked. The way Joseph and Étienne worked. What if that partnership was the intended design — and what if the version we inhabit, the version where Nikola works alone, is the one that was overwritten?
+
+The version where the horse did not miss.
+
+But here is the inversion. Here is the turn that the investigation must now make. You are not listening to this episode to learn about Dane Tesla. You are listening to learn about yourself. Because you have a person-shaped absence too. You have stopped noticing it because it has always been there.
+
+There is a person you used to reach for. A person on your left. A person who was supposed to be in the room with you, supposed to be singing when you drew machines, supposed to be drawing when you sang. A person whose absence you have built an entire life around. And you have done what Tesla did. You have arranged yourself according to that absence. You have made room for the empty chair. You have reached toward a position where nothing reaches back.
+
+And you call it acceptance. You call it survival. You call it the way your life turned out. You do not realize that you are carrying the shape of an amputation. The shape of something that is supposed to be there but is not.
+
+But listen to what your gut tells you. When you think about the person-shaped absence, when you think about the chair that is always empty, when you think about reaching to your left and finding nothing — what do you know? Do you know, with the certainty that lies below argument, below evidence, below the reach of anyone who tells you that you are wrong — that this person was supposed to be here? That the world with them in it is the true version? That the world you are standing in right now, the version where they are absent, is the one that has been overwritten?
+
+Or are you certain that they are gone? That the loss is final? That the empty chair is the baseline, and any memory of them being present is just the brain's trick of imagining what should have been?
+
+This is the question the episode leaves with you. Not whether Dane Tesla was a historical person. Not whether the testimony of M.K. proves anything. Not whether the three items of correspondence were really about the brother who the horse took. These are the investigators' questions.
+
+Your question is this: Which version is the real one?
+
+The version where they were there? Or the version where they are not?
+
+And if the version where they are not is the one you are standing in — if the version where you have spent decades arranging your life around their absence — then the question is not why they left. The question is what happened to the world they belonged to. And the question after that — the one that sits beneath all the others, that you will carry with you long after this episode ends — is whether you belong to this world you are standing in. Or whether you are the residue. The fragment. The person who remembers a version that has already been overwritten. Who is still reaching to the left. Who is still building around the empty chair. Who has not yet accepted that the world you are living in is the one without them.
+
+And maybe that is not acceptance. Maybe that is just the overwrite working. Taking the original and filing it away. Erasing the recording. Crossing out the item in the inventory. Leaving only the fragments. The testimony. The shape of the absence. Proof that something was there once, in a version of events that is no longer available.
+
+This is what the Mandela Effect looks like when applied to people. Not a changed logo. Not a missing detail from a label. But the loss of someone who was supposed to complement you. The removal of the person on your left. The version of the world that included them being slowly filed away, crossed out, replaced with the version where you are alone.
+
+And you have learned, like Tesla learned, to build around that absence. You have learned to reach into the empty space and pull out your work as if it was collaborative. You have learned to call it your vision, your method, your genius — when in fact what you have built is the architecture of survival. The structure required to continue living when the person who was supposed to continue living beside you has been removed from the record.
+
+The Mandela Effect is not happening in the world. The Mandela Effect is the proof that the world has already happened to you.
+
+And the question is not how to remember correctly.
+
+The question is whether you can remember at all.
+
