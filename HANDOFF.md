@@ -1,45 +1,39 @@
 # Tesla Mandela Effects — Session Handoff
 
-## What Happened This Session (2026-02-22, Session 2)
+## What Happened This Session (2026-02-22, Sessions 2-3)
 
-Episode 004 "The Tesla Brothers" expanded, edited, and verified. Now PRODUCTION-READY at ~11,585 words.
+Episode 004 "The Tesla Brothers" expanded, edited, surgically revised, and verified. Now PRODUCTION-READY at ~10,098 words.
 
-### Editor Reviews Applied
-Three external editor reviews (Gemini 3.0, GPT 5.2, Claude 4.6) triaged and applied:
-- **Factual fixes**: Wilbur Wright age corrected (forty-five → verified correct), cholera timeline clarified
-- **Attribution fixes**: Tesla autobiography quotes verified exact, fabricated source boundaries confirmed clean
-- **Craft fixes**: Organism/clock metaphors sharpened, "An organism" grammar fix, narrator identity leak ("this episode expands") removed
-- **Audio pacing**: Short declarative sentences added at key transitions for TTS breathing room
+### Session 3 — Surgical Edits (Post-Editor Review)
+Two external editor reviews (Opus 4.6, GPT 5.2) agreed the expansion pass solved 3 problems but introduced 4 new ones. 10 surgical edits applied:
+- **Law 3 fixes** (3 instances): "organism" named directly → replaced with process-description language ("What requires two minds cannot survive on one," "Two minds as one," "thought spreading through language")
+- **Law 2 fix**: Cholera section (~700 words → ~170 words) — cut medical anatomy violations ("lips crack, eyes sink into skull"), kept fever vision + Milutin bargain as narrated summary
+- **Law 1 fixes** (2 instances): "this episode" → "this investigation" narrator identity leaks removed
+- **Attribution fix**: Milutin's dramatized bargain scene → narrated summary (no interior access to real people)
+- **Gospic cut**: 3 paragraphs removed — house description, grave distance, parishioners interior access ("white-hot pressure burning inside the vault of his skull")
+- **OAP speculation cut**: 2 paragraphs of letter-content speculation removed — original silence was stronger
+- **Closing shift**: Assertive "You are listening to learn about yourself" → invitational "Have you ever reached for someone who was not there?" (Law 5 compliance)
+- **Repetition fixes**: Duplicate "But he built it alone" refrain removed; evidence summary trimmed
+- **Factual softening**: "remembered nothing of his brother" → "could not recall his brother clearly" (contradicted Tesla's superlative descriptions)
 
-### Expansion Pass
+Net result: ~11,585 → ~10,098 words. All cuts improved the script.
+
+### Session 2 — Expansion Pass + First Editor Reviews
 Script expanded from ~8,492 to ~11,585 words via 4 strategic insertions:
-1. **Gospic sensory grounding** (~400 words) — garrison town atmosphere, Milutin's visible aging, parishioners learning not to mention Dane
-2. **Cholera scene** (~700 words) — visceral disease progression, Milutin's desperate prayers through the wall, fever visions of Dane, deathbed bargain
-3. **Colorado Springs & Wardenclyffe** (~500 words) — magnifying transmitter sensory scene, artificial lightning, Wardenclyffe tower and demolition
-4. **OAP inventory discovery** (~350 words) — yellowed pages, typewriter degradation, pencil annotations, forensic mystery of "D. Tesla"
+1. **Gospic sensory grounding** (~400 words) — garrison town atmosphere, Milutin's visible aging
+2. **Cholera scene** (~700 words) — disease progression, fever visions, deathbed bargain
+3. **Colorado Springs & Wardenclyffe** (~500 words) — magnifying transmitter, artificial lightning, tower demolition
+4. **OAP inventory discovery** (~350 words) — yellowed pages, typewriter degradation, "D. Tesla" mystery
 
-### Post-Expansion Cleanup
-- Removed duplicate paragraphs (old OAP text that overlapped with expanded version)
-- Removed orphaned "Czech Republic" Caption Key entry
+First editor reviews (Gemini 3.0, GPT 5.2, Claude 4.6) applied:
+- Factual fixes, attribution fixes, craft fixes, audio pacing improvements
 
-### Pre-Delivery Verification (PASSED — all 13 categories)
-- Facts: All dates, ages, relationships verified
-- Quotes: Real quotes exact (Tesla "My Inventions"), fabricated quotes only in fabricated sources
-- Attribution: 4 fabricated sources present and uncheckable
-- Continuity: No contradictions
-- Sensory grounding: All major locations anchored
-- Term violations: None detected
-- Paragraph count: ~382 (under 400 limit)
-- Caption Key: Complete (orphan removed)
-- Narrator identity: Law 1 maintained throughout
-- Internal consistency: Expanded sections blend seamlessly
-- Five Laws: All applied consistently
-- Audio optimization: TTS-ready formatting
-- Anti-cloning: All structural choices distinct from 001-003
+Post-expansion cleanup: duplicate paragraphs removed, orphaned Caption Key entry removed.
 
 ### Documents Updated This Session
-- Episode 004 script (expanded + edited + verified)
+- Episode 004 script (expanded + edited + surgically revised)
 - This handoff file
+- Session memory
 
 ## Previous Session Summary (2026-02-22, Session 1)
 
