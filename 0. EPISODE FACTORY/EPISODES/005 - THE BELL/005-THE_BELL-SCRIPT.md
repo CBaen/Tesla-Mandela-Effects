@@ -60,13 +60,13 @@ The Moon's average density is three point three four grams per cubic centimeter.
 
 The Moon does not appear to have a comparable core.
 
-Measurements of the Moon's moment of inertia — the way a rotating body responds to torque, which reveals how its mass is distributed — suggest the interior is less dense than the surface. Not merely less dense at the center. Less dense in a pattern that inverts what planetary formation predicts. When a body builds itself from drifting material under gravity, the heaviest elements fall inward. Iron sinks. Lighter silicates rise toward the surface. Every moon, every planet that forms from natural accretion should be densest at its center and lightest at its outer layers.
+Measurements of the Moon's moment of inertia — the way a rotating body responds to torque, which reveals how its mass is distributed — return a factor of approximately zero point three nine. Earth's value is zero point three three, pulled down by its dense iron core. A uniform sphere of consistent density would produce a factor of exactly zero point four. The Moon's value sits close to that uniform figure — anomalously close. What the measurements describe is not a body with a heavy center and a light exterior, the way differentiated planets and moons produce. The measurements describe a body that is surprisingly homogeneous throughout. When a body builds itself from drifting material under gravity, the heaviest elements fall inward. Iron sinks. Lighter silicates rise toward the surface. Every moon, every planet that forms from natural accretion should concentrate its density at the center and lighten toward the outer layers. The Moon barely shows that gradient at all.
 
-The Moon is densest at its surface.
+A naturally accreted body should differentiate. The Moon has not differentiated in the way the physics of formation predicts.
 
-The moment of inertia calculations — this is not contested data, this is established measurement — describe an interior that is anomalously light relative to the surface. Possibly absent. Possibly hollow.
+The published measurements suggest an interior that lacks the expected heavy core — a body that is either made of unexpectedly uniform material throughout, or is structured in a way that produces a uniform density profile without being uniformly solid. The distinction between those two possibilities is not settled.
 
-This is not a fringe argument. This is the data. The seismic anomaly, the density profile, the moment of inertia — these are findings published in NASA's own literature, in the journals of planetary science, and they describe an object that does not behave the way a naturally formed solid body should behave.
+The published findings describe an object that does not behave the way a naturally formed solid body should behave. The seismic anomaly, the density profile, the moment of inertia — these are findings in NASA's own literature, in the journals of planetary science, and the question they collectively raise has not received a formal answer.
 
 The craters add a third data point.
 
