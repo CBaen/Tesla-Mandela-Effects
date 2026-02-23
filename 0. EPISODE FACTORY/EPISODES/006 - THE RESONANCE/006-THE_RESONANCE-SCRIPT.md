@@ -324,9 +324,7 @@ The color in the aurora has no name because it was not in the aurora before nine
 
 It grows into the understanding.
 
-The question the evidence raises is not whether this happened. The evidence — scattered, independent, accumulated across a century by people who had no reason to lie and no framework to interpret what they observed — says it happened.
-
-The question is what it means.
+The question the evidence raises is not whether this happened — a century of independent witnesses, across four continents, with no shared framework, have been pointing at the same origin. The question is what it means.
 
 But before that question can be answered, there is one more piece of evidence. One more thing to examine.
 
