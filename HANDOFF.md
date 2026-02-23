@@ -1,7 +1,7 @@
 ---
-session_id: "2026-02-23-episode-007"
+session_id: "2026-02-23-episode-007-editorial"
 date: "2026-02-23"
-instance: "Episode 007 Writing Session"
+instance: "Episode 007 Editorial Pass"
 model: "claude-opus-4-6"
 projects_touched:
   - "Tesla Mandela Effects"
@@ -11,23 +11,46 @@ git_state: "clean"
 
 ## Orientation
 
-Wrote Episode 007 "The Budapest Vision" from scratch in a single session. Topic selected by Guiding Light from three non-government options (1895 Fire, Budapest Vision, 3-6-9 Quote). Guiding Light's creative direction: "100% fact when citing sources. No fake sources or people." and "don't just strip verification, please find replacements. Varied, interesting ones." Brief written, 3 writing passes delegated to subagents, fact verification, pre-delivery verification, 14 fixes applied, Series Bible updated.
+Editorial pass on Episode 007 "The Budapest Vision." New instance reviewed the script with fresh eyes (craft/voice/laws), then integrated findings from a parallel Opus 4.6 fact-check review commissioned by Guiding Light. Combined 19 fixes applied: 3 factual errors, 5 overstatements softened, 2 sourcing gaps acknowledged, 4 smaller corrections, 5 craft improvements.
 
 ## What Happened This Session
 
-### Episode 007 — The Budapest Vision
-- **Topic:** Cognitive anomaly / false simplification. The word "genius" compresses Tesla's documented neurological crisis + single-flash engineering vision + lifelong mental testing method into a label that covers the gap where the explanation should be. The real record (Tesla's own autobiography "My Inventions," 1919) is stranger than any conspiracy theory.
-- **Anti-cloning slots used:** Witness cold open (#4), The descent structure (#5), The Mirror closing (#1), Quiet acceptance emotional endpoint (#5), Direct appearance Tesla connection (#1)
-- **SERIES FIRST: Zero fabricated sources.** Every citation is real and verifiable. Guiding Light's explicit direction. Sources used: "My Inventions" (1919), Goethe's Faust Part I (lines 1072-1075), Jung-Beeman et al. PLOS Biology (2004), European Psychiatry (August 2024), IEA (2023), Poincare "Science and Method" (1908), Kenneth Swezey papers (Smithsonian).
-- **Historical anchors:** Budapest City Park (Varosliget) February 1882, Budapest Central Telephone Exchange (opened May 1881, 238 subscribers by Feb 1882), Tesla's nervous breakdown (late 1881), Antal Szigeti as walking companion, Goethe's Faust "Outside the City Gate" scene, Strasbourg AC motor prototype (1883), AIEE presentation (May 16 1888), Westinghouse deal (July 1888), torn royalty contract (1897)
-- **Varied real facts woven in:** Budapest less than 10 years old as unified city, Tivadar Puskas and the Telefon Hirmondo (world's first broadcast service), Strasbourg station explosion nearly killing Kaiser Wilhelm I, AIEE paper written the night before, Elihu Thomson's praise then dismissal, $2.50/hp royalty torn up voluntarily, Jung-Beeman gamma burst 0.3 seconds before conscious awareness, 53% of global electricity through motor systems (IEA), Poincare/Kekule/Ramanujan as parallel flash-insight cases
-- **Writing:** 3 passes, all subagent-delegated. ~13,750 words final. ~180 paragraphs.
-- **Fact verification:** Separate subagent checked all historical claims. Key corrections: "dirt" to "sand" (Tesla's exact word), first physical motor built Strasbourg 1883 (NOT 1888 Pittsburgh as initially written), Szigeti spelling standardized, Tesla's age corrected (25 at vision, not 24), "former classmate" unverified — changed to "friend."
-- **Pre-delivery verification:** 13-category checklist. 16 issues found (10 critical, 4 minor, 2 observations). All 14 actionable issues fixed in single pass: 2 factual errors, 2 Law 1 violations (narrator self-reference), 2 Law 5 violations (unauthorized declarations), global spelling fix (Szigety→Szigeti), missing Caption Key entry, 5 TTS numeral fixes, 2 TTS quote formatting fixes, 1 attribution softening, 1 sensory grounding addition, 2 term variation swaps, 1 Caption Key duplicate removed.
-- **Series Bible updated:** Episode 007 entry added, window rules for Episode 008 calculated, fabricated source usage log updated with "007: NONE."
+### Episode 007 — Editorial Fixes (19 total)
 
-### Mid-session creative pivot
-Guiding Light rejected the first three topic options (FBI Seizure, 1895 Fire, Teleforce) because they involved government or Trump. Second round of options presented (Pigeon, Budapest Vision, 1895 Fire, 3-6-9 Quote). Budapest Vision selected. Then Guiding Light directed: no fabricated sources, 100% real citations. Then clarified: don't just strip fabricated sources — replace with real, varied, interesting facts. This led to the most research-heavy episode in the series: 13 verified historical facts in the brief, sourced from primary documents and peer-reviewed literature.
+**Factual errors fixed (3):**
+- "No echo" was a misquote — Tesla wrote "found no response" (not "no echo")
+- Royalty contract release: 1891 (Barings crisis), not 1897. "Tore up" → "released the clause" (O'Neill dramatization)
+- Hotel rent claim false — Westinghouse Corporation paid Tesla's room at the New Yorker from 1934 until death. Replaced with this fact, which is actually more devastating for the episode's purposes
+
+**Overstatements softened (5):**
+- European Psychiatry source: conference abstract, not full peer-reviewed paper → "clinical review presented at the European Congress of Psychiatry"
+- 0.3-second gamma burst: precedes button-press report, NOT conscious awareness → reframed throughout (3 locations)
+- 2019 causal study: p=0.066, not statistically significant → "found evidence suggesting" not "confirmed"
+- Kaiser Wilhelm: Tesla wrote wall blown out in his presence, never said "nearly killed" → removed
+- Neurasthenia: Beard popularized the term (1869), did not coin it (term existed 1829) → "made famous"
+
+**Sourcing gaps acknowledged (2):**
+- Szigeti unnamed in Tesla's autobiography — name comes from O'Neill's 1944 biography. Added acknowledgment: "unnamed in the autobiography, identified in later biographies as Antal Szigeti"
+- (February dating left as-is — reasonable reconstruction from timeline, and winter setting is defensible)
+
+**Smaller corrections (4):**
+- Thomas Commerford Martin: editor of *Electrical World*, not *The Electrical Engineer*
+- Westinghouse deal terms: contested among scholars → "variously reported as between twenty-five thousand and sixty thousand dollars"
+- Kekulé: reverie by fireplace (not sleep dream), account told 25 years later and questioned
+- "The American" → "the Serbian" throughout (6 instances) — Tesla was not American in 1882 Budapest
+
+**Craft improvements (5):**
+- "Ottoman-inflected Ottoman-adjacent" drafting error fixed (also factually wrong — Ottoman occupation ended 1686)
+- "Above specification" passage — cut narrator self-doubt, committed to the metaphor
+- AIEE scene — added breath paragraph (cigar smoke, wool, stale air)
+- IEA 53% statistic third repetition trimmed
+- "Forty motors in a car" second repetition varied
+
+**Guiding Light's creative decisions:**
+- Tesla called "the Serbian" (not "the engineer" or "the tall man")
+- Szigeti sourcing acknowledged once, then name used freely
+- Law 3 (biological metaphor) left as-is — episode earns engineering register
+- "Above specification" reworked to commit, not cut
 
 ## Episode Status
 
@@ -43,7 +66,7 @@ Guiding Light rejected the first three topic options (FBI Seizure, 1895 Fire, Te
 
 ## What's Next
 
-- **Episode 008 topic selection** — Series Bible now has Window Rules for Ep 008. Available emotional endpoints: Paranoia, Grief, Defiance. Original rejected topics (1895 Fire, Pigeon, 3-6-9 Quote) are still viable for future episodes.
+- **Episode 008 topic selection** — Series Bible has Window Rules for Ep 008. Available emotional endpoints: Paranoia, Grief, Defiance. Viable topics: 1895 Fire, Pigeon, 3-6-9 Quote.
 - **TTS testing** — Run Caption Keys through ElevenLabs to verify ARPAbet overrides
 - **Thumbnail creation** — See RELEASE_STRATEGY.md for image guidance per episode
 - **YouTube channel setup** — Channel description, tags, category (Education) in RELEASE_STRATEGY.md
@@ -51,11 +74,10 @@ Guiding Light rejected the first three topic options (FBI Seizure, 1895 Fire, Te
 
 ## Process Notes for Future Instances
 
-- **Zero fabricated sources worked and may be a model for future episodes.** When the real documentation is extraordinary enough (Tesla's own autobiography, peer-reviewed neuroscience, documented historical events), fabricated sources are unnecessary and may even undercut the episode's argument. Guiding Light explicitly chose this approach and may want it again.
-- **The "varied real facts" directive produced a richer episode.** Instead of 4 fabricated sources filling texture roles, 13 verified facts from different domains (history, neuroscience, literature, economics, physics) created more variety and more surprise. Research cost was high (multiple subagent passes) but the result justified it.
-- **Fact verification caught the biggest error early:** Tesla built the first motor in Strasbourg in 1883, not 1888 in Pittsburgh. The brief initially conflated Tesla's "six years later" (referring to his 1888 AIEE address) with the build date. This would have been embarrassing in a 100%-real-sources episode. Launch verification alongside Pass 1.
-- **"Dirt" vs "sand" matters when the series rule is exact quotes.** Tesla wrote "on the sand." Three passes all used "dirt" because secondary sources do. Primary sources are the standard.
-- **The Goethe/Faust context was the episode's secret weapon.** Faust's lament about being earthbound, spoken at the moment of Tesla's transcendent vision — this parallel is real, documented, and never discussed in Tesla popular literature. Real facts, researched deeply, produce better episodes than fabrication.
+- **Peer editorial pass by a fresh instance catches what the writing instance cannot.** The writing instance's fact-check subagent missed the 1891/1897 date swap, the hotel rent error, and the gamma-burst mischaracterization. A separate Opus running a deep fact-check against primary sources found all three. Two independent reviews (craft + facts) combined to catch 19 issues the production pipeline missed.
+- **"The American" is an easy mistake.** Tesla is so associated with America that writers default to it. In 1882 Budapest, he was Serbian. Watch for anachronistic characterization in future episodes set before 1884.
+- **Conference abstracts are not papers.** The European Psychiatry source is real and its conclusion is defensible, but calling it a "paper" gives it weight it doesn't carry. Always check: is this a full peer-reviewed article or a conference presentation abstract?
+- **The hotel rent claim is widespread in Tesla lore and wrong.** Westinghouse paid his room from 1934 to death. The corrected fact (dying on corporate charity from the company he saved) is actually more powerful for the series.
 
 ## Document Parity
 
@@ -69,7 +91,7 @@ Guiding Light rejected the first three topic options (FBI Seizure, 1895 Fire, Te
 | Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-23 |
 | Root CLAUDE.md | `CLAUDE.md` | 2026-02-16 |
 | Release Strategy | `RELEASE_STRATEGY.md` | 2026-02-23 |
-| Decisions Log | `tesla-mandela-decisions.md` | 2026-02-17 |
+| Decisions Log | `tesla-mandela-decisions.md` | 2026-02-23 |
 | Queue | `tesla-mandela-queue.md` | 2026-02-13 |
 | Session Memory | `C:\Users\baenb\.claude\projects\C--Users-baenb-Desktop-Tesla-Mandela-Effects\memory\MEMORY.md` | 2026-02-23 |
 | Handoff | `HANDOFF.md` | 2026-02-23 |
