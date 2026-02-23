@@ -232,9 +232,34 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
   - The Schumann resonance waveform
   - Light refracting through a mineral specimen
 
+### 007 — THE BUDAPEST VISION
+- **Wound:** Cognitive anomaly — the false simplification. The word "genius" compresses a documented process (months of neurological crisis → a single-flash vision of a complete AC motor → lifelong mental engineering method) into a label that covers the gap where the explanation should be. The real record is in "My Inventions" (1919) and is stranger than any conspiracy.
+- **Opening type:** Witness cold open (start mid-scene with Szigeti in the park, context arrives later)
+- **Structural shape:** The descent (five layers peeling from accepted version to the stranger truth beneath)
+- **Closing type:** The Mirror — every motor on Earth is the vision's evidence; the listener is inside it
+- **Emotional endpoint:** Quiet acceptance — the settled weight of a fact that cannot be resolved
+- **Tesla connection type:** Direct appearance (Tesla IS the episode — his own words from "My Inventions" carry the primary narrative)
+- **Tesla presence:** Central subject throughout — his breakdown, his vision, his visualization method, his own voice from the autobiography
+- **Key locations:** Budapest City Park (Városliget), Budapest Central Telephone Exchange, Strasbourg (Continental Edison Company machine shop), New York (AIEE presentation, May 1888), Pittsburgh (Westinghouse labs, July 1888), Hotel New Yorker Room 3327 (death, 1943)
+- **Mandela Effects (primary):** Cognitive anomaly — false simplification. The accepted version ("genius had a flash of insight") compresses a documented neurological crisis + complete engineering vision + lifelong mental testing method into a word that explains nothing. New category for the series.
+- **SOURCE APPROACH — NO FABRICATED SOURCES:** First episode with zero fabricated sources. Every citation is real and verifiable: "My Inventions" (1919), Goethe's Faust Part I (lines 1072-1075), Jung-Beeman et al. PLOS Biology (2004), European Psychiatry (August 2024), IEA (2023), Poincaré "Science and Method" (1908), Kenneth Swezey papers (Smithsonian).
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - A man who cannot bear the sound of a clock three rooms away
+  - Drawing in the sand with a stick — the motor appearing in the park path
+  - The poem at the threshold — Goethe's Faust, the day yielding to night
+  - The machine that runs without being built — Tesla's mental testing
+  - Eyes open but not looking at anything in the park
+  - Every motor on Earth — the ubiquity of the vision's output
+  - The gap where the explanation should be — "genius" as a label over a void
+  - A nervous system operating above specification, not below it
+  - Thirty-seven years of distance — the autobiography and the event
+  - The sand still holds the drawing — the first physical trace of alternating current
+- **Unique elements:** Zero fabricated sources (series first), cognitive anomaly as Mandela Effect category, Faust Part I "Outside the City Gate" parallel (Faust's lament at sunset = Tesla's vision at sunset), Strasbourg prototype built in machine shop across from exploded station, AIEE paper written the night before, $2.50/hp royalty torn up voluntarily, Jung-Beeman gamma-burst 0.3 seconds before conscious awareness, IEA 53% of global electricity through motor systems, Budapest less than 10 years old as unified city when Tesla arrived
+- **Names spent:** Nikola Tesla, Antal Szigeti, Tivadar Puskás, Johann Wolfgang von Goethe, George Westinghouse, Thomas Commerford Martin, Elihu Thomson, Mr. Bauzin, Kenneth Swezey, Henri Poincaré, August Kekulé, Srinivasa Ramanujan, George Miller Beard, Kaiser Wilhelm I
+
 ---
 
-## Window Rules — Blocked for Episode 007
+## Window Rules — Blocked for Episode 008
 
 These choices are blocked for Episode 007 based on the window rules in the registry header.
 
