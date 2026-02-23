@@ -308,7 +308,7 @@ No word counts per section. No rigid act boundaries. Each pass writes until the 
 
 **PARAGRAPH FLOW** — No paragraph should carry more than 3-4 distinct ideas. Dense blocks must be split for audio breathing room. Single-line detonations must be isolated in their own paragraphs — never buried mid-block where they lose impact.
 
-**CAPTION KEY** — Every name in the Caption Key must appear in the body text. Every foreign name or non-obvious pronunciation in the body text must appear in the Caption Key. Remove orphaned entries from deleted references. Add entries for any new names introduced.
+**CAPTION KEY** — Every name in the Caption Key must appear in the body text. Every foreign name or non-obvious pronunciation in the body text must appear in the Caption Key. Remove orphaned entries from deleted references. Add entries for any new names introduced. Verify: body text uses cultural spellings with diacritics (Đuka not Djuka, Gospić not Gospic). Column 2 strips diacritics for TTS. Column 3 ARPAbet uses correct vowel mappings for the source language — Serbian/Croatian names use AA (not AH) for "a", AO (not OW) for "o", IY (not IH) for "i".
 
 **INTERNAL CONSISTENCY** — Any fact stated in two or more places in the episode must match exactly. Check the opening against the closing. Check timeline summaries against detailed passages. Check the Brief against the Script.
 </pre_delivery_checklist>
