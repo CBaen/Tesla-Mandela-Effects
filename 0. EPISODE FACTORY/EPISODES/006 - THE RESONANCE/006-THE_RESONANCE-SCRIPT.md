@@ -48,7 +48,7 @@ What he could not have known — because the mathematics would not exist for ano
 
 These frequencies are real. They are measurable. They are measured continuously, by monitoring stations on every continent, as a matter of routine. They fluctuate — solar activity, lightning, changes to the ionosphere can shift them within narrow bands. They are not fixed. They breathe.
 
-The monitoring station at the edge of the Colorado high country logs its data in binders that have been kept since the station's establishment. The equipment has changed four times since then — better instruments, better software, better resolution in the measurements. But the archive of readings goes back unbroken, a paper record folding into a digital one, a continuous account of what the Earth has been saying to the air above it.
+The monitoring station at the edge of the Colorado high country logs its data in binders that have been kept since the station's establishment. The room holds the particular stillness of altitude — air thinner than the equipment was designed to breathe, fluorescent light pressing against windows that face the mountains, the faint metallic warmth of instruments that have been running without pause for decades. The equipment has changed four times since then — better instruments, better software, better resolution in the measurements. But the archive of readings goes back unbroken, a paper record folding into a digital one, a continuous account of what the Earth has been saying to the air above it.
 
 An analyst who joined the station in two thousand eleven spent her first year learning the data before she allowed herself to begin drawing conclusions. This is good scientific practice. The data has texture — seasonal variation, solar weather, the signatures of major electrical storms on the far side of the planet. Before you can see the anomaly, you have to know the baseline.
 
@@ -184,13 +184,13 @@ Repetitive, patterned, unmistakably structured signals. They arrived on his rece
 
 Tesla concluded they were communications from an extraterrestrial civilization. From Mars, he suggested initially, then amended to Mars or Venus. He was not speaking casually. He published this claim. He wrote about it. He stood behind it in interviews. The man who had done more to map electrical reality than any other living person insisted, with full professional credibility behind the claim, that something beyond the Earth was speaking.
 
-The scientific community was skeptical. They remained skeptical for decades, until nineteen fifty-eight, when it was established that Jupiter produces natural radio emissions — intense, structured, periodic emissions from the radiation belts of the largest planet in the solar system. Jupiter, the astronomers concluded, was the most likely source of the signals Tesla received. The planet's emission pattern matches, in broad terms, the structured quality that surprised him. Natural physics. Not intelligence. Not communication. The universe processing its own energy in ways that happened to look, to a human mind trained to find pattern, like language.
+The scientific community was skeptical. They remained skeptical for decades, until nineteen fifty-five, when it was established that Jupiter produces natural radio emissions — intense, structured, periodic emissions from the radiation belts of the largest planet in the solar system. Jupiter, the astronomers concluded, was the most likely source of the signals Tesla received. The planet's emission pattern matches, in broad terms, the structured quality that surprised him. Natural physics. Not intelligence. Not communication. The universe processing its own energy in ways that happened to look, to a human mind trained to find pattern, like language.
 
 That is the accepted account.
 
 But look at the timing.
 
-Tesla was, in the fall of eighteen ninety-nine, in the middle of an eight-month process of transmitting the Earth's own frequency back to it at unprecedented power and precision. He had pressed his instruments against the planet's pulse and then played that pulse back through a copper mast a hundred and forty-two feet tall. He had been doing this since June. Five months of sustained, resonant dialogue, conducted in the only frequency the Earth itself had chosen to speak.
+Tesla was, in the fall of eighteen ninety-nine, in the middle of an eight-month process of transmitting the Earth's own frequency back to it at unprecedented power and precision. He had pressed his instruments against the planet's pulse and then played that pulse back through a tower and copper mast rising a hundred and forty-two feet from the ground. He had been doing this since June. Five months of sustained, resonant dialogue, conducted in the only frequency the Earth itself had chosen to speak.
 
 And in October — five months in — his instruments began receiving something that had not been there before.
 
@@ -534,5 +534,5 @@ Nikola → Nikola → /N IY1 K AO0 L AA0/
 Tesla → Tesla → /T EH1 S L AA0/
 Winfried → Winfried → /V IH1 N F R IY0 D/
 Schumann → Schumann → /SH UW1 M AH0 N/
-Belgrade → Belgrade → /B EH1 L G R EY0 D/
+Belgrade → Belgrade → /B EH0 L G R EY1 D/
 Kama muta → Kama moota → /K AA1 M AH0 M UW1 T AH0/
