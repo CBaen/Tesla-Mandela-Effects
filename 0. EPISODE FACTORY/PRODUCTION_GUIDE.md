@@ -214,7 +214,12 @@ The structure is a spiral, not a timeline:
 
 **The Earned Closing.** After building a case through evidence and questions, the narrator earns the right to make direct statements about the changed world that now exists. The final act turns the audience from listener to participant (even victim) of a timeline shift, proving they are not in the same dimension as the world before the actions of what happened in this episode. The last question should be personal and unanswerable.
 
-**Caption Key.** Every episode ends with a pronunciation guide for names and foreign terms. Format: `Culturally Correct Spelling → English Letter Spelling → /ARPAbet phoneme/`
+**Caption Key.** Every episode ends with a pronunciation guide for names and foreign terms. Format: `Culturally Correct Spelling → TTS-Readable Spelling → /ARPAbet phoneme/`
+
+The body text uses culturally correct spellings with proper diacritics (Đuka, Gospić, Kosanović, François, Münster). The Caption Key translates these for ElevenLabs TTS:
+- Column 1: Cultural spelling exactly as it appears in the body text (with diacritics).
+- Column 2: The same word with diacritics stripped so ElevenLabs can read it (Đuka → Duka, Gospić → Gospic). Not a phonetic guide for humans.
+- Column 3: ARPAbet phonemes that override TTS pronunciation. Serbian vowels use pure cardinal values: AA for "a" (not AH), AO for "o" (not OW), IY for "i" (not IH). Stress markers (1/0) indicate primary/unstressed.
 </episode_structure>
 
 ---
