@@ -266,7 +266,7 @@ January seventh, nineteen forty-three. Room three-three-two-seven of the New Yor
 
 Tesla's body was discovered by a chambermaid.
 
-The FBI was notified within hours. Within hours, the Office of Alien Property dispatched representatives to the hotel room. Before Tesla's nephew Sava Kosanovic could reach the room — before any family member had arrived — agents were already there. Eighty trunks of Tesla's papers and personal effects were seized, inventoried, and removed to a location controlled by the United States government.
+The FBI was notified within hours. Within hours, the Office of Alien Property dispatched representatives to the hotel room. Before Tesla's nephew Sava Kosanović could reach the room — before any family member had arrived — agents were already there. Eighty trunks of Tesla's papers and personal effects were seized, inventoried, and removed to a location controlled by the United States government.
 
 The speed of the seizure is part of the record. The legal basis — an enemy property act applied to an American citizen who had been naturalized for decades — is part of the record. John G. Trump of the Massachusetts Institute of Technology reviewed the materials at the government's request and produced a report characterizing the contents as primarily of historical interest rather than strategic value.
 
@@ -534,7 +534,7 @@ Wardenclyffe → WAR-den-kliff → /W AO1 R D AH0 N K L IH0 F/
 
 Shoreham → SHORE-um → /SH AO1 R AH0 M/
 
-Kosanovic → Ko-SAH-no-vich → /K OW0 S AE1 N OW0 V IH0 CH/
+Kosanović → Ko-SAH-no-vich → /K OW0 S AE1 N OW0 V IH0 CH/
 
 Tesla → TES-lah → /T EH1 S L AH0/
 

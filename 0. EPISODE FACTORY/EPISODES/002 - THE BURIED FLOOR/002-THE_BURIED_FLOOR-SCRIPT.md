@@ -20,7 +20,7 @@ Seventeen seventy-one. Edinburgh, Scotland. The first edition of the Encyclopaed
 
 The entry is not a footnote. Not a hedge. Not a cautious reference to poorly understood lands beyond the frontier. ... "A vast country in the northern parts of Asia," the Britannica reads, "bounded by Siberia on the north and west." The description includes internal political divisions — Independent Tartary, Chinese Tartary, Russian Tartary — subdivided as though it were a continent, not a tribe. Categorized with the specificity of an entry on France or the Ottoman Empire. Granted boundaries, populations, and geographic features. Treated, in every respect, as a real place.
 
-It was not an anomaly. Abraham Ortelius's world atlas of fifteen seventy — the Theatrum Orbis Terrarum, the first modern atlas — shows "Tartaria" spanning from the Caspian Sea toward the Pacific. Gerard Mercator's maps include it. Sebastian Munster's Cosmographia describes it. From the thirteenth century through the nineteenth, European cartographers placed this name on their maps with the confidence of geographers documenting territory their correspondents had visited and their merchants had traded with. Hundreds of maps. Five centuries. Consistent boundaries that shifted with political events but never vanished. The folio pages are heavy in the hand — linen paper, copperplate engraving, the ink pressed into the surface with enough force that you can feel the coastlines with your fingertips.
+It was not an anomaly. Abraham Ortelius's world atlas of fifteen seventy — the Theatrum Orbis Terrarum, the first modern atlas — shows "Tartaria" spanning from the Caspian Sea toward the Pacific. Gerard Mercator's maps include it. Sebastian Münster's Cosmographia describes it. From the thirteenth century through the nineteenth, European cartographers placed this name on their maps with the confidence of geographers documenting territory their correspondents had visited and their merchants had traded with. Hundreds of maps. Five centuries. Consistent boundaries that shifted with political events but never vanished. The folio pages are heavy in the hand — linen paper, copperplate engraving, the ink pressed into the surface with enough force that you can feel the coastlines with your fingertips.
 
 By the twentieth century, the name was gone.
 
@@ -245,31 +245,31 @@ Look down.
 The floor is still there. It has always been there. And it has been waiting... for someone to look down... and remember what it was for.
 
 
-CAPTION KEY
+Caption Key
 
-Tartary - Tartaree - /T AA1 R T AH0 R IY0/
-Tartaria - Tartahreeah - /T AA0 R T AA1 R IY0 AH0/
-Nikola - Neekola - /N IH1 K OW0 L AH0/
-Tesla - Tesla - /T EH1 S L AH0/
-Wardenclyffe - Wordenclyffe - /W AO1 R D AH0 N K L IH0 F/
-Ortelius - Orteeleeus - /AO0 R T IY1 L IY0 AH0 S/
-Mercator - Merkaytor - /M ER0 K EY1 T ER0/
-Macfarquhar - Macfarkwer - /M AH0 K F AA1 R K W ER0/
-Beaux-Arts - Bozar - /B OW0 Z AA1 R/
-Caracalla - Karakalla - /K AE1 R AH0 K AE1 L AH0/
-Schumann - Shooman - /SH UW1 M AH0 N/
-Marconi - Markohnee - /M AA0 R K OW1 N IY0/
-Tremont - Tremont - /T R IY1 M AA0 N T/
-Theatrum Orbis Terrarum - Theeatrum Orbis Terrarum - /TH IY0 EY1 T R AH0 M  AO1 R B IH0 S  T EH1 R AH0 R AH0 M/
-Cosmographia - Kozmograhfeeah - /K AA0 Z M AH0 G R AA1 F IY0 AH0/
-Munster - Moonster - /M UH1 N S T ER0/
-Galveston - Galveston - /G AE1 L V AH0 S T AH0 N/
-McKim - McKim - /M AH0 K IH1 M/
-Guglielmo - Goolyelmoh - /G UW0 L Y EH1 L M OW0/
-Scully - Scully - /S K AH1 L IY0/
-Flagg - Flagg - /F L AE1 G/
-Pullman - Pullman - /P UH1 L M AH0 N/
-Morgan - Morgan - /M AO1 R G AH0 N/
-Winfried - Vinfreedt - /V IH1 N F R IY0 D/
-Secaucus - Seekawkus - /S IH0 K AO1 K AH0 S/
-Lacustrine - Lakustrin - /L AH0 K AH1 S T R IH0 N/
+Tartary → Tartary → /T AA1 R T AH0 R IY0/
+Tartaria → Tartaria → /T AA0 R T AA1 R IY0 AH0/
+Nikola → Nikola → /N IY1 K AO0 L AA0/
+Tesla → Tesla → /T EH1 S L AA0/
+Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH1 F/
+Ortelius → Ortelius → /AO0 R T IY1 L IY0 AH0 S/
+Mercator → Mercator → /M ER0 K EY1 T ER0/
+Macfarquhar → Macfarquhar → /M AH0 K F AA1 R K W ER0/
+Beaux-Arts → Bozar → /B OW0 Z AA1 R/
+Caracalla → Caracalla → /K AE1 R AH0 K AE1 L AH0/
+Schumann → Schumann → /SH UW1 M AH0 N/
+Marconi → Marconi → /M AA0 R K OW1 N IY0/
+Tremont → Tremont → /T R IY1 M AA0 N T/
+Theatrum Orbis Terrarum → Theatrum Orbis Terrarum → /TH IY0 EY1 T R AH0 M AO1 R B IH0 S T EH1 R AH0 R AH0 M/
+Cosmographia → Cosmographia → /K AA0 Z M AH0 G R AA1 F IY0 AH0/
+Münster → Munster → /M UH1 N S T ER0/
+Galveston → Galveston → /G AE1 L V AH0 S T AH0 N/
+McKim → McKim → /M AH0 K IH1 M/
+Guglielmo → Guglielmo → /G UW0 L Y EH1 L M OW0/
+Scully → Scully → /S K AH1 L IY0/
+Flagg → Flagg → /F L AE1 G/
+Pullman → Pullman → /P UH1 L M AH0 N/
+Morgan → Morgan → /M AO1 R G AH0 N/
+Winfried → Winfried → /V IH1 N F R IY0 D/
+Secaucus → Secaucus → /S IH0 K AO1 K AH0 S/
+Lacustrine → Lacustrine → /L AH0 K AH1 S T R IH0 N/

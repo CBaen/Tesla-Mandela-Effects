@@ -32,7 +32,7 @@ And what remained, for Nikola — what remained in the archive of memory, in the
 
 What is certain is this: a boy who was twelve is no longer present. A boy who is seven will grow into an adult carrying the weight of that absence as if he had caused it.
 
-The house in Gospic still smelled of tallow candles and the particular cold that limestone holds in winter — the cold that doesn't leave even when a fire is lit, that settles in the corners of a room and waits.
+The house in Gospić still smelled of tallow candles and the particular cold that limestone holds in winter — the cold that doesn't leave even when a fire is lit, that settles in the corners of a room and waits.
 
 Who was Dane Tesla? The question is almost impossible to answer, because almost no one wrote anything about him. Not biographies. Not letters. Not detailed recollections recorded in later years. What exists is what Nikola said about him — and Nikola spoke of his dead brother with a precision that suggests memory, but which may instead suggest grief. The two states produce indistinguishable language.
 
@@ -64,7 +64,7 @@ Did Dane have gifts that would have matched or exceeded Nikola's? Or was Dane a 
 
 The record cannot say. The record offers no images. No witness statements specific enough to verify. No independent verification of the superlative that Nikola, writing fifty-six years later with all the weight of loss behind his words, applied to the brother he could not remember clearly but whose absence he carried with certainty.
 
-What survives of Dane's room in the Gospic house — a single entry in the estate record: furniture, a trunk, books. The trunk was sealed. No inventory of its contents exists.
+What survives of Dane's room in the Gospić house — a single entry in the estate record: furniture, a trunk, books. The trunk was sealed. No inventory of its contents exists.
 
 But examine this question. This is what the forensic record shows: what is the shape of a loneliness that lasts for eight decades?
 
@@ -74,13 +74,13 @@ Nikola's involuntary visions — the images he could not control, that came to h
 
 Consider the possibility: the trauma of witnessing his brother's death coincided with the emergence of visions. Whether the visions were the wound, or the wound begat the visions, the record does not say clearly. What remains is the proximity. The boy learning to direct chaos. The apparatus that followed. Questions, rather than causality. The shape emerging from multiple angles rather than a single line of causation.
 
-In the months surrounding the accident — whether the loss precipitated the move or followed it, the accounts do not agree — Milutin relocated the family from Smiljan. The reminders were too sharp. The grave was too close. The parish too full of the parishioners who knew the dead boy, who asked about Milutin with the careful sympathy of people who had no idea how to acknowledge a father's loss. The family moved to Gospic, a larger town, where Milutin took the position of pastor of the Church of Great Martyr George. He would remain there for sixteen years, until his death in eighteen seventy-nine. The neighbors would call him "Old Man Milovan" — a nickname that suggested premature aging, that implied grief wore through him visibly enough to age him into obsolescence before his time.
+In the months surrounding the accident — whether the loss precipitated the move or followed it, the accounts do not agree — Milutin relocated the family from Smiljan. The reminders were too sharp. The grave was too close. The parish too full of the parishioners who knew the dead boy, who asked about Milutin with the careful sympathy of people who had no idea how to acknowledge a father's loss. The family moved to Gospić, a larger town, where Milutin took the position of pastor of the Church of Great Martyr George. He would remain there for sixteen years, until his death in eighteen seventy-nine. The neighbors would call him "Old Man Milovan" — a nickname that suggested premature aging, that implied grief wore through him visibly enough to age him into obsolescence before his time.
 
 This is not a man who recovered from his loss. This is not a man who accepted and moved forward. This is a man who was hollowed by the disappearance of his eldest son and who walked through the remainder of his life as a monument to that disappearance.
 
-Gospic in the eighteen sixties was not Smiljan. Smiljan had been a village — the kind of place where altitude determined architecture, where houses built themselves upward into the mountainside, where the church was the only structure that did not need to apologize for its grandeur. Gospic was a garrison town. Larger. Flatter. Built on mercenary logic rather than the logic of terrain. The Austro-Hungarian Empire had placed a military presence there, and around the military presence, a town had accumulated. Barracks. Supply houses. The infrastructure that a standing army requires. The Church of Great Martyr George rose above it with the same authority that cathedrals wield, but the building was surrounded now by the machinery of empire rather than the simplicity of villagers and their crops.
+Gospić in the eighteen sixties was not Smiljan. Smiljan had been a village — the kind of place where altitude determined architecture, where houses built themselves upward into the mountainside, where the church was the only structure that did not need to apologize for its grandeur. Gospić was a garrison town. Larger. Flatter. Built on mercenary logic rather than the logic of terrain. The Austro-Hungarian Empire had placed a military presence there, and around the military presence, a town had accumulated. Barracks. Supply houses. The infrastructure that a standing army requires. The Church of Great Martyr George rose above it with the same authority that cathedrals wield, but the building was surrounded now by the machinery of empire rather than the simplicity of villagers and their crops.
 
-The air was different. Not cleaner or dirtier — different. In Smiljan, the air carried the smell of animal heat and mountain water. In Gospic, the air carried smoke. Not just from the hearths of homes but from the forges of the garrison. The smell of metal being worked. The smell of coal. The smell of a place that had been organized for violence and efficiency rather than the slower rhythms of pastoral life. And the noise — in Smiljan, the absence of noise was the baseline. In Gospic, silence was something you had to construct. The rest of the time there was the sound of activity. Footsteps. Orders shouted in Germanic-accented Croatian. The clang of the blacksmith's hammer carrying across rooftops.
+The air was different. Not cleaner or dirtier — different. In Smiljan, the air carried the smell of animal heat and mountain water. In Gospić, the air carried smoke. Not just from the hearths of homes but from the forges of the garrison. The smell of metal being worked. The smell of coal. The smell of a place that had been organized for violence and efficiency rather than the slower rhythms of pastoral life. And the noise — in Smiljan, the absence of noise was the baseline. In Gospić, silence was something you had to construct. The rest of the time there was the sound of activity. Footsteps. Orders shouted in Germanic-accented Croatian. The clang of the blacksmith's hammer carrying across rooftops.
 
 And in the Church of Great Martyr George, week after week, he delivered the words of the apostles to a congregation that had learned not to ask him about his loss. Learned that the mention of his dead son would produce a silence that would spread through him like water through cloth. Learned that the most merciful thing they could do was to treat the dead boy as if he had not existed. As if Dane Tesla was a person who could be simply filed away from memory, crossed out from the family registry, made absent not only in fact but in the discourse of the community that knew him.
 
@@ -106,7 +106,7 @@ But look at the timing. Look at the domino chain that begins with a horse in eig
 
 Dane dies. The family relocates. Milutin ages. Nikola develops the involuntary visions and learns to direct them.
 
-Eighteen seventy-three. Nikola is seventeen years old. He contracts cholera in Gospic. The disease takes root in a body that has been shaped by grief and isolation. He is bedridden for nine months. Nine months in darkness. Nine months of fever and delirium and the absolute certainty that he is dying.
+Eighteen seventy-three. Nikola is seventeen years old. He contracts cholera in Gospić. The disease takes root in a body that has been shaped by grief and isolation. He is bedridden for nine months. Nine months in darkness. Nine months of fever and delirium and the absolute certainty that he is dying.
 
 Cholera unmakes a body slowly. Through the wall of the sickroom, Nikola could hear the rhythm of his father's prayers — not the words, only the intensity. The desperation of a man who had already lost one son and understood he was about to lose another.
 
@@ -116,13 +116,13 @@ At some point during those nine months, Milutin made a bargain. If the boy survi
 
 Nikola survived. The cholera retreated. And Milutin — honoring the promise — arranged for Nikola to begin his technical education. The boy who was supposed to inherit the church would instead inherit the future.
 
-And here is what matters. Without the horse. Without Dane. Without the accident in eighteen sixty-three and the relocation to Gospic and the visions that came afterward and the isolation that shaped a boy into an inventor — Nikola Tesla would never have been in Gospic in eighteen seventy-three to contract cholera. He would not have been the son of a desperate priest making bargains at a deathbed. He would not have had the need to become an engineer. The alternating current would not exist. The rotating magnetic field would not exist. Every technology that has powered the modern world for one hundred and thirty years would not exist.
+And here is what matters. Without the horse. Without Dane. Without the accident in eighteen sixty-three and the relocation to Gospić and the visions that came afterward and the isolation that shaped a boy into an inventor — Nikola Tesla would never have been in Gospić in eighteen seventy-three to contract cholera. He would not have been the son of a desperate priest making bargains at a deathbed. He would not have had the need to become an engineer. The alternating current would not exist. The rotating magnetic field would not exist. Every technology that has powered the modern world for one hundred and thirty years would not exist.
 
 Because a horse did not miss, in eighteen sixty-three, one version of events never came to pass.
 
 This is the cascade. This is the domino chain. The first loss makes possible all that comes after. The empty space left by Dane makes room for the entire shape of Nikola's life. Without the brother who is gone, there is no brother who would make the world electric.
 
-Gospic, eighteen seventy. Nikola is fourteen years old. The boy with the directed visions is becoming the man with the method. He is still in the shadow of Milutin. Still in the town that was chosen as refuge from loss. Still carrying Dane in the space where Dane is not.
+Gospić, eighteen seventy. Nikola is fourteen years old. The boy with the directed visions is becoming the man with the method. He is still in the shadow of Milutin. Still in the town that was chosen as refuge from loss. Still carrying Dane in the space where Dane is not.
 
 But something has shifted. The visions no longer come as assaults. They come as tools. Nikola can summon them. He can ask them questions. He can build a machine in the interior space of his mind — a rotating magnetic field, a coil of copper, a sequence of alternating electrical pulses — and he can test it mentally. He can run the machine. He can modify it. He can see what happens before he ever has to construct it in physical materials.
 
@@ -230,21 +230,21 @@ That the loneliness was not personality. It was amputation.
 
 But there is one more document. One more fragment that should not exist and yet does.
 
-In nineteen ninety-one, a church renovation in Gracac — a small town near the Croatian coast, the kind of place where family Bibles accumulate generations of pressed flowers and folded paper — uncovered a letter inside the spine of a Bible belonging to the Mandic family. Djuka Tesla's family. The letter was dated eighteen sixty-five. Two years after the horse. Two years after the family had left Smiljan for Gospic. Two years into the silence.
+In nineteen ninety-one, a church renovation in Gračac — a small town near the Croatian coast, the kind of place where family Bibles accumulate generations of pressed flowers and folded paper — uncovered a letter inside the spine of a Bible belonging to the Mandić family. Đuka Tesla's family. The letter was dated eighteen sixty-five. Two years after the horse. Two years after the family had left Smiljan for Gospić. Two years into the silence.
 
-Djuka wrote to a cousin. The letter is not remarkable for its content — it is a mother's correspondence, the kind of ordinary communication that families produce in the course of maintaining connections across distance. But one passage breaks the surface of the ordinary. Djuka describes finding drawings among Dane's belongings. Not sketches. Not the idle marks that children leave on the margins of schoolwork. Drawings. "Machines that look like the inside of a clock, but not any clock I have seen," she writes. "He drew them the way other children draw horses. I did not know what they were then. I think Nikola knows. He will not look at them."
+Đuka wrote to a cousin. The letter is not remarkable for its content — it is a mother's correspondence, the kind of ordinary communication that families produce in the course of maintaining connections across distance. But one passage breaks the surface of the ordinary. Đuka describes finding drawings among Dane's belongings. Not sketches. Not the idle marks that children leave on the margins of schoolwork. Drawings. "Machines that look like the inside of a clock, but not any clock I have seen," she writes. "He drew them the way other children draw horses. I did not know what they were then. I think Nikola knows. He will not look at them."
 
 A twelve-year-old boy who drew machines. Not the machines of his era — not looms or printing presses or the familiar mechanisms of rural life. Machines that his mother could not identify. Machines that resembled the interior of a clock but corresponded to no clock she had ever seen. And his seven-year-old brother, the one who would later develop the ability to visualize machines in his mind with perfect clarity — he would not look at the drawings.
 
-The letter was donated to a local historical society in Gracac. The society dissolved in nineteen ninety-seven. The letter's current location is unknown. It may be in a box. It may be in a basement. It may have been discarded when the organization folded and its archives were dispersed. What remains is the record that someone once found it, that someone once read it, that a mother two years into grief wrote to a relative about the drawings her dead son had left behind — and about the living son who could not bear to see them.
+The letter was donated to a local historical society in Gračac. The society dissolved in nineteen ninety-seven. The letter's current location is unknown. It may be in a box. It may be in a basement. It may have been discarded when the organization folded and its archives were dispersed. What remains is the record that someone once found it, that someone once read it, that a mother two years into grief wrote to a relative about the drawings her dead son had left behind — and about the living son who could not bear to see them.
 
 But listen to what the witness says.
 
 Nineteen seventy-four. A regional folklore study based in Zagreb. A regional folk memory project, conducted with elderly inhabitants of villages in the Croatian interior. Collecting stories before they disappeared. Recording the voices of people who remembered the Austro-Hungarian Empire, who had lived through wars, who carried the old languages and old narratives before modernization completed its work of smoothing everything into homogeneity.
 
-An old woman from Gospic. Initiated in the records only as M.K. Seventies, possibly eighties. The interviewer meets with her in a home that smells of bread baking and something mineral — limestone dust, perhaps, the way old houses in the Balkans hold the geology of their location in the plaster and the air.
+An old woman from Gospić. Initiated in the records only as M.K. Seventies, possibly eighties. The interviewer meets with her in a home that smells of bread baking and something mineral — limestone dust, perhaps, the way old houses in the Balkans hold the geology of their location in the plaster and the air.
 
-The interviewer is collecting stories about local history. About the people who lived in Gospic in the nineteenth century. The notable families. The church. The priest who came from Smiljan. The woman becomes animated. Yes, she knows the stories. Her grandmother knew the priest. Milutin Tesla. A good man. Serious. The kind of priest who understood scripture the way other men understood mathematics. Her grandmother knew the family. The wife was kind. The children were — here the woman pauses. The children.
+The interviewer is collecting stories about local history. About the people who lived in Gospić in the nineteenth century. The notable families. The church. The priest who came from Smiljan. The woman becomes animated. Yes, she knows the stories. Her grandmother knew the priest. Milutin Tesla. A good man. Serious. The kind of priest who understood scripture the way other men understood mathematics. Her grandmother knew the family. The wife was kind. The children were — here the woman pauses. The children.
 
 And the interviewer asks about the children. Nikola is known, of course. The inventor. The newspaper reports have carried his name to even the remote villages. But what about the others?
 
@@ -252,7 +252,7 @@ M.K. becomes insistent. There were two boys. Tesla boys. She remembers the stori
 
 And while the quiet one drew machines, the loud one sang. Loudly. With enthusiasm. The brothers occupied opposite positions in the same space. One internalizing, one externalizing. One visual, one auditory. The two of them complementing each other across the width of a wooden pew.
 
-The interviewer stops the woman. Corrects her gently. There was only one Tesla son, the interviewer says. Nikola. Not two boys. Historical records are clear on this. There was an older brother, Dane, but he died before the family came to Gospic. Before the Church of Great Martyr George. He could not have attended services with Nikola.
+The interviewer stops the woman. Corrects her gently. There was only one Tesla son, the interviewer says. Nikola. Not two boys. Historical records are clear on this. There was an older brother, Dane, but he died before the family came to Gospić. Before the Church of Great Martyr George. He could not have attended services with Nikola.
 
 M.K. becomes agitated. She is certain. There were two. My grandmother knew the mother. She talked to the mother. The mother said there were two boys. Always two. The interviewer, faced with the woman's certainty, with the specificity of her memory, with the architectural precision of the details she is recounting, notes the discrepancy in the record. An unverified family anecdote, the notes say. Historically inconsistent.
 
@@ -280,7 +280,7 @@ But the category expands. A Mandela Effect applied to a person. A human being as
 
 Dane Tesla is not a changed spelling. He is a missing human being. The accepted narrative — the one that persists in every textbook, every biography, every popular account of Tesla's life — is the overwritten version. Tesla as lone genius. Tesla as solitary inventor. Tesla as the man who achieved the impossible because he was willing to work entirely alone.
 
-But the evidence suggests something different. The shape of the evidence. The specific geometry of his loneliness. The fact that the visualization method arose not as talent bestowed but as compensation — the mind building alone what the partnership would have built together. The fact that every account of Dane emphasizes his extraordinary gifts with an intensity that cannot be reconciled with the near-complete absence of any actual detail about what those gifts were. The fact that a woman in Gospic, seven decades after the brothers were supposed to have separated, could still recall the memory of them together. Both of them. The complement of them.
+But the evidence suggests something different. The shape of the evidence. The specific geometry of his loneliness. The fact that the visualization method arose not as talent bestowed but as compensation — the mind building alone what the partnership would have built together. The fact that every account of Dane emphasizes his extraordinary gifts with an intensity that cannot be reconciled with the near-complete absence of any actual detail about what those gifts were. The fact that a woman in Gospić, seven decades after the brothers were supposed to have separated, could still recall the memory of them together. Both of them. The complement of them.
 
 What if the original version was "the Tesla Brothers"? Two minds working together. Dane in the workshop, perhaps. Nikola with the visualizations. The way Wilbur and Orville worked. The way Joseph and Étienne worked. What if that partnership was the intended design — and what if the version we inhabit, the version where Nikola works alone, is the one that was overwritten?
 
@@ -330,9 +330,9 @@ Caption Key
 Nikola Tesla → Nih-KOH-lah TESS-lah → /N IH0 K OW1 L AH0 T EH1 S L AH0/
 Dane Tesla → DAYN TESS-lah → /D EY1 N T EH1 S L AH0/
 Milutin Tesla → Mih-LOO-tin TESS-lah → /M IH0 L UW1 T IH0 N T EH1 S L AH0/
-Djuka Tesla → JOO-kah TESS-lah → /JH UW1 K AH0 T EH1 S L AH0/
+Đuka Tesla → JOO-kah TESS-lah → /JH UW1 K AH0 T EH1 S L AH0/
 Smiljan → SMIL-yahn → /S M IH1 L Y AA0 N/
-Gospic → Gospeech → /G OW1 S P IH0 CH/
+Gospić → Gospeech → /G OW1 S P IH0 CH/
 Croatia → Kroh-AY-shuh → /K R OW0 EY1 SH AH0/
 Church of Great Martyr George → Church of Great MAR-ter JOHRJ → /CH ER1 CH AH0 V G R EY1 T M AA1 R T ER0 JH AO1 R J/
 Angelina Tesla → An-juh-LEE-nah TESS-lah → /AE0 N JH AH0 L IY1 N AH0 T EH1 S L AH0/
@@ -358,7 +358,7 @@ Long Island → LAWNG EYE-lund → /L AO1 N G AY1 L AH0 N D/
 Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
 Austro-Hungarian Empire → AW-stroh-HUN-GAR-ee-uhn EM-pyre → /AO1 S T R OW0 H AH1 N G EH1 R IY0 AH0 N EH1 M P AY1 R/
 M.K. → Em-KAY → /EH1 M K EY1/
-Gracac → GRAHS-ahts → /G R AA1 S AA0 T S/
-Mandic → MAHN-dich → /M AA1 N D IH0 CH/
+Gračac → GRAHS-ahts → /G R AA1 S AA0 T S/
+Mandić → MAHN-dich → /M AA1 N D IH0 CH/
 My Inventions → My In-VEH-shunz → /M AY1 IH0 N V EH1 SH AH0 N Z/
 

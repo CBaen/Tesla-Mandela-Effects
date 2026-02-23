@@ -54,9 +54,9 @@ But consider the date. July fourth, nineteen seventeen — Tesla's tower, the de
 
 Was it coincidence? The question is not rhetorical. It is the first question this investigation asks you to carry. Hold it. Do not answer it yet. There are more dates coming, more coincidences — and by the end, coincidence will not be a word large enough to contain them.
 
-September twenty-ninth, nineteen fifty-four. Meyrin, Switzerland — a western suburb of Geneva, where the foothills of the Jura mountains flatten into farmland and the air smells of cut grass and lake water carried on the wind from Lac Leman. Thirty-seven years after the demolition of Wardenclyffe, and just two years after Schumann confirmed Tesla's eight-hertz calculation, a new organization is formally established on the border between France and Switzerland.
+September twenty-ninth, nineteen fifty-four. Meyrin, Switzerland — a western suburb of Geneva, where the foothills of the Jura mountains flatten into farmland and the air smells of cut grass and lake water carried on the wind from Lac Léman. Thirty-seven years after the demolition of Wardenclyffe, and just two years after Schumann confirmed Tesla's eight-hertz calculation, a new organization is formally established on the border between France and Switzerland.
 
-Its name is CERN. The acronym stands for the Conseil Europeen pour la Recherche Nucleaire — the European Council for Nuclear Research. Except that was the name of the provisional council, not the final organization. The actual name is the European Organization for Nuclear Research. But the acronym had already stuck — already in the paperwork, already in the press releases, already in the minds of the twelve founding nations. So they kept it. A name that didn't match the thing it named. A label from a version of the organization that no longer existed. Even CERN's name is a memory of something that was overwritten.
+Its name is CERN. The acronym stands for the Conseil Européen pour la Recherche Nucléaire — the European Council for Nuclear Research. Except that was the name of the provisional council, not the final organization. The actual name is the European Organization for Nuclear Research. But the acronym had already stuck — already in the paperwork, already in the press releases, already in the minds of the twelve founding nations. So they kept it. A name that didn't match the thing it named. A label from a version of the organization that no longer existed. Even CERN's name is a memory of something that was overwritten.
 
 Twelve nations signed the founding convention in nineteen fifty-three. Among them — Yugoslavia. A country that would itself later be overwritten, fragmented, its borders redrawn as if by a surgeon separating tissue that had grown together in ways the body politic no longer wanted. The first shovel of earth was turned on May seventeenth, nineteen fifty-four. The first foundation stone was laid by Felix Bloch, CERN's first Director-General, in June of nineteen fifty-five. And then they began to dig.
 
@@ -241,8 +241,8 @@ Fiona Broome → Fee-OH-nah BROOM → /F IY0 OW1 N AH0 B R UW1 M/
 Elizabeth Loftus → Eh-LIZ-uh-beth LAWF-tuhs → /EH0 L IH1 Z AH0 B EH0 TH L AO1 F T AH0 S/
 Berenstain → BEHR-en-stayn → /B EH1 R AH0 N S T EY0 N/
 Saint-Genis-Pouilly → San-Zhuh-NEE Poo-YEE → /S AE1 N ZH AH0 N IY1 P UW0 Y IY1/
-Lac Leman → Lahk Lay-MAHN → /L AA1 K L EY0 M AA1 N/
-Conseil Europeen pour la Recherche Nucleaire → Kohn-SAY Ur-oh-pay-AHN poor lah Ruh-SHAIRSH Noo-clay-AIR → /K AO0 N S EY1 Y UH0 R OW0 P EY0 AE1 N P UH1 R L AA0 R AH0 SH EH1 R SH N UW0 K L EY0 EH1 R/
+Lac Léman → Lahk Lay-MAHN → /L AA1 K L EY0 M AA1 N/
+Conseil Européen pour la Recherche Nucléaire → Kohn-SAY Ur-oh-pay-AHN poor lah Ruh-SHAIRSH Noo-clay-AIR → /K AO0 N S EY1 Y UH0 R OW0 P EY0 AE1 N P UH1 R L AA0 R AH0 SH EH1 R SH N UW0 K L EY0 EH1 R/
 Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
 Felix Bloch → FAY-liks BLOHK → /F EY1 L IH0 K S B L AA1 K/
 Etterbeek → EH-ter-bayk → /EH1 T ER0 B EY0 K/
