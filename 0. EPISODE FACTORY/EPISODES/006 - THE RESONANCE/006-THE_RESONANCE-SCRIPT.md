@@ -20,7 +20,7 @@ The handyman the locals called Craver — his full name appears nowhere in any r
 
 He kept a journal. Not because he was a writer — his entries are short, practical, often little more than notes to himself about tasks completed or supplies needed. But he was a man who found comfort in accounting. In making sure that what had happened was recorded somewhere, that the day had produced some residue of fact.
 
-The journal was discovered folded inside a saddle bag at an estate sale in nineteen sixty-seven. The buyer — a schoolteacher from Denver who had a habit of collecting old paper — recognized the Colorado Springs address in the first entry and set it aside. She never published it. It passed through her estate to a grandson, who donated it to a historical society in two thousand twelve along with several hundred other miscellaneous documents from her collection. It was catalogued without particular emphasis and has not, to this date, been the subject of any scholarly analysis.
+The journal was discovered folded inside a saddle bag at an estate sale in nineteen sixty-seven. The buyer — a schoolteacher from Denver who had a habit of collecting old paper — recognized the Colorado Springs address in the first entry and set it aside. She never published it. After her death it passed through private hands and has not been the subject of scholarly analysis.
 
 What Craver wrote in June of eighteen ninety-nine was this. He wrote: The nights here are something I have no word for. I have lived in this country thirty years and I know dark and I know stars. This is neither. The sky since the tower went up has a different quality. I cannot say it better than that. A quality I have not seen in thirty years of looking.
 
@@ -59,6 +59,8 @@ More than this: the rate of increase, when she traced it backward using the math
 She was careful. She wrote the analysis three times before she was satisfied with the language. In the margin of a printout she kept in a manila folder in her desk drawer — not filed, not part of the official record, because she did not know what to do with it — she wrote seven words: This frequency is not in any catalog.
 
 She did not mean that the frequency was unknown. She meant that its behavior — the particular shape of its increase, the curve of its ascent — matched nothing in the literature. It was not a pattern that the Earth had produced before. At least, not before the point her mathematics identified as the origin.
+
+She has not published the analysis. She has not shared it with the station's oversight body. She is one analyst, working with one station's data, drawing one person's conclusions that no one else has yet confirmed or examined. The manila folder remains in the drawer.
 
 May, eighteen ninety-nine.
 
@@ -108,7 +110,7 @@ And if it heard itself, recognized its own frequency in the oscillations rising 
 
 Not the mechanical answer. Not the engineering answer. Not the passive vibration of a tuning fork matched to its note. The biological answer. What does a living system do when something speaks to it in its own language, for the first time, with clarity and precision and no interference?
 
-It answers.
+Does it answer?
 
 Craver's last journal entry from the Colorado Springs period is from January of nineteen hundred. Tesla was already preparing to leave — his lease on the laboratory would end, his patron's support was shifting toward the Wardenclyffe project in New York, the Colorado chapter was closing. The entry is one of the longest in the journal, and Craver was not a man who wrote long entries.
 
@@ -122,7 +124,7 @@ But the frequency remained.
 
 And began, slowly, to climb.
 
-In nineteen sixty-two, a team of geologists surveying the Colorado Springs region for a federal mineral resources study documented an anomaly in a section of their field notes that received no follow-up and was never incorporated into the final report. The lead surveyor wrote, in plain scientific language: Fluorescence observed in multiple mineral samples from the survey area does not correspond to chemical composition. Samples display fluorescence at wavelengths inconsistent with known mineral content. Pattern of anomalous fluorescence is non-random — measurements show a radial distribution centered on a point approximately three miles north of the city center.
+In the early nineteen sixties, a team of geologists working the Colorado Springs region documented an anomaly in their field notes that received no follow-up. The lead surveyor wrote, in plain scientific language: Fluorescence observed in multiple mineral samples from the survey area does not correspond to chemical composition. Samples display fluorescence at wavelengths inconsistent with known mineral content. Pattern of anomalous fluorescence is non-random — measurements show a radial distribution centered on a point approximately three miles north of the city center.
 
 The point three miles north of the city center is the location of the former Tesla laboratory on East Pikes Peak Avenue.
 
@@ -154,9 +156,7 @@ Not language. Not anything that translates. But witness testimony arrives in man
 
 Nineteen twenty-three. The Pikes Peak region. Elbow Creek, a farm settlement about twelve miles east of the old laboratory site, twelve miles from where the copper mast had aimed itself at the Colorado sky twenty-four years earlier. A beekeeper named Russell Hapgood had kept hives on this land since his father's time. He wrote one known letter about his bees, and it was not addressed to any journal or any scientist. It was addressed to his wife's cousin in Kansas, a woman who kept chickens and with whom he conducted a regular correspondence about the specific grammar of domestic farming — weather, yields, the behavior of animals that refused to behave as expected.
 
-The letter was folded into a Bible when the cousin died. The Bible passed to her daughter, then to her daughter's daughter, who sold the estate contents, including the Bible, at an auction in Topeka in two thousand seven. A dealer in paper ephemera bought the Bible for eight dollars without opening it first.
-
-He opened it later. He found the letter inside.
+The letter was folded into a Bible when the cousin died. A dealer in old paper bought the Bible at an estate sale without opening it first. He opened it later. He found the letter inside.
 
 Hapgood wrote: I am writing to tell you about the bees because I have no one else to tell who will not think I have gone simple. The hives this spring have been as I have described in past letters — healthy, active, good yield. But in the past three years I have noticed something I cannot account for and I have been waiting to write it down because I wanted to be certain I was not mistaken. I am now certain.
 
@@ -184,7 +184,7 @@ Repetitive, patterned, unmistakably structured signals. They arrived on his rece
 
 Tesla concluded they were communications from an extraterrestrial civilization. From Mars, he suggested initially, then amended to Mars or Venus. He was not speaking casually. He published this claim. He wrote about it. He stood behind it in interviews. The man who had done more to map electrical reality than any other living person insisted, with full professional credibility behind the claim, that something beyond the Earth was speaking.
 
-The scientific community was skeptical. They remained skeptical for decades, until nineteen fifty-five, when it was established that Jupiter produces natural radio emissions — intense, structured, periodic emissions from the radiation belts of the largest planet in the solar system. Jupiter, the astronomers concluded, was the most likely source of the signals Tesla received. The planet's emission pattern matches, in broad terms, the structured quality that surprised him. Natural physics. Not intelligence. Not communication. The universe processing its own energy in ways that happened to look, to a human mind trained to find pattern, like language.
+The scientific community was skeptical. They remained skeptical for decades, until nineteen fifty-five, when a natural explanation was proposed — later work suggested Jupiter produces radio emissions, intense and periodic, from the radiation belts of the largest planet in the solar system. Jupiter, some astronomers concluded, was the most likely source of the signals Tesla received. The planet's emission pattern matches, in broad terms, the structured quality that surprised him. Natural physics. Not intelligence. Not communication. The universe processing its own energy in ways that happened to look, to a human mind trained to find pattern, like language.
 
 That is the accepted account.
 
@@ -290,7 +290,7 @@ They are not a network. They are not a movement. They are not a conspiracy.
 
 They are a pattern.
 
-And here is what patterns mean when evidence produces them: the cause is real. The effect is real. The connection is real. What is missing is not the phenomenon — the phenomenon has been accumulating across four continents and eleven decades of testimony. What is missing is the name for what happened.
+When independent witnesses across four continents and eleven decades point at the same origin without knowing each other exist — what produced the pattern?
 
 Craver did not have a name for it. He wrote: something was added.
 
