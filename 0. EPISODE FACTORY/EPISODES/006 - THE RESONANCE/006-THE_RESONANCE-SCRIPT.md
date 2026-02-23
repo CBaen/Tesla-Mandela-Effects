@@ -62,7 +62,7 @@ She did not mean that the frequency was unknown. She meant that its behavior —
 
 May, eighteen ninety-nine.
 
-The measurement doesn't prove causation. That is not how science works, and this series respects that distinction. What the measurement proves is correlation — a change in the Earth's electromagnetic behavior that appears to date from the summer that a man with extraordinary hands pointed a copper mast at the Colorado sky and began listening for what the planet had to say.
+The measurement doesn't prove causation. Correlation is not causation — and that distinction does not disappear because the correlation is beautiful. What the measurement proves is correlation — a change in the Earth's electromagnetic behavior that appears to date from the summer that a man with extraordinary hands pointed a copper mast at the Colorado sky and began listening for what the planet had to say.
 
 But look at what happened in the gaps between the measurements.
 
