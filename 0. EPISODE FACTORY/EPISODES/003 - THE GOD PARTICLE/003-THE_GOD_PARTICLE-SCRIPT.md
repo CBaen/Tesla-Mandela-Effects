@@ -221,32 +221,59 @@ And if that version is the real one — the first one, the one that existed befo
 
 Caption Key
 
-Nikola Tesla → Nikola Tesla → /N IY1 K AO0 L AA0 T EH1 S L AA0/
+Nikola → Nikola → /N IY1 K AO0 L AA0/
+Tesla → Tesla → /T EH1 S L AA0/
 CERN → CERN → /S ER1 N/
 Meyrin → Meyrin → /M EH0 R EH1 N/
-Higgs boson → Higgs boson → /HH IH1 G Z B OW1 Z AA0 N/
-Peter Higgs → Peter Higgs → /P IY1 T ER0 HH IH1 G Z/
-François Englert → Francois Englert → /F R AO0 N S W AA1 AO0 N G L EH1 R T/
-Robert Brout → Robert Brout → /R AA1 B ER0 T B R AW1 T/
-Fabiola Gianotti → Fabiola Gianotti → /F AA0 B IY0 OW1 L AA0 JH AA0 N AO1 T IY0/
-Joe Incandela → Joe Incandela → /JH OW1 IH0 N K AH0 N D EH1 L AH0/
-Leon Lederman → Leon Lederman → /L IY1 AH0 N L EH1 D ER0 M AH0 N/
-Winfried Otto Schumann → Winfried Otto Schumann → /V IH1 N F R IY0 D AO1 T OW0 SH UW1 M AH0 N/
-Schumann resonance → Schumann resonance → /SH UW1 M AH0 N R EH1 Z AH0 N AH0 N S/
-Guglielmo Marconi → Guglielmo Marconi → /G UW0 L Y EH1 L M OW0 M AA0 R K OW1 N IY0/
-John Pierpont Morgan → John Pierpont Morgan → /JH AA1 N P IH1 R P AA0 N T M AO1 R G AH0 N/
+Higgs → Higgs → /HH IH1 G Z/
+boson → boson → /B OW1 Z AA0 N/
+Peter → Peter → /P IY1 T ER0/
+François → Francois → /F R AO0 N S W AA1/
+Englert → Englert → /AO0 N G L EH1 R T/
+Robert → Robert → /R AA1 B ER0 T/
+Brout → Brout → /B R AW1 T/
+Fabiola → Fabiola → /F AA0 B IY0 OW1 L AA0/
+Gianotti → Gianotti → /JH AA0 N AO1 T IY0/
+Joe → Joe → /JH OW1/
+Incandela → Incandela → /IH0 N K AH0 N D EH1 L AH0/
+Leon → Leon → /L IY1 AH0 N/
+Lederman → Lederman → /L EH1 D ER0 M AH0 N/
+Winfried → Winfried → /V IH1 N F R IY0 D/
+Otto → Otto → /AO1 T OW0/
+Schumann → Schumann → /SH UW1 M AH0 N/
+resonance → resonance → /R EH1 Z AH0 N AH0 N S/
+Guglielmo → Guglielmo → /G UW0 L Y EH1 L M OW0/
+Marconi → Marconi → /M AA0 R K OW1 N IY0/
+John → John → /JH AA1 N/
+Pierpont → Pierpont → /P IH1 R P AA0 N T/
+Morgan → Morgan → /M AO1 R G AH0 N/
 Nataraja → Nataraja → /N AA0 T AA0 R AA1 JH AA0/
 Tandava → Tandava → /T AA1 N D AA0 V AA0/
-Fiona Broome → Fiona Broome → /F IY0 OW1 N AH0 B R UW1 M/
-Elizabeth Loftus → Elizabeth Loftus → /EH0 L IH1 Z AH0 B EH0 TH L AO1 F T AH0 S/
+Fiona → Fiona → /F IY0 OW1 N AH0/
+Broome → Broome → /B R UW1 M/
+Elizabeth → Elizabeth → /EH0 L IH1 Z AH0 B EH0 TH/
+Loftus → Loftus → /L AO1 F T AH0 S/
 Berenstain → Berenstain → /B EH1 R AH0 N S T EY0 N/
 Saint-Genis-Pouilly → Saint-Genis-Pouilly → /S EH1 N ZH AH0 N IY1 P UW0 Y IY1/
-Lac Léman → Lac Leman → /L AA1 K L EH0 M AA1 N/
-Conseil Européen pour la Recherche Nucléaire → Conseil Europeen pour la Recherche Nucleaire → /K AO0 N S EY1 UH0 R AO0 P EY0 EH1 N P UH1 R L AA0 R AH0 SH EH1 R SH N UW0 K L EH0 EH1 R/
+Lac → Lac → /L AA1 K/
+Léman → Leman → /L EH0 M AA1 N/
+Conseil → Conseil → /K AO0 N S EY1/
+Européen → Europeen → /UH0 R AO0 P EY0 EH1 N/
+pour → pour → /P UH1 R/
+la → la → /L AA0/
+Recherche → Recherche → /R AH0 SH EH1 R SH/
+Nucléaire → Nucleaire → /N UW0 K L EH0 EH1 R/
 Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH1 F/
-Felix Bloch → Felix Bloch → /F IY1 L IH0 K S B L AA1 K/
+Felix → Felix → /F IY1 L IH0 K S/
+Bloch → Bloch → /B L AA1 K/
 Etterbeek → Etterbeek → /EH1 T ER0 B EY0 K/
-James Earl Jones → James Earl Jones → /JH EY1 M Z ER1 L JH OW1 N Z/
-Gerald Guralnik → Gerald Guralnik → /JH EH1 R AH0 L D G UH0 R AA1 L N IH0 K/
-Carl Richard Hagen → Carl Richard Hagen → /K AA1 R L R IH1 CH ER0 D HH EY1 G AH0 N/
-Tom Kibble → Tom Kibble → /T AA1 M K IH1 B AH0 L/
+James → James → /JH EY1 M Z/
+Earl → Earl → /ER1 L/
+Jones → Jones → /JH OW1 N Z/
+Gerald → Gerald → /JH EH1 R AH0 L D/
+Guralnik → Guralnik → /G UH0 R AA1 L N IH0 K/
+Carl → Carl → /K AA1 R L/
+Richard → Richard → /R IH1 CH ER0 D/
+Hagen → Hagen → /HH EY1 G AH0 N/
+Tom → Tom → /T AA1 M/
+Kibble → Kibble → /K IH1 B AH0 L/
