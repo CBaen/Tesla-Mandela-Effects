@@ -20,9 +20,10 @@ Wrote Episode 006 "The Resonance" from scratch in a single session. Topic select
 - **Anti-cloning slots used (ALL never-used before):** Declarative impossibility opening, Dual timeline structure, The Callback closing, Wonder/awe emotional endpoint, Philosophical parallel Tesla connection
 - **Historical anchors:** Colorado Springs experiments (May 1899 - Jan 1900), 80-foot tower with 142-foot copper mast, magnifying transmitter, Schumann resonances (7.83 Hz, Winfried Otto Schumann, 1952), Tesla's reported extraterrestrial signals (likely Jupiter emissions, discovered 1955)
 - **Fabricated sources:** Craver's technician journal (1899), Russell Hapgood's beekeeper letter (1923), geological survey (1962), monitoring station analyst
-- **Writing:** 3 passes, all subagent-delegated. ~10,885 words. ~264 paragraphs.
+- **Writing:** 3 passes, all subagent-delegated. ~10,591 words final (after editorial cuts). ~264 paragraphs.
 - **Fact verification:** Separate subagent checked all historical claims. Tower height corrected (60→80 feet), Jupiter discovery year corrected (1958→1955), lightning distance corrected (130→135 feet).
-- **Pre-delivery verification:** 13-category checklist run by subagent. 6 issues found and fixed: facts (2), sensory grounding (1), Caption Key stress (1), feel/felt term violation cluster (1), continuity/clarity (1).
+- **Pre-delivery verification:** 13-category checklist run by subagent. 6 issues found and fixed.
+- **Editorial review (2 rounds):** Editor Opus 4.6 reviewed. Round 1: Law 5 declarations (4), narrator identity (1), provenance trims (3), scientific softening (2), closing cut (~380 words), bio metaphor threading (3), term violations (5), Caption Key additions (4). Round 2: Law 5 stragglers (3), closing "you are" stacking (1), term violations (3), factual softening (1). Total: ~30 surgical edits across 2 passes.
 - **Series Bible updated:** Episode 006 entry added, window rules for Episode 007 calculated, fabricated source format usage log created.
 
 ## Episode Status
