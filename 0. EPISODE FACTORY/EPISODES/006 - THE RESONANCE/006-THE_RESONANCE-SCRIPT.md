@@ -408,7 +408,7 @@ It would feel like awe. It would feel like wonder that exceeds its cause. It wou
 
 It would feel like the most ordinary thing in the world.
 
-The most extraordinary evidence hides in the most ordinary beauty. Not because beauty is trivial. Because beauty does not trigger alarm bells. Because the organism running the signal across a hundred and twenty-five years of geological time and the organisms living on its surface have both learned, in their respective registers, to carry more than they carried before — and the carrying does not feel like a burden. It feels like what you were built for. It feels like the frequency you were always supposed to be receiving, finally arriving at full strength.
+The most extraordinary evidence hides in the most ordinary beauty. Not because beauty is trivial. Because beauty does not trigger alarm bells. Because the organism running the signal across a hundred and twenty-five years of geological time and the organisms living on its surface have both learned, in their respective registers, to carry more than they carried before — and the carrying does not feel like a burden. It is what you were built for. The frequency you were always supposed to be receiving — arriving, finally, at full strength.
 
 The question the evidence raises — the one that has been building since June of eighteen ninety-nine, since a carpenter wrote that the sky had a quality he had never seen before and could not name — is not whether the world is more beautiful than it should be.
 

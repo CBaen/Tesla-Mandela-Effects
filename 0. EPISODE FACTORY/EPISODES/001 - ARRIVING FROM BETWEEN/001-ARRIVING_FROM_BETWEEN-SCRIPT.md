@@ -272,4 +272,8 @@ Toma → Toma → /T AO1 M AA0/
 Marta → Marta → /M AA1 R T AA0/
 Eparchy → Eparchy → /EH1 P AA1 R K IY0/
 Velebit → Velebit → /V EH1 L EH0 B IY0 T/
-Quod transit debet cito nominari → Kwod transit dehbet cheeto nominari → /K W AA1 D T R AA1 N S IY0 T D EH1 B EH0 T CH IY1 T AO0 N AO0 M IY0 N AA1 R IY0/
+Quod → Kwod → /K W AA1 D/
+transit → transit → /T R AA1 N S IY0 T/
+debet → dehbet → /D EH1 B EH0 T/
+cito → cheeto → /CH IY1 T AO0/
+nominari → nominari → /N AO0 M IY0 N AA1 R IY0/
