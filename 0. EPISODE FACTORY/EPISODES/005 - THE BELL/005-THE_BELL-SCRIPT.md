@@ -502,42 +502,24 @@ You have been looking up your entire life.
 
 What are you looking at?
 
-[CAPTION KEY]
+Caption Key
 
-Oceanus Procellarum → Oh-shee-AH-nus Pro-sell-AH-rum → /OW0 SH IY0 AE1 N AH0 S P R OW0 S EH0 L EH1 R AH0 M/
-
-Vasin → Vah-SEEN → /V AH0 S IY1 N/
-
-Mikhail → Mikh-ah-EEL → /M IH0 K AY1 EH0 L/
-
-Shcherbakov → Shcher-bah-KOFF → /SH CH EH0 R B AH0 K AW1 F/
-
-Aristarchus → Ah-rih-STAR-kus → /EH2 R IH0 S T AA1 R K AH0 S/
-
-Alphonsus → Al-FON-sus → /AE0 L F AA1 N S AH0 S/
-
-Kozyrev → Ko-ZEE-rev → /K OW0 Z IY1 R EH0 V/
-
-Nikolai → Nih-ko-LYE → /N IH0 K OW0 L AY1/
-
-Theia → THEE-uh → /TH IY1 AH0/
-
-mascon → MAS-kon → /M AE1 S K AH0 N/
-
-mascons → MAS-konz → /M AE1 S K AH0 N Z/
-
-Mare Imbrium → MAH-ray IM-bree-um → /M AA1 R EY0 IH1 M B R IY0 AH0 M/
-
-regolith → REH-go-lith → /R EH1 G OW0 L IH0 TH/
-
-Wardenclyffe → WAR-den-kliff → /W AO1 R D AH0 N K L IH0 F/
-
-Shoreham → SHORE-um → /SH AO1 R AH0 M/
-
-Kosanović → Ko-SAH-no-vich → /K OW0 S AE1 N OW0 V IH0 CH/
-
-Tesla → TES-lah → /T EH1 S L AH0/
-
-Nikola → NIH-ko-lah → /N IH1 K OW0 L AH0/
-
-isostatic → eye-so-STAT-ik → /AY2 S OW0 S T AE1 T IH0 K/
+Oceanus Procellarum → Oceanus Procellarum → /OW0 S IY1 AH0 N AH0 S P R AO0 S EH0 L EH1 R AH0 M/
+Vasin → Vasin → /V AA1 S IY0 N/
+Mikhail → Mikhail → /M IY0 K AA0 IY1 L/
+Shcherbakov → Shcherbakov → /SH CH EH0 R B AH0 K AO1 F/
+Aristarchus → Aristarchus → /EH0 R IH0 S T AA1 R K AH0 S/
+Alphonsus → Alphonsus → /AE0 L F AA1 N S AH0 S/
+Kozyrev → Kozyrev → /K AO1 Z IY0 R EH0 F/
+Nikolai → Nikolai → /N IY0 K AH0 L AY1/
+Theia → Theia → /TH IY1 AH0/
+mascon → mascon → /M AE1 S K AO0 N/
+mascons → mascons → /M AE1 S K AO0 N Z/
+Mare Imbrium → Mare Imbrium → /M AA1 R EY0 IH1 M B R IY0 AH0 M/
+regolith → regolith → /R EH1 G AH0 L IH0 TH/
+Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH1 F/
+Shoreham → Shoreham → /SH AO1 R AH0 M/
+Kosanović → Kosanovic → /K AO0 S AA1 N AO0 V IY0 CH/
+Tesla → Tesla → /T EH1 S L AA0/
+Nikola → Nikola → /N IY1 K AO0 L AA0/
+isostatic → isostatic → /AY2 S AH0 S T AE1 T IH0 K/

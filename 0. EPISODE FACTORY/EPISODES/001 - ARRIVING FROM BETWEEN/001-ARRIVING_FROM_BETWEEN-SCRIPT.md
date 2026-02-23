@@ -257,19 +257,19 @@ And the question it places before you — the question that the priest could not
 What... was Nikola Tesla?
 
 
-CAPTION KEY
+Caption Key
 
-Nikola → Neekola → /N IH1 K OW0 L AH0/
-Tesla → Tesla → /T EH1 S L AH0/
-Đuka → Jooka → /JH UW1 K AH0/
-Milutin → Milootin → /M IH0 L UW1 T IH0 N/
-Smiljan → Smilyan → /S M IH1 L Y AA0 N/
-Gospić → Gospeech → /G OW1 S P IH0 CH/
-Kosanović → Kosanovićh → /K OW0 S AA1 N OW0 V IH0 CH/
-Sava → Sahva → /S AA1 V AH0/
+Nikola → Nikola → /N IY1 K AO0 L AA0/
+Tesla → Tesla → /T EH1 S L AA0/
+Đuka → Duka → /JH UW1 K AA0/
+Milutin → Milutin → /M IY0 L UW1 T IY0 N/
+Smiljan → Smilyan → /S M IY1 L Y AA0 N/
+Gospić → Gospic → /G AO1 S P IY0 CH/
+Kosanović → Kosanovic → /K AO0 S AA1 N AO0 V IY0 CH/
+Sava → Sava → /S AA1 V AA0/
 Foxworth → Foxworth → /F AA1 K S W ER1 TH/
-Toma → Toma → /T OW1 M AH0/
-Marta → Marta → /M AA1 R T AH0/
-Eparchy → Eparky → /EH1 P AA0 R K IY0/
-Velebit → Velebit → /V EH1 L EH0 B IH0 T/
-Quod transit debet cito nominari → Kwod trahnsit dehbet keeto nominaree → /K W AA1 D  T R AA1 N S IH0 T  D EH1 B EH0 T  K IY1 T OW0  N AA0 M IH0 N AA1 R IY0/
+Toma → Toma → /T AO1 M AA0/
+Marta → Marta → /M AA1 R T AA0/
+Eparchy → Eparchy → /EH1 P AA1 R K IY0/
+Velebit → Velebit → /V EH1 L EH0 B IY0 T/
+Quod transit debet cito nominari → Kwod transit dehbet cheeto nominari → /K W AA1 D T R AA1 N S IY0 T D EH1 B EH0 T CH IY1 T AO0 N AO0 M IY0 N AA1 R IY0/
