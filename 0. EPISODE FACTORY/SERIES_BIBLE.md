@@ -261,39 +261,40 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 
 ## Window Rules — Blocked for Episode 008
 
-These choices are blocked for Episode 007 based on the window rules in the registry header.
+These choices are blocked for Episode 008 based on the window rules in the registry header.
 
-**Closing types (3-episode window — cannot repeat if used in 004, 005, or 006):**
-- The Witness (004) — window clearing (blocked through 007, clear for 008)
+**Closing types (3-episode window — cannot repeat if used in 005, 006, or 007):**
 - The Inversion (005) — blocked
 - The Callback (006) — blocked
+- The Mirror (007) — blocked
 
-**Opening types (2-episode window — cannot repeat if used in 005 or 006):**
-- Sensory hook (005) — blocked
+**Opening types (2-episode window — cannot repeat if used in 006 or 007):**
 - Declarative impossibility (006) — blocked
+- Witness cold open (007) — blocked
 
-**Structural shapes (2-episode window — cannot repeat if used in 005 or 006):**
-- The collection (005) — blocked
+**Structural shapes (2-episode window — cannot repeat if used in 006 or 007):**
 - Dual timeline (006) — blocked
+- The descent (007) — blocked
 
-**Tesla connection types (2-episode window — cannot repeat if used in 005 or 006):**
-- Absence (005) — blocked
+**Tesla connection types (2-episode window — cannot repeat if used in 006 or 007):**
 - Philosophical parallel (006) — blocked
+- Direct appearance (007) — blocked
 
-**Emotional endpoints (5-episode window — cannot repeat if used in 002–006):**
-- Grief (002) — blocked
+**Emotional endpoints (5-episode window — cannot repeat if used in 003–007):**
 - Existential dread (003) — blocked
 - Loneliness (004) — blocked
 - Vertigo (005) — blocked
 - Wonder / awe (006) — blocked
-- Paranoia (001) — window cleared, available again
+- Quiet acceptance (007) — blocked
+- Paranoia (001) — window cleared, available
+- Grief (002) — window cleared, available
 
-**Available for Episode 007:**
-- Closing types: The Mirror, The Open Wound, The Silence, The Invitation
-- Opening types: Direct address question, Witness cold open, Fact that becomes horrifying, The negation, The artifact
-- Structural shapes: Chronological spiral, Crime scene investigation, Single witness, The descent, The trial, The letter
-- Tesla connection types: Direct appearance, Experiment consequence, Technology descendant, Opposition
-- Emotional endpoints: Paranoia, Quiet acceptance, Defiance
+**Available for Episode 008:**
+- Closing types: The Open Wound, The Witness, The Silence, The Invitation
+- Opening types: Direct address question, Sensory hook, Fact that becomes horrifying, The negation, The artifact
+- Structural shapes: Chronological spiral, Crime scene investigation, Single witness, The collection, The trial, The letter
+- Tesla connection types: Experiment consequence, Technology descendant, Absence, Opposition
+- Emotional endpoints: Paranoia, Grief, Defiance
 
 ---
 
@@ -307,3 +308,4 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 - **004:** Personal diary/journal entry (psychoanalyst's session notes), Declassified government report (OAP inventory), Institutional correspondence (Djuka's letter), Oral history/recorded interview transcript (Zagreb folklore study)
 - **005:** Institutional correspondence (JPL seismologist's letter), Monitoring station log with handwritten annotation (Lunar Orbiter tracking log), Photographic evidence with provenance gaps (OAP Trunk 47 FOIA page), Insurance claim/incident report (Wardenclyffe actuary's report)
 - **006:** Personal diary/journal entry (Craver's journal), Anonymous letter from insider/whistleblower (Hapgood's letter), Geological/environmental survey (the 1962 survey), Monitoring station log with handwritten annotation (the analyst's printout)
+- **007:** NONE — First episode with zero fabricated sources. All citations are real and verifiable. No consecutive-repeat constraint applies to Episode 008 (all formats available).
