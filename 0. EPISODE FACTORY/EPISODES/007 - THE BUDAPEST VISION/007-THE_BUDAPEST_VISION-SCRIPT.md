@@ -1,6 +1,6 @@
 The man beside him has been counting steps.
 
-Antal Szigeti knows this walk — the wide gravel paths of the Városliget, the bare February trees lining the avenue, the particular quality of afternoon light that comes off the ice at this hour, copper and low, the kind of light that arrives already tired. He has walked this park with the American for weeks. He has learned the rhythms of it. When the American will pause to look at the sky. When the American will speak quickly, in bursts, words arriving faster than English or Serbian or German was meant to carry them. When the American will go quiet and simply walk, his long legs setting a pace that Szigeti struggles to match, and the silence between them becomes a kind of companionship.
+Antal Szigeti knows this walk — the wide gravel paths of the Városliget, the bare February trees lining the avenue, the particular quality of afternoon light that comes off the ice at this hour, copper and low, the kind of light that arrives already tired. He has walked this park with the Serbian for weeks. He has learned the rhythms of it. When the Serbian will pause to look at the sky. When the Serbian will speak quickly, in bursts, words arriving faster than English or Serbian or German was meant to carry them. When the Serbian will go quiet and simply walk, his long legs setting a pace that Szigeti struggles to match, and the silence between them becomes a kind of companionship.
 
 But this silence is different.
 
