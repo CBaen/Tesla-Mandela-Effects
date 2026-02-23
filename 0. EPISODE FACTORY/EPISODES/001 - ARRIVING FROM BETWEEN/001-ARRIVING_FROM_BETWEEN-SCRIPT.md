@@ -96,7 +96,7 @@ And yet. Nikola Tesla's birth is surrounded by more silence than any event in th
 
 That what they had witnessed was not something to be shared.
 
-The accepted story is this. On the night of July tenth, eighteen fifty-six, a violent thunderstorm descended on the village of Smiljan. Djuka Tesla — Nikola's mother — went into labor as the sky broke open above the valley. A midwife was summoned. The labor was difficult. And at the stroke of midnight, as lightning fractured the darkness outside the window, the child was born. The midwife — a woman identified in family accounts only as Marta — looked at the storm and said, , "He will be a child of the storm." Djuka, still breathing hard from the delivery, answered, , "No. He will be a child of light."
+The accepted story is this. On the night of July tenth, eighteen fifty-six, a violent thunderstorm descended on the village of Smiljan. Đuka Tesla — Nikola's mother — went into labor as the sky broke open above the valley. A midwife was summoned. The labor was difficult. And at the stroke of midnight, as lightning fractured the darkness outside the window, the child was born. The midwife — a woman identified in family accounts only as Marta — looked at the storm and said, , "He will be a child of the storm." Đuka, still breathing hard from the delivery, answered, , "No. He will be a child of light."
 
 The story is beautiful. It is dramatic. It has the symmetry of a myth — the chosen child, the ominous prophecy, the mother's defiant correction. It appears in every biography of Nikola Tesla published in the last hundred years. It has been repeated in documentaries, museum exhibitions, classroom lectures. It is treated with the weight of established fact.
 
@@ -261,7 +261,7 @@ CAPTION KEY
 
 Nikola → Neekola → /N IH1 K OW0 L AH0/
 Tesla → Tesla → /T EH1 S L AH0/
-Djuka → Jooka → /JH UW1 K AH0/
+Đuka → Jooka → /JH UW1 K AH0/
 Milutin → Milootin → /M IH0 L UW1 T IH0 N/
 Smiljan → Smilyan → /S M IH1 L Y AA0 N/
 Gospic → Gospeech → /G OW1 S P IH0 CH/
