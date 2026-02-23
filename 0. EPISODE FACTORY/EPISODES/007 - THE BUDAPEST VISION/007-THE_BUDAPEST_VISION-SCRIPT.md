@@ -78,19 +78,23 @@ This is not a description of diminished function. This is a description of augme
 
 Physicians in Budapest could not diagnose it. Tesla wrote that the doctors who examined him told him there was no hope — that the condition would almost certainly be fatal. The man who would give the world the alternating current motor was, in the winter of eighteen eighty-one to eighteen eighty-two, lying in a room with rubber pads under his bed to muffle the vibrations, unable to cross a room without the ordinary sounds of an inhabited city arriving as an assault on a nervous system that had lost the boundary between receiving and being struck.
 
-There is a letter. Two Budapest physicians, writing to each other in eighteen eighty-two, discussing a patient referred by an engineer colleague. The patient reports sensory experiences of such intensity, one physician writes, that they exceed any case of neurasthenia I have encountered. The other physician disagrees — disagrees not with the severity, but with the diagnosis. What the second physician writes in reply is the sentence worth carrying: not a diminishment of function, but an amplification beyond the boundaries of what the nervous system is designed to accommodate. The letter was found in a private collection of Hungarian medical correspondence. It was not published. The second physician's name does not appear in any record of clinical work from this period. The handwriting identifies a man of some education writing quickly, under the pressure of something that disturbed him enough to put it down in ink.
+The physicians who examined Tesla had a word for what they were seeing. Neurasthenia — a term coined by the American neurologist George Miller Beard in eighteen sixty-nine to describe the exhaustion of the nervous system under the pressures of modern life. Nervous exhaustion. The diagnosis of the age. It covered a great deal, because it had to: the medicine of the eighteen eighties had no imaging, no electrophysiology, no biochemical markers. What it had was the patient's account, and the patient's account placed into the nearest available category.
 
-Two physicians. One patient. One question neither could answer: what do you call a nervous system that is working too well?
+Neurasthenia was the category. But Tesla's account did not fit the category. Neurasthenia described a diminished system — nerves worn thin, capacity reduced, the organism retreating below its ordinary operating level. What Tesla described was not a retreat. A 2024 paper in European Psychiatry, reviewing Tesla's Budapest episode against the clinical record, concluded that his constellation of symptoms is consistent with probable obsessive-compulsive disorder — a nervous system running compulsive loops at the cost of ordinary function, not a nervous system going quiet. The paper noted that his condition was dismissed by contemporaries as the quirks of genius rather than the symptoms of disease. Tesla himself wrote that the doctors who examined him told him there was no hope. That the condition would almost certainly be fatal.
+
+That is what the medical framework of the time could offer him: a name that did not fit, and a prognosis of death.
+
+What the framework could not offer him — what no framework available to the eighteen eighties could offer him — was the interpretation that sits plainly available in his own description, if you read it without the assumption of diminishment already installed. This is not a description of a nervous system shutting down. This is a description of a nervous system that has lost the boundary between receiving a signal and being overwhelmed by it. The volume turned past the point of reception and into the territory of harm. Not a system that is working too little. A system that cannot stop working.
 
 ---
 
 Antal Szigety was the person who walked Tesla back.
 
-He was a former classmate — an engineer, a careful and methodical man by the account his family carried forward through four generations, the kind of man who understood that the mechanism of a person, like the mechanism of a machine, sometimes requires a patient hand rather than a sharp intervention. During Tesla's convalescence, Szigety instituted the walks. The Budapest City Park, Városliget, was close. It was open. The winter park offered what the confined room did not — space, cold air, the moderate sensory environment of bare trees and frozen paths and the kind of quiet that a city makes when it is muffled by cold. They walked every day. Tesla began to improve.
+He was a friend — an engineer, a careful and methodical man, the kind of man who understood that the mechanism of a person, like the mechanism of a machine, sometimes requires a patient hand rather than a sharp intervention. During Tesla's convalescence, Szigety instituted the walks. The Budapest City Park, Városliget, was close. It was open. The winter park offered what the confined room did not — space, cold air, the moderate sensory environment of bare trees and frozen paths and the kind of quiet that a city makes when it is muffled by cold. They walked every day. Tesla began to improve.
 
 The nature of that improvement is worth examining.
 
-Tesla did not recover by quieting his nervous system. He did not recover by bringing the volume down to a human-bearable level. The hyperacusis did not simply reverse. What happened, as best as can be reconstructed from Tesla's own account and from Szigety's family memory, is that the extraordinary sensitivity began to redirect itself. The system that had been struck by every vibration in the city, that had been overwhelmed by ordinary sensation, began to do something different with what it received. The input did not diminish. The processing changed.
+Tesla did not recover by quieting his nervous system. He did not recover by bringing the volume down to a human-bearable level. The hyperacusis did not simply reverse. What happened, as best as can be reconstructed from Tesla's own account, is that the extraordinary sensitivity began to redirect itself. The system that had been struck by every vibration in the city, that had been overwhelmed by ordinary sensation, began to do something different with what it received. The input did not diminish. The processing changed.
 
 This is speculative. But it is the direction that the evidence points, and the evidence has been sitting in plain view since nineteen nineteen.
 
@@ -104,7 +108,7 @@ He wrote: I do not rush into actual work. When I get an idea, I start at once bu
 
 He was not speaking metaphorically. He was precise enough, in the same autobiography, to describe the method's limits and its consistencies. He was describing an operation of the mind that he had practiced and refined and relied upon for decades. The Budapest Vision was the most dramatic instance of this process. It was not a departure from his method. It was his method, at the moment of its most visible result.
 
-Which means the question is not whether the Budapest Vision was real. Tesla said it was. Szigety witnessed it. The motor was built from it six years later. The motor worked.
+Which means the question is not whether the Budapest Vision was real. Tesla said it was. Szigety witnessed it. The motor was built from it — the first physical prototype constructed in Strasbourg approximately one year later. The motor worked.
 
 The question is what kind of process produces a complete polyphase alternating current motor — a system of precisely timed multi-phase electrical fields, of rotor-stator geometries calculated to induce rotation without physical contact, of phase relationships that require mathematical precision to function — in a single flash, in a park, during a sunset walk, while a man is reciting Goethe.
 
@@ -124,9 +128,9 @@ Szigety turns.
 
 The man standing four steps behind him on the path is not the man who was speaking the poem. Not entirely. Something has opened behind his face that was not open before — a space, an aperture, the way a room looks when you open a door you didn't know was there. His eyes are directed forward. They are not receiving the park. They are receiving something else, something not locatable in the geography of the Városliget, something arriving from a direction that is not a direction in the physical world.
 
-The family story, recorded four generations later by a university researcher who found Szigety's descendant through a Budapest genealogical database, and transcribed from a recording of poor quality that was filed without publication, goes like this: Uncle Antal said the American stopped mid-sentence and stood completely still for what felt like several minutes. And then he knelt and began drawing in the dirt with a stick, speaking rapidly in a language Antal did not recognize.
+Tesla described what he did next himself, in his own words, thirty-seven years later. He wrote: I drew with a stick on the sand the diagrams shown six years later in my address before the American Institute of Electrical Engineers, and my companion understood them perfectly.
 
-The recording is difficult to hear. The transcript is brief. But one phrase survived the four generations of family repetition clearly enough to arrive intact: his eyes were open but not looking at anything that was in the park.
+That sentence is worth reading again. He drew the diagrams with a stick on the sand. The diagrams that would appear six years later in his 1888 address before the American Institute of Electrical Engineers — the presentation that introduced the polyphase AC motor to the world — those diagrams exist first in a Budapest park, scratched into the ground with a stick, in February of eighteen eighty-two, while the last copper light of the afternoon fades against the frozen plane trees. And his companion understood them perfectly. Szigety — the careful, methodical friend who had walked him back from the edge — looked at what was drawn in the sand and understood what he was looking at.
 
 This is the moment. This is the event that the word genius is placed over like a covering.
 
@@ -134,9 +138,9 @@ What was Tesla seeing?
 
 He told us. He wrote it down thirty-seven years later, in the same plain language he always used for technical description. He described the motor — the polyphase AC motor, the machine that would eventually power the world — appearing before him in three dimensions. Complete. Operating. He could see every component in its correct position and proportion. He could see the fields rotating. He could see the rotor responding to those fields, turning without any physical connection to the source of the current, induced into motion by the geometry of the alternating fields themselves. He understood, in the moment of the vision, exactly how the machine worked and exactly how to build it.
 
-He did not build it for six years. He did not need to. The machine was running.
+He did not need to build it yet. The machine was running.
 
-He found the stick at the edge of the path. He knelt — on the frozen gravel, in February, in a city park in Hungary — and he drew the motor in the dirt. Szigety watched. The drawing was the first physical trace, the first mark left on the physical world, by the technology that would make the twentieth century possible.
+He found the stick at the edge of the path. He knelt — on the frozen gravel, in February, in a city park in Hungary — and he drew the motor in the sand. Szigety watched. The drawing was the first physical trace, the first mark left on the physical world, by the technology that would make the twentieth century possible.
 
 A stick. Frozen ground. The last light of a February sunset painting the path in copper.
 
