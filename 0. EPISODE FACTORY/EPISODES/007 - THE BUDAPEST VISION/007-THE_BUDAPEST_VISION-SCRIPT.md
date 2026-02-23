@@ -78,7 +78,7 @@ This is not a description of diminished function. This is a description of augme
 
 Physicians in Budapest could not diagnose it. Tesla wrote that the doctors who examined him told him there was no hope — that the condition would almost certainly be fatal. The man who would give the world the alternating current motor was, in the winter of eighteen eighty-one to eighteen eighty-two, lying in a room with rubber pads under his bed to muffle the vibrations, unable to cross a room without the ordinary sounds of an inhabited city arriving as an assault on a nervous system that had lost the boundary between receiving and being struck.
 
-The physicians who examined Tesla had a word for what they were seeing. Neurasthenia — a term coined by the American neurologist George Miller Beard in eighteen sixty-nine to describe the exhaustion of the nervous system under the pressures of modern life. Nervous exhaustion. The diagnosis of the age. It covered a great deal, because it had to: the medicine of the eighteen eighties had no imaging, no electrophysiology, no biochemical markers. What it had was the patient's account, and the patient's account placed into the nearest available category.
+The physicians who examined Tesla had a word for what they were seeing. Neurasthenia — a term the American neurologist George Miller Beard had made famous in eighteen sixty-nine to describe the exhaustion of the nervous system under the pressures of modern life. Nervous exhaustion. The diagnosis of the age. It covered a great deal, because it had to: the medicine of the eighteen eighties had no imaging, no electrophysiology, no biochemical markers. What it had was the patient's account, and the patient's account placed into the nearest available category.
 
 Neurasthenia was the category. But Tesla's account did not fit the category. Neurasthenia described a diminished system — nerves worn thin, capacity reduced, the organism retreating below its ordinary operating level. What Tesla described was not a retreat. A twenty twenty-four clinical review presented at the European Congress of Psychiatry, examining Tesla's documented behaviors against the diagnostic criteria available today, concluded that his constellation of symptoms is consistent with probable obsessive-compulsive disorder — a nervous system running compulsive loops at the cost of ordinary function, not a nervous system going quiet. The review noted that his condition was dismissed by contemporaries as the quirks of genius rather than the symptoms of disease.
 
@@ -88,7 +88,7 @@ What the framework could not offer him — what no framework available to the ei
 
 ---
 
-Antal Szigeti was the person who walked Tesla back.
+The person who walked Tesla back was his companion — unnamed in the autobiography, identified in later biographies as Antal Szigeti.
 
 He was a friend — an engineer, a careful and methodical man, the kind of man who understood that the mechanism of a person, like the mechanism of a machine, sometimes requires a patient hand rather than a sharp intervention. During Tesla's convalescence, Szigeti instituted the walks. The Budapest City Park, Városliget, was close. It was open. The winter park offered what the confined room did not — space, cold air, the moderate sensory environment of bare trees and frozen paths and the kind of quiet that a city makes when it is muffled by cold. They walked every day. Tesla began to improve.
 
@@ -162,7 +162,7 @@ What was happening to Tesla's nervous system in the months before February eight
 
 The neuroscience of insight has something to add to this.
 
-In two thousand and four, a team of researchers led by Mark Jung-Beeman at Northwestern University published a study in PLOS Biology measuring the neural activity associated with sudden insight — the aha moment, the flash of solution arriving without apparent preparation. What they found was this: insight solutions correlate with a sudden burst of gamma-band neural activity in the right anterior superior temporal gyrus. The burst begins approximately zero point three seconds before the person becomes consciously aware of the solution. The brain knows before the mind does. The solution assembles below the threshold of awareness, and only then crosses into consciousness as the flash. A twenty nineteen study confirmed the causal relationship: the gamma burst is not a marker of insight, it is the mechanism.
+In two thousand and four, a team of researchers led by Mark Jung-Beeman at Northwestern University published a study in PLOS Biology measuring the neural activity associated with sudden insight — the aha moment, the flash of solution arriving without apparent preparation. What they found was this: insight solutions correlate with a sudden burst of gamma-band neural activity in the right anterior superior temporal gyrus. The burst precedes the subject's report of the solution by approximately zero point three seconds — the neural signature of insight arriving faster than the conscious mind can name what it has found. The solution assembles below the threshold of awareness, and only then crosses into consciousness as the flash. A twenty nineteen study found evidence suggesting the causal direction: the gamma burst is not a marker of insight, it is the mechanism.
 
 The system assembles the answer before the self receives it.
 
@@ -174,11 +174,7 @@ This is not a metaphor. This is the closest available language for something tha
 
 The direction is: a nervous system operating above specification. Not below it. The phrase belongs to a reading of the record that no clinical document supports. But read the record and see if another phrase fits better.
 
-Above specification.
-
-That phrase carries a specific implication. Specifications exist because something was designed. A machine operates within its design parameters, and when it exceeds those parameters, we say it is operating above specification. We do not usually apply this language to the human nervous system. The human nervous system evolved. It was not designed. It has no blueprint. It has no specification sheet.
-
-And yet.
+Above specification. The phrase is borrowed from engineering. It was not designed for the human nervous system. Use it anyway. Because no phrase designed for the human nervous system reaches where this evidence points.
 
 There is a man in a park in Budapest, in February of eighteen eighty-two. There is a man whose nervous system spent six months processing the ordinary sounds of a city as catastrophic assaults on every surface of his body. There is a man who recovered not by quieting but by redirecting — who came out of that process able to run a complete polyphase AC motor in his mind before the motor existed anywhere in the physical world.
 
@@ -344,7 +340,7 @@ We do not know. We do not have the imaging resolution to see a process of this s
 
 The first physical motor emerged in Strasbourg, in eighteen eighty-three.
 
-Tesla had been sent there by the Continental Edison Company to repair the direct current lighting system at the central railway station — a system that had failed dramatically at its inaugural demonstration, when an explosion nearly killed Kaiser Wilhelm I. This was the assignment that preceded everything. Tesla repaired the Edison system. He did the work he had been hired to do. And then, in a machine shop across the street from the station — the smell of metal shavings and machine oil in a cold Alsatian winter, the clank and scrape of tools against a workbench he had commandeered on his own time — he built the first physical prototype of the AC motor.
+Tesla had been sent there by the Continental Edison Company to repair the direct current lighting system at the central railway station — a system that had failed dramatically at its inaugural demonstration, when an explosion blew out part of a wall in the presence of Kaiser Wilhelm the First. This was the assignment that preceded everything. Tesla repaired the Edison system. He did the work he had been hired to do. And then, in a machine shop across the street from the station — the smell of metal shavings and machine oil in a cold Alsatian winter, the clank and scrape of tools against a workbench he had commandeered on his own time — he built the first physical prototype of the AC motor.
 
 The motor worked.
 
@@ -362,9 +358,9 @@ But at each point on that path, the motor Tesla was trying to build was the moto
 
 ---
 
-There was a night in May of eighteen eighty-eight.
+There was a night in May of eighteen eighty-eight. New York. The meeting hall of the American Institute of Electrical Engineers. The room smelled of cigar smoke and wool and the particular staleness of a space that has held too many men for too many hours.
 
-Thomas Commerford Martin — editor of The Electrical Engineer, Chairman of the committee on papers for the American Institute of Electrical Engineers — had spent considerable effort persuading Tesla to present. Later, Martin wrote that he had experienced great difficulty in persuading Tesla to present the paper and that it had been written in haste the night before the meeting. The patents had been issued approximately two weeks prior.
+Thomas Commerford Martin — editor of Electrical World, Chairman of the committee on papers for the American Institute of Electrical Engineers — had spent considerable effort persuading Tesla to present. Later, Martin wrote that he had experienced great difficulty in persuading Tesla to present the paper and that it had been written in haste the night before the meeting. The patents had been issued approximately two weeks prior.
 
 Consider what this means. The paper that would introduce the polyphase AC motor to the scientific and engineering establishment of the United States — the paper that would trigger the chain of events ending in the Westinghouse deal, in the electrification of America's cities, in the Niagara Falls power project — was written the night before it was delivered, by a man who had to be persuaded to deliver it.
 
@@ -378,7 +374,7 @@ From the audience, Elihu Thomson — one of the most respected electrical engine
 
 Within days, George Westinghouse dispatched agents to Tesla's laboratory.
 
-The deal closed in July of eighteen eighty-eight. The terms: twenty-five thousand dollars in cash, fifty thousand in notes, and a royalty of two dollars and fifty cents per AC horsepower produced by each motor. Westinghouse also engaged Tesla as a consultant at two thousand dollars per month for one year in the Pittsburgh laboratories.
+The deal closed in July of eighteen eighty-eight. The terms included an upfront payment — variously reported as between twenty-five thousand and sixty thousand dollars in cash and notes — and a royalty of two dollars and fifty cents per AC horsepower produced by each motor. Westinghouse also engaged Tesla as a consultant at two thousand dollars per month for one year in the Pittsburgh laboratories.
 
 The royalty clause was the clause that mattered. Applied to the global production of AC motors as the technology spread — and the technology would spread to every corner of the electrified world — that royalty would have made Tesla the wealthiest person alive. The calculation produces a number that has no historical precedent. The world's first billionaire, by some estimates, with further accumulation to follow.
 
@@ -424,9 +420,9 @@ During a walk.
 
 While a man was speaking a poem about wishing he had wings.
 
-The neuroscience of insight provides the substrate. The gamma-burst in the right anterior superior temporal gyrus — the pre-conscious assembly that produces the aha moment — is a real and documented phenomenon. The brain knows before the mind does. The solution organizes below the threshold of awareness and crosses into consciousness as the flash. A twenty nineteen study applied gamma-frequency electrical stimulation over the right temporal lobe and increased the incidence of insight solutions. The mechanism is causal. The process is real.
+The neuroscience of insight provides the substrate. The gamma-burst in the right anterior superior temporal gyrus — the pre-conscious assembly that produces the aha moment — is a real and documented phenomenon. The brain knows before the mind does. The solution organizes below the threshold of awareness and crosses into consciousness as the flash. A twenty nineteen study found evidence suggesting the causal direction: applying gamma-frequency electrical stimulation over the right temporal lobe increased the incidence of insight solutions. The process is real.
 
-But the neuroscience of insight describes the ordinary insight process — the moments where a problem that has been worked on consciously produces a sudden solution. The gamma-burst appears, on average, zero point three seconds before conscious awareness of a solution that the brain has been assembling from previously acquired components. The components were there. The insight is the assembly.
+But the neuroscience of insight describes the ordinary insight process — the moments where a problem that has been worked on consciously produces a sudden solution. The gamma-burst appears, on average, zero point three seconds before the subject's report of a solution that the brain has been assembling from previously acquired components. The components were there. The insight is the assembly.
 
 What components did Tesla's brain assemble the Budapest Vision from?
 
@@ -516,9 +512,9 @@ The motors run. The fields rotate. The world continues. And the question that th
 
 Here is what the neuroscience can tell us and where it stops.
 
-The Jung-Beeman study — Northwestern University, two thousand and four, published in PLOS Biology — identified the gamma-band burst in the right anterior superior temporal gyrus as the correlate of insight. The burst precedes conscious awareness of the solution by approximately zero point three seconds. The brain assembles the answer below the threshold of consciousness and then delivers it. The aha moment is the delivery, not the assembly. The assembly happened already, in a region of the brain that does not announce itself, working below the level of the self that would recognize the work being done.
+The Jung-Beeman study — Northwestern University, two thousand and four, published in PLOS Biology — identified the gamma-band burst in the right anterior superior temporal gyrus as the correlate of insight. The burst precedes the subject's report of the solution by approximately zero point three seconds — the neural signature of insight arriving faster than the conscious mind can name what it has found. The brain assembles the answer below the threshold of consciousness and then delivers it. The aha moment is the delivery, not the assembly. The assembly happened already, in a region of the brain that does not announce itself, working below the level of the self that would recognize the work being done.
 
-The two thousand and nineteen study confirmed the causal direction. Applying gamma-frequency electrical stimulation to the right temporal lobe increased the occurrence of insight solutions. The gamma mechanism is not an index of insight. It is the mechanism of insight. The bursts cause the aha. The right temporal lobe, running at gamma frequency, assembles solutions before the mind that contains it knows it is solving anything.
+The two thousand and nineteen study provided further evidence for the causal direction. Applying gamma-frequency electrical stimulation to the right temporal lobe increased the occurrence of insight solutions. The gamma mechanism may not merely be an index of insight. It may be part of the mechanism itself. The right temporal lobe, running at gamma frequency, assembles solutions before the mind that contains it knows it is solving anything.
 
 This is remarkable. And it is not enough.
 
