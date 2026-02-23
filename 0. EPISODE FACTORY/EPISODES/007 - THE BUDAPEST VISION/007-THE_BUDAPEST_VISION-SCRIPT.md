@@ -244,7 +244,7 @@ It was resolving toward something else.
 
 ---
 
-Antal Szigety did not fix what was happening to Tesla.
+Antal Szigeti did not fix what was happening to Tesla.
 
 This is worth being precise about. The walks in the Városliget, the cold air, the daily company of a steady and patient friend — these did not return Tesla to the state he had been in before the collapse. They did not silence the signals. They did not restore the buffering, rebuild the filters, bring the amplification back inside the range where it would stop constituting harm.
 
@@ -256,13 +256,13 @@ The city offered no such intervals.
 
 The park offered nothing but.
 
-And in the space the park created — the space that Szigety, by the steady gift of his company and the simple act of walking, helped to hold open — something began to happen to the signals Tesla was receiving. Not a reduction. A redirection. The system that had been overwhelmed by every vibration in the built world began, incrementally, to do something other than be struck by them. It began to process them.
+And in the space the park created — the space that Szigeti, by the steady gift of his company and the simple act of walking, helped to hold open — something began to happen to the signals Tesla was receiving. Not a reduction. A redirection. The system that had been overwhelmed by every vibration in the built world began, incrementally, to do something other than be struck by them. It began to process them.
 
 This is the direction the evidence points. This is where Tesla's own account, read carefully and without the assumption of diminishment already installed, leads.
 
-He was not recovering. He was reorganizing.
+Was he recovering? Or was he reorganizing?
 
-And into that reorganized system, on an afternoon in February of eighteen eighty-two, at the hinge-point between the failing day and the arriving dark, the entire polyphase alternating current motor arrived.
+And into whatever it was that had reorganized, on an afternoon in February of eighteen eighty-two, at the hinge-point between the failing day and the arriving dark, the entire polyphase alternating current motor arrived.
 
 ---
 
@@ -292,7 +292,7 @@ Not to Faust's question. To a different question entirely. One that had been ass
 
 The motor is the answer to Faust's wish. Not metaphorically. The polyphase AC motor moves without contact. The rotating field is created at a distance from the rotor. The rotor responds to the field and begins to turn — not because a mechanical connection forces it to turn, but because the field exists and the rotor is the kind of thing that responds to the field. The energy reaches across the gap. The object on the other side moves.
 
-Tesla spent six months being moved by every signal in the city without a membrane to stop it. He had felt, in his own body, what it is to be a rotor in a field.
+Tesla spent six months being moved by every signal in the city without a membrane to stop it. Had he felt, in his own body, what it is to be a rotor in a field?
 
 Whether this is the mechanism of the vision or simply a description of it is a question the evidence cannot answer. It is the speculative bridge. But the bridge is built on three documented stones: the months of total sensory amplification, the Faust passage about wanting to escape the body's limits, and the sudden arrival of a machine that moves without contact. The speculation is the line connecting them. Draw the line or decline to. The stones are where they are.
 
@@ -306,13 +306,13 @@ He drew.
 
 In the sand of the path, in the last copper light of the afternoon, Nikola Tesla drew the diagrams that would appear six years later before the American Institute of Electrical Engineers. The complete polyphase AC motor — its coil geometry, its phase relationships, the architecture of the rotating magnetic field that would spin the rotor without touching it. He drew it from the vision, from the machine still running in his mind, the way a draftsman copies from a model. The model was rotating in front of him, or inside him, or in the space that the six months had opened between him and the physical world — the exact location does not matter. What matters is that it was there.
 
-Antal Szigety looked at what was being drawn in the sand.
+Antal Szigeti looked at what was being drawn in the sand.
 
 He understood it.
 
-Szigety was an engineer. He had the training to read a technical diagram scratched in a park path. And what he read, on his knees beside his friend on the frozen gravel of the Városliget in February of eighteen eighty-two, was correct. Not approximately correct. Not the rough outline of a concept that would require years of development to realize. Correct in its engineering, its geometry, its phase relationships. A complete machine. Drawn with a stick. In the sand.
+Szigeti was an engineer. He had the training to read a technical diagram scratched in a park path. And what he read, on his knees beside his friend on the frozen gravel of the Városliget in February of eighteen eighty-two, was correct. Not approximately correct. Not the rough outline of a concept that would require years of development to realize. Correct in its engineering, its geometry, its phase relationships. A complete machine. Drawn with a stick. In the sand.
 
-The sand drawing is gone. It was gone before the following morning, lost to the overnight frost and the next day's footsteps. There is no photograph, no preserved fragment, no artifact. What remains is Tesla's account, Szigety's understanding, and the motor itself — the thing the drawing described, which Tesla built approximately one year later in a machine shop in Strasbourg, and which WORKED.
+The sand drawing is gone. It was gone before the following morning, lost to the overnight frost and the next day's footsteps. There is no photograph, no preserved fragment, no artifact. What remains is Tesla's account, Szigeti's understanding, and the motor itself — the thing the drawing described, which Tesla built approximately one year later in a machine shop in Strasbourg, and which WORKED.
 
 This is the distinction between the Budapest Vision and almost every other documented account of sudden insight in the scientific record. The insight arrived. And the thing the insight described, when built according to the insight's specifications, functioned.
 
@@ -366,7 +366,7 @@ There was a night in May of eighteen eighty-eight.
 
 Thomas Commerford Martin — editor of The Electrical Engineer, Chairman of the committee on papers for the American Institute of Electrical Engineers — had spent considerable effort persuading Tesla to present. Later, Martin wrote that he had experienced great difficulty in persuading Tesla to present the paper and that it had been written in haste the night before the meeting. The patents had been issued approximately two weeks prior.
 
-Consider what this means. The paper that would introduce the polyphase AC motor to the scientific and engineering establishment of the United States — the paper that would trigger the chain of events ending in the Westinghouse deal, in the electrification of America's cities, in the construction of Niagara Falls — was written the night before it was delivered, by a man who had to be persuaded to deliver it.
+Consider what this means. The paper that would introduce the polyphase AC motor to the scientific and engineering establishment of the United States — the paper that would trigger the chain of events ending in the Westinghouse deal, in the electrification of America's cities, in the Niagara Falls power project — was written the night before it was delivered, by a man who had to be persuaded to deliver it.
 
 Tesla did not want to present.
 
