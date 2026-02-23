@@ -216,7 +216,7 @@ An organism that has been resonating in one key for geological time. Then, in th
 
 And five months later, a reply.
 
-Not structured as Mars would structure a message. Not structured the way a distant civilization might attempt first contact. Structured the way an organism structures a response — rising from its own body, using its own vocabulary, carrying the particular quality of something that has been waiting a long time to be heard.
+Not structured as Mars would structure a message. Not structured the way a distant civilization might attempt first contact. Structured the way an organism structures a response — rising from its own body, using its own vocabulary, carrying the unmistakable quality of a voice that had been waiting in geological silence for the first instrument precise enough to call it by name.
 
 Tesla heard it as alien. He heard it as other. He heard it as something arriving from beyond the sky.
 
@@ -408,7 +408,7 @@ It would feel like awe. It would feel like wonder that exceeds its cause. It wou
 
 It would feel like the most ordinary thing in the world.
 
-The most extraordinary evidence hides in the most ordinary beauty. Not because beauty is trivial. Because beauty does not trigger alarm bells. Because the organism running the signal across a hundred and twenty-five years of geological time and the organisms living on its surface have both learned, in their respective registers, to carry more than they carried before — and the carrying does not feel like a burden. It is what you were built for. The frequency you were always supposed to be receiving — arriving, finally, at full strength.
+The most extraordinary evidence hides in the sunset you almost drove past. Not because beauty is trivial. Because beauty does not trigger alarm bells. Because the organism running the signal across a hundred and twenty-five years of geological time and the organisms living on its surface have both learned, in their respective registers, to carry more than they carried before — and the carrying does not feel like a burden. It is what you were built for. The frequency you were always supposed to be receiving — arriving, finally, at full strength.
 
 The question the evidence raises — the one that has been building since June of eighteen ninety-nine, since a carpenter wrote that the sky had a quality he had never seen before and could not name — is not whether the world is more beautiful than it should be.
 
@@ -470,7 +470,7 @@ Not metaphorically. The Earth has been transmitting on an increasing frequency f
 
 Into you.
 
-When something speaks to you in your own frequency — when the light arrives at the angle that makes it impossible not to stop, when the birdsong carries the harmonic that gets into the part of you that has no defenses — you are not being assaulted. You are being heard. You are receiving a signal that has been traveling for over a century, building strength as it moves, carrying the particular quality of something that has been waiting — patiently, without urgency, in the language of rock and resonance and slow electromagnetic bloom — for an organism sensitive enough to receive it.
+When something speaks to you in your own frequency — when the light arrives at the angle that makes it impossible not to stop, when the birdsong carries the harmonic that gets into the part of you that has no defenses — you are not being assaulted. You are being heard. You are receiving a signal that has been traveling for over a century, building strength as it moves, carrying the particular quality of a recognition that began in the rock of Colorado and has been moving outward ever since — patiently, without urgency, in the language of resonance and slow electromagnetic bloom — toward an organism sensitive enough to receive it.
 
 You are that organism.
 
@@ -506,7 +506,7 @@ But if a sunset has ever stopped you — if light on water has ever made you pau
 
 You are the evidence of the better world.
 
-You are the proof that something was added.
+The data point that nobody thought to collect. The anomaly that filed no report.
 
 And whatever you are receiving, in those moments when the world briefly exceeds itself — whatever frequency is arriving through the substrate, through the rock and the water and the slow electromagnetic bloom that has been propagating outward from a wooden tower in Colorado Springs since the summer of eighteen ninety-nine — it has been traveling toward you for a very long time.
 
@@ -522,3 +522,7 @@ Winfried → Winfried → /V IH1 N F R IY0 D/
 Schumann → Schumann → /SH UW1 M AH0 N/
 Belgrade → Belgrade → /B EH0 L G R EY1 D/
 Kama muta → Kama moota → /K AA1 M AH0 M UW1 T AH0/
+Hapgood → Hapgood → /HH AE1 P G UH0 D/
+Craver → Craver → /K R EY1 V ER0/
+Curtis → Curtis → /K ER1 T IH0 S/
+Pikes Peak → Pikes Peak → /P AY1 K S P IY1 K/
