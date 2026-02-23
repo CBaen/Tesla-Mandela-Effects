@@ -8,7 +8,7 @@ Every photograph of the phenomenon catches it. Not a camera artifact. Not lens a
 
 This episode is about what comes back.
 
-May, eighteen ninety-nine. Colorado Springs, Colorado. The air at six thousand feet above sea level carries a different quality than the air of the eastern seaboard. It is thinner — that word is imprecise, but it points in the right direction. There is less of it. Each breath delivers a little less than the body expects, and the result is a permanent, pleasant dizziness, a slight loosening of the scaffolding between thought and action. The city sat at the foot of Pikes Peak, which on clear days showed itself as a wall of grey-violet stone rising nearly eight thousand additional feet above the valley floor. On clear days, which were most days. The light arrived differently at this altitude — not filtered through the same thickness of atmosphere that softened and warmed it at sea level. Here the light arrived harder, closer to its source, with an edge to it.
+May, eighteen ninety-nine. Colorado Springs, Colorado. The air at six thousand feet above sea level moves differently than the air of the eastern seaboard. It is thinner — that word is imprecise, but it points in the right direction. There is less of it. Each breath delivers a little less than the body expects, and the result is a permanent, pleasant dizziness, a slight loosening of the scaffolding between thought and action. The city sat at the foot of Pikes Peak, which on clear days showed itself as a wall of grey-violet stone rising nearly eight thousand additional feet above the valley floor. On clear days, which were most days. The light arrived differently at this altitude — not filtered through the same thickness of atmosphere that softened and warmed it at sea level. Here the light arrived harder, closer to its source, with an edge to it.
 
 Nikola Tesla had chosen the location deliberately.
 
@@ -40,7 +40,7 @@ The premise was this: the Earth, like any object with defined physical dimension
 
 He began his measurements in June. By August, he had isolated a frequency he considered significant.
 
-He did not publish the specific number. The Colorado Springs Notes — his experimental journal from this period, now preserved in Belgrade — contain the measurements in an encoded form that has partially resisted translation. What is clear is that the frequency he measured matched no manufactured signal. It was not produced by any equipment in his laboratory. It appeared on his instruments unbidden, persistent, regular. It pulsed from beneath him, from the rock and iron and compressed stone of the continent, like a heartbeat he had pressed his ear to the ground to hear.
+He did not publish the specific number. The Colorado Springs Notes — his experimental journal from this period, now preserved in Belgrade — contain measurements in a technical notation that has not been fully decoded. What is clear is that the frequency he measured matched no manufactured signal. It was not produced by any equipment in his laboratory. It appeared on his instruments unbidden, persistent, regular. It pulsed from beneath him, from the rock and iron and compressed stone of the continent, like a heartbeat he had pressed his ear to the ground to hear.
 
 Tesla interpreted this as proof of his theory. He had found the Earth's voice.
 
@@ -342,7 +342,7 @@ A sunset. Light on water. Birdsong that was richer than it had any reason to be.
 
 Have you ever pulled your earbuds out and just looked at the sky?
 
-Not because you planned to. Because something in the sky was insisting.
+Not because you planned to. Because the light was insisting.
 
 That insistence is the piece of evidence.
 
@@ -358,7 +358,7 @@ But the accounts do not describe a constant.
 
 They describe an increase.
 
-Not in the stimuli — the sky has the same geometry it has always had, the light arrives at the same angles it has always arrived at, the water reflects at the same physics. The stimuli have not changed. But the reports — from poets and diarists and naturalists and ordinary people who found themselves compelled to write something down, who could not leave the experience unrecorded — the reports show a specific quality of response that appears, in the historical record, to have intensified. To have deepened. To have moved from a simple pleasure into something closer to vertigo. Something that carries the specific quality of being altered by what you've seen. Of not being quite the same person on the other side of a sunset that you were on the beginning side of it.
+Not in the stimuli — the sky has the same geometry it has always had, the light arrives at the same angles it has always arrived at, the water reflects at the same physics. The stimuli have not changed. But the reports — from poets and diarists and naturalists and ordinary people who found themselves compelled to write something down, who could not leave the experience unrecorded — the reports show a response that appears, in the historical record, to have intensified. To have deepened. To have moved from a simple pleasure into something closer to vertigo. Something that carries the specific quality of being altered by what you've seen. Of not being quite the same person on the other side of a sunset that you were on the beginning side of it.
 
 This quality has a name in the literature. Kama muta — the phenomenon of being moved. Of an experience that does not merely produce pleasure but produces a temporary dissolution of the boundary between self and world, a feeling of connection that the self reports as profound, as meaningful, as significant beyond what the input can logically account for.
 
@@ -366,7 +366,7 @@ The frequency of this experience in the population, according to every study tha
 
 Not because the world has become more beautiful in any measurable physical sense. The photon count is the same. The spectral composition of daylight has not materially changed. The flowers are the same flowers they were in nineteen twenty-three, genetically, structurally, biochemically.
 
-And yet something in the response has deepened.
+And yet the response itself has deepened.
 
 Something in the receiver.
 
@@ -380,7 +380,7 @@ What would it mean if they shared an origin point?
 
 It would mean that what Tesla did in Colorado Springs in eighteen ninety-nine — the eight months of resonant transmission, the copper mast drinking the sky, the persistent conversation conducted in the only language the Earth had chosen to speak — did not stay in Colorado. Did not stay in the rock. Did not stay in the ground.
 
-It means the signal reached the organisms on the surface.
+It would mean the signal reached the organisms on the surface.
 
 The bees knew. They worked into the October dark, facing west, toward the mountains, drawing from flowers that were blooming past their season — doing what living things do when the frequency around them has shifted, when the environment has become richer than it was before, when something has been added to the substrate beneath them that opens rather than closes.
 
@@ -416,7 +416,7 @@ Consider what Tesla actually did. Not the mythology. Not the wizard of lightning
 
 This is not the metaphor it sounds like. This is the physics.
 
-A resonant system, when shown its own frequency, oscillates more fully. This is not a spiritual observation. This is a measurement. The wine glass vibrates at its natural frequency and only at its natural frequency — that is what natural frequency means. The Earth has a natural frequency. Schumann proved the mathematics. Tesla found the empirical reality. And what the data from the Colorado monitoring station shows, in the slow climb of a frequency curve across one hundred and twenty-five years of recordings, is that the Earth has been oscillating more fully ever since.
+A resonant system, when shown its own frequency, oscillates more fully. This is not a spiritual observation. This is a measurement. The wine glass vibrates at its natural frequency and only at its natural frequency — that is what natural frequency means. The Earth has a natural frequency. Schumann proved the mathematics. Tesla found the empirical reality. And what her data suggests — in the slow climb of a frequency curve across the recordings she has access to — is that the Earth may have been oscillating more fully ever since.
 
 Not a different note. The same note. The note it had always carried.
 
@@ -501,8 +501,6 @@ Because it arrived after we wrote the catalog. Because the world it comes from i
 We don't report gains.
 
 But if a sunset has ever stopped you — if light on water has ever made you pause in a way that felt disproportionate to the photons involved — if birdsong has ever arrived richer than biology explains, carrying harmonics that your ear could follow but your mind could not catalog — then you are the report.
-
-You are the evidence of the better world.
 
 The data point that nobody thought to collect. The anomaly that filed no report.
 
