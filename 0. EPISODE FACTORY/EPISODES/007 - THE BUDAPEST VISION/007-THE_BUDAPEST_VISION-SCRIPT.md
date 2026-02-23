@@ -224,7 +224,7 @@ This is not the description of a nervous system at reduced capacity.
 
 It is the description of a nervous system at total capacity. Processing everything. Refusing nothing. The threshold between the world and the body dissolved, so that the city's vibrations and the organism's vibrations became continuous with each other — a single field, unmediated, the skin no longer functioning as an interface but as a membrane so thin it had stopped serving as a boundary at all.
 
-A twenty twenty-four clinical review presented at the European Congress of Psychiatry examined Tesla's documented behaviors against the clinical record available today. The review's authors examined his documented behaviors — the counting rituals, the specific cleanliness compulsions, the insomnia, and the sensory collapse — and concluded that the presentation is consistent with a probable diagnosis of obsessive-compulsive disorder. The authors noted that his symptoms were dismissed by contemporaries as... — the paper's own phrase — ..."the quirks of genius rather than the symptoms of disease."
+A twenty twenty-four clinical review presented at the European Congress of Psychiatry examined Tesla's documented behaviors against the clinical record available today. The review's authors examined his documented behaviors — the counting rituals, the specific cleanliness compulsions, the insomnia, and the sensory collapse — and concluded that the presentation is consistent with a probable diagnosis of obsessive-compulsive disorder. The authors noted that his symptoms were dismissed by contemporaries as... — the review's own phrase — ..."the quirks of genius rather than the symptoms of disease."
 
 That phrase deserves to be turned over and examined from every angle.
 
@@ -386,7 +386,7 @@ He surrendered the clause that would have made him the wealthiest person in the 
 
 He died in room three-three-two-seven of the New Yorker Hotel in nineteen forty-three. His room had been paid for, since nineteen thirty-four, by the Westinghouse Corporation — the company whose founder he had once saved by surrendering the clause that would have made him rich.
 
-The technology he tore up the contract for — the motor, the rotating field, the machine drawn in the sand in February of eighteen eighty-two — was, by the time of his death, powering the industrial infrastructure of the entire planet.
+The technology he had surrendered the clause for — the motor, the rotating field, the machine drawn in the sand in February of eighteen eighty-two — was, by the time of his death, powering the industrial infrastructure of the entire planet.
 
 ---
 
@@ -394,7 +394,7 @@ There are other cases in the record. Other accounts of insight arriving complete
 
 Henri Poincaré — the French mathematician — described in his book "Science and Method," published in nineteen oh eight, the moment when the solution to automorphic functions arrived. He had been working on the problem for weeks without progress. He stepped onto a bus — his mind occupied with a geological expedition, entirely elsewhere — and in the moment his foot touched the step, the solution arrived. He wrote that he felt, with sudden certainty, that the transformations he had been using were identical with those of non-Euclidean geometry. He did not verify this at the moment. He was certain before verification. He verified later, and the certainty was correct.
 
-August Kekulé dreamed of a snake consuming its own tail — the uroboros — and woke with the ring structure of benzene.
+August Kekulé claimed to have seen, in a dozing reverie by a fireplace, a snake consuming its own tail — the uroboros — and to have proposed from it the ring structure of benzene. The account, told twenty-five years after the discovery, has been questioned.
 
 Srinivasa Ramanujan stated that the goddess Namagiri delivered mathematical formulas to him in dreams. The formulas were real. The proofs, in many cases, came later.
 
@@ -498,11 +498,9 @@ The drawing is gone. The motor is not.
 
 Understand what this means for the scale of what you are standing inside.
 
-The IEA figure — fifty-three percent of global electricity into motor systems — is not an abstraction. Work out what it means in the physical world. Every power plant burning coal or gas or splitting uranium or capturing the momentum of wind or water is, more than half the time, producing electricity whose destination is a rotating field in an electric motor. Every turbine spinning in every dam and every power station on the planet is, in its majority function, feeding the Budapest Vision. The infrastructure of global energy production is, in the dominant direction of its output, a delivery system for a machine drawn in the sand with a stick by a man on his knees in the cold.
+The figure is not an abstraction. Work out what it means in the physical world. Every power plant burning coal or gas or splitting uranium or capturing the momentum of wind or water is, in its majority function, feeding the Budapest Vision. The infrastructure of global energy production is, in the dominant direction of its output, a delivery system for a machine drawn in the sand with a stick by a man on his knees in the cold.
 
-This is not exaggeration. This is the IEA data.
-
-And the forty motors in a modern automobile — the motors that adjust the seat, that move the windows, that push the fuel through the injection system, that cool the battery, that drive the wheels in an electric vehicle — these are not afterthoughts. They are the primary mechanism. A car is not a car with some motors added to it. A car is increasingly a collection of motors organized around a passenger. When you sit in a car, you are sitting inside the Budapest Vision the way you might sit inside a room that someone had built around you while you were sleeping.
+And the motors inside every vehicle on the road — the motors that adjust the seat, that move the windows, that push the fuel through the injection system, that cool the battery, that drive the wheels in an electric vehicle — these are not afterthoughts. They are the primary mechanism. A car is not a car with some motors added to it. A car is increasingly a collection of motors organized around a passenger. When you sit in a car, you are sitting inside the Budapest Vision the way you might sit inside a room that someone had built around you while you were sleeping.
 
 You were not there when the room was built. You woke up inside it. You have never known anything else.
 
