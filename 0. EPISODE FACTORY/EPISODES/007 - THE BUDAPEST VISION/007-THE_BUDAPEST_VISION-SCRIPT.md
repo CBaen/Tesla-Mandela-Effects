@@ -8,19 +8,19 @@ February, eighteen eighty-two. The Budapest City Park, Városliget, in the late 
 
 He has been reciting it for the better part of an hour. Goethe. The great poem. The man speaks the German from memory, without hesitation, the verses arriving whole, each line handed off to the next the way a relay runner hands off a torch — no break, no gap, the momentum uninterrupted. Szigeti does not speak German at the level the poem requires, but he has heard it enough times in the past weeks to recognize the passages. The Faust passages. The ones about evening. The ones about the day giving way to something larger.
 
-Then the American stops speaking.
+Then the Serbian stops speaking.
 
 He does not stop mid-sentence. He does not trail off. The verse simply... ends. Not at a natural break. Not at a period or a stanza line. In the middle of a thought, the voice stops, and the absence arrives so completely that Szigeti almost expects an echo — some residue of sound bouncing back from the frozen trees.
 
 He stops walking. He turns.
 
-The American is standing four steps behind him on the path. He is standing completely still. Not the stillness of someone who has paused to think, or who has spotted something in the distance and stopped to look. This is a different quality of motionlessness. His hands have gone loose at his sides. His head is level. His face is — Szigeti will describe this later to his family, and the word that comes to him then and always after is not peaceful and not frightened and not absent. The word is occupied. The face is occupied the way a house is occupied when all the residents are in one back room and no one comes to the door.
+The Serbian is standing four steps behind him on the path. He is standing completely still. Not the stillness of someone who has paused to think, or who has spotted something in the distance and stopped to look. This is a different quality of motionlessness. His hands have gone loose at his sides. His head is level. His face is — Szigeti will describe this later to his family, and the word that comes to him then and always after is not peaceful and not frightened and not absent. The word is occupied. The face is occupied the way a house is occupied when all the residents are in one back room and no one comes to the door.
 
 The eyes are open. The eyes are not looking at anything in the park.
 
 Szigeti waits. He does not speak. He understands, at some level below reasoning, that speaking would be like striking a match near something delicate. The moment has a membrane. He waits on one side of it.
 
-Then the American kneels.
+Then the Serbian kneels.
 
 He goes down to one knee, then both, on the frozen gravel path. He does not look at the ground before kneeling — he simply lowers himself, the way a man lowers himself when his legs have decided before his mind has, the body acting on instruction that arrived ahead of thought. He is still looking at nothing in the park. He is still, in every way that matters, somewhere else.
 
@@ -56,7 +56,7 @@ Stand on the textbook version and it holds. It holds the way ice holds when you 
 
 The second layer is the actual record.
 
-Nikola Tesla arrived in Budapest in January of eighteen eighty-one. He was twenty-four years old, and he had secured a position with Tivadar Puskás — the Hungarian entrepreneur who had acquired the license to establish the first telephone exchange in Hungary. Budapest in eighteen eighty-one was building itself into something. The city was at the edge of a transformation, the old Ottoman-inflected Ottoman-adjacent architecture giving way to the broad Austro-Hungarian ambitions of a capital trying to become. There was construction everywhere. Telegraphs. Telephone lines strung between buildings not yet finished. Tesla's job was technical — designing, improving, troubleshooting the equipment that would make the exchange function. He was productive. He was, by every account, exactly the kind of engineer you would hire if you wanted problems solved efficiently and with imagination.
+Nikola Tesla arrived in Budapest in January of eighteen eighty-one. He was twenty-four years old, and he had secured a position with Tivadar Puskás — the Hungarian entrepreneur who had acquired the license to establish the first telephone exchange in Hungary. Budapest in eighteen eighty-one was building itself into something. The city was at the edge of a transformation, the older provincial quarters giving way to the grand Austro-Hungarian boulevards of a capital trying to become. There was construction everywhere. Telegraphs. Telephone lines strung between buildings not yet finished. Tesla's job was technical — designing, improving, troubleshooting the equipment that would make the exchange function. He was productive. He was, by every account, exactly the kind of engineer you would hire if you wanted problems solved efficiently and with imagination.
 
 He was also, in this period, entirely well.
 
@@ -80,7 +80,7 @@ Physicians in Budapest could not diagnose it. Tesla wrote that the doctors who e
 
 The physicians who examined Tesla had a word for what they were seeing. Neurasthenia — a term coined by the American neurologist George Miller Beard in eighteen sixty-nine to describe the exhaustion of the nervous system under the pressures of modern life. Nervous exhaustion. The diagnosis of the age. It covered a great deal, because it had to: the medicine of the eighteen eighties had no imaging, no electrophysiology, no biochemical markers. What it had was the patient's account, and the patient's account placed into the nearest available category.
 
-Neurasthenia was the category. But Tesla's account did not fit the category. Neurasthenia described a diminished system — nerves worn thin, capacity reduced, the organism retreating below its ordinary operating level. What Tesla described was not a retreat. A twenty twenty-four paper in European Psychiatry, reviewing Tesla's Budapest episode against the clinical record, concluded that his constellation of symptoms is consistent with probable obsessive-compulsive disorder — a nervous system running compulsive loops at the cost of ordinary function, not a nervous system going quiet. The paper noted that his condition was dismissed by contemporaries as the quirks of genius rather than the symptoms of disease.
+Neurasthenia was the category. But Tesla's account did not fit the category. Neurasthenia described a diminished system — nerves worn thin, capacity reduced, the organism retreating below its ordinary operating level. What Tesla described was not a retreat. A twenty twenty-four clinical review presented at the European Congress of Psychiatry, examining Tesla's documented behaviors against the diagnostic criteria available today, concluded that his constellation of symptoms is consistent with probable obsessive-compulsive disorder — a nervous system running compulsive loops at the cost of ordinary function, not a nervous system going quiet. The review noted that his condition was dismissed by contemporaries as the quirks of genius rather than the symptoms of disease.
 
 That is what the medical framework of the time could offer him: a name that did not fit, and a prognosis of death.
 
@@ -228,7 +228,7 @@ This is not the description of a nervous system at reduced capacity.
 
 It is the description of a nervous system at total capacity. Processing everything. Refusing nothing. The threshold between the world and the body dissolved, so that the city's vibrations and the organism's vibrations became continuous with each other — a single field, unmediated, the skin no longer functioning as an interface but as a membrane so thin it had stopped serving as a boundary at all.
 
-A twenty twenty-four paper published in European Psychiatry examined Tesla's Budapest episode against the clinical record available today. The paper's authors reviewed his documented behaviors — the counting rituals, the specific cleanliness compulsions, the insomnia, and the sensory collapse — and concluded that the presentation is consistent with a probable diagnosis of obsessive-compulsive disorder. The authors noted that his symptoms were dismissed by contemporaries as... — the paper's own phrase — ..."the quirks of genius rather than the symptoms of disease."
+A twenty twenty-four clinical review presented at the European Congress of Psychiatry examined Tesla's documented behaviors against the clinical record available today. The review's authors examined his documented behaviors — the counting rituals, the specific cleanliness compulsions, the insomnia, and the sensory collapse — and concluded that the presentation is consistent with a probable diagnosis of obsessive-compulsive disorder. The authors noted that his symptoms were dismissed by contemporaries as... — the paper's own phrase — ..."the quirks of genius rather than the symptoms of disease."
 
 That phrase deserves to be turned over and examined from every angle.
 
@@ -350,9 +350,9 @@ The motor worked.
 
 He demonstrated it to Bauzin — the former mayor of Strasbourg, a man with connections and resources and access to the kind of investors who might recognize what they were looking at. Bauzin brought those investors to the demonstration. They looked at what Tesla had built. They watched it run. They declined.
 
-Tesla wrote that he found no echo.
+Tesla wrote that he found no response.
 
-Those three words carry the entire weight of a man who had walked out of a park with the complete design for a technology that would reshape civilization, spent a year constructing the first physical proof of that design, demonstrated it to the people with the capacity to understand its significance — and received nothing in return. Not a dismissal with an argument. Not a competing theory. Simply: no echo. The sound going out and nothing coming back.
+Those three words carry the entire weight of a man who had walked out of a park with the complete design for a technology that would reshape civilization, spent a year constructing the first physical proof of that design, demonstrated it to the people with the capacity to understand its significance — and received nothing in return. Not a dismissal with an argument. Not a competing theory. Simply: no response. The sound going out and nothing coming back.
 
 He left Europe. He came to New York. He went to work for Edison directly. That work ended badly. He spent two years working as a manual laborer, digging trenches, while the patents that would secure his future sat unwritten. He moved through three more investors before landing at the Westinghouse encounter that finally created a path for the technology to reach the world.
 
@@ -382,13 +382,13 @@ The deal closed in July of eighteen eighty-eight. The terms: twenty-five thousan
 
 The royalty clause was the clause that mattered. Applied to the global production of AC motors as the technology spread — and the technology would spread to every corner of the electrified world — that royalty would have made Tesla the wealthiest person alive. The calculation produces a number that has no historical precedent. The world's first billionaire, by some estimates, with further accumulation to follow.
 
-In eighteen ninety-seven, during a financial crisis at Westinghouse's company, Tesla walked into Westinghouse's office and tore up the royalty contract.
+In eighteen ninety-one, during a financial crisis that threatened to push Westinghouse into receivership, Tesla walked into Westinghouse's office and released the royalty clause from the contract.
 
-He tore it up voluntarily.
+He released it voluntarily.
 
-He tore up the document that would have made him the wealthiest person in the history of the world because Westinghouse had been fair to him, and because the motor needed to reach the world, and because those two things, in Tesla's accounting, mattered more than the money.
+He surrendered the clause that would have made him the wealthiest person in the history of the world because Westinghouse had been fair to him, and because the motor needed to reach the world, and because those two things, in Tesla's accounting, mattered more than the money.
 
-He died in a hotel room in New York City in nineteen forty-three. He owed the hotel four months of unpaid rent.
+He died in room three-three-two-seven of the New Yorker Hotel in nineteen forty-three. His room had been paid for, since nineteen thirty-four, by the Westinghouse Corporation — the company whose founder he had once saved by surrendering the clause that would have made him rich.
 
 The technology he tore up the contract for — the motor, the rotating field, the machine drawn in the sand in February of eighteen eighty-two — was, by the time of his death, powering the industrial infrastructure of the entire planet.
 
@@ -542,7 +542,7 @@ Not in the way that people are inside history — inheritors of a past they did 
 
 It has been running since Tesla built the first prototype in a machine shop in Strasbourg in eighteen eighty-three.
 
-It ran when he tore up the contract in eighteen ninety-seven, the contract that would have made him the first billionaire in history, because Westinghouse had been fair to him and the motor needed to reach the world and those two things mattered more than the money. The motor ran while he died alone in room three-three-two-seven of the New Yorker Hotel in nineteen forty-three, owing four months of back rent on a room his body had occupied while his mind was somewhere else. The motor ran while the FBI arrived and took his papers. The motor ran while the papers were eventually, after years of legal dispute, returned to Serbia, where they are held today. The motor ran through all of it, indifferent to the history of its origin, indifferent to what happened to the man who received it, running because that is what the rotating field does.
+It ran when he released the royalty clause in eighteen ninety-one, the clause that would have made him the first billionaire in history, because Westinghouse had been fair to him and the motor needed to reach the world and those two things mattered more than the money. The motor ran while he died alone in room three-three-two-seven of the New Yorker Hotel in nineteen forty-three, in a room that the Westinghouse Corporation had been paying for since nineteen thirty-four, while his mind was somewhere else. The motor ran while the FBI arrived and took his papers. The motor ran while the papers were eventually, after years of legal dispute, returned to Serbia, where they are held today. The motor ran through all of it, indifferent to the history of its origin, indifferent to what happened to the man who received it, running because that is what the rotating field does.
 
 The field rotates. The rotor responds. The work gets done.
 
