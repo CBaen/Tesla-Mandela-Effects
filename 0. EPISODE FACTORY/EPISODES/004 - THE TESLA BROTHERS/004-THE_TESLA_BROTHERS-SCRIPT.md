@@ -327,38 +327,38 @@ The question is whether you can remember at all.
 
 Caption Key
 
-Nikola Tesla → Nih-KOH-lah TESS-lah → /N IH0 K OW1 L AH0 T EH1 S L AH0/
-Dane Tesla → DAYN TESS-lah → /D EY1 N T EH1 S L AH0/
-Milutin Tesla → Mih-LOO-tin TESS-lah → /M IH0 L UW1 T IH0 N T EH1 S L AH0/
-Đuka Tesla → JOO-kah TESS-lah → /JH UW1 K AH0 T EH1 S L AH0/
-Smiljan → SMIL-yahn → /S M IH1 L Y AA0 N/
-Gospić → Gospeech → /G OW1 S P IH0 CH/
-Croatia → Kroh-AY-shuh → /K R OW0 EY1 SH AH0/
-Church of Great Martyr George → Church of Great MAR-ter JOHRJ → /CH ER1 CH AH0 V G R EY1 T M AA1 R T ER0 JH AO1 R J/
-Angelina Tesla → An-juh-LEE-nah TESS-lah → /AE0 N JH AH0 L IY1 N AH0 T EH1 S L AH0/
-Milka Tesla → MIL-kah TESS-lah → /M IH1 L K AH0 T EH1 S L AH0/
-Marica Tesla → Mah-REE-tsah TESS-lah → /M AH0 R IY1 T S AH0 T EH1 S L AH0/
-Wilbur Wright → WIL-ber RYTE → /W IH1 L B ER0 R AY1 T/
-Orville Wright → OR-vil RYTE → /O R0 V IH1 L R AY1 T/
-Joseph-Michel Montgolfier → Joe-SEFF Mee-SHELL Mont-GAWL-fee-ay → /JH OW1 S EH0 F M IY0 SH EH1 L M AA0 N T G OW1 L F Y EY0/
-Jacques-Étienne Montgolfier → Zhahk Ay-tee-EHN Mont-GAWL-fee-ay → /ZH AA1 K EY0 T IY0 EH1 N M AA0 N T G OW1 L F Y EY0/
-Austrian Polytechnic → AW-stree-uhn Pah-lee-TEK-nik → /AO1 S T R IY0 AH0 N P AA0 L IY0 T EH1 K N IH0 K/
-Graz → GRAHTS → /G R AA1 T S/
-J.P. Morgan → JAY-PEE MOR-guhn → /JH EY1 P IY1 M AO1 R G AH0 N/
-Edison → EH-dih-suhn → /EH1 D IH0 S AH0 N/
-Westinghouse → WES-ting-hows → /W EH1 S T IH0 N G H AW1 Z/
-New Yorker Hotel → NEW YOR-ker Hoh-TEL → /N UW1 Y O1 R K ER0 H OW0 T EH1 L/
-Office of Alien Property → AW-fis of AY-lee-uhn PROP-er-tee → /AO1 F IH0 S AH0 V EY1 L IY0 AH0 N P R AA1 P ER0 T IY0/
+Nikola Tesla → Nikola Tesla → /N IY1 K AO0 L AA0 T EH1 S L AA0/
+Dane Tesla → Dane Tesla → /D AA1 N EH0 T EH1 S L AA0/
+Milutin Tesla → Milutin Tesla → /M IY0 L UW1 T IY0 N T EH1 S L AA0/
+Đuka Tesla → Duka Tesla → /JH UW1 K AA0 T EH1 S L AA0/
+Smiljan → Smilyan → /S M IY1 L Y AA0 N/
+Gospić → Gospic → /G AO1 S P IY0 CH/
+Croatia → Croatia → /K R OW0 EY1 SH AH0/
+Church of Great Martyr George → Church of Great Martyr George → /CH ER1 CH AH0 V G R EY1 T M AA1 R T ER0 JH AO1 R JH/
+Angelina Tesla → Angelina Tesla → /AA0 N G EH0 L IY1 N AA0 T EH1 S L AA0/
+Milka Tesla → Milka Tesla → /M IY1 L K AA0 T EH1 S L AA0/
+Marica Tesla → Marica Tesla → /M AA0 R IY1 T S AA0 T EH1 S L AA0/
+Wilbur Wright → Wilbur Wright → /W IH1 L B ER0 R AY1 T/
+Orville Wright → Orville Wright → /AO1 R V IH0 L R AY1 T/
+Joseph-Michel Montgolfier → Joseph-Michel Montgolfier → /ZH OW0 Z EH1 F M IY0 SH EH1 L M AO0 N G AO1 L F Y EH0/
+Jacques-Étienne Montgolfier → Jacques-Etienne Montgolfier → /ZH AA1 K EH0 T Y EH1 N M AO0 N G AO1 L F Y EH0/
+Austrian Polytechnic → Austrian Polytechnic → /AO1 S T R IY0 AH0 N P AA0 L IY0 T EH1 K N IH0 K/
+Graz → Graz → /G R AA1 T S/
+J.P. Morgan → J.P. Morgan → /JH EY1 P IY1 M AO1 R G AH0 N/
+Edison → Edison → /EH1 D IH0 S AH0 N/
+Westinghouse → Westinghouse → /W EH1 S T IH0 NG HH AW1 Z/
+New Yorker Hotel → New Yorker Hotel → /N UW1 Y AO1 R K ER0 HH OW0 T EH1 L/
+Office of Alien Property → Office of Alien Property → /AO1 F IH0 S AH0 V EY1 L IY0 AH0 N P R AA1 P ER0 T IY0/
 Room 3327 → Room thirty-three twenty-seven → /R UW1 M TH ER1 T IY0 TH R IY1 T W EH1 N T IY0 S EH1 V AH0 N/
-Nikola Tesla Museum → Nih-KOH-lah TESS-lah Myoo-ZEE-um → /N IH0 K OW1 L AH0 T EH1 S L AH0 M Y UW0 Z IY1 AH0 M/
-Belgrade → BEL-grayd → /B EH1 L G R EY0 D/
-FBI → EFF-BEE-EYE → /EH1 F B IY1 AY1/
-Colorado Springs → Kuh-LAH-rah-doh SPRIN-jez → /K AH0 L AE0 R AE0 D OW0 S P R IH1 N Z/
-Long Island → LAWNG EYE-lund → /L AO1 N G AY1 L AH0 N D/
-Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
-Austro-Hungarian Empire → AW-stroh-HUN-GAR-ee-uhn EM-pyre → /AO1 S T R OW0 H AH1 N G EH1 R IY0 AH0 N EH1 M P AY1 R/
-M.K. → Em-KAY → /EH1 M K EY1/
-Gračac → GRAHS-ahts → /G R AA1 S AA0 T S/
-Mandić → MAHN-dich → /M AA1 N D IH0 CH/
-My Inventions → My In-VEH-shunz → /M AY1 IH0 N V EH1 SH AH0 N Z/
+Nikola Tesla Museum → Nikola Tesla Museum → /N IY1 K AO0 L AA0 T EH1 S L AA0 M Y UW0 Z IY1 AH0 M/
+Belgrade → Belgrade → /B EH1 L G R EY0 D/
+FBI → FBI → /EH1 F B IY1 AY1/
+Colorado Springs → Colorado Springs → /K AA0 L AH0 R AE1 D OW0 S P R IH1 NG Z/
+Long Island → Long Island → /L AO1 NG AY1 L AH0 N D/
+Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH1 F/
+Austro-Hungarian Empire → Austro-Hungarian Empire → /AO1 S T R OW0 HH AH1 N G EH1 R IY0 AH0 N EH1 M P AY1 R/
+M.K. → M.K. → /EH1 M K EY1/
+Gračac → Gracac → /G R AA1 CH AA0 T S/
+Mandić → Mandic → /M AA1 N D IY0 CH/
+My Inventions → My Inventions → /M AY1 IH0 N V EH1 N SH AH0 N Z/
 

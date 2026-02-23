@@ -221,32 +221,32 @@ And if that version is the real one — the first one, the one that existed befo
 
 Caption Key
 
-Nikola Tesla → Nih-KOH-lah TESS-lah → /N IH0 K OW1 L AH0 T EH1 S L AH0/
-CERN → SURN → /S ER1 N/
-Meyrin → May-RAN → /M EY0 R AE1 N/
-Higgs boson → HIGZ BOH-zahn → /HH IH1 G Z B OW1 Z AA0 N/
-Peter Higgs → PEE-ter HIGZ → /P IY1 T ER0 HH IH1 G Z/
-Francois Englert → Frahn-SWAH AHN-glair → /F R AA0 N S W AA1 AA0 N G L EH1 R/
-Robert Brout → ROH-behr BROO → /R OW0 B EH1 R B R UW1/
-Fabiola Gianotti → Fah-bee-OH-lah Jah-NOHT-tee → /F AA0 B IY0 OW1 L AH0 JH AA0 N OW1 T IY0/
-Joe Incandela → JOH In-kan-DEH-lah → /JH OW1 IH0 N K AE0 N D EH1 L AH0/
-Leon Lederman → LEE-ahn LEH-der-man → /L IY1 AA0 N L EH1 D ER0 M AH0 N/
-Winfried Otto Schumann → VIN-freed AW-toh SHOO-mahn → /V IH1 N F R IY0 D AO1 T OW0 SH UW1 M AA0 N/
-Schumann resonance → SHOO-mahn REZ-uh-nints → /SH UW1 M AA0 N R EH1 Z AH0 N AH0 N S/
-Guglielmo Marconi → Gool-YEL-moh Mar-KOH-nee → /G UW0 L Y EH1 L M OW0 M AA0 R K OW1 N IY0/
-John Pierpont Morgan → JAHN PEER-pahnt MOR-guhn → /JH AA1 N P IH1 R P AA0 N T M AO1 R G AH0 N/
-Nataraja → Nah-tah-RAH-jah → /N AA0 T AA0 R AA1 JH AA0/
-Tandava → TAHN-dah-vah → /T AA1 N D AA0 V AA0/
-Fiona Broome → Fee-OH-nah BROOM → /F IY0 OW1 N AH0 B R UW1 M/
-Elizabeth Loftus → Eh-LIZ-uh-beth LAWF-tuhs → /EH0 L IH1 Z AH0 B EH0 TH L AO1 F T AH0 S/
-Berenstain → BEHR-en-stayn → /B EH1 R AH0 N S T EY0 N/
-Saint-Genis-Pouilly → San-Zhuh-NEE Poo-YEE → /S AE1 N ZH AH0 N IY1 P UW0 Y IY1/
-Lac Léman → Lahk Lay-MAHN → /L AA1 K L EY0 M AA1 N/
-Conseil Européen pour la Recherche Nucléaire → Kohn-SAY Ur-oh-pay-AHN poor lah Ruh-SHAIRSH Noo-clay-AIR → /K AO0 N S EY1 Y UH0 R OW0 P EY0 AE1 N P UH1 R L AA0 R AH0 SH EH1 R SH N UW0 K L EY0 EH1 R/
-Wardenclyffe → WOR-den-kliff → /W AO1 R D AH0 N K L IH1 F/
-Felix Bloch → FAY-liks BLOHK → /F EY1 L IH0 K S B L AA1 K/
-Etterbeek → EH-ter-bayk → /EH1 T ER0 B EY0 K/
-James Earl Jones → JAYMZ URL JOHNZ → /JH EY1 M Z ER1 L JH OW1 N Z/
-Gerald Guralnik → JEHR-uhld GOO-rahl-nik → /JH EH1 R AH0 L D G UH0 R AA1 L N IH0 K/
-Carl Richard Hagen → KARL RITCH-erd HAY-guhn → /K AA1 R L R IH1 CH ER0 D HH EY1 G AH0 N/
-Tom Kibble → TAHM KIB-uhl → /T AA1 M K IH1 B AH0 L/
+Nikola Tesla → Nikola Tesla → /N IY1 K AO0 L AA0 T EH1 S L AA0/
+CERN → CERN → /S ER1 N/
+Meyrin → Meyrin → /M EH0 R EH1 N/
+Higgs boson → Higgs boson → /HH IH1 G Z B OW1 Z AA0 N/
+Peter Higgs → Peter Higgs → /P IY1 T ER0 HH IH1 G Z/
+François Englert → Francois Englert → /F R AO0 N S W AA1 AO0 N G L EH1 R T/
+Robert Brout → Robert Brout → /R AA1 B ER0 T B R AW1 T/
+Fabiola Gianotti → Fabiola Gianotti → /F AA0 B IY0 OW1 L AA0 JH AA0 N AO1 T IY0/
+Joe Incandela → Joe Incandela → /JH OW1 IH0 N K AH0 N D EH1 L AH0/
+Leon Lederman → Leon Lederman → /L IY1 AH0 N L EH1 D ER0 M AH0 N/
+Winfried Otto Schumann → Winfried Otto Schumann → /V IH1 N F R IY0 D AO1 T OW0 SH UW1 M AH0 N/
+Schumann resonance → Schumann resonance → /SH UW1 M AH0 N R EH1 Z AH0 N AH0 N S/
+Guglielmo Marconi → Guglielmo Marconi → /G UW0 L Y EH1 L M OW0 M AA0 R K OW1 N IY0/
+John Pierpont Morgan → John Pierpont Morgan → /JH AA1 N P IH1 R P AA0 N T M AO1 R G AH0 N/
+Nataraja → Nataraja → /N AA0 T AA0 R AA1 JH AA0/
+Tandava → Tandava → /T AA1 N D AA0 V AA0/
+Fiona Broome → Fiona Broome → /F IY0 OW1 N AH0 B R UW1 M/
+Elizabeth Loftus → Elizabeth Loftus → /EH0 L IH1 Z AH0 B EH0 TH L AO1 F T AH0 S/
+Berenstain → Berenstain → /B EH1 R AH0 N S T EY0 N/
+Saint-Genis-Pouilly → Saint-Genis-Pouilly → /S EH1 N ZH AH0 N IY1 P UW0 Y IY1/
+Lac Léman → Lac Leman → /L AA1 K L EH0 M AA1 N/
+Conseil Européen pour la Recherche Nucléaire → Conseil Europeen pour la Recherche Nucleaire → /K AO0 N S EY1 UH0 R AO0 P EY0 EH1 N P UH1 R L AA0 R AH0 SH EH1 R SH N UW0 K L EH0 EH1 R/
+Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH1 F/
+Felix Bloch → Felix Bloch → /F IY1 L IH0 K S B L AA1 K/
+Etterbeek → Etterbeek → /EH1 T ER0 B EY0 K/
+James Earl Jones → James Earl Jones → /JH EY1 M Z ER1 L JH OW1 N Z/
+Gerald Guralnik → Gerald Guralnik → /JH EH1 R AH0 L D G UH0 R AA1 L N IH0 K/
+Carl Richard Hagen → Carl Richard Hagen → /K AA1 R L R IH1 CH ER0 D HH EY1 G AH0 N/
+Tom Kibble → Tom Kibble → /T AA1 M K IH1 B AH0 L/
