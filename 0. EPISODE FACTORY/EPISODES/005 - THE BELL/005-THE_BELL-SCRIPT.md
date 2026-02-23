@@ -504,7 +504,8 @@ What are you looking at?
 
 Caption Key
 
-Oceanus Procellarum → Oceanus Procellarum → /OW0 S IY1 AH0 N AH0 S P R AO0 S EH0 L EH1 R AH0 M/
+Oceanus → Oceanus → /OW0 S IY1 AH0 N AH0 S/
+Procellarum → Procellarum → /P R AO0 S EH0 L EH1 R AH0 M/
 Vasin → Vasin → /V AA1 S IY0 N/
 Mikhail → Mikhail → /M IY0 K AA0 IY1 L/
 Shcherbakov → Shcherbakov → /SH CH EH0 R B AH0 K AO1 F/
@@ -515,7 +516,8 @@ Nikolai → Nikolai → /N IY0 K AH0 L AY1/
 Theia → Theia → /TH IY1 AH0/
 mascon → mascon → /M AE1 S K AO0 N/
 mascons → mascons → /M AE1 S K AO0 N Z/
-Mare Imbrium → Mare Imbrium → /M AA1 R EY0 IH1 M B R IY0 AH0 M/
+Mare → Mare → /M AA1 R EY0/
+Imbrium → Imbrium → /IH1 M B R IY0 AH0 M/
 regolith → regolith → /R EH1 G AH0 L IH0 TH/
 Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH1 F/
 Shoreham → Shoreham → /SH AO1 R AH0 M/

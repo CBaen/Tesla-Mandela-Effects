@@ -210,3 +210,75 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
   - "you have been looking up your entire life" — the final question, turning the investigation outward
 - **Unique elements:** Apollo 12/13/14/15 bell experiments as repeatable anomaly, Vasin-Shcherbakov Soviet Academy hypothesis (1970), 400x size/distance eclipse coincidence, tidal locking as precision engineering question, Moon as life-enabler (axial stabilization), Tesla's Moon rotation paper (1919 Electrical Experimenter), 1899 Colorado Springs signals (Io/Jupiter later identification), mascons as unexplained nearside concentrations, Transient Lunar Phenomena (2,200+ reports across 1,000 years, Aristarchus hotspot), Kozyrev 1958 spectrographic TLP data, The Inversion (safe explanation scarier than conspiracy), celestial Mandela Effects as new category
 - **Names spent:** Nikola Tesla, Mikhail Vasin, Alexander Shcherbakov, Nikolai Kozyrev, Sava Kosanovic, John G. Trump, J.P. Morgan, Maurice Ewing (unnamed but referenced as "the scientist"), Theia (planetary body)
+
+### 006 — The Resonance
+- **Wound:** Fabricated Mandela Effect of addition, not subtraction. Natural phenomena (aurora, mineral fluorescence, honey, birdsong) are MORE beautiful than physics predicts. The change radiates from Colorado Springs, 1899. Tesla tuned the Earth — the scar tissue bloomed.
+- **Opening type:** Declarative impossibility ("There is a photograph that should not exist." / stating a fact that shouldn't be true)
+- **Structural shape:** Dual timeline (two time periods intercutting, appearing unrelated, revealed as the same event from different angles)
+- **Closing type:** The Callback — final line echoes the opening hook, transformed by everything learned
+- **Emotional endpoint:** Wonder / awe — the universe is stranger and more beautiful than the official version allows. The anomaly is not a threat — it is a glimpse.
+- **Tesla connection type:** Philosophical parallel (Tesla's IDEAS, not experiments, illuminate the anomaly)
+- **Mandela Effect type:** Fabricated sensory/environmental — unnamed aurora color, mineral fluorescence, honey, birdsong. The universe becoming MORE beautiful. No single object; a pattern of the world exceeding its specifications.
+- **Fabricated sources:** Personal diary / journal entry (Craver's journal); Anonymous letter from insider/whistleblower (Hapgood's letter); Geological/environmental survey (the 1962 survey); Monitoring station log with handwritten annotation (the analyst's printout)
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - Aurora at impossible latitude
+  - Mineral fluorescence radiating from a point
+  - Tesla's Colorado Springs tower at night
+  - Bioluminescent water where none should be
+  - A technician's journal with pressed flowers
+  - Bees circling a copper mast
+  - Frequency curve on a monitoring station printout
+  - A sunset that is impossibly vivid
+  - The Schumann resonance waveform
+  - Light refracting through a mineral specimen
+
+---
+
+## Window Rules — Blocked for Episode 007
+
+These choices are blocked for Episode 007 based on the window rules in the registry header.
+
+**Closing types (3-episode window — cannot repeat if used in 004, 005, or 006):**
+- The Witness (004) — window clearing (blocked through 007, clear for 008)
+- The Inversion (005) — blocked
+- The Callback (006) — blocked
+
+**Opening types (2-episode window — cannot repeat if used in 005 or 006):**
+- Sensory hook (005) — blocked
+- Declarative impossibility (006) — blocked
+
+**Structural shapes (2-episode window — cannot repeat if used in 005 or 006):**
+- The collection (005) — blocked
+- Dual timeline (006) — blocked
+
+**Tesla connection types (2-episode window — cannot repeat if used in 005 or 006):**
+- Absence (005) — blocked
+- Philosophical parallel (006) — blocked
+
+**Emotional endpoints (5-episode window — cannot repeat if used in 002–006):**
+- Grief (002) — blocked
+- Existential dread (003) — blocked
+- Loneliness (004) — blocked
+- Vertigo (005) — blocked
+- Wonder / awe (006) — blocked
+- Paranoia (001) — window cleared, available again
+
+**Available for Episode 007:**
+- Closing types: The Mirror, The Open Wound, The Silence, The Invitation
+- Opening types: Direct address question, Witness cold open, Fact that becomes horrifying, The negation, The artifact
+- Structural shapes: Chronological spiral, Crime scene investigation, Single witness, The descent, The trial, The letter
+- Tesla connection types: Direct appearance, Experiment consequence, Technology descendant, Opposition
+- Emotional endpoints: Paranoia, Quiet acceptance, Defiance
+
+---
+
+## Fabricated Source Format — Usage Log
+
+Tracking last-episode use to enforce the no-consecutive-repeat rule.
+
+- **001:** Institutional correspondence (Father Toma's transfer request), Declassified government report (OAP audit), Personal diary/journal entry (schoolteacher's diary), Oral history/recorded interview transcript (midwife's letter)
+- **002:** Photographic evidence with provenance gaps (exposition photographs), Insurance claim/incident report (Singer Building assessment), Unpublished academic paper (Chicago soil cores), Court testimony/deposition (Penn Station deposition)
+- **003:** Classified internal memo (Frequency Discrepancy Report), Geological/environmental survey (Colorado Springs soil), Monitoring station log with handwritten annotation (Schumann Deviation Log), Anonymous letter from insider/whistleblower (calibration engineer)
+- **004:** Personal diary/journal entry (psychoanalyst's session notes), Declassified government report (OAP inventory), Institutional correspondence (Djuka's letter), Oral history/recorded interview transcript (Zagreb folklore study)
+- **005:** Institutional correspondence (JPL seismologist's letter), Monitoring station log with handwritten annotation (Lunar Orbiter tracking log), Photographic evidence with provenance gaps (OAP Trunk 47 FOIA page), Insurance claim/incident report (Wardenclyffe actuary's report)
+- **006:** Personal diary/journal entry (Craver's journal), Anonymous letter from insider/whistleblower (Hapgood's letter), Geological/environmental survey (the 1962 survey), Monitoring station log with handwritten annotation (the analyst's printout)

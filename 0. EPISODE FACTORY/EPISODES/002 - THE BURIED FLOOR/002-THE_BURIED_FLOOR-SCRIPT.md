@@ -260,7 +260,9 @@ Caracalla → Caracalla → /K AE1 R AH0 K AE1 L AH0/
 Schumann → Schumann → /SH UW1 M AH0 N/
 Marconi → Marconi → /M AA0 R K OW1 N IY0/
 Tremont → Tremont → /T R IY1 M AA0 N T/
-Theatrum Orbis Terrarum → Theatrum Orbis Terrarum → /TH IY0 EY1 T R AH0 M AO1 R B IH0 S T EH1 R AH0 R AH0 M/
+Theatrum → Theatrum → /TH IY0 EY1 T R AH0 M/
+Orbis → Orbis → /AO1 R B IH0 S/
+Terrarum → Terrarum → /T EH1 R AH0 R AH0 M/
 Cosmographia → Cosmographia → /K AA0 Z M AH0 G R AA1 F IY0 AH0/
 Münster → Munster → /M UH1 N S T ER0/
 Galveston → Galveston → /G AE1 L V AH0 S T AH0 N/
