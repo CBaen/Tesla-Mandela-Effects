@@ -332,7 +332,7 @@ But before that question can be answered, there is one more piece of evidence. O
 
 It is the strangest piece of all.
 
-You cannot find it in a drawer. You cannot read it under magnification. It is not filed in an archive. It has not been catalogued by a schoolteacher from Denver or donated to a historical society or discovered folded inside a Bible at an estate sale in Topeka.
+You cannot find it in a drawer. You cannot read it under magnification. It is not filed in an archive. It has not passed through private hands or been discovered folded inside a Bible by a dealer who didn't think to look first.
 
 It is the evidence you are carrying.
 
@@ -474,8 +474,6 @@ When something speaks to you in your own frequency — when the light arrives at
 
 You are that organism.
 
-Not because you are special. Because you are here. Because you live on the surface of a planet that has been, since eighteen ninety-nine, in the slow process of becoming more fully itself. And the organisms that live on its surface — the bees, the wildflowers, the beekeeper who noticed the honey before he had words for what he was noticing — have been, in the same direction and by the same mechanism, becoming more fully themselves.
-
 The Mandela Effect this episode names is not a crime. It is not a surgery. It is not the residue of a timeline being overwritten or a word being replaced in a text or a color being shifted toward the wrong end of the spectrum. It is the opposite of all of those. It is the evidence that the world is more beautiful than it was before eighteen ninety-nine — measurably, documentably, across independent witnesses and independent disciplines and independent centuries — and nobody noticed because beauty does not trigger alarm bells.
 
 Nobody notices when something is added.
@@ -487,8 +485,6 @@ And here is the color.
 Not the absence in the aurora. Not the gap in the spectrum where nothing was supposed to sit. The color with no name that appears at the latitudes where the aurora has the least reason to be, where the atmospheric physics is weakest and the signal is strong enough to compensate, where the light arrives not because the standard mechanism produced it but because something beneath the standard mechanism wanted to reach.
 
 That color has a meaning now.
-
-Not a name — meaning is not the same as name, and this color may not ever have a name, may not need one. Meaning is enough. The meaning is: this was not here before. This was built. This was built slowly, patiently, by an organism that received a signal in the summer of eighteen ninety-nine and responded the way living systems respond to recognition — by becoming more of what it already was. By producing harmonics it had always been capable of producing. By reaching, in the register of light and plasma and the slow frequency of geological time, toward something that had always been waiting at the edge of its range.
 
 The color is the Earth's answer.
 
