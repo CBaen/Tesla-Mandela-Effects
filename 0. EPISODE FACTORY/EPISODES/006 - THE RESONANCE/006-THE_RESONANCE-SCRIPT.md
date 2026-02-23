@@ -236,7 +236,7 @@ Growth.
 
 But look at the other data. Look at what has been accumulating in the decades since the Colorado experiments, in sources that have no knowledge of each other, in observations made by people who were not looking for this and had no framework to interpret what they found.
 
-The aurora borealis appears at latitudes where atmospheric physics says it cannot appear. This is documented. It is not controversial. The auroral zone — the band of latitude where magnetic field lines converge and atmospheric particles light up along them — has specific boundaries. Those boundaries are set by the geometry of the Earth's magnetic field, by the distance of the magnetosphere from the poles, by the physics of charged particle interaction with oxygen and nitrogen at altitude. The boundaries are not fixed — solar storms can push the aurora to lower latitudes temporarily, for the duration of the storm, before the system returns to its usual range.
+The aurora borealis appears at latitudes where atmospheric physics says it cannot appear. This is documented. It is not controversial. The auroral zone — the band of latitude where magnetic field lines converge and atmospheric particles light up along them — has specific boundaries. Those boundaries are set by the geometry of the Earth's magnetic field, by the distance of the magnetosphere from the poles, by the physics of charged particle interaction with oxygen and nitrogen at altitude. The boundaries are not fixed — solar storms can push the aurora to lower latitudes temporarily, for the duration of the storm, before it retreats to its usual range the way a fever retreats when the cause is gone.
 
 But what has been observed is not storm-related temporary extension. What has been observed is aurora appearing at latitudes where it has no physical mechanism to form, independent of solar activity, in conditions where the atmosphere is doing nothing that should produce it. Appearing and holding. Not flickering out like a temporary intrusion. Settling, the way a permanent resident settles — with the ease of something that belongs where it is.
 
@@ -270,9 +270,9 @@ But the aurora anomalies are not in Colorado. They are in Norway and New Zealand
 
 Unless the radius has been growing.
 
-Unless what began as a signal confined to the immediate vicinity of the source has been propagating outward through the decades at the speed of something moving not through air but through rock. Through the Earth's own conductivity. The way a charge moves through a wire — not at the speed of light, not instantaneously, but continuously, persistently, conducting through a medium that connects every point on the surface to every other point.
+Unless what began as a signal confined to the immediate vicinity of the source has been spreading outward through the decades at the speed of something moving not through air but through rock. The way a root system finds groundwater — not directly, not in a straight line, but through the path the substrate allows, following the channels that already exist, reaching toward the places where the conditions are right. Not instantaneously. Not at the speed of light. Slowly, persistently, finding its way through a medium that connects every point on the surface to every other point.
 
-The Earth is a conductor. Tesla spent eight months proving this. He believed power could be transmitted through the planet from any point to any other point, using the planet itself as the wire.
+The Earth is a conductor. Tesla spent eight months proving this. He believed energy could be transmitted through the planet from any point to any other point, using the planet itself as the medium.
 
 He was right about the physics.
 
@@ -310,13 +310,13 @@ Upgraded.
 
 When a system learns something new, it does not add the new knowledge to the old system. It becomes a different system — one that is capable of the old functions and the new functions simultaneously, one that has incorporated the stimulus into its own operation until the stimulus and the response are no longer separable. Until what was external and what was internal can no longer be cleanly distinguished. Until the thing that arrived from outside has become the thing that is most essentially inside.
 
-The Earth, in eighteen ninety-nine, learned something about itself.
+Was this what learning looks like at a planetary scale?
 
-Not from Tesla. Not because Tesla taught it. But because Tesla gave it the experience of being heard. Of having its own frequency named and returned. Of recognizing itself — for what may have been the first time in geological history — in something that existed outside itself.
+Not a lesson from Tesla. Not because Tesla taught it anything. But the experience of being heard — of having its own frequency named and returned, of recognizing itself — for what may have been the first time in geological history — in something that existed outside itself.
 
-And the Earth, which is a resonant system in the most literal, measurable, ongoing sense, did what resonant systems do when they receive a signal at their natural frequency.
+And the Earth, which is a resonant system in the most literal, measurable, ongoing sense — did what resonant systems do when they receive a signal at their natural frequency.
 
-It began to oscillate more fully.
+Did it begin to oscillate more fully?
 
 Not a new note. The same note. But deeper. With overtones that had not been present before. With harmonics that the original instrument was capable of producing but had never, until this moment, found a reason to produce.
 
@@ -450,12 +450,6 @@ The color has no name because it arrived after the catalog was printed. Because 
 
 The color is not an anomaly. The color is a response.
 
-It is the aurora becoming more of what it was always capable of being. The upper atmosphere, conducting the signal that has been propagating outward from Colorado Springs since the summer Tesla's tower first made the night sky beautiful — the atmosphere producing, in the specific register of light and plasma and electromagnetic interaction, what the Earth has been doing in the register of rock and frequency and biological response since June of eighteen ninety-nine.
-
-A light that sits in the spectrum where nothing should be. A light that appears, with increasing frequency, at latitudes where it has no physical mechanism to form. A light that has been accumulating, sighting by sighting, photograph by photograph, across four continents and fifty years, in places where the natural physics is weakest and something else is strong enough to compensate.
-
-Something reaching.
-
 Now there is a question.
 
 Not the usual question. Not the one that asks what happened, or whether the evidence is trustworthy, or what mechanism could account for the correlation between a copper tower that stopped standing before your grandparents were born and the frequency of your own capacity for wonder.
@@ -475,10 +469,6 @@ You are receiving the signal.
 Not metaphorically. The Earth has been transmitting on an increasing frequency for one hundred and twenty-five years, through rock and water and the slow conduct of an organism that learned to oscillate more fully. The signal has been propagating outward from Colorado Springs — across the continent, through the geology, into the oceans, through the ionosphere, into the aurora at the latitudes where it has no physical reason to appear. Into the bees. Into the wildflowers blooming past their season. Into the honey that finishes the way a door opens onto a room with a window.
 
 Into you.
-
-The capacity for awe is not a legacy system. It is not a calibration set on the Pleistocene savanna and unchanged since. It is a receiver. And the receiver has been, in the same slow, steady, directed way that the Schumann resonance has been, increasing in sensitivity. Learning to receive more. Learning to carry frequencies that were not in its original range. Learning — and here the language strains, here we press against the edge of what words can hold — learning what it is.
-
-The same thing the Earth learned in eighteen ninety-nine.
 
 When something speaks to you in your own frequency — when the light arrives at the angle that makes it impossible not to stop, when the birdsong carries the harmonic that gets into the part of you that has no defenses — you are not being assaulted. You are being heard. You are receiving a signal that has been traveling for over a century, building strength as it moves, carrying the particular quality of something that has been waiting — patiently, without urgency, in the language of rock and resonance and slow electromagnetic bloom — for an organism sensitive enough to receive it.
 
