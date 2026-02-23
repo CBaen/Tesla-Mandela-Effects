@@ -197,3 +197,269 @@ The next layer is the breakdown itself. The full account. Tesla's own words abou
 The description does not sound like suffering.
 
 It sounds like the period before a system reaches the threshold past which something new becomes possible.
+
+---
+
+Consider the city.
+
+Budapest in eighteen eighty-one was not simply a city. It was a city in the biological sense — an organism mid-transformation, dividing faster than the cells at its edges could stabilize. Buda and Óbuda and Pest had been three separate entities for most of their lives. The merger happened in eighteen seventy-three, eight years before Tesla arrived. The seam between them had not yet sealed. Streets ended and became different streets with different names. Building fronts in Austro-Hungarian baroque stood beside the scaffolding of buildings that would replace them before the decade was out. The construction was everywhere. The noise of construction was everywhere. The hammers, the wagons, the iron wheels of horse-drawn trams on new-laid cobblestone, the machinery of a city that had decided to become the fastest-growing metropolis in Europe and was executing that decision around the clock.
+
+Tesla arrived into this.
+
+He was twenty-four. He had come for the work — for Tivadar Puskás and the first telephone exchange in Hungary, a system that had not yet opened when Tesla's train arrived in January of eighteen eighty-one. The exchange launched May first of that year, with twenty-five subscribers. By February of eighteen eighty-two, the directory listed two hundred and thirty-eight names. Tesla had risen from draftsman to Chief Electrician of the exchange inside those twelve months. The work suited him. The problems were real and solvable and the solutions he found were elegant. He was, by every available account, productive.
+
+And then, without warning, the productivity stopped.
+
+Not because he lost interest. Not because the work had grown too easy. The machinery of his attention did not slow down. It accelerated past the point where the body that housed it could follow.
+
+He could hear a watch three rooms away. Not sense it. Hear it — the individual ticks, each one arriving with the clarity of a sound positioned directly beside the ear. A fly landing on a surface in the same room registered as percussion — a blow delivered to the inner ear, not a sound so much as a physical event. A carriage at a distance of several miles did not make a noise he could hear across that distance. It made the whole of his body participate — his skeleton resonating with the wheels on the cobblestones as if the distance between them had been collapsed, as if the carriage were passing through him rather than through a street several miles away. A train whistle at twenty or thirty miles — a whistle, at that remove, that would not carry as more than the faintest suggestion of a tone to a normal hearing — reached Tesla as a vibration so total that the furniture he sat on became an extension of the disturbance, transferring it to him, and the pain was unbearable. He wrote those last three words himself. Unbearable. Not difficult. Not distressing. Unbearable.
+
+Read what he describes without the word neurasthenia. Without the word breakdown. Without the category of diminishment that the medicine of his time required, and that the simplified telling has inherited from that medicine.
+
+What does it describe?
+
+It describes a system that has stopped filtering. The human nervous system, under normal operating conditions, performs a constant and largely invisible act of triage — deciding which signals are relevant and which are background, which sensations require attention and which can be held at the periphery, which inputs can be compressed to a summary and which need to arrive in full detail. This triage is not a conscious act. It runs below the threshold of awareness, in the same territory where Tesla's polyphase motor would later assemble itself. And in the winter of eighteen eighty-one to eighteen eighty-two, in a room with rubber cushions under the bed legs to muffle the vibration of a city building itself, the triage stopped.
+
+Everything arrived at full amplitude.
+
+Every signal, from every direction, at every frequency the body is capable of registering — arriving uncompressed, un-triaged, delivered without the buffering that makes ordinary life possible. The fly on the table. The watch in the room three walls away. The carriage. The locomotive. All of it, full volume, full resolution, simultaneously.
+
+This is not the description of a nervous system at reduced capacity.
+
+It is the description of a nervous system at total capacity. Processing everything. Refusing nothing. The threshold between the world and the body dissolved, so that the city's vibrations and the organism's vibrations became continuous with each other — a single field, unmediated, the skin no longer functioning as an interface but as a membrane so thin it had stopped serving as a boundary at all.
+
+A 2024 paper published in European Psychiatry examined Tesla's Budapest episode against the clinical record available today. The paper's authors reviewed his documented behaviors — the counting rituals, the specific cleanliness compulsions, the insomnia, and the sensory collapse — and concluded that the presentation is consistent with a probable diagnosis of obsessive-compulsive disorder. The authors noted that his symptoms were dismissed by contemporaries as... — the paper's own phrase — ..."the quirks of genius rather than the symptoms of disease."
+
+That phrase deserves to be turned over and examined from every angle.
+
+The quirks of genius. The symptoms of disease. The authors meant to draw a distinction between two framings. But consider what both framings share. Both accept, as their foundation, that what Tesla was experiencing was something that happened to him. A condition. An affliction. A state to be categorized and, if possible, corrected. The physician who examines a patient looks for what is wrong. What has departed from the expected baseline. The baseline is ordinary function. The deviation is the problem.
+
+But the baseline is not the only reference point available.
+
+The physicians in Budapest examined a man who could hear a watch three rooms away, and they concluded that something had gone wrong. They were not wrong that something unusual was occurring. They were working from the only framework available to them — the framework that orients toward restoration of the baseline, toward the return of the ordinary. They offered him a prognosis of death because the condition showed no signs of resolving toward the ordinary.
+
+The condition was not resolving toward the ordinary.
+
+It was resolving toward something else.
+
+---
+
+Antal Szigety did not fix what was happening to Tesla.
+
+This is worth being precise about. The walks in the Városliget, the cold air, the daily company of a steady and patient friend — these did not return Tesla to the state he had been in before the collapse. They did not silence the signals. They did not restore the buffering, rebuild the filters, bring the amplification back inside the range where it would stop constituting harm.
+
+What the walks did — and this is the reading that the evidence supports, laid out in the plain language of Tesla's own account without embellishment and without explanation — is give the system somewhere to direct itself.
+
+The city, in Tesla's room, was an assault. Every frequency that the city generated arrived at the body as input it had not requested and could not refuse. But the park in winter is a different sensory environment. The sounds of the Városliget in February are thin sounds — the creak of ice on the ornamental lake, the hollow percussion of wind moving through bare branches, the soft compression of frozen gravel under boots, the particular quality of cold-air silence that muffles distance sounds without eliminating them. These are not quiet sounds. They are sounds with space around them. Each one arrives with enough interval between it and the next that the system receiving them can do something with the signal before the next one arrives.
+
+The city offered no such intervals.
+
+The park offered nothing but.
+
+And in the space the park created — the space that Szigety, by the steady gift of his company and the simple act of walking, helped to hold open — something began to happen to the signals Tesla was receiving. Not a reduction. A redirection. The system that had been overwhelmed by every vibration in the built world began, incrementally, to do something other than be struck by them. It began to process them.
+
+This is the direction the evidence points. This is where Tesla's own account, read carefully and without the assumption of diminishment already installed, leads.
+
+He was not recovering. He was reorganizing.
+
+And into that reorganized system, on an afternoon in February of eighteen eighty-two, at the hinge-point between the failing day and the arriving dark, the entire polyphase alternating current motor arrived.
+
+---
+
+The passage Tesla was reciting was not chosen for its inspiration.
+
+He was not reciting Goethe's Faust because it lifted his spirits or gave him courage or made him feel capable of what was about to happen. He was reciting it the way a man recites a poem he has carried long enough that it has become structural — not decoration, not motivation, but architecture. The verses lived in him the way a blueprint lives in an engineer: not consulted, simply present, available in full detail at any moment without effort.
+
+The passage was the one about evening. About the light retreating. The glow retreats, done is the day of toil. About the wish — the specific, named, lamented wish — for wings. For the ability to follow the retreating light upward, away from the ground, away from the body, away from the limitation of being a creature tethered to the earth while the light escapes it.
+
+This is not a triumphant passage. This is a passage about a man at the end of his rope.
+
+Faust — at this point in the poem — has studied every discipline. He has mastered law, medicine, philosophy, theology. He has reached the edge of what human knowledge can offer and found it insufficient. He has come close to suicide. He has walked outside the city gate on this April evening not as a celebration but as a man who does not yet know what to do with himself. And now, watching the sun descend, he laments that he cannot follow it — that no wing exists to lift him from the soil and let him pursue the retreating light into whatever comes after the day.
+
+Tesla was a man with a nervous system that had spent six months dissolving the boundary between itself and the physical world — speaking the words of a man who wished to escape the limits of the body — at the moment when his own mind exceeded every limit anyone had been able to measure.
+
+The coincidence has a weight to it.
+
+Not the weight of mystery. The weight of fit. The way a mechanism fits when the tolerances are correct — not loosely, not with play in the joints, but with precision, each surface mated to the adjacent surface, the assembly clicking into a configuration that the parts were designed for.
+
+What was Tesla doing, reciting those particular verses at that particular moment?
+
+He was giving language to the state his nervous system had been exploring for six months. He was speaking aloud the condition — the wish to escape the body's limits, to follow the light past the horizon of what flesh and bone and tethered gravity will permit — that his own biology had been enacting without permission, without invitation, without the wings Faust was asking for.
+
+And in the middle of the lament, the answer arrived.
+
+Not to Faust's question. To a different question entirely. One that had been assembling for six months below the threshold of awareness, in the dark where the gamma-burst forms before it surfaces into the light of consciousness. A question about rotating magnetic fields. About the geometry of induced currents. About a machine that could move without any physical connection between its source of energy and its moving part — a machine that, like the light Faust wanted to follow, could operate free of the tether.
+
+The motor is the answer to Faust's wish. Not metaphorically. The polyphase AC motor moves without contact. The rotating field is created at a distance from the rotor. The rotor responds to the field and begins to turn — not because a mechanical connection forces it to turn, but because the field exists and the rotor is the kind of thing that responds to the field. The energy reaches across the gap. The object on the other side moves.
+
+Tesla spent six months being moved by every signal in the city without a membrane to stop it. He had felt, in his own body, what it is to be a rotor in a field.
+
+Whether this is the mechanism of the vision or simply a description of it is a question the evidence cannot answer. It is the speculative bridge. But the bridge is built on three documented stones: the months of total sensory amplification, the Faust passage about wanting to escape the body's limits, and the sudden arrival of a machine that moves without contact. The speculation is the line connecting them. Draw the line or decline to. The stones are where they are.
+
+---
+
+He knelt.
+
+He found the stick.
+
+He drew.
+
+In the sand of the path, in the last copper light of the afternoon, Nikola Tesla drew the diagrams that would appear six years later before the American Institute of Electrical Engineers. The complete polyphase AC motor — its coil geometry, its phase relationships, the architecture of the rotating magnetic field that would spin the rotor without touching it. He drew it from the vision, from the machine still running in his mind, the way a draftsman copies from a model. The model was rotating in front of him, or inside him, or in the space that the six months had opened between him and the physical world — the exact location does not matter. What matters is that it was there.
+
+Antal Szigety looked at what was being drawn in the sand.
+
+He understood it.
+
+Szigety was an engineer. He had the training to read a technical diagram scratched in a park path. And what he read, on his knees beside his friend on the frozen gravel of the Városliget in February of eighteen eighty-two, was correct. Not approximately correct. Not the rough outline of a concept that would require years of development to realize. Correct in its engineering, its geometry, its phase relationships. A complete machine. Drawn with a stick. In the sand.
+
+The sand drawing is gone. It was gone before the following morning, lost to the overnight frost and the next day's footsteps. There is no photograph, no preserved fragment, no artifact. What remains is Tesla's account, Szigety's understanding, and the motor itself — the thing the drawing described, which Tesla built approximately one year later in a machine shop in Strasbourg, and which WORKED.
+
+This is the distinction between the Budapest Vision and almost every other documented account of sudden insight in the scientific record. The insight arrived. And the thing the insight described, when built according to the insight's specifications, functioned.
+
+---
+
+Tesla's lifelong method did not begin and end with the Budapest Vision.
+
+It predated the vision, and it continued through every year of work that followed. He described it in his autobiography with the same technical precision he applied to everything else — not as a mystical gift, not as an inexplicable faculty, but as a process. A method. Something he had developed and refined and which had specific, consistent, testable properties.
+
+He wrote: — "My method is different. I do not rush into actual work. When I get an idea, I start at once building it up in my imagination. I change the construction, make improvements and operate the device in my mind. It is absolutely immaterial to me whether I run my turbine in thought or test it in my shop. I even note if it is out of balance." —
+
+Read that last sentence again. He could note, in the mental model, if the device was out of balance. Not whether it seemed to be out of balance. Whether it WAS out of balance. The mental prototype had sufficient fidelity to reveal an imbalance that would manifest in the physical prototype — before the physical prototype existed.
+
+He was not imagining. He was modeling. The distinction matters.
+
+Imagination is generative and impressionistic. It produces possibilities. It does not produce specific, verifiable predictions about the behavior of physical systems under load. Modeling does. Modeling requires that the representation be faithful to the physical laws that govern the thing being modeled — faithful enough that when you apply a force to the model and observe the result, the physical system will behave the same way. The model is constrained by reality. That constraint is what makes its outputs usable.
+
+Tesla's models were constrained by reality.
+
+He said explicitly that he needed no models, drawings, or experiments. He was not speaking of physical prototypes. He was describing the mental prototype as complete — not as a sketch, not as a concept, but as a functional representation accurate enough to be trusted. And the machines he built from these representations worked. Not sometimes. Consistently. For the entire span of a career that ran from the Budapest Vision to his final years in New York.
+
+Kenneth Swezey — a journalist who knew Tesla personally in the last decades of his life, whose papers are archived at the Smithsonian Institution's National Museum of American History — confirmed that the method remained active and operative until the end. The thing Tesla described in his autobiography as a young man's discovery was present, unchanged in its fundamental character, in an old man's daily practice. It had not diminished. It had not been replaced by the conventional iterative methods that the rest of the engineering world used. It was what he did. It was, as far as the record allows us to say, what he had always done.
+
+What does a nervous system look like that runs three-dimensional functional models of complex electromechanical systems in its mental space?
+
+We do not know. We do not have the imaging resolution to see a process of this specificity. We cannot put Tesla in an fMRI scanner. We cannot record the gamma-band dynamics of a mind running a turbine in thought. We have the machines he built, and the account of how he built them, and the neuroscience of insight that illuminates the periphery of what happened without being able to reach the center.
+
+---
+
+The first physical motor emerged in Strasbourg, in eighteen eighty-three.
+
+Tesla had been sent there by the Continental Edison Company to repair the direct current lighting system at the central railway station — a system that had failed dramatically at its inaugural demonstration, when an explosion nearly killed Kaiser Wilhelm I. This was the assignment that preceded everything. Tesla repaired the Edison system. He did the work he had been hired to do. And then, in a machine shop across the street from the station, using materials he had acquired on his own time, he built the first physical prototype of the AC motor.
+
+The motor worked.
+
+He demonstrated it to Bauzin — the former mayor of Strasbourg, a man with connections and resources and access to the kind of investors who might recognize what they were looking at. Bauzin brought those investors to the demonstration. They looked at what Tesla had built. They watched it run. They declined.
+
+Tesla wrote that he found no echo.
+
+Those three words carry the entire weight of a man who had walked out of a park with the complete design for a technology that would reshape civilization, spent a year constructing the first physical proof of that design, demonstrated it to the people with the capacity to understand its significance — and received nothing in return. Not a dismissal with an argument. Not a competing theory. Simply: no echo. The sound going out and nothing coming back.
+
+He left Europe. He came to New York. He went to work for Edison directly. That work ended badly. He spent two years working as a manual laborer, digging trenches, while the patents that would secure his future sat unwritten. He moved through three more investors before landing at the Westinghouse encounter that finally created a path for the technology to reach the world.
+
+The path from the Budapest Vision to the power system of the twentieth century is not a triumphant march. It is a decade of no-echoes and wrong doors and investors who could not hear what was in front of them.
+
+But at each point on that path, the motor Tesla was trying to build was the motor he had drawn in the sand in February of eighteen eighty-two. Unchanged. Not iterated toward. Not progressively refined through laboratory experimentation into the thing it finally became. Already complete in eighteen eighty-two, in a Budapest park, by a man who had spent six months being simultaneously dismantled and rebuilt by a nervous system no physician could diagnose.
+
+---
+
+There was a night in May of eighteen eighty-eight.
+
+Thomas Commerford Martin — editor of The Electrical Engineer, Chairman of the committee on papers for the American Institute of Electrical Engineers — had spent considerable effort persuading Tesla to present. Later, Martin wrote that he had experienced great difficulty in persuading Tesla to present the paper and that it had been written in haste the night before the meeting. The patents had been issued approximately two weeks prior.
+
+Consider what this means. The paper that would introduce the polyphase AC motor to the scientific and engineering establishment of the United States — the paper that would trigger the chain of events ending in the Westinghouse deal, in the electrification of America's cities, in the construction of Niagara Falls — was written the night before it was delivered, by a man who had to be persuaded to deliver it.
+
+Tesla did not want to present.
+
+This is not modesty. Tesla was not a modest man. He understood, with complete clarity, what he had. The reluctance was something else — the reluctance of someone who has been carrying a thing through years of no-echoes, through Strasbourg and New York and the ditch-digging and the wrong investors, and who has learned, in the way that repeated disappointment teaches, not to expect the sound to come back.
+
+The paper was delivered May sixteenth, eighteen eighty-eight. Tesla stood before the American Institute of Electrical Engineers and described the motor. He described the rotating magnetic field. He described the phase relationships. He described, in technical language that the engineers in the room could follow, the complete system that had arrived in a Budapest park six years earlier.
+
+From the audience, Elihu Thomson — one of the most respected electrical engineers of the era — rose and praised the motor. He was enthusiastic. He was direct about the quality of what he had heard. And then, when offered the patents for his own company to acquire, Thomson declined. He said the patents were not worth the cost of securing them.
+
+Within days, George Westinghouse dispatched agents to Tesla's laboratory.
+
+The deal closed in July of eighteen eighty-eight. The terms: twenty-five thousand dollars in cash, fifty thousand in notes, and a royalty of two dollars and fifty cents per AC horsepower produced by each motor. Westinghouse also engaged Tesla as a consultant at two thousand dollars per month for one year in the Pittsburgh laboratories.
+
+The royalty clause was the clause that mattered. Applied to the global production of AC motors as the technology spread — and the technology would spread to every corner of the electrified world — that royalty would have made Tesla the wealthiest person alive. The calculation produces a number that has no historical precedent. The world's first billionaire, by some estimates, with further accumulation to follow.
+
+In eighteen ninety-seven, during a financial crisis at Westinghouse's company, Tesla walked into Westinghouse's office and tore up the royalty contract.
+
+He tore it up voluntarily.
+
+He tore up the document that would have made him the wealthiest person in the history of the world because Westinghouse had been fair to him, and because the motor needed to reach the world, and because those two things, in Tesla's accounting, mattered more than the money.
+
+He died in a hotel room in New York City in nineteen forty-three. He owed the hotel four months of unpaid rent.
+
+The technology he tore up the contract for — the motor, the rotating field, the machine drawn in the sand in February of eighteen eighty-two — was, by the time of his death, powering the industrial infrastructure of the entire planet.
+
+---
+
+There are other cases in the record. Other accounts of insight arriving complete, without apparent preparation, carrying more than the normal increment of incremental progress.
+
+Henri Poincaré — the French mathematician — described in his book "Science and Method," published in nineteen oh eight, the moment when the solution to automorphic functions arrived. He had been working on the problem for weeks without progress. He stepped onto a bus — his mind occupied with a geological expedition, entirely elsewhere — and in the moment his foot touched the step, the solution arrived. He wrote that he felt, with sudden certainty, that the transformations he had been using were identical with those of non-Euclidean geometry. He did not verify this at the moment. He was certain before verification. He verified later, and the certainty was correct.
+
+August Kekulé dreamed of a snake consuming its own tail — the uroboros — and woke with the ring structure of benzene.
+
+Srinivasa Ramanujan stated that the goddess Namagiri delivered mathematical formulas to him in dreams. The formulas were real. The proofs, in many cases, came later.
+
+These cases are documented. They are real. They represent genuine instances of insight arriving in ways that the ordinary sequential model of problem-solving does not account for.
+
+But there is a distinction between these cases and the Budapest Vision that no one in the literature of creativity and insight has, to this narrator's reading, adequately addressed.
+
+Poincaré received a conceptual link. A connection between two domains that allowed existing mathematical structures to be transferred from one context to another. The insight was real and significant. It was also a single conceptual bridge — one new relationship between two things he already understood separately.
+
+Kekulé received molecular geometry. The ring structure. A spatial arrangement. One structural feature of one molecule.
+
+Ramanujan received individual formulas. Each one extraordinary. Each one a single, compact mathematical statement.
+
+Tesla received a complete, three-dimensional, multi-component electromechanical machine in full operation.
+
+Not a principle. Not a structural relationship. Not a formula. A machine — with rotors and stators and coils and phase relationships and the geometry of the fields threading through the gaps between the components and the induced currents in the secondary conductors and the timing that makes the whole system produce rotation rather than vibration. A system complex enough that its first formal description, in the AIEE paper of eighteen eighty-eight, required technical diagrams that could not be replaced by prose. A system that required machining tolerances and material specifications and conductor gauges and winding patterns.
+
+This arrived whole.
+
+In a park.
+
+During a walk.
+
+While a man was speaking a poem about wishing he had wings.
+
+The neuroscience of insight provides the substrate. The gamma-burst in the right anterior superior temporal gyrus — the pre-conscious assembly that produces the aha moment — is a real and documented phenomenon. The brain knows before the mind does. The solution organizes below the threshold of awareness and crosses into consciousness as the flash. A 2019 study applied gamma-frequency electrical stimulation over the right temporal lobe and increased the incidence of insight solutions. The mechanism is causal. The process is real.
+
+But the neuroscience of insight describes the ordinary insight process — the moments where a problem that has been worked on consciously produces a sudden solution. The gamma-burst appears, on average, zero point three seconds before conscious awareness of a solution that the brain has been assembling from previously acquired components. The components were there. The insight is the assembly.
+
+What components did Tesla's brain assemble the Budapest Vision from?
+
+His training in electrical engineering. His knowledge of physics. His experience with the Edison direct current systems and their limitations. Six months of total sensory amplification — a period during which his nervous system processed the physical world at intensities that no clinical framework could account for. And then the vision: a machine that no one had ever built, whose principles had never been articulated, whose existence no one had proposed.
+
+The gamma-burst illuminates the mechanism. It does not explain the source material.
+
+Where do you assemble a machine that has never existed from components that no one has yet described?
+
+---
+
+The motor is everywhere you have not looked for it.
+
+Not metaphorically. Literally everywhere. The appliance on the kitchen counter. The mechanism that draws air through the refrigerator coils. The pump that moves water through the building's pipes. The system that propels a car, increasingly, without combustion. The server farm processing every search and every message and every stream of data in the digital world — cooled by motors, powered by motors, its storage systems spun by motors. A modern automobile contains approximately forty electric motors. The technology that powers all of this — that has been inside every electric motor built since the nineteen eighties, that traces its lineage without interruption back to a Budapest park and a stick in the sand — consumes, globally, fifty-three percent of all electricity generated on Earth. More than half of everything the world's power systems produce goes into the technology that arrived complete in a February park walk.
+
+You have been inside the Budapest Vision your entire life.
+
+Not as a historical curiosity. Not as the inheritance of a distant past. You have been living inside its output every moment of every day — every time a motor turned, every time a field rotated in response to a phase relationship that Tesla drew in the sand before the sand drawing was gone.
+
+This is the layer beneath the accepted version. Not the name on the plaque. Not the tidy compression of a life into a word. The vision itself — the thing that happened in the park, preceded by six months of a nervous system exceeding every limit, in a man reciting a poem about wishing he had wings — is the architecture of the world you inhabit.
+
+The question is not whether the vision was real. The motor works. The world runs on it. The question is what kind of universe permits this to happen — a complete complex machine arriving whole in a flash, in a park, drawn in sand with a stick — and what it means that we have accepted this as normal. That we have been inside it our entire lives and have not once stopped to ask what kind of process built the room we are standing in.
+
+What did it cost?
+
+What does it mean that a man who could hear a watch three rooms away, who felt a locomotive at twenty miles as a full-body assault, who required rubber padding under his bed just to approach something resembling sleep — that this man, after six months of being the most permeable surface the city had to strike against, rose from those rubber-padded sheets and walked into a park and received the motor that runs the world?
+
+What was built during those six months, in the dark below the threshold of awareness, that was ready to surface the moment the conditions were right? What accumulated, in a nervous system processing everything at total amplitude, that could organize itself into a complete functional system the moment the Faust verses gave it the aperture it needed?
+
+Those are the questions the word genius was used to prevent.
+
+This episode is not going to answer them. The record does not answer them. The neuroscience points toward the territory and stops at the border. The autobiography describes the output without being able to describe the mechanism. Tesla told us what he did. He could not tell us, in full, how. And the thirty-seven years between the event and the writing mean that even his own account of the mechanism may be, in part, a retrospective reconstruction — a story about a process that he recognized from its results better than he could trace from its interior.
+
+What remains is the motor. The vision. The six months before the vision. The park. The Faust passage about wanting to escape the body and follow the light. The stick in the sand. And the fact that you have been living inside what the stick drew for your entire life, and the world does not consider this remarkable.
+
+The next layer is the implication. Not of the vision in eighteen eighty-two — but of the fact that it happened, and that it worked, and that we are standing inside its consequences every moment of every day without asking what it means that this is how it got here.
