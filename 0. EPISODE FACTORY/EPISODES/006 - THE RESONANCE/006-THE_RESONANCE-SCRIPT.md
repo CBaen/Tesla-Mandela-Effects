@@ -527,3 +527,12 @@ And whatever you are receiving, in those moments when the world briefly exceeds 
 It was always going to reach you.
 
 You are what it was for.
+
+Caption Key
+
+Nikola → Nikola → /N IY1 K AO0 L AA0/
+Tesla → Tesla → /T EH1 S L AA0/
+Winfried → Winfried → /V IH1 N F R IY0 D/
+Schumann → Schumann → /SH UW1 M AH0 N/
+Belgrade → Belgrade → /B EH1 L G R EY0 D/
+Kama muta → Kama moota → /K AA1 M AH0 M UW1 T AH0/
