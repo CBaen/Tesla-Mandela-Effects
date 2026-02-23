@@ -80,7 +80,7 @@ Physicians in Budapest could not diagnose it. Tesla wrote that the doctors who e
 
 The physicians who examined Tesla had a word for what they were seeing. Neurasthenia — a term coined by the American neurologist George Miller Beard in eighteen sixty-nine to describe the exhaustion of the nervous system under the pressures of modern life. Nervous exhaustion. The diagnosis of the age. It covered a great deal, because it had to: the medicine of the eighteen eighties had no imaging, no electrophysiology, no biochemical markers. What it had was the patient's account, and the patient's account placed into the nearest available category.
 
-Neurasthenia was the category. But Tesla's account did not fit the category. Neurasthenia described a diminished system — nerves worn thin, capacity reduced, the organism retreating below its ordinary operating level. What Tesla described was not a retreat. A 2024 paper in European Psychiatry, reviewing Tesla's Budapest episode against the clinical record, concluded that his constellation of symptoms is consistent with probable obsessive-compulsive disorder — a nervous system running compulsive loops at the cost of ordinary function, not a nervous system going quiet. The paper noted that his condition was dismissed by contemporaries as the quirks of genius rather than the symptoms of disease. Tesla himself wrote that the doctors who examined him told him there was no hope. That the condition would almost certainly be fatal.
+Neurasthenia was the category. But Tesla's account did not fit the category. Neurasthenia described a diminished system — nerves worn thin, capacity reduced, the organism retreating below its ordinary operating level. What Tesla described was not a retreat. A 2024 paper in European Psychiatry, reviewing Tesla's Budapest episode against the clinical record, concluded that his constellation of symptoms is consistent with probable obsessive-compulsive disorder — a nervous system running compulsive loops at the cost of ordinary function, not a nervous system going quiet. The paper noted that his condition was dismissed by contemporaries as the quirks of genius rather than the symptoms of disease.
 
 That is what the medical framework of the time could offer him: a name that did not fit, and a prognosis of death.
 
@@ -144,7 +144,7 @@ He found the stick at the edge of the path. He knelt — on the frozen gravel, i
 
 A stick. Frozen ground. The last light of a February sunset painting the path in copper.
 
-The dirt still held the drawing, that evening, until the cold hardened the surface again overnight and the next morning's boots and wheels and footsteps obscured it.
+The sand still held the drawing, that evening, until the cold hardened the surface again overnight and the next morning's boots and wheels and footsteps obscured it.
 
 The drawing is gone. The motor is not.
 
@@ -154,13 +154,25 @@ The accepted version asks you to take the word genius and stop there.
 
 But look at the months before the flash.
 
-Look at the physician's letter. The amplification beyond the boundaries of what the nervous system is designed to accommodate. Look at the rubber pads under the bed. The locomotive whistle, twenty miles away, arriving as pain in a body that could not prevent itself from receiving it. The fly landing on a table, the sound of it arriving as a blow.
+Look at what the nervous system was doing in those months. A system that could not stop receiving — that took the locomotive whistle twenty miles away and delivered it as pain, that took the fly landing on a table and registered it as a blow. Look at the rubber pads under the bed. The physicians who called it neurasthenia and offered no hope.
 
-The breakdown was not incidental to the vision. It was not a separate episode that happened to precede the episode of the genius invention. Tesla placed them in the same section of his autobiography. He narrated them as one continuous event — the collapse, the recovery, the walks with Szigety, the return of something that he did not call health and that did not resemble the health he'd had before. And then the park. And then the flash. And then the motor, complete and operational, drawn in the dirt before the light was entirely gone.
+The breakdown was not incidental to the vision. It was not a separate episode that happened to precede the episode of the genius invention. Tesla placed them in the same section of his autobiography. He narrated them as one continuous event — the collapse, the recovery, the walks with Szigety, the return of something that he did not call health and that did not resemble the health he'd had before. And then the park. And then the flash. And then the motor, complete and operational, drawn in the sand before the light was entirely gone.
 
 What was happening to Tesla's nervous system in the months before February eighteen eighty-two?
 
-A neurologist at a Central European university, working in the nineteen seventies on a retrospective clinical analysis of Tesla's Budapest episode — drawing on the descriptions in "My Inventions" — drafted a paper that was circulated internally and never submitted for publication. The paper's conclusion was that Tesla's symptoms, as described, do not correspond to any recognized neurological condition. The combination of hyperacusis, photophobia, tactile hypersensitivity, pulse irregularity, and involuntary tremor, at the intensities Tesla described, exceeds documented clinical thresholds for any known presentation of nervous disorder. A handwritten note in the margin of the draft, in an ink different from the body text, reads: the symptoms describe a nervous system operating above specification, not below it.
+The neuroscience of insight has something to add to this.
+
+In two thousand and four, a team of researchers led by Mark Jung-Beeman at Northwestern University published a study in PLOS Biology measuring the neural activity associated with sudden insight — the aha moment, the flash of solution arriving without apparent preparation. What they found was this: insight solutions correlate with a sudden burst of gamma-band neural activity in the right anterior superior temporal gyrus. The burst begins approximately zero point three seconds before the person becomes consciously aware of the solution. The brain knows before the mind does. The solution assembles below the threshold of awareness, and only then crosses into consciousness as the flash. A 2019 study confirmed the causal relationship: the gamma burst is not a marker of insight, it is the mechanism.
+
+The system assembles the answer before the self receives it.
+
+If the brain's ordinary insight mechanism works this way — the solution forming in neural activity that precedes conscious awareness by a third of a second — then what was Tesla's nervous system doing during those six months of extraordinary amplification? What was happening below the threshold of awareness in a system that was receiving every vibration in the city as a catastrophic signal, that was processing every sensation at intensities beyond anything its ordinary operating range could accommodate? What assembles, in a nervous system pushed past every limit, in the dark below the threshold of consciousness?
+
+The Budapest Vision arrived from that dark. Not as a thought that occurred. As a machine, complete and operational, that surfaced into awareness.
+
+This is not a metaphor. This is the closest available language for something that happened in a park in February of eighteen eighty-two and that the vocabulary of the time could not contain. What is available now — the gamma-band dynamics, the pre-conscious assembly of insight, the neural substrate of the aha moment — still does not fully contain it. But it points. It points in a direction that the word genius was never designed to point.
+
+The direction is: a nervous system operating above specification. Not below it. The phrase belongs to this narrator's reading of the record, not to any clinical document. But read the record and see if another phrase fits better.
 
 Above specification.
 
@@ -172,7 +184,7 @@ There is a man in a park in Budapest, in February of eighteen eighty-two. There 
 
 The accepted version calls this genius and turns the page.
 
-This episode does not turn the page. It stays in the park. It asks you to stay in the park with it, at least for a while, and to look at the thing that is actually there — not the monument, not the plaque, not the tidy compression of a life into a word — but the two men on the path, the copper light fading, one of them kneeling in the frozen dirt with a stick, drawing something that had never existed anywhere before and would power every motor on Earth ever after.
+This episode does not turn the page. It stays in the park. It asks you to stay in the park with it, at least for a while, and to look at the thing that is actually there — not the monument, not the plaque, not the tidy compression of a life into a word — but the two men on the path, the copper light fading, one of them kneeling in the frozen sand with a stick, drawing something that had never existed anywhere before and would power every motor on Earth ever after.
 
 The genius word is not the answer.
 
