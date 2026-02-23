@@ -80,7 +80,7 @@ Physicians in Budapest could not diagnose it. Tesla wrote that the doctors who e
 
 The physicians who examined Tesla had a word for what they were seeing. Neurasthenia — a term coined by the American neurologist George Miller Beard in eighteen sixty-nine to describe the exhaustion of the nervous system under the pressures of modern life. Nervous exhaustion. The diagnosis of the age. It covered a great deal, because it had to: the medicine of the eighteen eighties had no imaging, no electrophysiology, no biochemical markers. What it had was the patient's account, and the patient's account placed into the nearest available category.
 
-Neurasthenia was the category. But Tesla's account did not fit the category. Neurasthenia described a diminished system — nerves worn thin, capacity reduced, the organism retreating below its ordinary operating level. What Tesla described was not a retreat. A 2024 paper in European Psychiatry, reviewing Tesla's Budapest episode against the clinical record, concluded that his constellation of symptoms is consistent with probable obsessive-compulsive disorder — a nervous system running compulsive loops at the cost of ordinary function, not a nervous system going quiet. The paper noted that his condition was dismissed by contemporaries as the quirks of genius rather than the symptoms of disease.
+Neurasthenia was the category. But Tesla's account did not fit the category. Neurasthenia described a diminished system — nerves worn thin, capacity reduced, the organism retreating below its ordinary operating level. What Tesla described was not a retreat. A twenty twenty-four paper in European Psychiatry, reviewing Tesla's Budapest episode against the clinical record, concluded that his constellation of symptoms is consistent with probable obsessive-compulsive disorder — a nervous system running compulsive loops at the cost of ordinary function, not a nervous system going quiet. The paper noted that his condition was dismissed by contemporaries as the quirks of genius rather than the symptoms of disease.
 
 That is what the medical framework of the time could offer him: a name that did not fit, and a prognosis of death.
 
@@ -88,9 +88,9 @@ What the framework could not offer him — what no framework available to the ei
 
 ---
 
-Antal Szigety was the person who walked Tesla back.
+Antal Szigeti was the person who walked Tesla back.
 
-He was a friend — an engineer, a careful and methodical man, the kind of man who understood that the mechanism of a person, like the mechanism of a machine, sometimes requires a patient hand rather than a sharp intervention. During Tesla's convalescence, Szigety instituted the walks. The Budapest City Park, Városliget, was close. It was open. The winter park offered what the confined room did not — space, cold air, the moderate sensory environment of bare trees and frozen paths and the kind of quiet that a city makes when it is muffled by cold. They walked every day. Tesla began to improve.
+He was a friend — an engineer, a careful and methodical man, the kind of man who understood that the mechanism of a person, like the mechanism of a machine, sometimes requires a patient hand rather than a sharp intervention. During Tesla's convalescence, Szigeti instituted the walks. The Budapest City Park, Városliget, was close. It was open. The winter park offered what the confined room did not — space, cold air, the moderate sensory environment of bare trees and frozen paths and the kind of quiet that a city makes when it is muffled by cold. They walked every day. Tesla began to improve.
 
 The nature of that improvement is worth examining.
 
@@ -104,11 +104,11 @@ He was rebuilding machines in his mind.
 
 Not sketching them. Not holding rough concepts of them. Building them — in three dimensions, with their moving parts in motion, with the forces that act on each component applied and observable, with the wear patterns that would develop over time visible and correctable. Running them. The way you run a program to test it. The way you would run a physical prototype if you had a physical prototype — finding the points of friction, the imbalances, the efficiencies you did not anticipate and the failures you need to prevent. But Tesla had no physical prototype. He had the machine in his mind, and the machine in his mind was, by his description, as real and as precise as any object he had ever held in his hands.
 
-He wrote: I do not rush into actual work. When I get an idea, I start at once building it up in my imagination. I change the construction, make improvements and operate the device in my mind. It is absolutely immaterial to me whether I run my turbine in thought or test it in my shop.
+He wrote — "I do not rush into actual work. When I get an idea, I start at once building it up in my imagination. I change the construction, make improvements and operate the device in my mind. It is absolutely immaterial to me whether I run my turbine in thought or test it in my shop." —
 
 He was not speaking metaphorically. He was precise enough, in the same autobiography, to describe the method's limits and its consistencies. He was describing an operation of the mind that he had practiced and refined and relied upon for decades. The Budapest Vision was the most dramatic instance of this process. It was not a departure from his method. It was his method, at the moment of its most visible result.
 
-Which means the question is not whether the Budapest Vision was real. Tesla said it was. Szigety witnessed it. The motor was built from it — the first physical prototype constructed in Strasbourg approximately one year later. The motor worked.
+Which means the question is not whether the Budapest Vision was real. Tesla said it was. Szigeti witnessed it. The motor was built from it — the first physical prototype constructed in Strasbourg approximately one year later. The motor worked.
 
 The question is what kind of process produces a complete polyphase alternating current motor — a system of precisely timed multi-phase electrical fields, of rotor-stator geometries calculated to induce rotation without physical contact, of phase relationships that require mathematical precision to function — in a single flash, in a park, during a sunset walk, while a man is reciting Goethe.
 
@@ -118,7 +118,7 @@ And the question behind that question: what happened to Tesla in the months befo
 
 February, eighteen eighty-two. The Budapest City Park. The afternoon is failing.
 
-The two men have walked this path many times. Szigety knows the walk. But on this afternoon, something is different in the quality of Tesla's presence — a heightening, a pressure in the air around him, the way the atmosphere changes in the minutes before a storm. Szigety will not describe it this way to his family. He will say only that the American seemed more himself than usual. More there.
+The two men have walked this path many times. Szigeti knows the walk. But on this afternoon, something is different in the quality of Tesla's presence — a heightening, a pressure in the air around him, the way the atmosphere changes in the minutes before a storm. Szigeti would not have known how to describe it. He might have said only that the American seemed more himself than usual. More there.
 
 The Faust passage Tesla recites is the one about evening. About the day that is done, the light retreating, the world at the hinge-point between what is ending and what is arriving. Sie rückt und weicht, der Tag ist überlebt. The glow retreats. The day is past. The words, spoken in German to a park in winter, land against the frozen trees and the copper light and the long shadows of late afternoon.
 
@@ -128,9 +128,9 @@ Szigety turns.
 
 The man standing four steps behind him on the path is not the man who was speaking the poem. Not entirely. Something has opened behind his face that was not open before — a space, an aperture, the way a room looks when you open a door you didn't know was there. His eyes are directed forward. They are not receiving the park. They are receiving something else, something not locatable in the geography of the Városliget, something arriving from a direction that is not a direction in the physical world.
 
-Tesla described what he did next himself, in his own words, thirty-seven years later. He wrote: I drew with a stick on the sand the diagrams shown six years later in my address before the American Institute of Electrical Engineers, and my companion understood them perfectly.
+Tesla described what he did next himself, in his own words, thirty-seven years later. He wrote — "I drew with a stick on the sand the diagrams shown six years later in my address before the American Institute of Electrical Engineers, and my companion understood them perfectly." —
 
-That sentence is worth reading again. He drew the diagrams with a stick on the sand. The diagrams that would appear six years later in his 1888 address before the American Institute of Electrical Engineers — the presentation that introduced the polyphase AC motor to the world — those diagrams exist first in a Budapest park, scratched into the ground with a stick, in February of eighteen eighty-two, while the last copper light of the afternoon fades against the frozen plane trees. And his companion understood them perfectly. Szigety — the careful, methodical friend who had walked him back from the edge — looked at what was drawn in the sand and understood what he was looking at.
+That sentence is worth reading again. He drew the diagrams with a stick on the sand. The diagrams that would appear six years later in his eighteen eighty-eight address before the American Institute of Electrical Engineers — the presentation that introduced the polyphase AC motor to the world — those diagrams exist first in a Budapest park, scratched into the ground with a stick, in February of eighteen eighty-two, while the last copper light of the afternoon fades against the frozen plane trees. And his companion understood them perfectly. Szigeti — the careful, methodical friend who had walked him back from the edge — looked at what was drawn in the sand and understood what he was looking at.
 
 This is the moment. This is the event that the word genius is placed over like a covering.
 
@@ -162,7 +162,7 @@ What was happening to Tesla's nervous system in the months before February eight
 
 The neuroscience of insight has something to add to this.
 
-In two thousand and four, a team of researchers led by Mark Jung-Beeman at Northwestern University published a study in PLOS Biology measuring the neural activity associated with sudden insight — the aha moment, the flash of solution arriving without apparent preparation. What they found was this: insight solutions correlate with a sudden burst of gamma-band neural activity in the right anterior superior temporal gyrus. The burst begins approximately zero point three seconds before the person becomes consciously aware of the solution. The brain knows before the mind does. The solution assembles below the threshold of awareness, and only then crosses into consciousness as the flash. A 2019 study confirmed the causal relationship: the gamma burst is not a marker of insight, it is the mechanism.
+In two thousand and four, a team of researchers led by Mark Jung-Beeman at Northwestern University published a study in PLOS Biology measuring the neural activity associated with sudden insight — the aha moment, the flash of solution arriving without apparent preparation. What they found was this: insight solutions correlate with a sudden burst of gamma-band neural activity in the right anterior superior temporal gyrus. The burst begins approximately zero point three seconds before the person becomes consciously aware of the solution. The brain knows before the mind does. The solution assembles below the threshold of awareness, and only then crosses into consciousness as the flash. A twenty nineteen study confirmed the causal relationship: the gamma burst is not a marker of insight, it is the mechanism.
 
 The system assembles the answer before the self receives it.
 
@@ -172,7 +172,7 @@ The Budapest Vision arrived from that dark. Not as a thought that occurred. As a
 
 This is not a metaphor. This is the closest available language for something that happened in a park in February of eighteen eighty-two and that the vocabulary of the time could not contain. What is available now — the gamma-band dynamics, the pre-conscious assembly of insight, the neural substrate of the aha moment — still does not fully contain it. But it points. It points in a direction that the word genius was never designed to point.
 
-The direction is: a nervous system operating above specification. Not below it. The phrase belongs to this narrator's reading of the record, not to any clinical document. But read the record and see if another phrase fits better.
+The direction is: a nervous system operating above specification. Not below it. The phrase belongs to a reading of the record that no clinical document supports. But read the record and see if another phrase fits better.
 
 Above specification.
 
