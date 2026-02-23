@@ -1,6 +1,6 @@
 The man beside him has been counting steps.
 
-Antal Szigety knows this walk — the wide gravel paths of the Városliget, the bare February trees lining the avenue, the particular quality of afternoon light that comes off the ice at this hour, copper and low, the kind of light that arrives already tired. He has walked this park with the American for weeks. He has learned the rhythms of it. When the American will pause to look at the sky. When the American will speak quickly, in bursts, words arriving faster than English or Serbian or German was meant to carry them. When the American will go quiet and simply walk, his long legs setting a pace that Szigety struggles to match, and the silence between them becomes a kind of companionship.
+Antal Szigeti knows this walk — the wide gravel paths of the Városliget, the bare February trees lining the avenue, the particular quality of afternoon light that comes off the ice at this hour, copper and low, the kind of light that arrives already tired. He has walked this park with the American for weeks. He has learned the rhythms of it. When the American will pause to look at the sky. When the American will speak quickly, in bursts, words arriving faster than English or Serbian or German was meant to carry them. When the American will go quiet and simply walk, his long legs setting a pace that Szigeti struggles to match, and the silence between them becomes a kind of companionship.
 
 But this silence is different.
 
@@ -10,15 +10,15 @@ He has been reciting it for the better part of an hour. Goethe. The great poem. 
 
 Then the American stops speaking.
 
-He does not stop mid-sentence. He does not trail off. The verse simply... ends. Not at a natural break. Not at a period or a stanza line. In the middle of a thought, the voice stops, and the absence arrives so completely that Szigety almost expects an echo — some residue of sound bouncing back from the frozen trees.
+He does not stop mid-sentence. He does not trail off. The verse simply... ends. Not at a natural break. Not at a period or a stanza line. In the middle of a thought, the voice stops, and the absence arrives so completely that Szigeti almost expects an echo — some residue of sound bouncing back from the frozen trees.
 
 He stops walking. He turns.
 
-The American is standing four steps behind him on the path. He is standing completely still. Not the stillness of someone who has paused to think, or who has spotted something in the distance and stopped to look. This is a different quality of motionlessness. His hands have gone loose at his sides. His head is level. His face is — Szigety will describe this later to his family, and the word that comes to him then and always after is not peaceful and not frightened and not absent. The word is occupied. The face is occupied the way a house is occupied when all the residents are in one back room and no one comes to the door.
+The American is standing four steps behind him on the path. He is standing completely still. Not the stillness of someone who has paused to think, or who has spotted something in the distance and stopped to look. This is a different quality of motionlessness. His hands have gone loose at his sides. His head is level. His face is — Szigeti will describe this later to his family, and the word that comes to him then and always after is not peaceful and not frightened and not absent. The word is occupied. The face is occupied the way a house is occupied when all the residents are in one back room and no one comes to the door.
 
 The eyes are open. The eyes are not looking at anything in the park.
 
-Szigety waits. He does not speak. He understands, at some level below reasoning, that speaking would be like striking a match near something delicate. The moment has a membrane. He waits on one side of it.
+Szigeti waits. He does not speak. He understands, at some level below reasoning, that speaking would be like striking a match near something delicate. The moment has a membrane. He waits on one side of it.
 
 Then the American kneels.
 
@@ -124,7 +124,7 @@ The Faust passage Tesla recites is the one about evening. About the day that is 
 
 Then the voice stops.
 
-Szigety turns.
+Szigeti turns.
 
 The man standing four steps behind him on the path is not the man who was speaking the poem. Not entirely. Something has opened behind his face that was not open before — a space, an aperture, the way a room looks when you open a door you didn't know was there. His eyes are directed forward. They are not receiving the park. They are receiving something else, something not locatable in the geography of the Városliget, something arriving from a direction that is not a direction in the physical world.
 
@@ -140,7 +140,7 @@ He told us. He wrote it down thirty-seven years later, in the same plain languag
 
 He did not need to build it yet. The machine was running.
 
-He found the stick at the edge of the path. He knelt — on the frozen gravel, in February, in a city park in Hungary — and he drew the motor in the sand. Szigety watched. The drawing was the first physical trace, the first mark left on the physical world, by the technology that would make the twentieth century possible.
+He found the stick at the edge of the path. He knelt — on the frozen gravel, in February, in a city park in Hungary — and he drew the motor in the sand. Szigeti watched. The drawing was the first physical trace, the first mark left on the physical world, by the technology that would make the twentieth century possible.
 
 A stick. Frozen ground. The last light of a February sunset painting the path in copper.
 
@@ -156,7 +156,7 @@ But look at the months before the flash.
 
 Look at what the nervous system was doing in those months. A system that could not stop receiving — that took the locomotive whistle twenty miles away and delivered it as pain, that took the fly landing on a table and registered it as a blow. Look at the rubber pads under the bed. The physicians who called it neurasthenia and offered no hope.
 
-The breakdown was not incidental to the vision. It was not a separate episode that happened to precede the episode of the genius invention. Tesla placed them in the same section of his autobiography. He narrated them as one continuous event — the collapse, the recovery, the walks with Szigety, the return of something that he did not call health and that did not resemble the health he'd had before. And then the park. And then the flash. And then the motor, complete and operational, drawn in the sand before the light was entirely gone.
+The breakdown was not incidental to the vision. It was not a separate episode that happened to precede the episode of the genius invention. Tesla placed them in the same section of his autobiography. He narrated them as one continuous event — the collapse, the recovery, the walks with Szigeti, the return of something that he did not call health and that did not resemble the health he'd had before. And then the park. And then the flash. And then the motor, complete and operational, drawn in the sand before the light was entirely gone.
 
 What was happening to Tesla's nervous system in the months before February eighteen eighty-two?
 
@@ -510,7 +510,7 @@ And the forty motors in a modern automobile — the motors that adjust the seat,
 
 You were not there when the room was built. You woke up inside it. You have never known anything else.
 
-The motors run. The fields rotate. The world continues. And the question that the word genius was designed to prevent — the question of what kind of process produces a complete polyphase AC motor in a single flash in a Budapest park — remains exactly as unanswered as it was in the moment Antal Szigety watched the drawing appear in the sand and understood it perfectly and knew, before he had words for it, that what he was looking at was something he had never seen before and would never be able to adequately explain.
+The motors run. The fields rotate. The world continues. And the question that the word genius was designed to prevent — the question of what kind of process produces a complete polyphase AC motor in a single flash in a Budapest park — remains exactly as unanswered as it was in the moment Antal Szigeti watched the drawing appear in the sand and understood it perfectly and knew, before he had words for it, that what he was looking at was something he had never seen before and would never be able to adequately explain.
 
 ---
 
