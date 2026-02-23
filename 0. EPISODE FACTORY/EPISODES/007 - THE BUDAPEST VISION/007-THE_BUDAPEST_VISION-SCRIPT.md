@@ -40,7 +40,7 @@ That is the version.
 
 That is the version that lives in the textbook, on the commemorative plaque, in the thirty-second summary that any schoolchild can retrieve and repeat. It is accurate in its bare facts and empty in every place where the actual strangeness lives.
 
-The alternating current motor powers virtually every electric motor on Earth. The appliance in a kitchen, the mechanism in a hospital, the system that pulls an elevator upward, the fan that moves air through a data center running every search and every stream and every transaction in the digital world — all of it, in one form or another, traces back to the Budapest Vision. Not to years of laboratory iteration. Not to a team of engineers working through incremental refinements. To a February afternoon in a park, a stick in the dirt, a man whose companion did not understand what he was witnessing.
+The alternating current motor powers virtually every electric motor on Earth. The appliance in a kitchen, the mechanism in a hospital, the system that pulls an elevator upward, the fan that moves air through a data center running every search and every stream and every transaction in the digital world — all of it, in one form or another, traces back to the Budapest Vision. Not to years of laboratory iteration. Not to a team of engineers working through incremental refinements. To a February afternoon in a park, a stick in the sand, a man whose companion did not understand what he was witnessing.
 
 The accepted version accounts for none of this.
 

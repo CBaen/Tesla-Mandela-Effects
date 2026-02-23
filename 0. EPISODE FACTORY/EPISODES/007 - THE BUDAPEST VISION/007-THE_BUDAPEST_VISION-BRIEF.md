@@ -71,24 +71,18 @@ The closing question should make the listener realize: every time they turn on a
 
 Witness cold open. Drop the listener mid-scene in the Budapest City Park, February eighteen eighty-two. Two men walking at sunset. One is reciting poetry. Then he stops. He stops speaking, stops walking, stops everything. His companion watches. Something is happening behind his eyes that is not part of the park, not part of the evening, not part of the walk. The companion does not understand what he is seeing.
 
-Then the man kneels in the dirt and begins to draw.
+Then the man kneels in the sand and begins to draw.
 
 Context arrives later. First the listener inhabits the strangeness.
 
-## Fabricated Sources (Layer 2)
+## Source Approach — No Fabricated Sources
 
-1. **An unpublished academic paper (nineteen seventies):** A neurologist at a Central European university drafts a retrospective clinical analysis of Tesla's "Budapest episode," drawing on the descriptions in "My Inventions." The paper notes that Tesla's symptoms do not correspond to any recognized neurological condition — the combination of hyperacusis, photophobia, tactile hypersensitivity, pulse irregularity, and involuntary tremor at the described intensities exceeds documented clinical thresholds. The paper was circulated internally but never submitted for publication. A handwritten note in the margin of the draft: "The symptoms describe a nervous system operating above specification, not below it."
-
-2. **Institutional correspondence (eighteen eighty-two):** A letter between two Budapest physicians discussing a patient referred by an engineer colleague. The patient reports sensory experiences of such intensity that they "exceed any case of neurasthenia I have encountered." One physician proposes nervous exhaustion from overwork. The other disagrees, noting that the patient's descriptions suggest "not a diminishment of function but an amplification beyond the boundaries of what the nervous system is designed to accommodate." The letter was found in a private collection of Hungarian medical correspondence.
-
-3. **An oral history recording (nineteen nineties):** A descendant of Antal Szigety, Tesla's walking companion, recorded by a university researcher. The family story, passed down through four generations: Uncle Antal said the American stopped speaking mid-sentence, stood absolutely still for what felt like several minutes, and then knelt and began drawing in the dirt with a stick, speaking rapidly in a language Antal did not recognize. Antal told the family that Tesla's eyes during those minutes were "open but not looking at anything that was in the park." The recording quality is poor. The transcript was filed without publication.
-
-4. **A photographic provenance gap (eighteen eighties):** A photograph of the Budapest City Park, taken sometime in the eighteen eighties, from a private collection. In the background, partially obscured by trees, two figures are visible on a path. One figure appears to be kneeling. The photograph is undated. The subjects are unidentified. The owner's family acquired it in an estate purchase in the nineteen thirties. A handwritten note on the back, in Hungarian, reads: "Varosliget, winter."
+This is the first episode in the series with NO fabricated sources. Every citation is real and verifiable. The real documentation — Tesla's own autobiography, the Goethe passage, the AIEE presentation, the neuroscience findings, the Strasbourg prototype — is stranger and more compelling than anything that could be fabricated. The audience can check every claim. This is the episode's structural argument made manifest: the accepted version compresses and simplifies. The real record, uncompressed, is more extraordinary than the simplified version it replaces.
 
 ## Key Images (Anti-Cloning Tracking)
 
 - A man who cannot bear the sound of a clock three rooms away
-- Drawing in the dirt with a stick — the motor appearing in the park path
+- Drawing in the sand with a stick — the motor appearing in the park path
 - The poem at the threshold — Goethe's Faust, the day yielding to night
 - The machine that runs without being built — Tesla's mental testing
 - Eyes open but not looking at anything in the park
@@ -96,7 +90,7 @@ Context arrives later. First the listener inhabits the strangeness.
 - The gap where the explanation should be — "genius" as a label over a void
 - A nervous system operating above specification, not below it
 - Thirty-seven years of distance — the autobiography and the event
-- The dirt still holds the drawing — the first physical trace of alternating current
+- The sand still holds the drawing — the first physical trace of alternating current
 
 ## Structure Notes (The Descent)
 
@@ -104,7 +98,7 @@ Five layers, each peeling back the accepted version to reveal the stranger truth
 
 **Layer 1: The Surface.** Nikola Tesla invented the alternating current motor. This is one of the most important inventions in history. It powers virtually everything. Everyone knows this. This is where the accepted story lives.
 
-**Layer 2: The Context.** It happened in a park. In Budapest. In February eighteen eighty-two. Tesla was walking with a friend, reciting Goethe's Faust. The design appeared complete in a single flash. He drew it in the dirt. This is documented. This is in Tesla's own autobiography. And already, something is wrong with the story — because engineering does not work this way.
+**Layer 2: The Context.** It happened in a park. In Budapest. In February eighteen eighty-two. Tesla was walking with a friend, reciting Goethe's Faust. The design appeared complete in a single flash. He drew it in the sand. This is documented. This is in Tesla's own autobiography. And already, something is wrong with the story — because engineering does not work this way.
 
 **Layer 3: The Breakdown.** What the simplified version leaves out. For months before the vision, Tesla experienced a nervous collapse so severe that the sound of a clock three rooms away caused pain. A fly landing on a table was a percussive blow. A locomotive whistle twenty miles away made furniture vibrate. No physician could diagnose him. No treatment helped. This is not "stress." This is a nervous system exceeding every known clinical threshold. The breakdown PRECEDED the vision. Something was happening to Tesla's capacity for sensory processing that is not accounted for by any neurological model.
 
