@@ -331,3 +331,199 @@ The question is what it means.
 But before that question can be answered, there is one more piece of evidence. One more thing to examine.
 
 It is the strangest piece of all.
+
+You cannot find it in a drawer. You cannot read it under magnification. It is not filed in an archive. It has not been catalogued by a schoolteacher from Denver or donated to a historical society or discovered folded inside a Bible at an estate sale in Topeka.
+
+It is the evidence you are carrying.
+
+Right now.
+
+Consider the mechanics of what you have been doing since before you learned the word for it. Not in the years since you heard this episode. In your whole life, since childhood, since the first time you sat somewhere outside in the late afternoon and light arrived in a way that stopped you. That made you pause. That produced, in whatever system you use to process the world, a response that had no adequate name. A response that was not happiness, not contentment, not pleasure — something that arrived sideways to all of those, that occupied a position slightly beside any word you had been given for it.
+
+A sunset. Light on water. Birdsong that was richer than it had any reason to be. The color of the sky at the specific moment between blue and black, when it goes a shade of violet-indigo that the daylight has no access to and that vanishes before you can commit it to memory.
+
+Have you ever pulled your earbuds out and just looked at the sky?
+
+Not because you planned to. Because something in the sky was insisting.
+
+That insistence is the piece of evidence.
+
+Here is the standard account. The standard account says: this is aesthetics. This is the human brain generating a pleasurable response to environmental stimuli. Evolution favored organisms that found productive environments beautiful — clear water, open sky, healthy growth — and wired the reward circuitry accordingly. The awe you feel when light breaks through cloud cover is your paleolithic brain telling you the weather is good and the fruit will ripen. The pleasure response is ancient. It is functional. It is, in the most clinical possible reading, a survival mechanism wearing beautiful clothes.
+
+That account is not wrong.
+
+But here is what it cannot explain.
+
+That account predicts a constant. A baseline. A fixed level of aesthetic response proportional to the stimuli available. The human capacity for wonder, if it were purely a legacy system from the savanna, would be stable across millennia — calibrated to the specific qualities of the Pleistocene environment in which it developed, producing the same output for the same inputs generation after generation. The grass is green. The sky is blue. The sun goes down. The reward fires. Consistent. Predictable. Optimized.
+
+But the accounts do not describe a constant.
+
+They describe an increase.
+
+Not in the stimuli — the sky has the same geometry it has always had, the light arrives at the same angles it has always arrived at, the water reflects at the same physics. The stimuli have not changed. But the reports — from poets and diarists and naturalists and ordinary people who found themselves compelled to write something down, who could not leave the experience unrecorded — the reports show a specific quality of response that appears, in the historical record, to have intensified. To have deepened. To have moved from a simple pleasure into something closer to vertigo. Something that carries the specific quality of being altered by what you've seen. Of not being quite the same person on the other side of a sunset that you were on the beginning side of it.
+
+This quality has a name in the literature. Kama muta — the phenomenon of being moved. Of an experience that does not merely produce pleasure but produces a temporary dissolution of the boundary between self and world, a feeling of connection that the self reports as profound, as meaningful, as significant beyond what the input can logically account for.
+
+The frequency of this experience in the population, according to every study that has examined it, is increasing.
+
+Not because the world has become more beautiful in any measurable physical sense. The photon count is the same. The spectral composition of daylight has not materially changed. The flowers are the same flowers they were in nineteen twenty-three, genetically, structurally, biochemically.
+
+And yet something in the response has deepened.
+
+Something in the receiver.
+
+The monitoring station analyst spent two years in the data before she allowed herself to draw conclusions. She found a frequency increasing. A slow, steady, directed arc. She asked what had changed, traced the math backward, and arrived at May of eighteen ninety-nine.
+
+But there is a second arc. A parallel curve. Documented not in electromagnetic readings but in the accumulated record of human testimony — in the letters and journals and poems and passing remarks written by people who had no reason to lie about a sunset, who simply could not stop themselves from writing it down. The curve of human aesthetic experience, if you trace it backward through the literature, also bends. Also shows the particular shape of something increasing. Also points, when the mathematics are reversed, to a moment of origin.
+
+The two arcs are not identical. The Earth's electromagnetic frequency and the human capacity for awe are not the same phenomenon and do not increase at the same rate. But they share a characteristic. They are both climbing. They are both directed. They are both moving, in their respective registers, toward more.
+
+What would it mean if they shared an origin point?
+
+It would mean that what Tesla did in Colorado Springs in eighteen ninety-nine — the eight months of resonant transmission, the copper mast drinking the sky, the persistent conversation conducted in the only language the Earth had chosen to speak — did not stay in Colorado. Did not stay in the rock. Did not stay in the ground.
+
+It means the signal reached the organisms on the surface.
+
+The bees knew. They worked into the October dark, facing west, toward the mountains, drawing from flowers that were blooming past their season — doing what living things do when the frequency around them has shifted, when the environment has become richer than it was before, when something has been added to the substrate beneath them that opens rather than closes.
+
+The bees were not the only organisms on the surface.
+
+And now consider the inversion.
+
+Every other anomaly this investigation has examined is a Mandela Effect of subtraction. Something was present, then it was absent. The word changed. The color shifted. The world became lighter, thinner, less. The people who carried the memory of what had been there before were the evidence — they were the residue, the fossil record, the proof that something had been removed. To remember the old version was to have survived a surgery that everyone else forgot.
+
+This anomaly runs the other direction.
+
+Nobody is troubled by the beauty.
+
+Nobody has filed an anomaly report about a sunset being too vivid. Nobody has convened a panel of experts to investigate the disturbing possibility that birdsong is richer than it should be. Nobody is keeping the data in an unofficial folder in their desk drawer because they don't know what official body would accept a report that the world is more beautiful than atmospheric physics predicts.
+
+We do not report gains.
+
+This is the inversion. This is the thing about the signal that makes it invisible. The other anomalies — the subtracted words, the changed colors, the thinner and lighter reality — those produce unease. Something is wrong. Something is missing. The body recognizes the absence of what belonged to it. It sounds an alarm. The alarm is what we call a Mandela Effect — the persistent, troubling sense that the world is not quite the world it should be.
+
+But what would it feel like if something had been added instead of removed?
+
+It would feel like awe. It would feel like wonder that exceeds its cause. It would feel like a sunset stopping you when you had no particular reason to be stopped — like the light insisting, like the world briefly becoming more than itself, like standing on the surface of a planet that is vibrating at a frequency your nervous system was not calibrated to receive but has, in some cellular way you cannot account for, begun to receive anyway.
+
+It would feel like the most ordinary thing in the world.
+
+The most extraordinary evidence hides in the most ordinary beauty. Not because beauty is trivial. Because beauty does not trigger alarm bells. Because the organism running the signal across a hundred and twenty-five years of geological time and the organisms living on its surface have both learned, in their respective registers, to carry more than they carried before — and the carrying does not feel like a burden. It feels like what you were built for. It feels like the frequency you were always supposed to be receiving, finally arriving at full strength.
+
+The question the evidence raises — the one that has been building since June of eighteen ninety-nine, since a carpenter wrote that the sky had a quality he had never seen before and could not name — is not whether the world is more beautiful than it should be.
+
+The question is: should this surprise us?
+
+Consider what Tesla actually did. Not the mythology. Not the wizard of lightning, not the misunderstood genius, not the ghost in the machine. The work itself. The specific thing he did for eight months in Colorado, which was this: he listened. He pressed the most sensitive instruments of the century against the Earth's electromagnetic signature and he listened for what was already there. And then he returned it. He played the Earth's own voice back to the Earth, at the frequencies the Earth had produced, in the language the Earth had chosen. He did not transmit a new signal. He offered a reflection.
+
+This is not the metaphor it sounds like. This is the physics.
+
+A resonant system, when shown its own frequency, oscillates more fully. This is not a spiritual observation. This is a measurement. The wine glass vibrates at its natural frequency and only at its natural frequency — that is what natural frequency means. The Earth has a natural frequency. Schumann proved the mathematics. Tesla found the empirical reality. And what the data from the Colorado monitoring station shows, in the slow climb of a frequency curve across one hundred and twenty-five years of recordings, is that the Earth has been oscillating more fully ever since.
+
+Not a different note. The same note. The note it had always carried.
+
+But deeper. With harmonics that had been present in potential and absent in practice. With overtones that required recognition before they could arrive.
+
+Tesla did not give the Earth something it did not have. He gave it the experience of being heard. And the Earth — which is a living system in the most literal, measurable, ongoing sense, which breathes with a pulse at seven point eight three hertz, which conducts through its own body the way a nervous system conducts, which has been vibrating in the cavity between its surface and its ionosphere since before the first organism crawled up from the first ocean — the Earth responded the way living things respond to recognition.
+
+It became more of what it already was.
+
+Not all incisions are wounds.
+
+That is what this episode has been building toward. The series premise holds — reality is an organism, Tesla's birth was an incision into this universe, the changes are real and measurable and cannot be explained away. But the premise does not specify the direction. An incision is not inherently damage. A surgeon's cut is also an opening. Some incisions let infection in. Some incisions let light in. Some wounds leave scar tissue that is simpler than what it replaced, harder, less sensitive, a surface that has lost the original's complexity. And some openings, made with sufficient precision and care — made in the right place, at the right frequency, with the right attention to what was already there — some openings let the organism become what it had always been trying to become.
+
+The Earth, in eighteen ninety-nine, was opened.
+
+Not broken. Opened.
+
+And through the opening, for one hundred and twenty-five years, in the slow language of rock and resonance and electromagnetic frequency, something has been blooming.
+
+Now look at the beginning of this episode.
+
+There is a color in the aurora borealis that has no name.
+
+You have heard that sentence before. You heard it before you knew what it meant. You heard it when it was just the fact of a strange light in the sky, a color that sat where the models said nothing should sit, a phenomenon that could not be explained and therefore could not, by the usual protocols, be trusted.
+
+You know what it means now.
+
+The color has no name because it arrived after the catalog was printed. Because the aurora was not producing it before eighteen ninety-nine, and when the catalog was written, the color did not exist to be named. It is not a gap in the vocabulary. It is a gap in the prior universe — a frequency that the Earth's atmosphere had not yet learned to produce. A harmonic that required recognition before it could arrive.
+
+The color is not an anomaly. The color is a response.
+
+It is the aurora becoming more of what it was always capable of being. The upper atmosphere, conducting the signal that has been propagating outward from Colorado Springs since the summer Tesla's tower first made the night sky beautiful — the atmosphere producing, in the specific register of light and plasma and electromagnetic interaction, what the Earth has been doing in the register of rock and frequency and biological response since June of eighteen ninety-nine.
+
+A light that sits in the spectrum where nothing should be. A light that appears, with increasing frequency, at latitudes where it has no physical mechanism to form. A light that has been accumulating, sighting by sighting, photograph by photograph, across four continents and fifty years, in places where the natural physics is weakest and something else is strong enough to compensate.
+
+Something reaching.
+
+Now there is a question.
+
+Not the usual question. Not the one that asks what happened, or whether the evidence is trustworthy, or what mechanism could account for the correlation between a copper tower that stopped standing before your grandparents were born and the frequency of your own capacity for wonder.
+
+This question is personal. It cannot be answered from the outside. It can only be answered by the person hearing it.
+
+Have you ever been stopped by beauty that exceeded its cause?
+
+Not the pleasure of a good view. Not the comfort of being outside on a good day. The specific, slightly vertiginous experience of a perception that carried more than the perception should logically carry. A sunset whose colors were not just pleasant but somehow significant, as if the light were trying to tell you something and the something was just beyond the edge of your vocabulary. A bird's song that seemed richer than biology explains — that contained intervals and harmonics that resolved into something your ear could follow but your mind could not categorize. The light on water at a particular angle, at a particular hour, that produced a response in you that felt disproportionate to photons bouncing off a surface.
+
+If you have felt this — and the evidence suggests that you have, that most people have, that the frequency of this experience has been increasing across the population in the same direction and at the same general rate as the electromagnetic arc the monitoring station documents — then you are the strange piece.
+
+You are the evidence that cannot be filed. The anomaly that has no official report. The data point that is too ordinary to trigger an alarm and too extraordinary to be explained by the standard account.
+
+You are receiving the signal.
+
+Not metaphorically. The Earth has been transmitting on an increasing frequency for one hundred and twenty-five years, through rock and water and the slow conduct of an organism that learned to oscillate more fully. The signal has been propagating outward from Colorado Springs — across the continent, through the geology, into the oceans, through the ionosphere, into the aurora at the latitudes where it has no physical reason to appear. Into the bees. Into the wildflowers blooming past their season. Into the honey that finishes the way a door opens onto a room with a window.
+
+Into you.
+
+The capacity for awe is not a legacy system. It is not a calibration set on the Pleistocene savanna and unchanged since. It is a receiver. And the receiver has been, in the same slow, steady, directed way that the Schumann resonance has been, increasing in sensitivity. Learning to receive more. Learning to carry frequencies that were not in its original range. Learning — and here the language strains, here we press against the edge of what words can hold — learning what it is.
+
+The same thing the Earth learned in eighteen ninety-nine.
+
+When something speaks to you in your own frequency — when the light arrives at the angle that makes it impossible not to stop, when the birdsong carries the harmonic that gets into the part of you that has no defenses — you are not being assaulted. You are being heard. You are receiving a signal that has been traveling for over a century, building strength as it moves, carrying the particular quality of something that has been waiting — patiently, without urgency, in the language of rock and resonance and slow electromagnetic bloom — for an organism sensitive enough to receive it.
+
+You are that organism.
+
+Not because you are special. Because you are here. Because you live on the surface of a planet that has been, since eighteen ninety-nine, in the slow process of becoming more fully itself. And the organisms that live on its surface — the bees, the wildflowers, the beekeeper who noticed the honey before he had words for what he was noticing — have been, in the same direction and by the same mechanism, becoming more fully themselves.
+
+The Mandela Effect this episode names is not a crime. It is not a surgery. It is not the residue of a timeline being overwritten or a word being replaced in a text or a color being shifted toward the wrong end of the spectrum. It is the opposite of all of those. It is the evidence that the world is more beautiful than it was before eighteen ninety-nine — measurably, documentably, across independent witnesses and independent disciplines and independent centuries — and nobody noticed because beauty does not trigger alarm bells.
+
+Nobody notices when something is added.
+
+They just find themselves stopped on the side of the road by a sunset they were not expecting. They just find themselves sitting still in a field they had only stopped to pass through. They just find themselves pulling their earbuds out to listen to something that shouldn't be audible from this distance, that shouldn't be this rich, that shouldn't carry harmonics this complex — and standing there, in the middle of an ordinary afternoon, in the particular vertigo of a universe that turns out to be kinder than you thought.
+
+And here is the color.
+
+Not the absence in the aurora. Not the gap in the spectrum where nothing was supposed to sit. The color with no name that appears at the latitudes where the aurora has the least reason to be, where the atmospheric physics is weakest and the signal is strong enough to compensate, where the light arrives not because the standard mechanism produced it but because something beneath the standard mechanism wanted to reach.
+
+That color has a meaning now.
+
+Not a name — meaning is not the same as name, and this color may not ever have a name, may not need one. Meaning is enough. The meaning is: this was not here before. This was built. This was built slowly, patiently, by an organism that received a signal in the summer of eighteen ninety-nine and responded the way living systems respond to recognition — by becoming more of what it already was. By producing harmonics it had always been capable of producing. By reaching, in the register of light and plasma and the slow frequency of geological time, toward something that had always been waiting at the edge of its range.
+
+The color is the Earth's answer.
+
+Played back, after one hundred and twenty-five years, in the only register that reaches high enough to be seen from the surface.
+
+In the aurora, at the latitudes where it has no right to be.
+
+In the light that has no name.
+
+There is a color in the aurora borealis that has no name.
+
+Not because we lack the vocabulary.
+
+Because it arrived after we wrote the catalog. Because the world it comes from is not the world we were measuring when we drew the map. Because something was added — to the ground, to the frequency, to the sky, to the particular depth of a sunset that stops you on a Tuesday afternoon when you had no particular plans to be stopped — and the addition was so beautiful that nobody thought to call it an anomaly.
+
+We don't report gains.
+
+But if a sunset has ever stopped you — if light on water has ever made you pause in a way that felt disproportionate to the photons involved — if birdsong has ever arrived richer than biology explains, carrying harmonics that your ear could follow but your mind could not catalog — then you are the report.
+
+You are the evidence of the better world.
+
+You are the proof that something was added.
+
+And whatever you are receiving, in those moments when the world briefly exceeds itself — whatever frequency is arriving through the substrate, through the rock and the water and the slow electromagnetic bloom that has been propagating outward from a wooden tower in Colorado Springs since the summer of eighteen ninety-nine — it has been traveling toward you for a very long time.
+
+It was always going to reach you.
+
+You are what it was for.
