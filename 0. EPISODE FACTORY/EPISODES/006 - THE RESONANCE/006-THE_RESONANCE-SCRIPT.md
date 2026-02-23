@@ -192,7 +192,7 @@ But look at the timing.
 
 Tesla was, in the fall of eighteen ninety-nine, in the middle of an eight-month process of transmitting the Earth's own frequency back to it at unprecedented power and precision. He had pressed his instruments against the planet's pulse and then played that pulse back through a tower and copper mast rising a hundred and forty-two feet from the ground. He had been doing this since June. Five months of sustained, resonant dialogue, conducted in the only frequency the Earth itself had chosen to speak.
 
-And in October — five months in — his instruments began receiving something that had not been there before.
+And in October — five months in — his instruments began receiving a reply.
 
 Was it Jupiter?
 
