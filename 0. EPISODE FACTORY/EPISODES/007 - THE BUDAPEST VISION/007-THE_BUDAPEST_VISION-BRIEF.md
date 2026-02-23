@@ -8,7 +8,7 @@ Everyone knows Nikola Tesla invented the alternating current motor. It is one of
 
 What is not common knowledge — what has been compressed out of the accepted telling — is HOW it happened.
 
-In February eighteen eighty-two, Tesla was walking through the Budapest City Park with his friend Antal Szigety. He was reciting Goethe's Faust from memory. In the middle of a passage about the day yielding to night, the complete design for the polyphase alternating current motor appeared in his mind. Not a concept. Not an intuition. Not a direction for future research. The complete, finished, functional design — coil geometries, phase relationships, rotor-stator interactions — arrived simultaneously in a single flash. Tesla drew it in the dirt with a stick. He built it from memory years later. It worked exactly as the vision showed.
+In February eighteen eighty-two, Tesla was walking through the Budapest City Park with his friend Antal Szigeti. He was reciting Goethe's Faust from memory. In the middle of a passage about the day yielding to night, the complete design for the polyphase alternating current motor appeared in his mind. Not a concept. Not an intuition. Not a direction for future research. The complete, finished, functional design — coil geometries, phase relationships, rotor-stator interactions — arrived simultaneously in a single flash. Tesla drew it in the sand with a stick. He built a working prototype from memory the following year in Strasbourg. It worked exactly as the vision showed.
 
 Engineering does not work this way. Complex multi-phase electrical systems do not arrive complete in flashes during park walks. The word "genius" is used to explain this. It explains nothing. It is a label placed over the gap where the explanation should be.
 
