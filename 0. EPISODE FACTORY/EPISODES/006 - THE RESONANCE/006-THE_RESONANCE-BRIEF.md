@@ -25,7 +25,7 @@ The Mandela Effect here is an inversion: we don't remember the world being WRONG
 
 ## Historical Facts (Layer 1)
 
-1. **Colorado Springs experiments (1899):** Tesla spent approximately eight months (May 1899 to January 1900) at his laboratory on East Pikes Peak Avenue. He built a sixty-foot wooden tower with a copper mast rising to one hundred forty-two feet. His primary experiments involved resonant circuits and the measurement of the Earth's electromagnetic properties. He produced artificial lightning bolts exceeding one hundred thirty feet.
+1. **Colorado Springs experiments (1899):** Tesla spent approximately eight months (May 1899 to January 1900) at his laboratory on East Pikes Peak Avenue. He built an eighty-foot wooden tower with a copper mast rising to one hundred forty-two feet. His primary experiments involved resonant circuits and the measurement of the Earth's electromagnetic properties. He produced artificial lightning bolts exceeding one hundred thirty feet.
 
 2. **Tesla measured the Earth's resonant frequency:** Using his magnifying transmitter, Tesla determined that the Earth was electrically resonant and could be used as a conductor. He believed the Earth had a natural electromagnetic pulse that could be harnessed for wireless power transmission.
 
