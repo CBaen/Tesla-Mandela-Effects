@@ -118,7 +118,7 @@ And the question behind that question: what happened to Tesla in the months befo
 
 February, eighteen eighty-two. The Budapest City Park. The afternoon is failing.
 
-The two men have walked this path many times. Szigeti knows the walk. But on this afternoon, something is different in the quality of Tesla's presence — a heightening, a pressure in the air around him, the way the atmosphere changes in the minutes before a storm. Szigeti would not have known how to describe it. He might have said only that the American seemed more himself than usual. More there.
+The two men have walked this path many times. Szigeti knows the walk. But on this afternoon, something is different in the quality of Tesla's presence — a heightening, a pressure in the air around him, the way the atmosphere changes in the minutes before a storm. Szigeti would not have known how to describe it. He might have said only that the Serbian seemed more himself than usual. More there.
 
 The Faust passage Tesla recites is the one about evening. About the day that is done, the light retreating, the world at the hinge-point between what is ending and what is arriving. Sie rückt und weicht, der Tag ist überlebt. The glow retreats. The day is past. The words, spoken in German to a park in winter, land against the frozen trees and the copper light and the long shadows of late afternoon.
 
