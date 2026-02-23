@@ -214,7 +214,7 @@ The structure is a spiral, not a timeline:
 
 **The Earned Closing.** After building a case through evidence and questions, the narrator earns the right to make direct statements about the changed world that now exists. The final act turns the audience from listener to participant (even victim) of a timeline shift, proving they are not in the same dimension as the world before the actions of what happened in this episode. The last question should be personal and unanswerable.
 
-**Caption Key.** Every episode ends with a pronunciation guide for names and foreign terms. Format: `Culturally Correct Spelling → TTS-Readable Spelling → /ARPAbet phoneme/`
+**Caption Key.** Every episode ends with a pronunciation guide for names and foreign terms. Format: `Culturally Correct Spelling → TTS-Readable Spelling → /ARPAbet phoneme/` — one word per entry (ElevenLabs pronunciation dictionary constraint). Multi-word names must be split into separate entries with correctly split phonemes. Hyphenated compounds (Austro-Hungarian, Saint-Genis-Pouilly) remain as single entries.
 
 The body text uses culturally correct spellings with proper diacritics (Đuka, Gospić, Kosanović, François, Münster). The Caption Key translates these for ElevenLabs TTS:
 - Column 1: Cultural spelling exactly as it appears in the body text (with diacritics).
