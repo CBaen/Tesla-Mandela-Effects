@@ -182,7 +182,7 @@ And yet.
 
 There is a man in a park in Budapest, in February of eighteen eighty-two. There is a man whose nervous system spent six months processing the ordinary sounds of a city as catastrophic assaults on every surface of his body. There is a man who recovered not by quieting but by redirecting — who came out of that process able to run a complete polyphase AC motor in his mind before the motor existed anywhere in the physical world.
 
-The accepted version calls this genius and turns the page.
+The standard account calls this genius and turns the page.
 
 This episode does not turn the page. It stays in the park. It asks you to stay in the park with it, at least for a while, and to look at the thing that is actually there — not the monument, not the plaque, not the tidy compression of a life into a word — but the two men on the path, the copper light fading, one of them kneeling in the frozen sand with a stick, drawing something that had never existed anywhere before and would power every motor on Earth ever after.
 
@@ -344,7 +344,7 @@ We do not know. We do not have the imaging resolution to see a process of this s
 
 The first physical motor emerged in Strasbourg, in eighteen eighty-three.
 
-Tesla had been sent there by the Continental Edison Company to repair the direct current lighting system at the central railway station — a system that had failed dramatically at its inaugural demonstration, when an explosion nearly killed Kaiser Wilhelm I. This was the assignment that preceded everything. Tesla repaired the Edison system. He did the work he had been hired to do. And then, in a machine shop across the street from the station, using materials he had acquired on his own time, he built the first physical prototype of the AC motor.
+Tesla had been sent there by the Continental Edison Company to repair the direct current lighting system at the central railway station — a system that had failed dramatically at its inaugural demonstration, when an explosion nearly killed Kaiser Wilhelm I. This was the assignment that preceded everything. Tesla repaired the Edison system. He did the work he had been hired to do. And then, in a machine shop across the street from the station — the smell of metal shavings and machine oil in a cold Alsatian winter, the clank and scrape of tools against a workbench he had commandeered on his own time — he built the first physical prototype of the AC motor.
 
 The motor worked.
 
@@ -404,7 +404,7 @@ Srinivasa Ramanujan stated that the goddess Namagiri delivered mathematical form
 
 These cases are documented. They are real. They represent genuine instances of insight arriving in ways that the ordinary sequential model of problem-solving does not account for.
 
-But there is a distinction between these cases and the Budapest Vision that no one in the literature of creativity and insight has, to this narrator's reading, adequately addressed.
+But there is a distinction between these cases and the Budapest Vision that the literature of creativity and insight has not adequately addressed.
 
 Poincaré received a conceptual link. A connection between two domains that allowed existing mathematical structures to be transferred from one context to another. The insight was real and significant. It was also a single conceptual bridge — one new relationship between two things he already understood separately.
 
@@ -440,13 +440,13 @@ Where do you assemble a machine that has never existed from components that no o
 
 The motor is everywhere you have not looked for it.
 
-Not metaphorically. Literally everywhere. The appliance on the kitchen counter. The mechanism that draws air through the refrigerator coils. The pump that moves water through the building's pipes. The system that propels a car, increasingly, without combustion. The server farm processing every search and every message and every stream of data in the digital world — cooled by motors, powered by motors, its storage systems spun by motors. A modern automobile contains approximately forty electric motors. The technology that powers all of this — that has been inside every electric motor built since the nineteen eighties, that traces its lineage without interruption back to a Budapest park and a stick in the sand — consumes, globally, fifty-three percent of all electricity generated on Earth. More than half of everything the world's power systems produce goes into the technology that arrived complete in a February park walk.
+Not metaphorically. Literally everywhere. The appliance on the kitchen counter. The mechanism that draws air through the refrigerator coils. The pump that moves water through the building's pipes. The system that propels a car, increasingly, without combustion. The server farm processing every search and every message and every stream of data in the digital world — cooled by motors, powered by motors, its storage systems spun by motors. A modern automobile contains approximately forty electric motors. The technology that powers all of this — that has been inside every electric motor built for more than a century, that traces its lineage without interruption back to a Budapest park and a stick in the sand — consumes, globally, fifty-three percent of all electricity generated on Earth. More than half of everything the world's power systems produce goes into the technology that arrived complete in a February park walk.
 
 You have been inside the Budapest Vision your entire life.
 
 Not as a historical curiosity. Not as the inheritance of a distant past. You have been living inside its output every moment of every day — every time a motor turned, every time a field rotated in response to a phase relationship that Tesla drew in the sand before the sand drawing was gone.
 
-This is the layer beneath the accepted version. Not the name on the plaque. Not the tidy compression of a life into a word. The vision itself — the thing that happened in the park, preceded by six months of a nervous system exceeding every limit, in a man reciting a poem about wishing he had wings — is the architecture of the world you inhabit.
+This is the layer beneath the simplified telling. Not the name on the plaque. Not the tidy compression of a life into a word. The vision itself — the thing that happened in the park, preceded by six months of a nervous system exceeding every limit, in a man reciting a poem about wishing he had wings — is the architecture of the world you inhabit.
 
 The question is not whether the vision was real. The motor works. The world runs on it. The question is what kind of universe permits this to happen — a complete complex machine arriving whole in a flash, in a park, drawn in sand with a stick — and what it means that we have accepted this as normal. That we have been inside it our entire lives and have not once stopped to ask what kind of process built the room we are standing in.
 
@@ -636,6 +636,7 @@ Bauzin → Bauzin → /B OW0 Z AE1 N/
 Poincaré → Poincare → /P W AA1 N K AH0 R EY1/
 Kekulé → Kekule → /K EH1 K UH0 L EY1/
 Ramanujan → Ramanujan → /R AH0 M AA1 N UH0 JH AH0 N/
+Srinivasa → sree-NIH-vah-sah → /S R IY0 N IH1 V AH0 S AH0/
 Namagiri → Namagiri → /N AH0 M AA1 G IY0 R IY0/
 AIEE → AIEE → /EY1 AY1 IY1 IY1/
 polyphase → polyphase → /P AA1 L IY0 F EY2 Z/
@@ -648,7 +649,6 @@ Swezey → Swezey → /S W IY1 Z IY0/
 Jung-Beeman → Jung-Beeman → /JH AH1 NG B IY1 M AH0 N/
 Northwestern → Northwestern → /N AO1 R TH W EH2 S T AH0 N/
 neurasthenia → neurasthenia → /N UH2 R AH0 S TH IY1 N IY0 AH0/
-Neurasthenia → Neurasthenia → /N UH2 R AH0 S TH IY1 N IY0 AH0/
 Óbuda → Obuda → /OW1 B UH0 D AA0/
 uroboros → uroboros → /Y UH0 R OW1 B AO0 R OW0 S/
 IEA → IEA → /AY1 IY1 EY1/
