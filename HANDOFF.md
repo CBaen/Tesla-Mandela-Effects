@@ -34,7 +34,7 @@ Wrote Episode 006 "The Resonance" from scratch in a single session. Topic select
 | 003 | The God Particle | PRODUCTION-READY | ~9,600 |
 | 004 | The Tesla Brothers | PRODUCTION-READY | ~10,022 |
 | 005 | The Bell | PRODUCTION-READY | ~13,400 |
-| 006 | The Resonance | PRODUCTION-READY | ~10,885 |
+| 006 | The Resonance | PRODUCTION-READY | ~10,591 |
 
 ## What's Next
 
