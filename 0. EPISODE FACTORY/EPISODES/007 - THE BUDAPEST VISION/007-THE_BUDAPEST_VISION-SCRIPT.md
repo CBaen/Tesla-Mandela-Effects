@@ -6,7 +6,7 @@ But this silence is different.
 
 February, eighteen eighty-two. The Budapest City Park, Városliget, in the late afternoon. The gravel is hard underfoot, frozen solid from two weeks of cold that has not yet broken. The smell of the park in winter is thin — bare wood, cold stone, the faint iron-sweetness of frozen ground releasing nothing. The sun is at the horizon line, already half-gone, and the light it throws is almost horizontal, striking the trunks of the plane trees so that each one casts a long shadow the length of the path. The two men are walking eastward into the last of the afternoon. One of them is reciting poetry.
 
-He has been reciting it for the better part of an hour. Goethe. The great poem. The man speaks the German from memory, without hesitation, the verses arriving whole, each line handed off to the next the way a relay runner hands off a torch — no break, no gap, the momentum uninterrupted. Szigety does not speak German at the level the poem requires, but he has heard it enough times in the past weeks to recognize the passages. The Faust passages. The ones about evening. The ones about the day giving way to something larger.
+He has been reciting it for the better part of an hour. Goethe. The great poem. The man speaks the German from memory, without hesitation, the verses arriving whole, each line handed off to the next the way a relay runner hands off a torch — no break, no gap, the momentum uninterrupted. Szigeti does not speak German at the level the poem requires, but he has heard it enough times in the past weeks to recognize the passages. The Faust passages. The ones about evening. The ones about the day giving way to something larger.
 
 Then the American stops speaking.
 
@@ -639,23 +639,17 @@ Ramanujan → Ramanujan → /R AH0 M AA1 N UH0 JH AH0 N/
 Namagiri → Namagiri → /N AH0 M AA1 G IY0 R IY0/
 AIEE → AIEE → /EY1 AY1 IY1 IY1/
 polyphase → polyphase → /P AA1 L IY0 F EY2 Z/
-Telefon → Telefon → /T EH1 L EH0 F AA0 N/
-Hírmondó → Hirmondo → /H IY1 R M OW0 N D OW0/
 Elihu → Elihu → /EH1 L IH0 HH Y UW0/
 Thomson → Thomson → /T AA1 M S AH0 N/
 Nikola → Nikola → /N IH1 K OW0 L AA0/
 Tesla → Tesla → /T EH1 S L AH0/
 Westinghouse → Westinghouse → /W EH1 S T IH0 NG H AW2 S/
 Swezey → Swezey → /S W IY1 Z IY0/
-Ramanujan → Ramanujan → /R AH0 M AA1 N UH0 JH AH0 N/
 Jung-Beeman → Jung-Beeman → /JH AH1 NG B IY1 M AH0 N/
 Northwestern → Northwestern → /N AO1 R TH W EH2 S T AH0 N/
-Neurasthenia → Neurasthenia → /N UH2 R AH0 S TH IY1 N IY0 AH0/
 neurasthenia → neurasthenia → /N UH2 R AH0 S TH IY1 N IY0 AH0/
+Neurasthenia → Neurasthenia → /N UH2 R AH0 S TH IY1 N IY0 AH0/
 Óbuda → Obuda → /OW1 B UH0 D AA0/
-Velebit → Velebit → /V EH1 L EH0 B IH0 T/
-IEA → IEA → /AY1 IY1 EY1/
-Kekulé → Kekule → /K EH1 K UH0 L EY1/
-Bayard → Bayard → /B EY1 AH0 R D/
 uroboros → uroboros → /Y UH0 R OW1 B AO0 R OW0 S/
+IEA → IEA → /AY1 IY1 EY1/
 Commerford → Commerford → /K AA1 M ER0 F AO0 R D/
