@@ -257,9 +257,74 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 - **Unique elements:** Zero fabricated sources (series first), cognitive anomaly as Mandela Effect category, Faust Part I "Outside the City Gate" parallel (Faust's lament at sunset = Tesla's vision at sunset), Strasbourg prototype built in machine shop across from exploded station, AIEE paper written the night before, $2.50/hp royalty torn up voluntarily, Jung-Beeman gamma-burst 0.3 seconds before conscious awareness, IEA 53% of global electricity through motor systems, Budapest less than 10 years old as unified city when Tesla arrived
 - **Names spent:** Nikola Tesla, Antal Szigeti, Tivadar Puskás, Johann Wolfgang von Goethe, George Westinghouse, Thomas Commerford Martin, Elihu Thomson, Mr. Bauzin, Kenneth Swezey, Henri Poincaré, August Kekulé, Srinivasa Ramanujan, George Miller Beard, Kaiser Wilhelm I
 
+### 008 — THE CONTAGION THEOREM
+- **Wound:** Manufactured Mandela Effects — AI-generated images installing false memories at scale. The anomaly is no longer passive residue; someone has learned to write directly onto human memory tissue.
+- **Opening type:** Fact that becomes horrifying (the listener is installed inside the Pope photograph memory before learning it was machine-generated)
+- **Structural shape:** Crime scene investigation (start at the viral AI image, work backward through Dawkins, DARPA, Loftus, and Tesla's seized papers to find the mechanism)
+- **Closing type:** The Invitation — listener given a specific action: search for the original Pope photograph, hold that memory, refuse the update
+- **Emotional endpoint:** Defiance — quiet, specific resistance; the listener carries the last uncorrupted file
+- **Tesla connection type:** Absence (seized papers, 20 missing trunks, OAP supplemental Item 14, the 1930 essay, V.M.'s testimony of a document returned before it could be read)
+- **Tesla presence:** Not a character. Present through negative space — every reference to Tesla is a reference to something missing.
+- **Key locations:** Unspecified present-day (listener's own memory), Hotel New Yorker Room 3327 (Manhattan, January 1943), Belgrade (Tesla Museum), Wardenclyffe/Long Island, DARPA/Pentagon (conceptual), MIT Media Lab/UC Irvine (CHI 2025 research)
+- **Mandela Effects (primary):** Manufactured — new category. AI-generated Pope puffer jacket photograph as case study. False memories installed intentionally, at scale, with coordination. Extends the series from passive residue to active installation.
+- **Fabricated sources:** Classified internal memo (ARPA-IIP-1978-M7, coordinated false stimulus study), Declassified government report (OAP Supplemental Inventory Addendum, August 1943, Item 14), Oral history/recorded interview transcript (V.M., Belgrade Tesla Museum 1987-1989 project), Court testimony/deposition (Dr. Renata Solberg-Weis, Ferenczi et al. v. Meridian Platform Systems)
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - The filing cabinet in the skull — vivid image recorded as real without consent
+  - The Pope's white jacket — the memory of an image that never existed
+  - A black screen with a runtime that cannot be lived — the 140-year video
+  - The 34% who did not hesitate — faces carrying installed memories
+  - Twenty trunks that arrived somewhere else — not missing, rerouted
+  - JGT did not see this — the marginal note in different ink
+  - The frequency of a signal arriving as memory — V.M.'s description of the mechanism
+  - An immune system that cannot distinguish vaccination from infection — false vs. real memory
+  - The last uncorrupted file — the listener's original, pre-AI memory
+  - The specific act of not updating — refusing the patch, staying with what was already installed
+- **Unique elements:** Manufactured Mandela Effect as new category (extends series from passive to active), Dawkins mimeme etymology, DARPA $42M SMISC program, Finkelstein Military Memetics, Prosser Meme Warfare Center thesis, CHI 2025 Best Paper (Loftus + MIT Media Lab), 2.05x false memory rate from AI images, 140-year YouTube video (ShinyWR), Tesla 1930 essay "Man's Greatest Achievement" (akasha/prana/Vedic cosmology), Wardenclyffe as mass simultaneous transmission architecture, the Contagion Theorem as taxonomy name
+- **Names spent:** Nikola Tesla, Richard Dawkins, Robert Finkelstein, Michael B. Prosser, Elizabeth Loftus, John G. Trump, J.P. Morgan, Sava Kosanović, Pope Francis
+
 ---
 
-## Window Rules — Blocked for Episode 008
+## Window Rules — Blocked for Episode 009
+
+These choices are blocked for Episode 009 based on the window rules in the registry header.
+
+**Closing types (3-episode window — cannot repeat if used in 006, 007, or 008):**
+- The Callback (006) — blocked
+- The Mirror (007) — blocked
+- The Invitation (008) — blocked
+
+**Opening types (2-episode window — cannot repeat if used in 007 or 008):**
+- Witness cold open (007) — blocked
+- Fact that becomes horrifying (008) — blocked
+
+**Structural shapes (2-episode window — cannot repeat if used in 007 or 008):**
+- The descent (007) — blocked
+- Crime scene investigation (008) — blocked
+
+**Tesla connection types (2-episode window — cannot repeat if used in 007 or 008):**
+- Direct appearance (007) — blocked
+- Absence (008) — blocked
+
+**Emotional endpoints (5-episode window — cannot repeat if used in 004–008):**
+- Loneliness (004) — blocked
+- Vertigo (005) — blocked
+- Wonder / awe (006) — blocked
+- Quiet acceptance (007) — blocked
+- Defiance (008) — blocked
+- Existential dread (003) — window cleared, available
+- Paranoia (001) — window cleared, available
+- Grief (002) — window cleared, available
+
+**Available for Episode 009:**
+- Closing types: The Open Wound, The Witness, The Silence, The Inversion
+- Opening types: Direct address question, Sensory hook, Declarative impossibility, The negation, The artifact
+- Structural shapes: Chronological spiral, Dual timeline, Single witness, The collection, The trial, The letter
+- Tesla connection types: Experiment consequence, Technology descendant, Philosophical parallel, Opposition
+- Emotional endpoints: Existential dread, Paranoia, Grief
+
+---
+
+## Window Rules — Blocked for Episode 008 (ARCHIVED)
 
 These choices are blocked for Episode 008 based on the window rules in the registry header.
 

@@ -104,8 +104,6 @@ The content is absence. The runtime is impossible. The description is a threat. 
 
 The meme does not require content. The meme requires only propagation. Impact. Persistence.
 
-The meme is propagating.
-
 What, then, is the Pope photograph in this taxonomy? It arrived as content — a plausible image, a recognizable figure, a moment that could have been real. But its function was not informational. Its function was installation. It opened the archive, placed a file, and closed it again without leaving a receipt. The content was the vector. The memory was the payload.
 
 The difference matters.
@@ -280,11 +278,11 @@ Then the government brought in a scientist.
 
 John G. Trump was an MIT electrical engineer. He worked for the National Defense Research Committee. He was known for precision and discretion and the particular kind of competence that gets a man called in when the government needs a judgment that will not be questioned. He was also the uncle — paternal uncle — of a future President of the United States. That biographical detail would become a footnote to the footnote of this story, attached retroactively by the internet as if family trees could explain what happened.
 
-Trump spent two days reviewing the materials. His official assessment: nothing of significant value.
+Trump spent two days reviewing the materials. His official assessment, in substance: nothing of significant value.
 
 That is the report. Those words, approximately, standing in for a full review. Nothing of significant value.
 
-Eight years later, Yugoslavia negotiated the return of Tesla's materials to Belgrade. The cargo arrived by ship in nineteen fifty-one — a country reclaiming its inheritance from a war that had briefly paused everything. Of the eighty trunks that had been seized in nineteen forty-three, sixty arrived. Twenty were unaccounted for. No formal explanation. No transfer manifest explaining their absence. Twenty trunks that went into government custody in nineteen forty-three and did not arrive in Belgrade in nineteen fifty-one — not destroyed, not declassified, not returned, not explained. Twenty trunks that had arrived somewhere else.
+Nearly a decade later, Yugoslavia negotiated the return of Tesla's materials to Belgrade. The cargo arrived by ship in nineteen fifty-one — a country reclaiming its inheritance from a war that had briefly paused everything. Of the eighty trunks that had been seized in nineteen forty-three, sixty arrived. Twenty were unaccounted for. No formal explanation. No transfer manifest explaining their absence. Twenty trunks that went into government custody in nineteen forty-three and did not arrive in Belgrade in nineteen fifty-one — not destroyed, not declassified, not returned, not explained. Twenty trunks that had arrived somewhere else.
 
 But look at what the sixty returning trunks contained.
 
@@ -502,7 +500,7 @@ Ferenczi → Ferenczi → /F EH1 R EH0 N T S IY0/
 Solberg-Weis → Solberg-Weis → /S OW1 L B ER0 G V AY0 S/
 Renata → Renata → /R EH0 N AA1 T AH0/
 Midjourney → Midjourney → /M IH1 D JH ER0 N IY0/
-mimeme → mimeme → /M IH0 M IY1 M/
+mimeme → mimeme → /M IH0 M IY1 M EH0/
 ShinyWR → ShinyWR → /SH IH1 N IY0 D AH1 B AH0 L Y UW0 AA1 R/
 Quantico → Quantico → /K W AO1 N T IH0 K OW0/
 Yugoslav → Yugoslav → /Y UW1 G OW0 S L AA0 V/
