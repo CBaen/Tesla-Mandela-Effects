@@ -70,7 +70,7 @@ And then she died.
 The account Tesla gave to O'Neill is the only firsthand record. He described it with the same plainness he had brought to every technical observation in fifty years of experimental work. He said: And then, as I got her message, there came a light from her eyes — powerful beams of light. Yes, it was a real light, a powerful, dazzling, blinding light, a light more intense than I had ever produced by the most powerful lamps in my laboratory.
 
 
-He was sixty-six years old. He had produced some of the most powerful artificial light sources in the history of electrical science. He had built a laboratory in Colorado Springs capable of generating twelve million volts and lighting two hundred lamps wirelessly from a distance of twenty-five miles. He was not a man prone to hyperbole about light. He was a man who had spent his life measuring it.
+He was sixty-six years old. He had produced some of the most powerful artificial light sources in the history of electrical science. He had built a laboratory in Colorado Springs capable of generating twelve million volts and lighting incandescent bulbs wirelessly from nearly two thousand feet away. He was not a man prone to hyperbole about light. He was a man who had spent his life measuring it.
 
 
 He said: When that pigeon died, something went out of my life. I knew my life's work was finished.
