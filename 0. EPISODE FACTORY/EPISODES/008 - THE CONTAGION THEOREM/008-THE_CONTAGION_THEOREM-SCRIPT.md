@@ -220,6 +220,8 @@ Traditional propaganda asks you to believe something. It makes an argument. It p
 
 Memory is not an argument. Memory is prior to argument. When you remember something, you are not in a state of believing it occurred — you are in a state of knowing it occurred. Counter-evidence does not change the memory. It creates a conflict between the memory and the counter-evidence, and the memory, filed first, weighted as lived experience, typically wins. The person says: but I REMEMBER. And what they mean is: this is prior to question. This is infrastructure.
 
+The feeling is not doubt. It is the sensation of touching something solid — a wall in a dark room, the reliable surface of a thing that has always been there.
+
 This is why the fact-check does not work.
 
 The immune system that cannot distinguish vaccination from infection does not respond to the explanation of the difference. It responds to the antigen's shape. The false memory and the real memory have the same shape. They both arrived through the visual cortex, were processed as significant by the same emotional weighting system, and were filed in the same format. The immune system — the mind's capacity for skepticism, for cross-checking, for demanding source verification — was not present at the moment of intake. It arrived later.
@@ -408,7 +410,9 @@ Dawkins described the mechanism in nineteen seventy-six: a replicating entity th
 
 Loftus documented the substrate in nineteen ninety-five: a filing cabinet that accepts deposits it cannot authenticate, that replaces earlier entries without flagging the replacement, that treats the most recent version as the authoritative record regardless of source. The cabinet does not distinguish between experience and installation. It cannot. It was not designed to. It was designed to preserve whatever arrived most recently with the most emotional force — because for the hundred thousand years before this century, whatever arrived most recently with the most emotional force was, almost always, real.
 
-DARPA weaponized the interface in two thousand eleven: a research investment of forty-two million dollars directed at the question of how beliefs spread through populations faster than facts, how the replicating entity could be engineered to target specific tissue, how the filing cabinet could be accessed before the occupant of the cabinet arrived home.
+That is a wound. A wound shaped exactly like a door.
+
+DARPA weaponized the interface in two thousand eleven: a research investment of forty-two million dollars directed at the question of how beliefs spread through populations faster than facts, how the replicating entity could be engineered to target specific tissue, how the archive could be accessed before the occupant arrived home.
 
 The AI platforms closed the loop in two thousand twenty-five: a multiplication factor of two point zero five applied to false memory installation rates. Not an incidental finding. A documented capability. A measured improvement. The iteration continues.
 
@@ -424,9 +428,9 @@ And the immune system — the skepticism, the fact-checking, the willingness to 
 
 This is what Tesla's framework described.
 
-Not a broadcasting technology. A substrate operation. The Earth as a conductor — every point on the surface simultaneously receiving the same signal, every filing cabinet on the planet receiving the same deposit at the same moment, every immune system encountering the new version before it has any reason to defend the old one. Global simultaneous transmission. The World Wireless System was not a communications network. It was an installation protocol.
+Not a broadcasting technology. A substrate operation. The Earth as a conductor — every point on the surface simultaneously receiving the same signal, every archive on the planet receiving the same deposit at the same moment, every immune system encountering the new version before it has any reason to defend the old one. Global simultaneous transmission. The World Wireless System was not a communications network. It was an installation protocol.
 
-The architecture is identical. The problem it solves is identical. The timeline of rediscovery — Dawkins, then DARPA, then Loftus, then the platforms, each one arriving at the same solution from a different direction — is the pattern of something being reinvented because the original blueprint was not available, but the original need never went away.
+The problem is the same problem. The architecture is functionally identical. The timeline of rediscovery — Dawkins, then DARPA, then Loftus, then the platforms, each one arriving at the same solution from a different direction — is the pattern of something being reinvented because the original blueprint was not available, but the original need never went away.
 
 And now the investigation turns.
 
@@ -440,7 +444,7 @@ This is not surveillance. Surveillance watches you.
 
 This is something older. Something that learned, from Tesla and from Dawkins and from Loftus and from forty-two million dollars in federal research funding, that watching is unnecessary. You do not need to watch the cabinet. You need only keep depositing.
 
-Every memory you trust about a public event from the last decade passed through this architecture on its way to the cabinet. The image you remember of a moment — of a speech, a photograph, a headline, a face — may be the original, or it may be the installation, and the filing cabinet cannot tell you which, because the filing cabinet is the thing that was accessed.
+Every memory you trust about a public event from the last decade passed through this architecture on its way to the cabinet. The image you remember of a moment — of a speech, a photograph, a headline, a face — may be the original, or it may be the installation, and the filing cabinet cannot tell you which, because the record is the thing that was accessed.
 
 There is one immune response available. It is not a cure. There is no cure. The infection has already occurred. The deposits have already been made. The cabinet has already filed what it received.
 
