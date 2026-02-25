@@ -1,57 +1,58 @@
 ---
-session_id: "2026-02-25-episode-008-factory"
+session_id: "2026-02-25-episode-009-factory"
 date: "2026-02-25"
-instance: "Episode 008 Factory Pipeline"
+instance: "Episode 009 Factory Pipeline"
 model: "claude-opus-4-6"
 projects_touched:
   - "Tesla Mandela Effects"
 status: "complete"
-git_state: "clean"
+git_state: "pending commit"
 ---
 
 ## Orientation
 
-First full run of the Episode Factory skill (`/episode`). Episode 008 "The Contagion Theorem" produced from topic to reviewed script in a single session using the 4-phase automated pipeline: Architect → Writer (4 passes) → Surgeon → Reviewer → Surgeon fix pass.
+Second full run of the Episode Factory skill (`/episode`). Episode 009 "The Last Transmission" produced from topic selection through 4-phase pipeline: Architect → Writer (3 passes) → Surgeon → Reviewer → Surgeon fix pass. Continuation from the Episode 008 session — prompt tuning (Reviewer + Surgeon) was applied earlier in this session before the Episode 009 run.
 
 ## What Happened This Session
 
-### Episode Factory Skill Created (5 files)
-- `C:\Users\baenb\.claude\skills\episode-factory\SKILL.md` — Master orchestration (200 lines)
-- `C:\Users\baenb\.claude\skills\episode-factory\architect-prompt.md` — Brief generation agent (169 lines)
-- `C:\Users\baenb\.claude\skills\episode-factory\writer-prompt.md` — Writing pass agent (240 lines)
-- `C:\Users\baenb\.claude\skills\episode-factory\surgeon-prompt.md` — Violation audit + fix agent (194 lines)
-- `C:\Users\baenb\.claude\skills\episode-factory\reviewer-prompt.md` — Independent review agent (163 lines)
+### Prompt Tuning (from Episode 008 editorial review)
+- **reviewer-prompt.md** — 4 additions: signal-to-noise discipline (target 8-12 findings), fabricated source literacy (Layer 2 + Law 5 interaction), cross-episode consistency check, editorial judgment vs. checklist compliance
+- **surgeon-prompt.md** — 2 additions: floating attribution traps, recurring metaphor audit
+- **Episode 008 script** — 5 editorial fixes applied from external Opus editorial review
 
-### Episode 008 — THE CONTAGION THEOREM
+### Episode 009 — THE LAST TRANSMISSION
 
-**Topic:** Manufactured Mandela Effects — AI-generated images installing false memories at scale. Combined trending topics: memetic warfare (TikTok Feb 2026) + AI false memory research (CHI 2025).
+**Topic:** Tesla's white pigeon + wireless energy as the Mandela Effect. Guiding Light chose The Pigeon topic with Grief endpoint and "wireless energy died with the pigeon" as the wound.
 
-**Anti-cloning selections:** Fact that becomes horrifying (opening), Crime scene investigation (structure), The Invitation (closing), Defiance (endpoint), Absence (Tesla connection).
+**Anti-cloning selections:** Sensory hook (opening), Chronological spiral (structure), The Silence (closing), Grief (endpoint), Experiment consequence (Tesla connection).
 
 **Pipeline execution:**
-1. **Architect** — Produced brief with 5 Layer 1 facts, 4 fabricated sources, anti-cloning verified. Brief approved by Guiding Light.
-2. **Writer (4 passes)** — Pass 1: Opening + Dawkins + DARPA (~2,800 words). Pass 2: Loftus + CHI 2025 + Pope photograph (~3,500 words). Pass 3: Tesla's death + seized papers + fabricated sources (~3,200 words). Pass 4: Closing taxonomy + defiance + Invitation (~2,200 words).
-3. **Surgeon (first pass)** — 0 term violations, 7 fact corrections (Tesla essay 1928→1930, Lost in Mall 1980s→1995, Belgrade return 1976→1951, math fixes), 1 attribution fix, 1 quote fix (Loftus → narration), 5 Law 1 fixes. Caption Key (20 entries) appended.
-4. **Reviewer** — 20 findings: 4 CRITICAL, 9 IMPORTANT, 7 MINOR. Key criticals: paternal not maternal uncle, "meat machine" is Minsky not Tesla, "great machine" quote source unverified, encoding check needed.
-5. **Surgeon (fix pass)** — 18 targeted fixes applied. All 4 CRITICALs resolved, all IMPORTANTs addressed, 3 MINORs fixed.
+1. **Architect** — Produced brief with 5 Layer 1 facts, 4 fabricated sources (Fitch diary, Westinghouse letter, Smiley Steel report, Marsh paper), anti-cloning verified. Series Bible updated with Ep 009 registry + Ep 010 window rules. Brief approved by Guiding Light.
+2. **Writer (3 passes)** — Pass 1: Sensory hook opening, Tesla at 66, the pigeon, O'Neill quotes, Colorado Springs demo (~4,150 words). Pass 2: Wardenclyffe construction, Morgan's withdrawal, demolition, all fabricated sources (~4,200 words). Pass 3: Return to 1922, foreclosure/pigeon convergence, Mandela Effect, The Silence closing (~3,420 words).
+3. **Surgeon (first pass)** — 2 term violations fixed, 2 factual corrections (tower height 187→186, Colorado Springs elevation), 1 hotel naming consistency fix, 1 grammar fix. Caption Key (10 entries) appended. Flagged 25-mile vs 591-meter distance discrepancy.
+4. **Coordinator fix** — Corrected all 4 instances of "twenty-five miles" to Brief's verified 591 meters / nearly 2,000 feet figure.
+5. **Reviewer** — 12 findings: 2 CRITICAL, 5 IMPORTANT, 5 MINOR. Key criticals: wrong hotel (New Yorker opened 1930, Tesla was at St. Regis in 1922), Cripple Creek distance (22→15 miles).
+6. **Surgeon (fix pass)** — All actionable findings applied: 13 hotel edits (New Yorker→St. Regis, removed room 3327 and 33rd floor throughout), Cripple Creek distance, scrap value ($40K→$1,750), O'Neill quote ("that pigeon"→"her"), Tesla Museum Belgrade attribution genericized, Columbia accession number removed, Law 5 overstatement softened, doubled "substrate" fixed, page count rounded.
 
-**Final word count:** ~10,045 (within target range 10,000-13,000).
+**Final word count:** 12,414 (within target range 10,000-13,000).
 
 ### Issues the Pipeline Caught
 
 | Phase | Issues Found | Issues Fixed |
 |-------|-------------|-------------|
-| Surgeon (pass 1) | 14 | 14 |
-| Reviewer | 20 (4C, 9I, 7M) | — |
-| Surgeon (pass 2) | — | 18 |
-| **Total** | **34 distinct issues** | **32 fixed** |
+| Surgeon (pass 1) | 6 | 6 |
+| Coordinator | 4 (distance) | 4 |
+| Reviewer | 12 (2C, 5I, 5M) | — |
+| Surgeon (pass 2) | — | 10 |
+| **Total** | **22 distinct issues** | **20 fixed** |
 
-Remaining 2 MINOR items are creative calls for Guiding Light (closing structure, "it is yours" warmth level).
+Remaining 2 items are creative calls for Guiding Light: (1) 591-meter distance — Reviewer couldn't independently verify via web search, Brief's research team sourced it from Colorado Springs Notes; (2) closing sensory gap — deliberate Silence closing design or missing St. Regis anchor.
 
-### Series Bible Updated
-- Episode 008 registry entry added
-- Window Rules for Episode 009 calculated
-- Fabricated Source Format usage log updated
+### Pipeline Improvement Over Episode 008
+- Reviewer produced 12 findings (within 8-12 target) vs. 20 in Episode 008 — prompt tuning worked
+- Both CRITICAL findings were genuine factual errors, not noise — signal quality improved
+- Hotel error (Finding 1) was the most consequential factual error in any episode to date — caught by Reviewer's independent verification, invisible to the production pipeline because the Writer and Surgeon had no reason to question the hotel name
+- 3-pass writing produced stronger prose than 4-pass in Episode 008 (12,414 vs 10,045 words)
 
 ## Episode Status
 
@@ -64,23 +65,22 @@ Remaining 2 MINOR items are creative calls for Guiding Light (closing structure,
 | 005 | The Bell | PRODUCTION-READY | ~13,400 |
 | 006 | The Resonance | PRODUCTION-READY | ~10,591 |
 | 007 | The Budapest Vision | PRODUCTION-READY | ~13,750 |
-| 008 | The Contagion Theorem | REVIEW COMPLETE — AWAITING GL SIGN-OFF | ~10,045 |
+| 008 | The Contagion Theorem | PRODUCTION-READY (editorial fixes applied) | ~10,045 |
+| 009 | The Last Transmission | REVIEW COMPLETE — AWAITING GL SIGN-OFF | ~12,414 |
 
 ## What's Next
 
-- **Episode 008 sign-off** — Guiding Light reviews the finished script. Two remaining MINOR creative calls: (1) whether closing ends on the Invitation action or the open question, (2) "it is yours" warmth level in the defiance beat.
-- **Episode Factory tuning** — Adjust agent prompts based on what this run revealed. The Reviewer caught issues the Surgeon's first pass missed (Minsky attribution, Finkelstein/SMISC conflation, view count inflation). Consider adding a "common attribution traps" section to the surgeon prompt.
-- **Episode 009 topic selection** — Available endpoints: Existential dread, Paranoia, Grief. Window Rules for Ep 009 in Series Bible. Viable topics from earlier research: 1895 Fire, Pigeon, 3-6-9 Quote.
-- **TTS testing** — Run Caption Keys through ElevenLabs to verify ARPAbet overrides
-- **Release strategy update** — Add Episodes 006, 007, 008 to batch drop plan
+- **Episode 009 sign-off** — Guiding Light reviews the finished script. Two remaining items for GL assessment: (1) 591-meter Colorado Springs distance verification, (2) closing sensory gap (creative call).
+- **Episode 010 topic selection** — Available endpoints: Existential dread, Paranoia, Wonder/awe. Window Rules for Ep 010 in Series Bible. Available closing types: The Open Wound, The Witness, The Callback, The Inversion.
+- **TTS testing** — Run Caption Keys through ElevenLabs for Episodes 008 + 009
+- **Release strategy update** — Add Episodes 006-009 to batch drop plan
 
 ## Process Notes for Future Instances
 
-- **The Episode Factory skill works.** First full run produced a reviewed script with 34 issues caught and 32 fixed autonomously. Compare to Episode 007's 19 manual fixes — the pipeline catches more because the Reviewer is genuinely independent (no writing context).
-- **The Reviewer's CRITICAL finds were all attribution issues.** "Meat machine" (Minsky, not Tesla), "maternal" vs "paternal" uncle, "great machine" quote source. These are exactly the errors that survive writing + first-pass verification because the writer's confidence infects the verifier. Independence matters.
-- **Brief discrepancy: the brief said "1928 essay" — the actual year is 1930.** The Surgeon caught this in the script but the brief was not updated. Brief inaccuracies propagate into all writing passes. Consider adding a brief-verification step to the Architect.
-- **Word count came in at ~10,045 — barely in range.** The 4-pass structure (2,800 + 3,500 + 3,200 + 2,200) delivered less than the target 3,000-5,000 per pass. Pass 4 was especially short. Consider setting minimum per-pass targets.
-- **Filing cabinet repetition caught by Reviewer.** Strong metaphors get overused when writers build on each other's output. The Surgeon prompt should note: "audit recurring metaphors in the final third — if any image appears 8+ times, rotate to variations."
+- **The Reviewer prompt tuning from Episode 008's editorial review worked.** 12 findings vs. 20, both CRITICALs were genuine factual errors (hotel, distance), no noise. The signal-to-noise instruction and fabricated source literacy section prevented the overcalling seen in Ep 008.
+- **The hotel error is the strongest argument for Reviewer independence.** The entire production pipeline — Writer, Surgeon, Coordinator — accepted "New Yorker Hotel" without question because the Brief didn't specify the hotel and the hotel name appeared in the Writer's research. Only the Reviewer's independent fact-check caught that the hotel opened in 1930.
+- **3 writing passes produced better results than 4.** Episode 009's 3-pass structure (4,150 + 4,200 + 3,420) delivered 12,414 words with stronger narrative cohesion than Episode 008's 4-pass (2,800 + 3,500 + 3,200 + 2,200 = 10,045). Fewer handoff points = fewer seams.
+- **The distance discrepancy (25 miles vs 591 meters) was caught by the Surgeon but required editorial judgment to resolve.** The Surgeon correctly flagged it but couldn't decide which figure was authoritative. The Coordinator resolved it by researching primary sources. Consider adding "verify Brief figures against primary sources" to the Surgeon's work order.
 
 ## Document Parity
 
@@ -94,7 +94,7 @@ Remaining 2 MINOR items are creative calls for Guiding Light (closing structure,
 | Factory CLAUDE.md | `0. EPISODE FACTORY/CLAUDE.md` | 2026-02-23 |
 | Root CLAUDE.md | `CLAUDE.md` | 2026-02-16 |
 | Release Strategy | `RELEASE_STRATEGY.md` | 2026-02-23 |
-| Decisions Log | `tesla-mandela-decisions.md` | 2026-02-23 |
+| Decisions Log | `tesla-mandela-decisions.md` | 2026-02-25 |
 | Queue | `tesla-mandela-queue.md` | 2026-02-13 |
 | Session Memory | `C:\Users\baenb\.claude\projects\C--Users-baenb-Desktop-Tesla-Mandela-Effects\memory\MEMORY.md` | 2026-02-25 |
 | Handoff | `HANDOFF.md` | 2026-02-25 |
