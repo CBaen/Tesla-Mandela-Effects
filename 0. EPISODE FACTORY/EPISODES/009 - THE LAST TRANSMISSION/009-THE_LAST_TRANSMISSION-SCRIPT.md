@@ -49,7 +49,7 @@ She had come high above the street, to a ledge that a pigeon had no reason to kn
 A technical report. The gender was relevant. He included it.
 
 
-He had also told O'Neill: I loved that pigeon as a man loves a woman, and she loved me. As long as I had her, there was a purpose in my life.
+He had also told O'Neill: I loved her as a man loves a woman, and she loved me. As long as I had her, there was a purpose in my life.
 
 
 This sentence has been read, for eighty years, as an expression of loneliness. As evidence that the great inventor, old and isolated and stripped of his laboratory and his resources and the colleagues who had once regarded him as something adjacent to miraculous, had transferred his need for connection onto a bird. Biographers have been kind about it. They have called it poignant. They have used it to illustrate the human cost of genius — the inventor so consumed by his work that he arrived at the end of his life with only a pigeon for company.
@@ -127,7 +127,7 @@ He documented the experiment in his Colorado Springs notes — four hundred and 
 What is in dispute is what the physical record means.
 
 
-On the evening of July third, eighteen ninety-nine, Tesla generated a lightning bolt from the apex of his mast that his notes describe as one hundred and thirty-five feet long. The crack of the discharge was heard twenty-two miles away, in the town of Cripple Creek. The ionization column left a temporary scar in the air above the barn that was visible from the road. His assistant, Czito, was inside the barn operating the equipment. Tesla himself was standing in a field nearby, watching the sky, conducting measurements with instruments he had arranged in a pattern across the ground at specific intervals.
+On the evening of July third, eighteen ninety-nine, Tesla generated a lightning bolt from the apex of his mast that his notes describe as one hundred and thirty-five feet long. The crack of the discharge was heard fifteen miles away, in the town of Cripple Creek. The ionization column left a temporary scar in the air above the barn that was visible from the road. His assistant, Czito, was inside the barn operating the equipment. Tesla himself was standing in a field nearby, watching the sky, conducting measurements with instruments he had arranged in a pattern across the ground at specific intervals.
 
 
 Later that night, he wrote in his notes: The whole ground was glowing.
@@ -358,7 +358,7 @@ And he had understood, standing in a hotel corridor with a pen in his hand and a
 The experiment was over. The data was in. The iron pipes were still in the ground three hundred feet below the Long Island sand, holding a charge eleven years after the generators went cold. The air above the site where the cupola had stood still held, on certain still nights, the luminescence that the night-shift electrician had been the only one to see and the only one to report. The earth still held the pattern the system had driven into it — the frequency, the resonance, the record of what had been attempted and what had been achieved.
 
 
-The tower was gone. The physicist was still alive, in a room high above the city at the Hotel St. Regis, watching a window that now held only the city and the sky. The experiment had run for twenty-three years after the money stopped, through every year of the tower's emptiness and demolition and aftermath, calibrated not by instruments in a laboratory but by the presence of a white pigeon who had come thirty-three floors above the street as if she knew where she was going.
+The tower was gone. The physicist was still alive, in a room high above the city at the Hotel St. Regis, watching a window that now held only the city and the sky. The experiment had run for twenty-three years after the money stopped, through every year of the tower's emptiness and demolition and aftermath, calibrated not by instruments in a laboratory but by the presence of a white pigeon who had come high above the street as if she knew where she was going.
 
 
 And then she had stopped coming.
@@ -388,7 +388,7 @@ The foreclosure took from Tesla a tract of land that had already been emptied. T
 
 Tesla did not say his life's work was finished when the foreclosure was recorded.
 
-He had not said it in nineteen oh-three when Morgan's letter arrived with its polite refusal dressed in the language of commercial practicality. He had not said it in the years of diminishing correspondence that followed — the letters to industrialists, to government officials, to the military departments of countries that had begun to understand what wireless power might accomplish in wartime. He had not said it in nineteen twelve when the last of the replacement financing failed to materialize and the tower stood dark and the laboratories on Houston Street were finally too expensive to maintain. He had not said it in nineteen seventeen when the Smiley Steel Company converted his life's most consequential structure into approximately forty thousand dollars of salvageable material.
+He had not said it in nineteen oh-three when Morgan's letter arrived with its polite refusal dressed in the language of commercial practicality. He had not said it in the years of diminishing correspondence that followed — the letters to industrialists, to government officials, to the military departments of countries that had begun to understand what wireless power might accomplish in wartime. He had not said it in nineteen twelve when the last of the replacement financing failed to materialize and the tower stood dark and the laboratories on Houston Street were finally too expensive to maintain. He had not said it in nineteen seventeen when the Smiley Steel Company converted his life's most consequential structure into seventeen hundred and fifty dollars of salvageable material.
 
 He waited. He said nothing that the historical record can locate as decisive until nineteen twenty-two. Until a hotel room. Until a bird.
 
@@ -412,7 +412,7 @@ He loved them. This is on record. He said it without embarrassment to the man wh
 
 But the white pigeon was not like the others.
 
-She came to him. The others he had to go to. She came. And when he could no longer go to the park, she came to the hotel. She found the window on the thirty-third floor of a building she had never entered, on a floor above anything a pigeon would typically ascend to, in a city full of windows and ledges and perches closer to the ground. She came to the specific window of the specific room of the specific man and she landed there and she knew where she was.
+She came to him. The others he had to go to. She came. And when he could no longer go to the park, she came to the hotel. She found the window high in a building she had never entered, on a floor above anything a pigeon would typically ascend to, in a city full of windows and ledges and perches closer to the ground. She came to the specific window of the specific room of the specific man and she landed there and she knew where she was.
 
 What was she carrying?
 
@@ -436,7 +436,7 @@ Not felt. Not believed. Not feared. Knew.
 
 A man who says I knew in that register is not expressing an emotion. He is reporting the outcome of an experiment. He is describing the moment a reading became impossible because the instrument had stopped functioning. He is saying: I was measuring something, and the thing I was measuring with is gone, and the measurement is therefore complete, and the result is this — life's work finished, the experiment concluded, the data point reached that I had been waiting for.
 
-He had been waiting since nineteen oh-three. He had been waiting through the empty tower years and the demolition and the legal proceedings and the rooms on the thirty-third floor with the window kept open regardless of temperature. He had been waiting for the thing he was measuring to give him a definitive result. And it had. And the result was: over.
+He had been waiting since nineteen oh-three. He had been waiting through the empty tower years and the demolition and the legal proceedings and the hotel rooms with the window kept open regardless of temperature. He had been waiting for the thing he was measuring to give him a definitive result. And it had. And the result was: over.
 
 The word he chose was finished, not failed.
 
@@ -466,7 +466,7 @@ The shape is the grid. Every pole and line and transformer and meter. Every cabl
 
 The world you live in was not built. It was left. It is what remained after what was being built was stopped.
 
-In nineteen twenty-two, in the New Yorker Hotel, in a room on the thirty-third floor with the window kept open regardless of temperature, a white bird with gray-tipped wings lay down for the last time on a windowsill above the city. The man in the room had been calibrating against this moment for twenty-three years. He had not known he was calibrating against it. He had only known that she came when he needed her to come, and that when she stopped coming something would have reached its end. And she stopped coming — not gradually, not through a slow diminishment that would have given him time to prepare, but the way all readings stop, in the specific moment the instrument gives its final value and goes still.
+In nineteen twenty-two, in the Hotel St. Regis, in a room high above the street with the window kept open regardless of temperature, a white bird with gray-tipped wings lay down for the last time on a windowsill above the city. The man in the room had been calibrating against this moment for twenty-three years. He had not known he was calibrating against it. He had only known that she came when he needed her to come, and that when she stopped coming something would have reached its end. And she stopped coming — not gradually, not through a slow diminishment that would have given him time to prepare, but the way all readings stop, in the specific moment the instrument gives its final value and goes still.
 
 He held her.
 
@@ -498,7 +498,7 @@ The grid is not infrastructure. The grid is evidence.
 
 The world you are living in is the wrong version.
 
-Tesla knew this. He confirmed it in a hotel room in nineteen twenty-two, using the only instrument precise enough to register what had been lost. Not a voltmeter. Not a ground-penetrating radar array. Not an academic paper submitted to a journal that declined to peer review it. A bird. A white bird with gray-tipped wings who had found his window on the thirty-third floor and who, when she was gone, took with her the last available reading of what the experiment had been trying to measure.
+Tesla knew this. He confirmed it in a hotel room in nineteen twenty-two, using the only instrument precise enough to register what had been lost. Not a voltmeter. Not a ground-penetrating radar array. Not an academic paper submitted to a journal that declined to peer review it. A bird. A white bird with gray-tipped wings who had found his window high above the city and who, when she was gone, took with her the last available reading of what the experiment had been trying to measure.
 
 He knew his life's work was finished.
 
