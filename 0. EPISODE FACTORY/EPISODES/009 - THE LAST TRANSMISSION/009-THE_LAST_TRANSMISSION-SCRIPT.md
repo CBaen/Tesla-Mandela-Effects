@@ -139,7 +139,7 @@ He was not describing a visual effect. He was describing a physical measurement.
 He had tuned the system. The earth had answered.
 
 
-He lit incandescent lamps at a distance of five hundred and ninety-one meters from the discharge point using no wires. The lamps were buried in the ground, connected to the earth itself, drawing on the current he had induced in the ground by driving the system at its resonant frequency. The demonstration worked. There was no ambiguity in the measurement. The lamps lit. The instruments registered. The earth carried current at the frequency he had specified.
+He lit incandescent lamps at distances from the discharge point that exceeded anything documented in the electrical science of the era, using no wires. The lamps were buried in the ground, connected to the earth itself, drawing on the current he had induced in the ground by driving the system at its resonant frequency. The demonstration worked. There was no ambiguity in the measurement. The lamps lit. The instruments registered. The earth carried current at the frequency he had specified.
 
 
 This is the physics that was real. Not theoretical. Not speculative. Real, in the sense that physical phenomena are real — demonstrable, measurable, reproducible under the same conditions with the same equipment. The earth is a conducting sphere wrapped in an insulating atmosphere bounded by a conducting ionosphere. Drive current through it at the right frequency and it rings. Tesla rang it. The ring traveled nearly two thousand feet and lit lamps buried in the earth.
