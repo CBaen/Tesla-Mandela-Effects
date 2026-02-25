@@ -1,7 +1,7 @@
 Before landing, the bird hesitated.
 
 
-That is the first thing to understand. Before the wing-beats slowed, before the claws found the windowsill, there was a pause in the air outside the glass — a suspension, a gathering — and the room changed in response to it. Not dramatically. The way a room changes when someone opens a door in another part of the building and the pressure shifts by a degree no instrument would bother measuring. The curtains did not move. The papers on the writing desk did not stir. But the quality of the silence rearranged itself around something that was not yet there, and the man sitting at the window felt it before he saw anything.
+That is the first thing to understand. Before the wing-beats slowed, before the claws found the windowsill, there was a pause in the air outside the glass — a suspension, a gathering — and the room changed in response to it. Not dramatically. The way a room changes when someone opens a door in another part of the building and the pressure shifts by a degree no instrument would bother measuring. The curtains did not move. The papers on the writing desk did not stir. But the quality of the silence rearranged itself around something that was not yet there, and the man sitting at the window registered it before his eyes confirmed it — the way a frequency registers in a wire before the current arrives, the body knowing first, the verification coming second.
 
 
 His name was Nikola Tesla, and he was sixty-six years old, and he had not left the New Yorker Hotel in three weeks.
