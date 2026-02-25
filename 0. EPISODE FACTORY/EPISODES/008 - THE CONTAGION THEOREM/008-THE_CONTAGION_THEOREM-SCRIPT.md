@@ -30,7 +30,7 @@ There is a word for a pathogen that crosses between species.
 
 Finkelstein was building toward a doctrine for deploying such things.
 
-In two thousand and five, the year before Finkelstein's early DARPA work became traceable in the public record, a United States Marine Corps major named Michael B. Prosser completed a master's thesis at the Marine Corps University in Quantico. The thesis was titled — and the title is the argument — "Memetics: A Growth Industry in US Military Operations." Prosser did not present this as speculation. He presented it as urgency. The United States military, Prosser argued, needed a dedicated Meme Warfare Center with the same institutional seriousness as a kinetic weapons division. Memetic weapons were not supplementary. They were not propaganda with a new name. They were a separate class of weapon, operating on a separate class of target.
+In two thousand and six, the year of Finkelstein's early DARPA presentations, a United States Marine Corps major named Michael B. Prosser completed a master's thesis at the Marine Corps University in Quantico. The thesis was titled — and the title is the argument — "Memetics: A Growth Industry in US Military Operations." Prosser did not present this as speculation. He presented it as urgency. The United States military, Prosser argued, needed a dedicated Meme Warfare Center with the same institutional seriousness as a kinetic weapons division. Memetic weapons were not supplementary. They were not propaganda with a new name. They were a separate class of weapon, operating on a separate class of target.
 
 The target was not a city.
 
@@ -38,7 +38,7 @@ The target was not an army.
 
 The target was the cognitive architecture of populations.
 
-In two thousand and eleven, DARPA announced forty-two million dollars in grants for a program called Social Media in Strategic Communications. The official language described research into the science of how social platforms move information through populations. The mechanism they were studying was meme propagation — not the internet humor version, but Finkelstein's version, Prosser's version, Dawkins' original version. Information units designed to replicate, take root, mutate toward fitness, and persist against correction.
+In two thousand and eleven, DARPA announced forty-two million dollars in grants for a program called Social Media in Strategic Communications. This was a separate and broader initiative — not Finkelstein's memetics work, which ran through the mid-two thousands and has its own documented paper trail, but a scaled institutional successor. The official language described research into the science of how social platforms move information through populations. The mechanism they were studying was meme propagation — not the internet humor version, but Dawkins' original version, Prosser's version, the version that had been building a formal research lineage for five years before the SMISC grants were announced. Information units designed to replicate, take root, mutate toward fitness, and persist against correction.
 
 But look at what forty-two million dollars, in two thousand and eleven, was actually purchasing.
 
@@ -92,15 +92,15 @@ The meme only needs the archive to remain intact.
 
 And the archive is always intact.
 
-In two thousand and twenty-six, a video appeared on YouTube under the account name @ShinyWR. The date was January fifth. The runtime displayed on the video player was one million, two hundred thirty-four thousand, five hundred sixty-seven hours. That is approximately one hundred forty years. The actual content of the video was twelve hours of a black screen. No audio. No image. No information in the conventional sense — only the absence of information, packaged as an artifact that could be shared, viewed, and indexed. The account description was in Arabic. When the text was translated, it read: "Come, meet me in hell." The account listed its geographic origin as North Korea. Nearly two point eight million people watched it.
+In two thousand and twenty-six, a video appeared on YouTube under the account name @ShinyWR. The date was January fifth. The runtime displayed on the video player was one million, two hundred thirty-four thousand, five hundred sixty-seven hours. That is approximately one hundred forty years. The actual content of the video was twelve hours of a black screen. No audio. No image. No information in the conventional sense — only the absence of information, packaged as an artifact that could be shared, viewed, and indexed. The account description was in Arabic. When the text was translated, it read: "Come, meet me in hell." The account listed its geographic origin as North Korea. More than two million people watched it.
 
-What were two point eight million people watching?
+What were two million people watching?
 
 They were watching a black screen with a runtime that cannot be lived. No human body will survive one hundred forty years. No device will maintain a continuous playback session across fourteen decades. The number in the runtime field is not describing a duration. It is describing an impossibility, made specific, rendered in the format of a real video with a real runtime, indexed by a real platform, accessible to anyone with an internet connection and two hours to spend watching nothing.
 
-But look at what the two point eight million views are telling you.
+But look at what the two million views are telling you.
 
-The content is absence. The runtime is impossible. The description is a threat. The origin is disputed. And nearly three million people opened it anyway.
+The content is absence. The runtime is impossible. The description is a threat. The origin is disputed. And more than two million people opened it anyway.
 
 The meme does not require content. The meme requires only propagation. Impact. Persistence.
 
@@ -114,7 +114,7 @@ A propaganda poster persuades you of something. You know you have been persuaded
 
 The archive is infrastructure.
 
-And something, for the past forty-five years at minimum, has been studying how to write directly to it.
+And something — if the reference number is real, if the document exists — has been studying how to write directly to it for longer than any publicly acknowledged research program admits.
 
 The question is not whether this has been done. The Pope photograph is evidence it has been done. The documentation is two thousand and twenty-three. The capability is documented. The installation happened, in millions of minds, in the space of a news cycle.
 
