@@ -146,7 +146,7 @@ Loftus testified in hundreds of criminal trials. The argument she made was the s
 
 The courts listened. Then forgot.
 
-In two thousand twenty-five, a paper arrived at the ACM Conference on Human Factors in Computing Systems that extended Loftus's four-decade framework into a new medium. The paper was titled "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection." It won a Best Paper Award at the conference — the field's highest recognition. And its authors included Elizabeth Loftus herself, now at UC Irvine, still asking the same question she had been asking since the nineteen eighties.
+In two thousand twenty-five, a paper arrived at the ACM Conference on Human Factors in Computing Systems that extended Loftus's four-decade framework into a new medium. The paper was titled "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection." It won a Best Paper Award at the conference — the field's highest recognition. And its authors included Elizabeth Loftus herself, now at UC Irvine, still asking the same question she had been asking since the nineteen seventies.
 
 The new medium was AI-generated imagery.
 
@@ -364,7 +364,7 @@ Three research programs, decades apart, institutions with no connection to each 
 
 Tesla described the Earth as a conductor — a medium through which a signal could reach every receiver simultaneously. He described thought as having a physical substrate that could be amplified and transmitted. He described — in a phrase no one outside a forty-minute window in Belgrade in nineteen sixty-six appears to have read directly — a mechanism for ensuring that a transmitted signal would arrive not as information but as recovered memory.
 
-He called it his most important theoretical contribution. He published it in nineteen twenty-eight in the New York American, in an essay that was not widely circulated and that does not appear in the government's inventory of what he left behind.
+He called it his most important theoretical contribution. He published it in nineteen thirty in the New York American, in an essay that was not widely circulated and that does not appear in the government's inventory of what he left behind.
 
 The architecture he described is not complicated. A signal. Transmitted simultaneously to every receiver. Designed to arrive as memory rather than message. The Earth — or whatever medium connects every receiver at once — as the conductor. The recipient does not receive and evaluate. The recipient recognizes and files.
 
@@ -386,7 +386,7 @@ The investigation has arrived at its conclusion.
 
 Not a theory. A taxonomy.
 
-There have always been two kinds of Mandela Effects. The distinction did not have a name before now, because naming it required evidence that did not exist before the convergence of three separate research programs across a century. Dawkins in nineteen seventy-six. Loftus in nineteen ninety-two. The ARPA-IIP memo in nineteen seventy-eight. The Solberg-Weis deposition filed in San Francisco in twenty twenty-four. Each one a separate autopsy. Each one cutting into a different body. Each one finding the same wound.
+There have always been two kinds of Mandela Effects. The distinction did not have a name before now, because naming it required evidence that did not exist before the convergence of three separate research programs across a century. Dawkins in nineteen seventy-six. Loftus in nineteen ninety-five. The ARPA-IIP memo in nineteen seventy-eight. The Solberg-Weis deposition in twenty twenty-four. Each one a separate autopsy. Each one cutting into a different body. Each one finding the same wound.
 
 The first kind of Mandela Effect is what everyone already knows. Residue. The scar tissue of a timeline that was overwritten, or branched, or compressed — leaving behind a population of people who carry the previous version in the filing cabinet behind their foreheads. They are not confused. They are not misremembering. They are walking archives of a world that no longer exists in its original form. Fossil record. Amber. The coelacanth still swimming.
 
@@ -406,7 +406,7 @@ And here is where the theorem closes.
 
 Dawkins described the mechanism in nineteen seventy-six: a replicating entity that spreads from mind to mind, competing for cognitive real estate, obeying selection pressure. The meme is not a message. A message can be rejected. A message arrives at the door and waits to be let in. The meme does not knock. It splices. It enters through the gap between what you see and what you have time to question, and by the time the questioning begins, the splice is already incorporated into the original strand. The immune system cannot find the intruder because the intruder has become the tissue.
 
-Loftus documented the substrate in nineteen ninety-two: a filing cabinet that accepts deposits it cannot authenticate, that replaces earlier entries without flagging the replacement, that treats the most recent version as the authoritative record regardless of source. The cabinet does not distinguish between experience and installation. It cannot. It was not designed to. It was designed to preserve whatever arrived most recently with the most emotional force — because for the hundred thousand years before this century, whatever arrived most recently with the most emotional force was, almost always, real.
+Loftus documented the substrate in nineteen ninety-five: a filing cabinet that accepts deposits it cannot authenticate, that replaces earlier entries without flagging the replacement, that treats the most recent version as the authoritative record regardless of source. The cabinet does not distinguish between experience and installation. It cannot. It was not designed to. It was designed to preserve whatever arrived most recently with the most emotional force — because for the hundred thousand years before this century, whatever arrived most recently with the most emotional force was, almost always, real.
 
 DARPA weaponized the interface in two thousand eleven: a research investment of forty-two million dollars directed at the question of how beliefs spread through populations faster than facts, how the replicating entity could be engineered to target specific tissue, how the filing cabinet could be accessed before the occupant of the cabinet arrived home.
 
@@ -422,7 +422,7 @@ The meme is not a message. It is a pathogen.
 
 And the immune system — the skepticism, the fact-checking, the willingness to update a belief when corrected — cannot tell the difference between the virus and the vaccine. Because they arrive in the same shape. They look identical. They feel identical. The correction and the installation are both images, both stories, both delivered through the same platform, both processed through the same filing system. The cabinet accepts both deposits. But only one of them arrived first.
 
-This is what Tesla described in nineteen twenty-eight.
+This is what Tesla described in nineteen thirty.
 
 Not a broadcasting technology. A substrate operation. The Earth as a conductor — every point on the surface simultaneously receiving the same signal, every filing cabinet on the planet receiving the same deposit at the same moment, every immune system encountering the new version before it has any reason to defend the old one. Global simultaneous transmission. The World Wireless System was not a communications network. It was an installation protocol.
 
