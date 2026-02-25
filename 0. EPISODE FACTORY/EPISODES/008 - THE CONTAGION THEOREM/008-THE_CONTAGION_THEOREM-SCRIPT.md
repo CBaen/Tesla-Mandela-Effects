@@ -196,7 +196,7 @@ Scale is not just a quantitative change. At sufficient scale, a quantitative cha
 
 The Mandela Effect community has a name for it. But the Mandela Effect community developed that name to describe a passive phenomenon — residue caught accidentally in the memory of witnesses who happened to remember the overwritten version. What the Pope photograph represents is not accidental residue.
 
-Now look at the Pope photograph. Not the AI version. The mechanism.
+The Pope photograph is not the subject. The mechanism is.
 
 March twenty twenty-three. A white puffer jacket. Balenciaga branding visible along the collar. The Pope standing in a courtyard. The photograph circulated as if it were documentary. As if someone had caught him on the way to a morning appointment and the camera had seized a genuine unrehearsed moment.
 
@@ -310,8 +310,6 @@ JGT did not see this.
 
 Which means someone ensured that he didn't.
 
-Now consider what he was assessing.
-
 Tesla's relationship to transmission was not incidental to his career. It was the architecture. Everything he built, every theoretical framework he spent his final decades articulating, returned to the same central problem: how do you send a signal to every receiver simultaneously, and what happens to the receiver when it arrives?
 
 He had pitched it to J.P. Morgan. Not as electrical power. Not as an engineering demonstration. Morgan understood power — Morgan had funded Edison, Morgan had reorganized the railroads, Morgan understood the monetization of physical infrastructure. What Tesla pitched was something different.
@@ -326,7 +324,7 @@ Morgan withdrew. The tower was never completed. The official record attributes t
 
 It appears to have concerned Tesla deeply.
 
-Nineteen twenty-eight. A long time after Wardenclyffe. Tesla published an essay in the New York American under the title —"Man's Greatest Achievement."— He was in his early seventies. The tower was gone — demolished in nineteen seventeen for scrap metal during the first war. The World Wireless System existed only in the documents Tesla still carried. He had been described variously as a prophet, a failure, a madman, and a nostalgic eccentric who had outlived his relevance. He was still working.
+Nineteen thirty. A long time after Wardenclyffe. Tesla published an essay in the New York American under the title —"Man's Greatest Achievement."— He was seventy-three. The tower was gone — demolished in nineteen seventeen for scrap metal during the first war. The World Wireless System existed only in the documents Tesla still carried. He had been described variously as a prophet, a failure, a madman, and a nostalgic eccentric who had outlived his relevance. He was still working.
 
 The essay described the universe as a great machine that had always existed and would never end. It described the brain as operating on resonance principles — a receiver, tuned to frequencies that existed independently of its biology. Tesla wrote about thought having a physical substrate. Not metaphorically. He meant that thinking was a process with physical properties: a thing that could, in principle, be measured, amplified, and transmitted.
 
@@ -335,8 +333,6 @@ He called this his most important theoretical contribution.
 The essay was not widely circulated. It does not appear in Trump's assessment inventory. There is no entry in the official record noting its existence among the materials reviewed in January of nineteen forty-three.
 
 Which is not impossible. The inventory was incomplete. Items one through thirteen of Trunk twenty-two prove that. But an essay Tesla had publicly called his most important theoretical contribution, absent from the inventory of a man who reviewed his life's work for the government — that absence has a shape. The shape is the same shape as the double black-bar redaction. The shape of something that was there and then was not where the record said it should be.
-
-Now bring in what V.M. remembered.
 
 The Belgrade Tesla Museum conducted an oral history project from nineteen eighty-seven through nineteen eighty-nine. Staff interviews with engineers, researchers, and government officials who had worked adjacent to Tesla's legacy in the Yugoslav context. Several transcripts remain untranslated. Several original recordings did not survive a media transfer in nineteen ninety-four. One subject, recorded in Serbian and translated by museum staff, was identified in the transcript only by his initials.
 
