@@ -64,9 +64,9 @@ The Information Processing Techniques Office of the Advanced Research Projects A
 
 Thirty-four percent did not hesitate.
 
-The document references an earlier study — a nineteen sixty-one radio predecessor, conducted before photographs were the primary vehicle, when audio was the dominant stimulus channel being studied. Which means the research program that the forty-two million dollar DARPA announcement in two thousand and eleven was funding had, if the reference number is real, been running for forty-five years.
+The document references an earlier study — a nineteen sixty-one radio predecessor, conducted before photographs were the primary vehicle, when audio was the dominant stimulus channel being studied. Which means the research program that the forty-two million dollar DARPA announcement in two thousand and eleven was funding had, if the reference number is real, been running for fifty years.
 
-Forty-five years of studying how false stimuli become genuine memories.
+Fifty years of studying how false stimuli become genuine memories.
 
 The FOIA record for ARPA's Information Processing Techniques Office from this period is partial. Records from that era were partly transferred to the National Science Foundation when research portfolios shifted, creating a jurisdictional gap between what DARPA holds and what NSF holds. The gap is not suspicious. The gap is administrative. But administrative gaps are where absence becomes indistinguishable from removal.
 
@@ -477,3 +477,28 @@ Those memories exist somewhere in the cabinet. Uncompromised. Still there.
 The question is not whether the installation succeeded.
 
 The question is — how much of what you remember as yourself... was filed by someone else?
+
+---
+
+Caption Key
+
+Dawkins → Dawkins → /D AO1 K IH0 N Z/
+Mandela → Mandela → /M AH0 N D EH1 L AH0/
+Balenciaga → Balenciaga → /B AH0 L EH0 N S IY1 AH0 G AH0/
+Loftus → Loftus → /L AO1 F T AH0 S/
+Finkelstein → Finkelstein → /F IH1 NG K EH0 L S T AY0 N/
+DARPA → DARPA → /D AA1 R P AH0/
+ARPA → ARPA → /AA1 R P AH0/
+Tesla → Tesla → /T EH1 Z L AH0/
+Nikola → Nikola → /N IY1 K AO0 L AA0/
+Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH0 F/
+Belgrade → Belgrade → /B EH1 L G R EY0 D/
+Prosser → Prosser → /P R AO1 S ER0/
+Ferenczi → Ferenczi → /F EH1 R EH0 N T S IY0/
+Solberg-Weis → Solberg-Weis → /S OW1 L B ER0 G V AY0 S/
+Renata → Renata → /R EH0 N AA1 T AH0/
+Midjourney → Midjourney → /M IH1 D JH ER0 N IY0/
+mimeme → mimeme → /M IH0 M IY1 M/
+ShinyWR → ShinyWR → /SH IH1 N IY0 D AH1 B AH0 L Y UW0 AA1 R/
+Quantico → Quantico → /K W AO1 N T IH0 K OW0/
+Yugoslav → Yugoslav → /Y UW1 G OW0 S L AA0 V/
