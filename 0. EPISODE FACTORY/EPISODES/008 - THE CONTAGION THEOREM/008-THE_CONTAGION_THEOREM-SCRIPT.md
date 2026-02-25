@@ -276,7 +276,7 @@ The Office of Alien Property Custodian was at the Hotel New Yorker within hours.
 
 Then the government brought in a scientist.
 
-John G. Trump was an MIT electrical engineer. He worked for the National Defense Research Committee. He was known for precision and discretion and the particular kind of competence that gets a man called in when the government needs a judgment that will not be questioned. He was also the uncle — maternal uncle — of a future President of the United States. That biographical detail would become a footnote to the footnote of this story, attached retroactively by the internet as if family trees could explain what happened.
+John G. Trump was an MIT electrical engineer. He worked for the National Defense Research Committee. He was known for precision and discretion and the particular kind of competence that gets a man called in when the government needs a judgment that will not be questioned. He was also the uncle — paternal uncle — of a future President of the United States. That biographical detail would become a footnote to the footnote of this story, attached retroactively by the internet as if family trees could explain what happened.
 
 Trump spent two days reviewing the materials. His official assessment: nothing of significant value.
 
