@@ -328,11 +328,11 @@ Nineteen thirty. A long time after Wardenclyffe. Tesla published an essay in the
 
 The essay drew on Vedic cosmology — the concepts of akasha and prana, the idea that matter and energy were expressions of a single underlying field. Tesla described the universe in terms he had used elsewhere: a great machine, eternal, operating on principles that the right instruments might one day measure directly. He wrote about the nature of matter and energy as products of a medium that permeated everything. The brain, in Tesla's broader framework — articulated across multiple writings and interviews — operated on resonance principles. A receiver, tuned to frequencies that existed independently of its biology. Thought, in this worldview, had a physical substrate: a process with measurable properties that could, in principle, be amplified and transmitted.
 
-He called this his most important theoretical contribution.
+Tesla considered this framework among his most significant work.
 
 The essay was not widely circulated. It does not appear in Trump's assessment inventory. There is no entry in the official record noting its existence among the materials reviewed in January of nineteen forty-three.
 
-Which is not impossible. The inventory was incomplete. Items one through thirteen of Trunk twenty-two prove that. But an essay Tesla had publicly called his most important theoretical contribution, absent from the inventory of a man who reviewed his life's work for the government — that absence has a shape. The shape is the same shape as the double black-bar redaction. The shape of something that was there and then was not where the record said it should be.
+Which is not impossible. The inventory was incomplete. Items one through thirteen of Trunk twenty-two prove that. But an essay Tesla considered among his most significant work, absent from the inventory of a man who reviewed his life's work for the government — that absence has a shape. The shape is the same shape as the double black-bar redaction. The shape of something that was there and then was not where the record said it should be.
 
 The Belgrade Tesla Museum conducted an oral history project from nineteen eighty-seven through nineteen eighty-nine. Staff interviews with engineers, researchers, and government officials who had worked adjacent to Tesla's legacy in the Yugoslav context. Several transcripts remain untranslated. Several original recordings did not survive a media transfer in nineteen ninety-four. One subject, recorded in Serbian and translated by museum staff, was identified in the transcript only by his initials.
 
