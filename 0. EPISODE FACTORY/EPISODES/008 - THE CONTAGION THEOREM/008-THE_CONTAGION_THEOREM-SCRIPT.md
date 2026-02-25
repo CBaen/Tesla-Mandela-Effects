@@ -264,7 +264,7 @@ Not posed by a researcher. Not filed in a brief or published in a journal. The q
 
 The investigation arrives here.
 
-January, nineteen forty-three. The Hotel New Yorker, Room three-three-two-seven. Manhattan. The air in that corridor smells of old cigarette smoke and wool carpet and the particular dampness of a building that has been holding its breath all winter. The war is grinding through its fourth year. The world is preoccupied. Three floors below, in the lobby, brass fixtures catch the light from chandeliers nobody remembers to clean anymore. Up here, on the thirty-third floor, a man who had not left this room in months lay dead on the floor beside his bed.
+January, nineteen forty-three. The Hotel New Yorker, Room three-three-two-seven. Manhattan. The air in that corridor smells of old cigarette smoke and wool carpet and the particular dampness of a building that has been holding its breath all winter. The war is grinding through its fourth year. The world is preoccupied. Three floors below, in the lobby, brass fixtures catch the light from chandeliers nobody remembers to clean anymore. Up here, on the thirty-third floor, a man who had not left this room in months lay dead in his room.
 
 Nikola Tesla. January seventh, nineteen forty-three. He was eighty-six years old.
 
@@ -326,7 +326,7 @@ It appears to have concerned Tesla deeply.
 
 Nineteen thirty. A long time after Wardenclyffe. Tesla published an essay in the New York American under the title —"Man's Greatest Achievement."— He was seventy-three. The tower was gone — demolished in nineteen seventeen for scrap metal during the first war. The World Wireless System existed only in the documents Tesla still carried. He had been described variously as a prophet, a failure, a madman, and a nostalgic eccentric who had outlived his relevance. He was still working.
 
-The essay drew on Vedic cosmology — the concepts of akasha and prana, the idea that matter and energy were expressions of a single underlying field. Tesla described the universe in terms he had used elsewhere: a great machine, eternal, operating on principles that the right instruments might one day measure directly. He wrote about the nature of matter and energy as products of a medium that permeated everything. The brain, in Tesla's broader framework — articulated across multiple writings and interviews — operated on resonance principles. A receiver, tuned to frequencies that existed independently of its biology. Thought, in this worldview, had a physical substrate: a process with measurable properties that could, in principle, be amplified and transmitted.
+The essay drew on Vedic cosmology — the concepts of akasha and prana, the idea that matter and energy were expressions of a single underlying field. Tesla had described the universe elsewhere as "a great machine which never came into being and never will end" — language that predated this essay and would outlast it. He wrote about the nature of matter and energy as products of a medium that permeated everything. The brain, in Tesla's broader framework — articulated across multiple writings and interviews — operated on resonance principles. A receiver, tuned to frequencies that existed independently of its biology. Thought, in this worldview, had a physical substrate: a process with measurable properties that could, in principle, be amplified and transmitted.
 
 Tesla considered this framework among his most significant work.
 
@@ -422,7 +422,7 @@ Memory does not record. It catches.
 
 The meme is not a message. It is a pathogen.
 
-And the immune system — the skepticism, the fact-checking, the willingness to update a belief when corrected — cannot tell the difference between the virus and the vaccine. Because they arrive in the same shape. They look identical. They feel identical. The correction and the installation are both images, both stories, both delivered through the same platform, both processed through the same filing system. The cabinet accepts both deposits. But only one of them arrived first.
+And the immune system — the skepticism, the fact-checking, the willingness to update a belief when corrected — cannot tell the difference between the virus and the vaccine. Because they arrive in the same shape. They look identical. They feel identical. The correction and the installation are both images, both stories, both delivered through the same platform, both processed through the same filing system. The archive accepts both deposits. But only one of them arrived first.
 
 This is what Tesla's framework described.
 
@@ -436,13 +436,13 @@ Because everything established here about the Pope photograph, about the AI vide
 
 Every image.
 
-You did not consent to becoming the subject of this investigation. You became it the moment you picked up the device and began scrolling, and the filing cabinet behind your forehead began accepting deposits from sources that had already studied what made it open. The algorithm is not neutral. The platform is not passive. The architecture knows the filing accelerant. It knows that laughter opens the drawer. It knows that outrage opens it faster. It knows that repetition, over time, makes the cabinet stop checking whether the deposit matches what was already there — because the cabinet, after enough repetitions, simply assumes the new deposit IS what was already there.
+You did not consent to becoming the subject of this investigation. You became it the moment you picked up the device and began scrolling, and the archive behind your forehead began accepting deposits from sources that had already studied what made it open. The algorithm is not neutral. The platform is not passive. The architecture knows the filing accelerant. It knows that laughter opens the drawer. It knows that outrage opens it faster. It knows that repetition, over time, makes the cabinet stop checking whether the deposit matches what was already there — because the cabinet, after enough repetitions, simply assumes the new deposit IS what was already there.
 
 This is not surveillance. Surveillance watches you.
 
-This is something older. Something that learned, from Tesla and from Dawkins and from Loftus and from forty-two million dollars in federal research funding, that watching is unnecessary. You do not need to watch the cabinet. You need only keep depositing.
+This is something older. Something that learned, from Tesla and from Dawkins and from Loftus and from forty-two million dollars in federal research funding, that watching is unnecessary. You do not need to watch the index. You need only keep depositing.
 
-Every memory you trust about a public event from the last decade passed through this architecture on its way to the cabinet. The image you remember of a moment — of a speech, a photograph, a headline, a face — may be the original, or it may be the installation, and the filing cabinet cannot tell you which, because the record is the thing that was accessed.
+Every memory you trust about a public event from the last decade passed through this architecture on its way to the cabinet. The image you remember of a moment — of a speech, a photograph, a headline, a face — may be the original, or it may be the installation, and the record cannot tell you which, because the record is the thing that was accessed.
 
 There is one immune response available. It is not a cure. There is no cure. The infection has already occurred. The deposits have already been made. The cabinet has already filed what it received.
 
