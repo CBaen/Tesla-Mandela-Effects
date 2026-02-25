@@ -284,9 +284,76 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 
 ---
 
-## Window Rules — Blocked for Episode 009
+### 009 — THE LAST TRANSMISSION
+- **Wound:** Energetic/tactile Mandela Effect — new category. The ambient wrongness of a wired world. Electricity should be free, wireless, ambient. Tesla designed it, tested it (Colorado Springs, 1899 — 591 meters, 12 million volts), built it (Wardenclyffe, 1901 — 186-foot tower, iron roots 300 feet into the earth). The possibility died in a hotel room in 1922 when a white pigeon with gray-tipped wings stopped breathing. Tesla named that moment precisely: "When that pigeon died, something went out of my life. I knew my life's work was finished." Every power cable in existence is physical evidence of a wrong timeline.
+- **Opening type:** Sensory hook (the sound and feel of a pigeon landing in a silent hotel room — listener is inside the room before they know where "there" is)
+- **Structural shape:** Chronological spiral (three passes — each circles pigeon / Wardenclyffe / the announcement of defeat, each return adds a new evidence layer: Colorado Springs in pass 1, underground system and fabricated sources in pass 2, 1922 convergence and present-day in pass 3)
+- **Closing type:** The Silence — investigation reaches the moment the pigeon dies, Tesla's statement, and there is nothing left to say
+- **Emotional endpoint:** Grief — something irreplaceable was lost, a technology and a version of the world. Cannot be recovered.
+- **Tesla connection type:** Experiment consequence (Wardenclyffe as the experiment; the wired world as the permanent consequence of its termination)
+- **Tesla presence:** Not a character in scenes. Present through documented primary-source quotes (O'Neill's "Prodigal Genius," 1944) and through the physical evidence of what he built.
+- **Key locations:** Hotel St. Regis, Manhattan (1922); Bryant Park, Manhattan (pigeon-feeding routine); Colorado Springs, Colorado (1899 magnifying transmitter); Wardenclyffe/Shoreham, Long Island (1901-1917); Hotel New Yorker, Room 3327 (final years, 1934-1943)
+- **Mandela Effects (primary):** Energetic/tactile — new category. The sense that electricity was supposed to be ambient, wireless, free. Manifests as persistent wrongness about cables, grids, power bills. The collective intuition that wireless charging is a return, not a novelty. The recognition — when shown Wardenclyffe's specifications — that feels like familiarity, not discovery.
+- **Fabricated sources:** Personal diary/journal entry (W.H. Fitch, night manager, Hotel St. Regis, 1921-1923 — the entry about the day the bird went, the foreman noting "silence" then crossing it out); Anonymous letter from insider/whistleblower (unsigned, Westinghouse letterhead, postmarked Denver 1978, received by Tesla Museum Belgrade — workers calling the vibration "the grip," the luminescence above the tower at 80% capacity); Insurance claim/incident report (Smiley Steel demolition report, Suffolk County Bureau of Labor, August 1917 — 14-degree thermal anomaly at the iron pipe terminus, no heat source identified, no investigation ordered); Unpublished academic paper (Dr. Eveline Marsh, Columbia University, 1971 — terrestrial resonance and stored charge, rejected by IEEE without peer review, citing the 14-degree anomaly and asking whether the electromagnetic baseline was permanently altered)
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "wings reorganizing the silence" — the specific quality of a pigeon landing in a quiet room
+  - "the grip" — workers' term for the full-body vibration from Wardenclyffe at 80% capacity, felt in the back teeth
+  - "iron roots, 300 feet down" — the underground terrestrial grippers
+  - "the cable as evidence" — every power cord as physical proof of a wrong timeline
+  - "the light from her eyes" — Tesla's primary-source description of the pigeon's death
+  - "the 14-degree anomaly" — thermal event at the demolished iron pipe terminus, 1917
+  - "the luminescence above the tower" — night-shift worker's account of light that was not corona discharge
+  - "hired a messenger" — Tesla paying a Western Union boy to feed the pigeons when his legs failed
+  - "the year of two endings" — 1922: the pigeon dies, the Wardenclyffe property is foreclosed
+  - "the wrong timeline made permanent" — plugging something in as a gesture from a reality that should not have won
+- **Unique elements:** Energetic/tactile Mandela Effect as new series category; precision of Tesla's naming — he did not declare defeat at Morgan's withdrawal, the demolition, or the foreclosure, but at the pigeon; underground Wardenclyffe tunnel system confirmed by 2017 ground-penetrating radar; 14-degree thermal anomaly in Smiley Steel demolition report (fabricated but technically coherent); DARPA POWER program (2025) as contemporary data point; the Tesla Science Center's description of Wardenclyffe's earth connection as the system's essential component; Dr. Marsh's unpublished Columbia paper (fabricated) linking stored charge to geological formation
+- **Names spent:** Nikola Tesla, John J. O'Neill, J.P. Morgan, Guglielmo Marconi, W.H. Fitch (fabricated), Dr. Eveline Marsh (fabricated), T.R. Kempe (fabricated), G.M. Altus (fabricated)
 
-These choices are blocked for Episode 009 based on the window rules in the registry header.
+---
+
+## Window Rules — Blocked for Episode 010
+
+These choices are blocked for Episode 010 based on the window rules in the registry header.
+
+**Closing types (3-episode window — cannot repeat if used in 007, 008, or 009):**
+- The Mirror (007) — blocked
+- The Invitation (008) — blocked
+- The Silence (009) — blocked
+
+**Opening types (2-episode window — cannot repeat if used in 008 or 009):**
+- Fact that becomes horrifying (008) — blocked
+- Sensory hook (009) — blocked
+
+**Structural shapes (2-episode window — cannot repeat if used in 008 or 009):**
+- Crime scene investigation (008) — blocked
+- Chronological spiral (009) — blocked
+
+**Tesla connection types (2-episode window — cannot repeat if used in 008 or 009):**
+- Absence (008) — blocked
+- Experiment consequence (009) — blocked
+
+**Emotional endpoints (5-episode window — cannot repeat if used in 005–009):**
+- Vertigo (005) — blocked
+- Wonder / awe (006) — blocked
+- Quiet acceptance (007) — blocked
+- Defiance (008) — blocked
+- Grief (009) — blocked
+- Existential dread (003) — window cleared, available
+- Paranoia (001) — window cleared, available
+- Loneliness (004) — window cleared, available
+
+**Available for Episode 010:**
+- Closing types: The Open Wound, The Witness, The Callback, The Inversion
+- Opening types: Direct address question, Declarative impossibility, Witness cold open, The negation, The artifact
+- Structural shapes: Dual timeline, Single witness, The collection, The trial, The letter, The descent
+- Tesla connection types: Direct appearance, Technology descendant, Philosophical parallel, Opposition
+- Emotional endpoints: Existential dread, Paranoia, Loneliness
+
+---
+
+## Window Rules — Blocked for Episode 009 (ARCHIVED)
+
+These choices were blocked for Episode 009 based on the window rules in the registry header.
 
 **Closing types (3-episode window — cannot repeat if used in 006, 007, or 008):**
 - The Callback (006) — blocked
