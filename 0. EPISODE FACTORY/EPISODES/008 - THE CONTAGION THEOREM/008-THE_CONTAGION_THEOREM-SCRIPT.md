@@ -282,7 +282,7 @@ Trump spent two days reviewing the materials. His official assessment: nothing o
 
 That is the report. Those words, approximately, standing in for a full review. Nothing of significant value.
 
-Thirty-seven years later, Yugoslavia negotiated the return of Tesla's materials to the Tesla Museum in Belgrade. Of the eighty trunks that had been seized in nineteen forty-three, sixty arrived. Twenty were unaccounted for. No formal explanation. No transfer manifest explaining their absence. Twenty trunks that went into government custody in nineteen forty-three and did not arrive in Belgrade in nineteen seventy-six — not destroyed, not declassified, not returned, not explained. Twenty trunks that had arrived somewhere else.
+Eight years later, Yugoslavia negotiated the return of Tesla's materials to Belgrade. The cargo arrived by ship in nineteen fifty-one — a country reclaiming its inheritance from a war that had briefly paused everything. Of the eighty trunks that had been seized in nineteen forty-three, sixty arrived. Twenty were unaccounted for. No formal explanation. No transfer manifest explaining their absence. Twenty trunks that went into government custody in nineteen forty-three and did not arrive in Belgrade in nineteen fifty-one — not destroyed, not declassified, not returned, not explained. Twenty trunks that had arrived somewhere else.
 
 But look at what the sixty returning trunks contained.
 
