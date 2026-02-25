@@ -48,7 +48,7 @@ Before two thousand and eleven, a meme that entered a population still required 
 
 That membrane is gone.
 
-Consider what changed. In early two thousand and twenty-three, a user named Midjourney released a diffusion model capable of generating photographic images from text descriptions. On March twenty-fourth, two thousand and twenty-three, an image of Pope Francis in an oversized white puffer jacket appeared on social media. The image was built entirely by a generative AI system — no camera, no jacket, no courtyard. Within hours, it had been seen by millions of people who did not know what they were looking at. Within days, researchers began documenting something that had no clinical name yet.
+Consider what changed. In early two thousand and twenty-three, an AI image generator called Midjourney reached a threshold — photographic images from text descriptions, indistinguishable from documentary photography. On March twenty-fourth, two thousand and twenty-three, an image of Pope Francis in an oversized white puffer jacket appeared on social media. The image was built entirely by a generative AI system — no camera, no jacket, no courtyard. Within hours, it had been seen by millions of people who did not know what they were looking at. Within days, researchers began documenting something that had no clinical name yet.
 
 People were reporting memories of the image from before it existed.
 
@@ -72,7 +72,7 @@ The FOIA record for ARPA's Information Processing Techniques Office from this pe
 
 Thirty-four percent of subjects reported fabricated materials as genuine memories, without hesitation.
 
-Now consider the Pope photograph. Not the photograph — the event. Millions of exposures. Millions of instances of the image entering the archive of the real, tagged without a source, filed without a timestamp, retrievable on demand. The thirty-four percent from nineteen seventy-eight was a controlled laboratory with a limited stimulus and a small population.
+The Pope photograph is not the photograph. It is the event. Millions of exposures. Millions of instances of the image entering the archive of the real, tagged without a source, filed without a timestamp, retrievable on demand. The thirty-four percent from nineteen seventy-eight was a controlled laboratory with a limited stimulus and a small population.
 
 What is the percentage called when the stimulus reaches two hundred million people in seventy-two hours?
 
@@ -126,11 +126,11 @@ Elizabeth Loftus had a different question. She was not interested in propaganda,
 
 The distinction matters. A recording device is passive. You press play and it reproduces what happened. A writing device can be edited. New information can be grafted onto old records. The seam between what was there and what was added can be invisible — not because the addition was subtle, but because the storage format cannot distinguish between original data and a later revision.
 
-Loftus published her foundational findings in the nineteen eighties. The study that anchored her reputation became known as the Lost in the Mall experiment. She took adult subjects and presented each of them with a booklet containing four short paragraphs — descriptions of events from their own childhood, supplied by family members. Three of the events were real. The fourth was invented: a detailed account of being lost in a shopping mall as a child, rescued by a stranger, reunited with the family.
+Loftus had been building toward this question since the nineteen seventies, when her reconstructive memory research first established that eyewitness testimony was not replay but reconstruction. In nineteen ninety-five, she published the study that anchored her reputation — the experiment known as Lost in the Mall. She took adult subjects and presented each of them with a booklet containing four short paragraphs — descriptions of events from their own childhood, supplied by family members. Three of the events were real. The fourth was invented: a detailed account of being lost in a shopping mall as a child, rescued by a stranger, reunited with the family.
 
 The subjects were asked to recall any details they could from each event.
 
-Approximately twenty-five percent of them recalled the mall event. Not as something they had read. As something they had lived. Some added details — what the stranger wore, how long they waited, the smell of the food court. One subject, when later informed that the mall memory had been fabricated, said... "That's strange. I can still see it."
+Approximately twenty-five percent of them recalled the mall event. Not as something they had read. As something they had lived. Some added details — what the stranger wore, how long they waited, the smell of the food court. One subject, when later informed that the mall memory had been fabricated, expressed disbelief. The correction arrived. The memory remained.
 
 The filing cabinet in the skull had accepted the deposit. It did not ask for the origin slip.
 
@@ -172,9 +172,7 @@ Dr. Solberg-Weis answered directly. She said... "Those studies exist. I reviewed
 
 The next question and answer are redacted pending protective order review.
 
-Sit with that for a moment.
-
-The research Loftus and her co-authors published in two thousand twenty-five — the finding that AI-generated imagery doubles false memory retention — was a university study, conducted with consent, under ethical review, with findings published for global scientific scrutiny. Loftus had been asking the question since the nineteen eighties. The academic pipeline from hypothesis to peer-reviewed finding took forty years.
+The research Loftus and her co-authors published in two thousand twenty-five — the finding that AI-generated imagery doubles false memory retention — was a university study, conducted with consent, under ethical review, with findings published for global scientific scrutiny. Loftus had been asking the question since the nineteen seventies. The academic pipeline from hypothesis to peer-reviewed finding took fifty years.
 
 The internal platform research — marked confidential, reviewed by a consultant who was not permitted to retain copies, flagged to leadership, and then disappeared behind a protective order — appears to have been running concurrently. Or earlier.
 
