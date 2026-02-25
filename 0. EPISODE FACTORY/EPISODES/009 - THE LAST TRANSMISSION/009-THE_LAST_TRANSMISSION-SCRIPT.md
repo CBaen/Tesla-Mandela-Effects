@@ -97,7 +97,7 @@ But the experiment had not ended in nineteen oh-five, when the money stopped. It
 To understand what that means, you have to go back twenty-three years. You have to go back to a plateau in the Colorado Rockies, to a rented barn fitted with copper plating and a metal mast, to the summer and fall of eighteen ninety-nine, to the moment when Nikola Tesla proved that the earth itself could carry current.
 
 
-Colorado Springs. Eighteen ninety-nine. The site: a rented property on the eastern edge of the Pikes Peak drainage basin, five hundred and ninety-one meters above sea level. The elevation was deliberate. Higher elevation means lower atmospheric pressure, which means a longer mean free path for electrons in the air — the gaps between air molecules are wider, which means the insulating properties of the atmosphere are reduced, which means the thresholds at which electrical discharge becomes possible are lower. Tesla had calculated this in New York and confirmed it in Colorado. He wanted a location where the air would cooperate.
+Colorado Springs. Eighteen ninety-nine. The site: a rented property on the eastern edge of the Pikes Peak drainage basin, approximately six thousand feet above sea level. The elevation was deliberate. Higher elevation means lower atmospheric pressure, which means a longer mean free path for electrons in the air — the gaps between air molecules are wider, which means the insulating properties of the atmosphere are reduced, which means the thresholds at which electrical discharge becomes possible are lower. Tesla had calculated this in New York and confirmed it in Colorado. He wanted a location where the air would cooperate.
 
 
 He had also chosen Colorado for the lightning.
@@ -505,3 +505,17 @@ He knew his life's work was finished.
 He was right.
 
 The bird is gone.
+
+
+Caption Key
+
+Nikola → Nikola → /N IY1 K AO0 L AA0/
+Tesla → Tesla → /T EH1 S L AA0/
+Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH0 F/
+Shoreham → Shoreham → /SH AO1 R AH0 M/
+Czito → Chito → /CH IY1 T OW0/
+Schumann → Schumann → /SH UW1 M AH0 N/
+Marguery → Marguery → /M AA1 R G AH0 R IY0/
+Marconi → Marconi → /M AA0 R K OW1 N IY0/
+piezoelectric → piezoelectric → /P IY0 EY1 Z OW0 IH0 L EH0 K T R IH0 K/
+ferroelectric → ferroelectric → /F EH1 R OW0 IH0 L EH0 K T R IH0 K/
