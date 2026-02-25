@@ -198,7 +198,7 @@ The Mandela Effect community has a name for it. But the Mandela Effect community
 
 The Pope photograph is not the subject. The mechanism is.
 
-March twenty twenty-three. A white puffer jacket. Balenciaga branding visible along the collar. The Pope standing in a courtyard. The photograph circulated as if it were documentary. As if someone had caught him on the way to a morning appointment and the camera had seized a genuine unrehearsed moment.
+March twenty twenty-three. A white puffer jacket. What viewers and press would describe as Balenciaga styling. The Pope standing in a courtyard. The photograph circulated as if it were documentary. As if someone had caught him on the way to a morning appointment and the camera had seized a genuine unrehearsed moment.
 
 He was never wearing that jacket. The photograph did not exist until someone made it exist.
 
@@ -326,7 +326,7 @@ It appears to have concerned Tesla deeply.
 
 Nineteen thirty. A long time after Wardenclyffe. Tesla published an essay in the New York American under the title —"Man's Greatest Achievement."— He was seventy-three. The tower was gone — demolished in nineteen seventeen for scrap metal during the first war. The World Wireless System existed only in the documents Tesla still carried. He had been described variously as a prophet, a failure, a madman, and a nostalgic eccentric who had outlived his relevance. He was still working.
 
-The essay described the universe as a great machine that had always existed and would never end. It described the brain as operating on resonance principles — a receiver, tuned to frequencies that existed independently of its biology. Tesla wrote about thought having a physical substrate. Not metaphorically. He meant that thinking was a process with physical properties: a thing that could, in principle, be measured, amplified, and transmitted.
+The essay drew on Vedic cosmology — the concepts of akasha and prana, the idea that matter and energy were expressions of a single underlying field. Tesla described the universe in terms he had used elsewhere: a great machine, eternal, operating on principles that the right instruments might one day measure directly. He wrote about the nature of matter and energy as products of a medium that permeated everything. The brain, in Tesla's broader framework — articulated across multiple writings and interviews — operated on resonance principles. A receiver, tuned to frequencies that existed independently of its biology. Thought, in this worldview, had a physical substrate: a process with measurable properties that could, in principle, be amplified and transmitted.
 
 He called this his most important theoretical contribution.
 
@@ -364,7 +364,7 @@ Three research programs, decades apart, institutions with no connection to each 
 
 Tesla described the Earth as a conductor — a medium through which a signal could reach every receiver simultaneously. He described thought as having a physical substrate that could be amplified and transmitted. He described — in a phrase no one outside a forty-minute window in Belgrade in nineteen sixty-six appears to have read directly — a mechanism for ensuring that a transmitted signal would arrive not as information but as recovered memory.
 
-He called it his most important theoretical contribution. He published it in nineteen thirty in the New York American, in an essay that was not widely circulated and that does not appear in the government's inventory of what he left behind.
+He published this framework in nineteen thirty in the New York American, in an essay that was not widely circulated and that does not appear in the government's inventory of what he left behind.
 
 The architecture he described is not complicated. A signal. Transmitted simultaneously to every receiver. Designed to arrive as memory rather than message. The Earth — or whatever medium connects every receiver at once — as the conductor. The recipient does not receive and evaluate. The recipient recognizes and files.
 
@@ -422,7 +422,7 @@ The meme is not a message. It is a pathogen.
 
 And the immune system — the skepticism, the fact-checking, the willingness to update a belief when corrected — cannot tell the difference between the virus and the vaccine. Because they arrive in the same shape. They look identical. They feel identical. The correction and the installation are both images, both stories, both delivered through the same platform, both processed through the same filing system. The cabinet accepts both deposits. But only one of them arrived first.
 
-This is what Tesla described in nineteen thirty.
+This is what Tesla's framework described.
 
 Not a broadcasting technology. A substrate operation. The Earth as a conductor — every point on the surface simultaneously receiving the same signal, every filing cabinet on the planet receiving the same deposit at the same moment, every immune system encountering the new version before it has any reason to defend the old one. Global simultaneous transmission. The World Wireless System was not a communications network. It was an installation protocol.
 
