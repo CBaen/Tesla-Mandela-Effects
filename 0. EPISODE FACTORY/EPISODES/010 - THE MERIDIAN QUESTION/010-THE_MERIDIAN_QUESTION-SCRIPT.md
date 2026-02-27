@@ -118,7 +118,7 @@ The contract was real. The money was real. The patent percentage was real. The d
 What was not in the contract was what Tesla actually intended to build.
 
 
-He had found something two years earlier, in Colorado Springs. Nineteen hundred. He had built a laboratory there, in the thin mountain air, and he had spent the winter doing something that looked, from outside the building, like a man trying to destroy himself with electricity. The lightning he generated was visible from the next county. It killed the local power station. It lit the gas in the soil and caused the earth around the building to glow. And somewhere in the middle of those experiments, he discovered something that no one before him had known.
+He had found something two years earlier, in Colorado Springs. Eighteen ninety-nine. He had built a laboratory there, in the thin mountain air, and he had spent the winter doing something that looked, from outside the building, like a man trying to destroy himself with electricity. The lightning he generated was visible from the next county. It killed the local power station. It lit the gas in the soil and caused the earth around the building to glow. And somewhere in the middle of those experiments, he discovered something that no one before him had known.
 
 
 The Earth resonates.
