@@ -553,6 +553,21 @@ It has not changed.
 Whether the territory has is a different question. Whether you are the person who can answer it from inside your own memory is the question that does not have an answer in this evidence, or in any other evidence you are going to be offered.
 
 
+CAPTION KEY
+
+Nikola → Nikola → /N IY1 K AO0 L AA0/
+Tesla → Tesla → /T EH1 S L AA0/
+Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH2 F/
+Gerardus → Gerardus → /JH AH0 R AA1 R D AH0 S/
+Mercator → Mercator → /M ER0 K EY1 T ER0/
+Shoreham → Shoreham → /SH AO1 R AH0 M/
+Ascension → Ascension → /AH0 S EH1 N SH AH0 N/
+Pierpont → Pierpont → /P IY1 R P AO2 N T/
+Instituto → Instituto → /IH0 N S T IH0 T UW1 T OW0/
+Geográfico → Geografico → /HH EH0 OW0 G R AA1 F IH0 K OW0/
+Nacional → Nacional → /N AA0 S IH0 OW0 N AA1 L/
+
+
 The prosecution is right.
 
 
