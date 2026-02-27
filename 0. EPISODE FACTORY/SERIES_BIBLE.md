@@ -311,9 +311,76 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 
 ---
 
-## Window Rules — Blocked for Episode 010
+### 010 — THE THIRTEENTH FREQUENCY
+- **Wound:** Systematic erasure — new category. Three independent removals of the number 13 from three different organizing systems: the zodiac (Ophiuchus excluded by Babylonians, ~1000 BCE), the calendar (Cotsworth's International Fixed Calendar defeated by Chief Rabbi Hertz's "Battle for the Sabbath," 1902-1930s), and culture (triskaidekaphobia coined 1910, no pre-1800s documentation). The Mandela Effect is not that 13 is unlucky. The Mandela Effect is that 13 is powerful enough to have been removed from every system humans use to organize reality. The body still runs on the 13-cycle rhythm (28-day menstrual cycle × 13 = 364 days). The desynchronization is permanent.
+- **Opening type:** The negation — "This is not about the number thirteen. This is about who decided you wouldn't need it."
+- **Structural shape:** The collection — three independent mini-investigations (zodiac, calendar, suppression), each complete in itself, converging at the close to one conclusion
+- **Closing type:** The Inversion — the "safe" explanation (13 is just a superstition we outgrew) turns out more terrifying than the conspiracy, because it means the removal was voluntary
+- **Emotional endpoint:** Paranoia — who benefits from a population permanently desynchronized from the planet's own temporal rhythm?
+- **Tesla connection type:** Philosophical parallel — Tesla measuring the Earth's electromagnetic frequency at Colorado Springs (1899) while Cotsworth proposed aligning timekeeping with the Earth's temporal frequency (1902). Same planet, same principle: the Earth has natural frequencies humans can sync with. Same forces killed both — you cannot meter what is free.
+- **Tesla presence:** Not a character. Present through documented behaviors (multiples of 3 OCD, O'Neill biography) and through the Colorado Springs earth-resonance measurements as philosophical parallel to the calendar suppression story.
+- **Key locations:** Geneva (League of Nations, 1931), Rochester NY (Kodak headquarters, 1924-1989), Babylonia (~1000 BCE, conceptual), Colorado Springs (Tesla laboratory, 1899), Cherokee Nation/Lakota territory/Anishinaabe territory (pre-colonial, conceptual), London/British Empire (Chief Rabbi Hertz, 1931)
+- **Mandela Effects (primary):** Systematic erasure — new category. Three independent removals producing one pattern. The body's 13-cycle temporal rhythm carrying a calendar the wall cannot show. The collective wrongness millions feel about the uneven months that no one can quite name.
+- **Fabricated sources:** Classified internal memo (League of Nations Secretariat, Calendar Reform Sub-Commission, Geneva, 1931 — private collection from 2004 Geneva estate sale); Declassified government report (U.S. Bureau of Standards, 1927, partially redacted, box transferred to off-site storage 1998); Monitoring station log with handwritten annotation (Lamont-Doherty Earth Observatory field station, Palisades NY, 1967 — initials "R.W.F.", annotation: "13 cycles per year at this frequency. Body?"); Oral history/recorded interview transcript (High Plains Oral History Initiative, 1994 — retired Kodak production scheduler "D.H.", wife "felt it in her body")
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "the number that fits nowhere" — 13 as a prime that resists all administrative division
+  - "the serpent-bearer, excluded" — Ophiuchus between Scorpius and Sagittarius, the Sun passing through him for 18 days, invisible to every horoscope ever printed
+  - "Sol, the month that was voted out" — the 13th month between June and July, named, used by Kodak for 61 years, then abandoned
+  - "Year Day, the day that belongs to no one" — the extra day outside any week or month that broke the Sabbath cycle
+  - "the pocket calendar in every Kodak employee's jacket" — the physical laminated card, daily use of a system the rest of the world did not share
+  - "the turtle's back" — 13 central scutes, the mnemonic for the lunar calendar the body already knew
+  - "the body running one cycle ahead" — the menstrual cycle at 28 days, counting 13 while the wall calendar counts 12
+  - "the electromagnetic frequency of the Earth, measured in a shed in Colorado" — Tesla's 1899 apparatus finding the planet's own electrical rhythm
+  - "the frequency that cannot be charged for" — the principle that kills both Tesla's wireless power and Cotsworth's natural calendar
+  - "the administrative unit" — the twelve, the clean division, the number that serves commerce rather than body or sky
+- **Unique elements:** Systematic erasure as new Mandela Effect category; three-removal structure (zodiac/calendar/culture) as the episode's architecture; the 28 × 13 = 364 mathematical proof as the body-evidence centerpiece; Kodak 61-year IFC use as the most recent documented removal; Chief Rabbi Hertz 1931 paper "The Battle for the Sabbath at Geneva" as primary source; Year Day as the specific mechanism of the calendar's defeat; Tesla/Cotsworth philosophical parallel (electromagnetic frequency vs temporal frequency, same planet, same forces); "R.W.F." monitoring log annotation "13 cycles per year at this frequency. Body?" as the episode's sharpest fabricated line
+- **Names spent:** Moses B. Cotsworth, George Eastman, Chief Rabbi Joseph Herman Hertz, Isador Coriat, Nikola Tesla, John J. O'Neill, Winfried Otto Schumann, "D.H." (fabricated Kodak scheduler), "R.W.F." (fabricated observatory operator)
 
-These choices are blocked for Episode 010 based on the window rules in the registry header.
+---
+
+## Window Rules — Blocked for Episode 011
+
+These choices are blocked for Episode 011 based on the window rules in the registry header.
+
+**Closing types (3-episode window — cannot repeat if used in 008, 009, or 010):**
+- The Invitation (008) — blocked
+- The Silence (009) — blocked
+- The Inversion (010) — blocked
+
+**Opening types (2-episode window — cannot repeat if used in 009 or 010):**
+- Sensory hook (009) — blocked
+- The negation (010) — blocked
+
+**Structural shapes (2-episode window — cannot repeat if used in 009 or 010):**
+- Chronological spiral (009) — blocked
+- The collection (010) — blocked
+
+**Tesla connection types (2-episode window — cannot repeat if used in 009 or 010):**
+- Experiment consequence (009) — blocked
+- Philosophical parallel (010) — blocked
+
+**Emotional endpoints (5-episode window — cannot repeat if used in 006–010):**
+- Wonder / awe (006) — blocked
+- Quiet acceptance (007) — blocked
+- Defiance (008) — blocked
+- Grief (009) — blocked
+- Paranoia (010) — blocked
+- Existential dread (003) — window cleared, available
+- Loneliness (004) — window cleared, available
+- Vertigo (005) — window cleared, available
+
+**Available for Episode 011:**
+- Closing types: The Mirror, The Open Wound, The Witness, The Callback
+- Opening types: Direct address question, Declarative impossibility, Witness cold open, Fact that becomes horrifying, The artifact
+- Structural shapes: Dual timeline, Single witness, The trial, The letter, The descent, Crime scene investigation
+- Tesla connection types: Direct appearance, Technology descendant, Absence, Opposition
+- Emotional endpoints: Existential dread, Loneliness, Vertigo
+
+---
+
+## Window Rules — Blocked for Episode 010 (ARCHIVED)
+
+These choices were blocked for Episode 010 based on the window rules in the registry header.
 
 **Closing types (3-episode window — cannot repeat if used in 007, 008, or 009):**
 - The Mirror (007) — blocked
