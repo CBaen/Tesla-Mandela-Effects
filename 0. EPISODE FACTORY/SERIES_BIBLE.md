@@ -309,11 +309,76 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 - **Unique elements:** Energetic/tactile Mandela Effect as new series category; precision of Tesla's naming — he did not declare defeat at Morgan's withdrawal, the demolition, or the foreclosure, but at the pigeon; underground Wardenclyffe tunnel system confirmed by 2017 ground-penetrating radar; 14-degree thermal anomaly in Smiley Steel demolition report (fabricated but technically coherent); DARPA POWER program (2025) as contemporary data point; the Tesla Science Center's description of Wardenclyffe's earth connection as the system's essential component; Dr. Marsh's unpublished Columbia paper (fabricated) linking stored charge to geological formation
 - **Names spent:** Nikola Tesla, John J. O'Neill, J.P. Morgan, Guglielmo Marconi, W.H. Fitch (fabricated), Dr. Eveline Marsh (fabricated), T.R. Kempe (fabricated), G.M. Altus (fabricated)
 
+### 010 — THE MERIDIAN QUESTION
+- **Wound:** Geographic Mandela Effects — new category (spatial). South America too far east on current maps relative to what millions independently remember. New Zealand remembered northeast of Australia; current maps show it southeast. Australia remembered further south, further from Indonesia. The internal maps carried by people who grew up with mid-20th-century atlases describe a world that current cartography does not show. The trial structure prosecutes this as cognitive distortion; the defense calls the Morgan-Wardenclyffe termination as the overwriting mechanism. The Inversion: the prosecution proves the mechanism by which geographic memory can be replaced, and in doing so proves the defense's case.
+- **Opening type:** The artifact (an 1860s American school atlas, acquired at an estate sale, showing South America in the position people remember — the feeling of holding a map that looks right)
+- **Structural shape:** The trial (prosecution: Mercator distortion + cognitive map regularization explains misremembering; defense: Wardenclyffe's electromagnetic earth-coupling altered the spatial baseline; verdict: prosecution proved the overwriting mechanism, which proves the defense)
+- **Closing type:** The Inversion — the "safe" scientific explanation (geographic misremembering as cognitive error) becomes more disturbing than the conspiracy, because if human spatial memory is systematically replaceable, you cannot determine from inside your own memory which version is the original
+- **Emotional endpoint:** Existential dread — "are you the original, or the copy?" applied to the listener's internal map of the world
+- **Tesla connection type:** Opposition (J.P. Morgan — named human adversary, series first. Morgan withdrew funding from Wardenclyffe when he understood the system would transmit energy without a metering mechanism. The demolition of the tower on July 4, 1917, terminated the project that would have permanently altered the electromagnetic substrate through which spatial cognition operates.)
+- **Tesla presence:** Not a character in scenes. Present through documented historical correspondence (Tesla's April 1903 and July 1903 letters to Morgan) and through the physical record of what Wardenclyffe was designed to do.
+- **Key locations:** Wardenclyffe/Shoreham, Long Island (1901-1917); Colorado Springs (1899, earth resonance discovery); Morgan's offices, Manhattan; Ascension Island, South Atlantic (fabricated observatory logs); Argentine coastline survey stations (fabricated institutional correspondence)
+- **Mandela Effects (primary):** Geographic/spatial — new category. South America's longitude, New Zealand's compass bearing from Australia, Australia's proximity to Indonesia. The simultaneity of independent reporters from different countries and generations describing the same spatial displacement.
+- **Fabricated sources:** Classified internal memo (U.S. Coast and Geodetic Survey Superintendent's memo, 1906, FOIA 1982 — triangulation anomalies along eastern seaboard 1901-1905, margin annotation "See also LI reports, same period"); Monitoring station log with handwritten annotation (Royal Observatory Ascension Island, 1903-1905 — magnetic declination drift, annotation "Second night. Same. Not instrument."); Declassified government report (U.S. Army Map Service, 1958, FOIA 1993 — cartographic baseline discrepancy study, footnote references "the Shoreham anomaly period" 1901-1905, three lines redacted); Institutional correspondence (Director, Instituto Geográfico Nacional Argentina, to Pan American Union, March 1922 — 12-kilometer coastline discrepancy in northern Argentina survey, dated same month as Wardenclyffe foreclosure)
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "The atlas feels right" — the physical sensation of holding an old map that shows geography the way memory says it should be
+  - "A 12-kilometer ghost" — the Argentine institute's coast sitting in a position no current map acknowledges
+  - "The meter is not financial" — Morgan's intervention as epistemological enforcement, not just commercial
+  - "LI reports, same period" — the annotation that cannot be followed, the thread that terminates at a margin
+  - "Second night. Same. Not instrument." — the Ascension Island observer refusing the equipment failure explanation
+  - "The grid enforces the territory" — every power cable as a node in a geographic reference network
+  - "The atlas at an estate sale" — the opening object's provenance, the anonymous acquisition
+  - "The prosecution proves the mechanism" — the Inversion moment, the defense's case delivered by the other side
+  - "Are you the original or the copy?" — the final question applied to the listener's internal map of the world
+  - "The Shoreham anomaly period" — the Army Map Service's suppressed footnote and its three redacted lines
+- **Unique elements:** Geographic/spatial Mandela Effect as new series category; Morgan as first named human villain; The Inversion applied as structural verdict not just closing type; Mercator 1569 projection as Layer 1 cartographic anchor; cognitive map regularization science (PubMed PMID 6512518) as prosecution's evidence; earth resonance through Wardenclyffe iron roots as defense's counter-mechanism; Ascension Island longitude coincidence (sits on eastern South American longitude in South Atlantic); Instituto Geográfico Nacional letter dated same month as Wardenclyffe foreclosure; Army Map Service "Shoreham anomaly period" reference (redacted)
+- **Names spent:** Nikola Tesla, J.P. Morgan, Gerardus Mercator, Smiley Steel Company (institution, not individual)
+
 ---
 
-## Window Rules — Blocked for Episode 010
+## Window Rules — Blocked for Episode 011
 
-These choices are blocked for Episode 010 based on the window rules in the registry header.
+These choices are blocked for Episode 011 based on the window rules in the registry header.
+
+**Closing types (3-episode window — cannot repeat if used in 008, 009, or 010):**
+- The Invitation (008) — blocked
+- The Silence (009) — blocked
+- The Inversion (010) — blocked
+
+**Opening types (2-episode window — cannot repeat if used in 009 or 010):**
+- Sensory hook (009) — blocked
+- The artifact (010) — blocked
+
+**Structural shapes (2-episode window — cannot repeat if used in 009 or 010):**
+- Chronological spiral (009) — blocked
+- The trial (010) — blocked
+
+**Tesla connection types (2-episode window — cannot repeat if used in 009 or 010):**
+- Experiment consequence (009) — blocked
+- Opposition (010) — blocked
+
+**Emotional endpoints (5-episode window — cannot repeat if used in 006–010):**
+- Wonder / awe (006) — blocked
+- Quiet acceptance (007) — blocked
+- Defiance (008) — blocked
+- Grief (009) — blocked
+- Existential dread (010) — blocked
+- Vertigo (005) — window cleared, available
+- Paranoia (001) — window cleared, available
+- Loneliness (004) — window cleared, available
+
+**Available for Episode 011:**
+- Closing types: The Mirror, The Open Wound, The Witness, The Callback
+- Opening types: Direct address question, Declarative impossibility, Witness cold open, Fact that becomes horrifying, The negation
+- Structural shapes: Dual timeline, Single witness, The collection, The letter, The descent, Crime scene investigation
+- Tesla connection types: Direct appearance, Technology descendant, Philosophical parallel, Absence
+- Emotional endpoints: Vertigo, Paranoia, Loneliness
+
+---
+
+## Window Rules — Blocked for Episode 010 (ARCHIVED)
+
+These choices were blocked for Episode 010 based on the window rules in the registry header.
 
 **Closing types (3-episode window — cannot repeat if used in 007, 008, or 009):**
 - The Mirror (007) — blocked
@@ -443,3 +508,4 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 - **007:** NONE — First episode with zero fabricated sources. All citations are real and verifiable. No consecutive-repeat constraint applies to Episode 008 (all formats available).
 - **008:** Classified internal memo (ARPA-IIP-1978-M7), Declassified government report (OAP Supplemental Inventory Addendum), Oral history/recorded interview transcript (V.M. Belgrade testimony), Court testimony/deposition (Solberg-Weis deposition)
 - **009:** Personal diary/journal entry (W.H. Fitch, night manager, Hotel St. Regis, 1921-1923), Anonymous letter from insider/whistleblower (unsigned Westinghouse letterhead, Denver postmark 1978, Tesla Museum Belgrade), Insurance claim/incident report (Smiley Steel demolition report, Suffolk County Bureau of Labor, August 1917), Unpublished academic paper (Dr. Eveline Marsh, Columbia University, 1971 — terrestrial resonance and stored charge)
+- **010:** Classified internal memo (U.S. Coast and Geodetic Survey Superintendent's memo, 1906, FOIA 1982 — triangulation anomalies along eastern seaboard 1901-1905, margin annotation "See also LI reports, same period"), Monitoring station log with handwritten annotation (Royal Observatory Ascension Island, 1903-1905 — magnetic declination drift, annotation "Second night. Same. Not instrument."), Declassified government report (U.S. Army Map Service, 1958, FOIA 1993 — cartographic baseline discrepancy study, footnote references "the Shoreham anomaly period" 1901-1905, three lines redacted), Institutional correspondence (Director, Instituto Geográfico Nacional Argentina, to Pan American Union, March 1922 — 12-kilometer coastline discrepancy, dated same month as Wardenclyffe foreclosure)
