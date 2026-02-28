@@ -367,7 +367,7 @@ The verdict is not complicated.
 The verdict is a question that the cognitive science's own evidence makes impossible to answer.
 
 
-Here is the question. Not the geographic question — not whether South America is where memory says it is or where current maps say it is. That question is answerable by instruments, by surveys, by triangulation. The instruments give an answer. The instruments agree. The safe reading cited this as evidence. The current maps are internally consistent. They cohere. They resolve against each other to within measurable tolerance. That much is correct.
+Here is the question. Not the geographic question — not whether South America is where memory says it is or where current maps say it is. That question is answerable by instruments, by surveys, by triangulation. The instruments give an answer. The instruments agree. The rational account cited this as evidence. The current maps are internally consistent. They cohere. They resolve against each other to within measurable tolerance. That much is correct.
 
 
 But the defense presented evidence that they were not always this coherent. That between nineteen oh one and nineteen oh five, something was producing systematic divergence in measurement systems that were designed to be independent of each other. Coast and Geodetic Survey on the eastern seaboard. A British monitoring station on a South Atlantic island. These are not systems that talk to each other. They are not cross-contaminated by shared instruments or shared personnel or shared institutional assumptions. They arrived at the same anomaly from different baselines, through different methods, during the same window of time.
