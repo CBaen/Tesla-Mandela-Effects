@@ -32,7 +32,6 @@ All editorial fixes from GL's Draft 2 review were applied in the prior session: 
 
 ## What's Next
 
-- **Episode 009 sign-off** — Still pending GL review (591-meter distance, closing sensory gap)
 - **Episode 011 topic selection** — Available endpoints: Wonder/awe, Quiet acceptance, Loneliness, Vertigo (re-enters window). Available closing types: The Mirror, The Open Wound, The Callback, The Witness
 - **TTS testing** — Run Caption Keys through ElevenLabs for Episodes 008-010
 - **Release strategy update** — Add Episodes 006-010 to batch drop plan
