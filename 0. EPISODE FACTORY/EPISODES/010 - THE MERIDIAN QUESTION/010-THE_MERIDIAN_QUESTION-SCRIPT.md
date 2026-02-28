@@ -337,7 +337,7 @@ The prosecution proved the mechanism.
 That is all the defense needed.
 
 
-The mechanism for geographic memory overwriting is real, documented, and has a name. The mechanism for electromagnetic baseline alteration is real, documented, and has a name. The mechanism for the replacement of one internalized geographic reality with another, at scale, across populations, through a system that would leave the updated version feeling like the native version — that mechanism is the combination of the two. And the prosecution spent weeks establishing the first half of it.
+The mechanism for geographic memory overwriting is real, documented, and has a name. The mechanism for electromagnetic baseline alteration is real, documented, and has a name. The mechanism for the replacement of one internalized geographic reality with another, at scale, across populations, through a system that would leave the updated version feeling like the native version — that mechanism is the combination of the two. And the first argument spent weeks establishing the first half of it.
 
 
 The defense produced the second half from a nineteen oh six memorandum that no longer exists in any accessible archive, an observatory log from an island that sits on the longitude of the eastern coast of South America, a partially redacted Army Map Service report that describes the Shoreham anomaly period in terms that instrument error cannot account for, and a letter from an Argentine geographic institute written in the same month that the last physical structure of the Wardenclyffe project was seized and foreclosed.
@@ -364,10 +364,10 @@ The prosecution said: human spatial memory is distorted. The defense said: yes. 
 The verdict is not complicated.
 
 
-The verdict is a question that the prosecution's own evidence makes impossible to answer.
+The verdict is a question that the cognitive science's own evidence makes impossible to answer.
 
 
-Here is the question. Not the geographic question — not whether South America is where memory says it is or where current maps say it is. That question is answerable by instruments, by surveys, by triangulation. The instruments give an answer. The instruments agree. The prosecution cited this as evidence. The current maps are internally consistent. They cohere. They resolve against each other to within measurable tolerance. The prosecution is correct that they cohere.
+Here is the question. Not the geographic question — not whether South America is where memory says it is or where current maps say it is. That question is answerable by instruments, by surveys, by triangulation. The instruments give an answer. The instruments agree. The safe reading cited this as evidence. The current maps are internally consistent. They cohere. They resolve against each other to within measurable tolerance. That much is correct.
 
 
 But the defense presented evidence that they were not always this coherent. That between nineteen oh one and nineteen oh five, something was producing systematic divergence in measurement systems that were designed to be independent of each other. Coast and Geodetic Survey on the eastern seaboard. A British monitoring station on a South Atlantic island. These are not systems that talk to each other. They are not cross-contaminated by shared instruments or shared personnel or shared institutional assumptions. They arrived at the same anomaly from different baselines, through different methods, during the same window of time.
@@ -379,13 +379,13 @@ And that window of time corresponds, month for month, to the window during which
 What would happen to the geographic reference networks of institutions that measured the earth's magnetic baseline during the partial operation of a system designed to alter that baseline?
 
 
-The prosecution has provided the answer, inadvertently, through its own evidence. If spatial memory is built from the electromagnetic signals the hippocampal formation receives, and if those signals were altered during a specific window of time in a specific set of locations, then the people whose spatial memory was encoded during that window would carry a different baseline than the people who came before or after it. The prosecution calls this cognitive distortion. The defense calls it accurate encoding of a different version.
+The cognitive science has provided the answer, inadvertently, through its own evidence. If spatial memory is built from the electromagnetic signals the hippocampal formation receives, and if those signals were altered during a specific window of time in a specific set of locations, then the people whose spatial memory was encoded during that window would carry a different baseline than the people who came before or after it. The reasonable account calls this cognitive distortion. The electromagnetic case calls it accurate encoding of a different version.
 
 
 The prosecution is right about the mechanism. The defense is right about the direction.
 
 
-There is only one thing left to determine. One question that the prosecution cannot answer with its own evidence. One question that the defense cannot answer with its four documents and a demolished tower.
+There is only one thing left to determine. One question that the rational case cannot answer with its own evidence. One question that the second reading cannot answer with its four documents and a demolished tower.
 
 
 Which direction did the overwrite go?
@@ -397,13 +397,13 @@ There are exactly two possibilities. The first: the memories are the distortion.
 The second: the memories are the archive. The cognitive maps built in the old electromagnetic environment, from atlases produced before certain cartographic revisions, from globes manufactured to standards that predate a specific period of baseline adjustment — those maps are not errors. They are records. They encode a version of geographic reality that the people who carry them experienced directly, encoded accurately, and have never been able to reconcile with what the world currently shows.
 
 
-The prosecution spent its case proving the mechanism by which the second possibility would be invisible to the people it applied to. The prosecution proved that if the overwrite was successful, the people carrying the updated maps would experience their maps as native. They would not know they had been updated. They would navigate by their installed geography with full confidence, the same confidence that any correctly functioning cognitive map produces. They would point to the satellites. They would point to the instruments. They would point to the institutional coherence of the current geographic record. They would say: these things agree.
+The cognitive science spent its case proving the mechanism by which the second possibility would be invisible to the people it applied to. The rational case proved that if the overwrite was successful, the people carrying the updated maps would experience their maps as native. They would not know they had been updated. They would navigate by their installed geography with full confidence, the same confidence that any correctly functioning cognitive map produces. They would point to the satellites. They would point to the instruments. They would point to the institutional coherence of the current geographic record. They would say: these things agree.
 
 
 Yes. They agree. That is what a successful installation looks like from the inside.
 
 
-There is a term in the literature on spatial memory that the prosecution introduced in its opening days of testimony and then left on the floor, because it served a narrow purpose in the prosecution's argument and the prosecution did not look at its other edges. The term is: allocentric. An allocentric map is one that is oriented to external reference points rather than to the body's own position. Egocentric maps are personal — they orient from where you stand, from your own north. Allocentric maps are systemic — they orient from a shared reference structure that exists independent of any individual observer.
+There is a term in the literature on spatial memory that the first argument introduced in its opening days of testimony and then left on the floor, because it served a narrow purpose in the case against the anomaly and did not look at its other edges. The term is: allocentric. An allocentric map is one that is oriented to external reference points rather than to the body's own position. Egocentric maps are personal — they orient from where you stand, from your own north. Allocentric maps are systemic — they orient from a shared reference structure that exists independent of any individual observer.
 
 
 The current geographic reference system is allocentric. It has a single origin point: the Prime Meridian through Greenwich. Every longitude derives from that line. Every east-west position on earth is measured as a distance from that origin. The system is coherent because it is internally defined. It agrees with itself because it is constructed to agree with itself.
@@ -454,10 +454,10 @@ The map feels accurate. It feels native. It is the most intimate piece of geogra
 But: is it the original?
 
 
-The prosecution has established, with real science, that cognitive maps are vulnerable to overwriting. That spatial memory is malleable. That the hippocampal formation builds its records from the inputs it receives, and that if those inputs change, the records change. This is not theoretical. This is documented in the literature, replicated across studies, accepted as a baseline feature of human spatial cognition.
+The cognitive science has established, with real science, that cognitive maps are vulnerable to overwriting. That spatial memory is malleable. That the hippocampal formation builds its records from the inputs it receives, and that if those inputs change, the records change. This is not theoretical. This is documented in the literature, replicated across studies, accepted as a baseline feature of human spatial cognition.
 
 
-If the overwriting mechanism is real — and the prosecution has established that it is — then the internal map you carry did not become the map it is through your direct, unmediated experience of the physical world. It became what it is through a process of encoding that happened inside a particular electromagnetic environment, using inputs derived from instruments calibrated to a particular reference baseline, producing cognitive structures that are internally consistent because all the inputs were consistent with each other.
+If the overwriting mechanism is real — and the documented record has established that it is — then the internal map you carry did not become the map it is through your direct, unmediated experience of the physical world. It became what it is through a process of encoding that happened inside a particular electromagnetic environment, using inputs derived from instruments calibrated to a particular reference baseline, producing cognitive structures that are internally consistent because all the inputs were consistent with each other.
 
 
 That consistency is the problem.
