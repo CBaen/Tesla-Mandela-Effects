@@ -175,7 +175,7 @@ The tower stood for fourteen more years. Tesla attempted other financing. He wro
 It was never revived.
 
 
-On Independence Day, nineteen seventeen — July fourth, by a calendar choice that history declined to comment on — the Smiley Steel Company arrived in Shoreham with dynamite. The tower was detonated. Not cleanly, not all at once, but progressively, the charges working through the structure over several months until September brought the final collapse. The scrap metal realized one thousand seven hundred and fifty dollars at salvage. The property itself was foreclosed in nineteen twenty-two — the same year the man who had built it moved into the Hotel St. Regis in New York and began feeding pigeons from his window with a devotion that observers at the time read as eccentricity and that time has reconsidered as something closer to grief.
+On Independence Day, nineteen seventeen — July fourth, by a calendar choice that history declined to comment on — the Smiley Steel Company arrived in Shoreham with dynamite. The tower was detonated. Not cleanly, not all at once, but progressively, the charges working through the structure over several months until September brought the final collapse. The scrap metal realized one thousand seven hundred and fifty dollars at salvage. The property itself was foreclosed in nineteen twenty-two — the same year the man who had built it was residing at the Hotel St. Regis in New York, feeding pigeons from his window with a devotion that observers at the time read as eccentricity and that time has reconsidered as something closer to grief.
 
 
 The tower is gone. The patents are held in archives. The land was eventually acquired by the Tesla Science Center and sits now as a monument to what was not completed.
@@ -313,7 +313,7 @@ Consider the record.
 The prosecution presented six weeks of testimony in the span of this evidence. Cognitive cartographers. Memory researchers. The mathematics of spatial distortion. The Mercator projection as a slow installation of false coordinates into a hundred years of classrooms. The evidence was not fabricated. The science did not overreach. The prosecution called legitimate witnesses and received legitimate answers: human spatial memory is not accurate. It is not designed to be accurate. It is designed to be useful, which is a different thing entirely. A map you can navigate by does not need to be right. It needs to be consistent.
 
 
-The prosecution's closing was clean. Economical. The geographic Mandela Effect has a name, a mechanism, a literature. Cognitive map regularization. Systematic distortion toward familiar templates. The human brain builds models, and models are not mirrors. The prosecution had proved that South America below North America, New Zealand in the upper register, Australia at a greater southern remove — these are exactly the distortions you would expect from a mind working with Mercator-derived input over generations of classroom instruction. The prosecution asked the court to find that the geographic Mandela Effect is a documented cognitive phenomenon with a documented cause.
+The prosecution's closing was clean. Economical. The geographic Mandela Effect has a name, a mechanism, a literature. Cognitive map regularization. Systematic distortion toward familiar templates. The human brain builds models, and models are not mirrors. The rational case had proved that South America below North America, New Zealand in the upper register, Australia at a greater southern remove — these are exactly the distortions you would expect from a mind working with Mercator-derived input over generations of classroom instruction. The cognitive science asked the court to find that the geographic Mandela Effect is a documented cognitive phenomenon with a documented cause.
 
 
 The prosecution was right.
@@ -325,10 +325,10 @@ That is the first thing to understand. The prosecution was right.
 And the second thing to understand is what that means.
 
 
-The defense did not dispute the prosecution's science. It could not have — the science is real, documented, reproducible. Cognitive maps are distorted. Spatial memory is malleable. The hippocampal formation that builds place cells and grid cells and the internal architecture of where things are relative to each other — that system is electrochemical. It responds to its environment the way any electrochemical system responds to its environment. It encodes what it receives.
+The alternative did not dispute the cognitive science. It could not have — the science is real, documented, reproducible. Cognitive maps are distorted. Spatial memory is malleable. The hippocampal formation that builds place cells and grid cells and the internal architecture of where things are relative to each other — that system is electrochemical. It responds to its environment the way any electrochemical system responds to its environment. It encodes what it receives.
 
 
-What the defense argued — and what the prosecution, in proving its own case, inadvertently confirmed — is this: if human spatial memory is systematically malleable, and if the electromagnetic environment in which that memory operates can be altered, then the question of which geographic baseline is authoritative is not answered by pointing at current maps and calling them correct. Current maps are not authoritative because they are current. They are authoritative only if the process that produced them was not itself a correction of something prior.
+What the Wardenclyffe argument produced — and what the rational case, in proving its own science, inadvertently confirmed — is this: if human spatial memory is systematically malleable, and if the electromagnetic environment in which that memory operates can be altered, then the question of which geographic baseline is authoritative is not answered by pointing at current maps and calling them correct. Current maps are not authoritative because they are current. They are authoritative only if the process that produced them was not itself a correction of something prior.
 
 
 The prosecution proved the mechanism.
