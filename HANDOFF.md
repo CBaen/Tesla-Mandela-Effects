@@ -27,7 +27,7 @@ All editorial fixes from GL's Draft 2 review were applied in the prior session: 
 | 006 | The Resonance | PRODUCTION-READY | ~10,591 |
 | 007 | The Budapest Vision | PRODUCTION-READY | ~13,750 |
 | 008 | The Contagion Theorem | PRODUCTION-READY | ~10,045 |
-| 009 | The Last Transmission | REVIEW COMPLETE — AWAITING GL SIGN-OFF | ~12,414 |
+| 009 | The Last Transmission | PRODUCTION-READY | ~12,414 |
 | 010 | The Meridian Question | PRODUCTION-READY | ~10,292 |
 
 ## What's Next
