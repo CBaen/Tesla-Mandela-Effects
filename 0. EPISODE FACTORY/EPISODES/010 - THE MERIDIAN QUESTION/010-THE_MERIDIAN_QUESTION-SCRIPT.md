@@ -211,7 +211,7 @@ The annotation is dated November of nineteen oh four. The handwriting is distinc
 By late nineteen oh five, the entries returned to expected values.
 
 
-The defense notes the timing. Wardenclyffe was partially operational from approximately nineteen oh two through nineteen oh five. The financing collapsed in nineteen oh three. The project continued on reduced capacity until approximately nineteen oh five, when Tesla's ability to maintain the operation finally failed entirely. The anomalous declination readings at Ascension Island begin in nineteen oh three and resolve by late nineteen oh five.
+The defense notes the timing. Wardenclyffe was partially operational from approximately nineteen oh two through nineteen oh five. The financing collapsed in nineteen oh three. The project continued on reduced capacity until approximately nineteen oh five, when Tesla's ability to maintain the operation finally failed entirely. The anomalous declination readings at that South Atlantic station begin in nineteen oh three and resolve by late nineteen oh five.
 
 
 This is not proof of causation. The defense is not asking the jury to rule on causation. The defense is asking the jury to notice the shape.
@@ -238,13 +238,13 @@ The Director's concern was a systematic discrepancy. Argentine surveys, using Ar
 The Director requested re-verification against European standards — the geodetic baselines maintained by European observatories that represented the established international reference for geographic positioning. The Pan American Union acknowledged the concern. No follow-up correspondence survives.
 
 
-The date of that letter was March of nineteen twenty-two. The same month that the Wardenclyffe property was foreclosed. The same month that Tesla moved to the Hotel St. Regis and began, by his own account, the final chapter of his working life.
+The date of that letter was March of nineteen twenty-two. The same month that the Wardenclyffe property was foreclosed. The same month that the Wardenclyffe foreclosure closed behind a man already residing at the Hotel St. Regis, already in, by his own account, the final chapter of his working life.
 
 
 The prosecution will note that a twelve-kilometer coastline discrepancy in nineteen twenty-two is not connected to a tower demolished in nineteen seventeen by any mechanism the prosecution can identify. The prosecution will note that coincidence of timing is not causation. The prosecution is right again. The defense acknowledges it again.
 
 
-But the defense wants the jury to hold all four documents together. Not any one of them. All four. The Coast and Geodetic Survey memo with its systematic drift and its reference to LI reports in the same period. The Ascension Island declination log with its annotation in a different hand: not instrument. The Army Map Service footnote with its three redacted lines after acknowledging measurements that could not be reconciled to instrument error. The Argentine letter with its twelve-kilometer divergence and its lack of follow-up.
+But the defense wants the jury to hold all four documents together. Not any one of them. All four. The Coast and Geodetic Survey memo with its systematic drift and its reference to LI reports in the same period. The South Atlantic declination log with its annotation in a different hand: not instrument. The Army Map Service footnote with its three redacted lines after acknowledging measurements that could not be reconciled to instrument error. The Argentine letter with its twelve-kilometer divergence and its lack of follow-up.
 
 
 Four independent institutions. Four different countries and agencies. Four separate measurement disciplines — triangulation, magnetic declination, aerial photogrammetry, geodetic survey. All four registering anomalous measurements. All four placing those anomalies within or adjacent to the operational period of Wardenclyffe. All four using the language of instruments and error and margin to contain something that the language of instruments and error and margin was not quite large enough to contain.
@@ -259,7 +259,7 @@ Tesla's earth resonance theory held that injecting current into the planet at th
 This is not speculation about what Tesla theorized. This is a description of what electromagnetic oscillation would do to measurement instruments designed to treat the planet's electromagnetic character as stable.
 
 
-The hippocampus builds spatial maps. This is documented neurologically, demonstrated experimentally, established as one of the better-understood functions of that particular structure. The place cells in the hippocampus encode spatial position through a mechanism that may involve, among other factors, the brain's reading of electromagnetic field orientation. The same mechanism that allows a bird to navigate using the Earth's magnetic field — established, documented — has been proposed by researchers to operate in a less precise but structurally analogous way in the mammalian brain. The cognitive maps that store the relationships between landmasses — the internalized geography that tells a person where South America sits relative to North America, where New Zealand sits relative to Australia — those maps were built and stored during a period of what the field assumes to be baseline electromagnetic stability.
+The hippocampus builds spatial maps. This is documented neurologically, demonstrated experimentally, established as one of the better-understood functions of that particular structure. The place cells in the hippocampus encode spatial position using environmental signals — visual, spatial, vestibular. What the field has not fully answered is whether electromagnetic field orientation is among them, the way it clearly is in birds that navigate by the Earth's magnetic field. The evidence is incomplete. The question is open. But the architecture is suggestive — and the cognitive maps that store the relationships between landmasses were built and stored during a period of what the field assumes to be baseline electromagnetic stability.
 
 
 The question the defense is placing before the jury is this: what does it mean for a spatial memory to have been encoded in a different electromagnetic environment than the one in which it is now being recalled?
@@ -370,7 +370,7 @@ The verdict is a question that the prosecution's own evidence makes impossible t
 Here is the question. Not the geographic question — not whether South America is where memory says it is or where current maps say it is. That question is answerable by instruments, by surveys, by triangulation. The instruments give an answer. The instruments agree. The prosecution cited this as evidence. The current maps are internally consistent. They cohere. They resolve against each other to within measurable tolerance. The prosecution is correct that they cohere.
 
 
-But the defense presented evidence that they were not always this coherent. That between nineteen oh one and nineteen oh five, something was producing systematic divergence in measurement systems that were designed to be independent of each other. Coast and Geodetic Survey on the eastern seaboard. A British monitoring station on Ascension Island in the South Atlantic. These are not systems that talk to each other. They are not cross-contaminated by shared instruments or shared personnel or shared institutional assumptions. They arrived at the same anomaly from different baselines, through different methods, during the same window of time.
+But the defense presented evidence that they were not always this coherent. That between nineteen oh one and nineteen oh five, something was producing systematic divergence in measurement systems that were designed to be independent of each other. Coast and Geodetic Survey on the eastern seaboard. A British monitoring station on a South Atlantic island. These are not systems that talk to each other. They are not cross-contaminated by shared instruments or shared personnel or shared institutional assumptions. They arrived at the same anomaly from different baselines, through different methods, during the same window of time.
 
 
 And that window of time corresponds, month for month, to the window during which Wardenclyffe was under partial operation. Not complete operation — the tower was never finished, never run at full capacity, never coupled to the earth at the frequency Tesla had designed for. Partial. Preliminary. The early phase of a system whose inventor believed it would, at completion, make every point on the surface of the earth simultaneously accessible to a single electromagnetic environment.
@@ -579,7 +579,6 @@ Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH2 F/
 Gerardus → Gerardus → /JH AH0 R AA1 R D AH0 S/
 Mercator → Mercator → /M ER0 K EY1 T ER0/
 Shoreham → Shoreham → /SH AO1 R AH0 M/
-Ascension → Ascension → /AH0 S EH1 N SH AH0 N/
 Pierpont → Pierpont → /P IY1 R P AO2 N T/
 Instituto → Instituto → /IH0 N S T IH0 T UW1 T OW0/
 Geográfico → Geografico → /HH EH0 OW0 G R AA1 F IH0 K OW0/
