@@ -238,7 +238,7 @@ The Director's concern was a systematic discrepancy. Argentine surveys, using Ar
 The Director requested re-verification against European standards — the geodetic baselines maintained by European observatories that represented the established international reference for geographic positioning. The Pan American Union acknowledged the concern. No follow-up correspondence survives.
 
 
-The date of that letter was March of nineteen twenty-two. The same month that the Wardenclyffe property was foreclosed. The same month that the Wardenclyffe foreclosure closed behind a man already residing at the Hotel St. Regis, already in, by his own account, the final chapter of his working life.
+The date of that letter was March of nineteen twenty-two. The same month that the Wardenclyffe property was foreclosed. The same month that a man already residing at the Hotel St. Regis, already in, by his own account, the final chapter of his working life, lost the last physical structure that still bore his name.
 
 
 The prosecution will note that a twelve-kilometer coastline discrepancy in nineteen twenty-two is not connected to a tower demolished in nineteen seventeen by any mechanism the prosecution can identify. The prosecution will note that coincidence of timing is not causation. The prosecution is right again. The defense acknowledges it again.
@@ -475,10 +475,10 @@ The prosecution says: they misremembered.
 The defense says: they remembered accurately. What they remembered is not what is currently shown.
 
 
-The prosecution's explanation — cognitive distortion, Mercator artifacts, spatial regularization — only works as a complete account if you already accept that the current maps are the authoritative version. If you accept that the current reference frame is the original one and the memories are the copies.
+The scientific account — cognitive distortion, Mercator artifacts, spatial regularization — only works as a complete account if you already accept that the current maps are the authoritative version. If you accept that the current reference frame is the original one and the memories are the copies.
 
 
-But the prosecution has also established that a successfully installed overwrite would leave the updated population with exactly that conviction. The certainty that the current maps are authoritative. The certainty that the memory divergence is error. The certainty that the old atlases were just less accurate than the new ones.
+But the cognitive science has also established that a successfully installed overwrite would leave the updated population with exactly that conviction. The certainty that the current maps are authoritative. The certainty that the memory divergence is error. The certainty that the old atlases were just less accurate than the new ones.
 
 
 Which certainty is yours?
@@ -529,7 +529,7 @@ Or is it right?
 The cartographic establishment has an answer. The current reference system has an answer. The satellites have an answer. They all agree.
 
 
-But the prosecution has also proved, at some cost to its own case, that the mechanism by which a successful overwrite would produce exactly that unanimous agreement is real, documented, and well-understood. A system that replaces one geographic baseline with another at scale, through the electromagnetic substrate of human spatial cognition, would leave the updated population with internally consistent maps. With unanimous agreement. With the unshakeable conviction that the current reference frame is the original one.
+But the rational case has also proved, at some cost to its own argument, that the mechanism by which a successful overwrite would produce exactly that unanimous agreement is real, documented, and well-understood. A system that replaces one geographic baseline with another at scale, through the electromagnetic substrate of human spatial cognition, would leave the updated population with internally consistent maps. With unanimous agreement. With the unshakeable conviction that the current reference frame is the original one.
 
 
 The atlas does not answer the question. The atlas is the question.
