@@ -145,30 +145,30 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 - **Unique elements:** July 4th date synchronicity (Wardenclyffe demolition / Higgs discovery — 95 years), Nataraja/Shiva statue, Higgs field as "what decides what has substance," Elizabeth Loftus counter-argument as structural pivot, 8 Hz frequency as through-line motif
 - **Names spent:** Nikola Tesla, Peter Higgs, Francois Englert, Robert Brout, Fabiola Gianotti, Joe Incandela, Leon Lederman, Winfried Otto Schumann, Guglielmo Marconi, J.P. Morgan, Fiona Broome, Elizabeth Loftus, John G. Trump, Felix Bloch, James Earl Jones, Stan and Jan Berenstain
 
-### 002 — THE BURIED FLOOR
-- **Wound:** Tartaria / Mud Flood / Erased Architecture — buried first floors, demolished buildings, vanished maps, and the unnamed grief millions carry for a world they were never told existed
-- **Opening type:** The Artifact (a buried window below the sidewalk — physical object the listener can find in their own city)
-- **Structural shape:** The Descent (five layers: surface explanation → uncomfortable scale → vanished maps → Tesla as reconstruction → timeline question)
-- **Closing type:** The Invitation — listener given a physical action ("Walk to the oldest building in your city. Look down.")
-- **Emotional endpoint:** Grief — the specific, aching grief of something irreplaceable that was lost and cannot be recovered
-- **Tesla connection type:** Technology descendant (Wardenclyffe's architecture mirrors pre-industrial buildings — copper dome, metal spire, deep foundation — Tesla as reconstructor, not inventor)
-- **Tesla presence:** Present through technology and parallel story only — no direct appearance, no dialogue
-- **Key locations:** Chicago (grade raise, World's Columbian Exposition), Manhattan (Penn Station, Singer Building), Galveston, Seattle, Shoreham/Long Island (Wardenclyffe), Colorado Springs
-- **Mandela Effects (primary):** Architectural/spatial — collective, uncoordinated grief as the anomaly itself. Millions independently arriving at the same recognition (Tartaria theory) across languages and cultures without coordination. The simultaneity IS the anomaly.
-- **Fabricated sources:** Exposition photographs predating groundbreaking (photographic evidence with provenance gaps), Singer Building sub-basement assessment with pre-industrial mortar bond (insurance claim/incident report), Chicago soil cores with mineral deposits inconsistent with grade-raise narrative (unpublished academic paper), Penn Station structural engineer deposition noting pre-industrial tooling marks (court testimony/deposition)
+### 002 — THE WHITE CITY
+- **Wound:** Material reality vs. the record — Elias Coburn, demolition worker, 1894, strikes a wall of the Manufactures and Liberal Arts Building with a demolition bar and hears something the specification says cannot be there. The Mandela Effect about the White City is that millions remember permanent stone buildings; the investigation finds a demolition worker's hammer agreeing with the memory.
+- **Opening type:** The Artifact (Coburn's letter — a physical document, dated February 1894, water-stained, describing a pan that rings like a bell)
+- **Structural shape:** The Descent (surface: memory inflation explains the Mandela Effect → False Floor: engineering argument for plaster → Cracks: demolition resistance + missing records → Real Wound: three independent sources — Coburn, incident report, Alcott — all finding the same anomaly → Implication: Tesla's current through unknown materials for six months → Open Question: below-grade material may still be there)
+- **Closing type:** The Invitation — listener given a specific physical action: find the oldest building on their street, look at the foundation, consider what the builders found when they dug
+- **Emotional endpoint:** Quiet acceptance — the change has already happened, the investigation closes without a verdict, and the listener is left holding the shape of the gap rather than what fills it
+- **Tesla connection type:** Experiment consequence (Tesla's polyphase AC system ran through the fairgrounds — every building, every wall — for six months; if the walls contained stone where the specification said plaster, his rotating magnetic fields were running through unknown material at unprecedented scale)
+- **Tesla presence:** Not a character in scenes. Present through his AC system, the Westinghouse contract, the egg-of-Columbus demonstration at the Electricity Building, and the implication that what his current ran through for six months was not what the record says
+- **Key locations:** Jackson Park Chicago 1893 (World's Columbian Exposition), Jackson Park 1894 (demolition), Jackson Park 1904 (Alcott soil borings), Chicago History Museum / Illinois State Archives (missing documentation), Ryerson and Burnham Libraries (Alcott report: not yet catalogued), Kenosha Wisconsin (private collector, Coburn letter provenance)
+- **Mandela Effects (primary):** Material/perceptual — new category. The collective memory of the White City as permanent stone buildings, reinforced across generations through photographs designed to read as stone. The divergence: Coburn's hammer (1894) and Alcott's borings (1904) agree with the memory rather than the record. Memory vs. material is the structure of the anomaly.
+- **Fabricated sources:** Demolition worker's letter (personal correspondence — Coburn to foreman Mr. H., February 1894, water-stained, current location unknown after 1971 estate dispersal); Contractor incident report (insurance claim/incident report — Halsted and Briggs Wrecking, March 7, 1894, two workers injured, notation: "material not consistent with expected staff construction"); Engineering report (unpublished professional document — R.T. Alcott, 28 pages with hand-drawn site diagrams, 1904, donated to Chicago Architectural Foundation, transferred to Ryerson and Burnham Libraries, "not yet catalogued")
 - **Key images (DO NOT REUSE in next 3 episodes):**
-  - "a window that faces dirt" — the buried first-floor perspective
-  - "the floor that no one talks about" — the forgotten ground floor
-  - "a country that vanished from all cartography" — Tartary's erasure from maps
-  - "thirty-five thousand tons raised in five days" — the scale of the Chicago grade raise
-  - "completed ornamentation on buildings not yet constructed" — the provenance-gapped photographs
-  - "predating the superstructure by an indeterminate period" — the Singer Building sub-basement
-  - "the beauty was the function" — ornament as engineering, not decoration
-  - "an unconformity" — the fill as a boundary layer between versions of the world
-  - "the recognition, once it arrives, does not leave" — seeing the buried floors everywhere
-  - "a room that has been holding its breath" — the sealed space behind the buried window
-- **Unique elements:** 1771 Encyclopaedia Britannica Tartary entry, Ortelius/Mercator/Munster map tradition, geological unconformity metaphor, Wardenclyffe architecture as mirror of pre-industrial buildings, Morgan's withdrawal as market defending metered scarcity, Landmarks Commission silence on Singer Building, Tartaria theory simultaneity as Mandela Effect
-- **Names spent:** Nikola Tesla, George Pullman, Abraham Ortelius, Gerard Mercator, Sebastian Munster, Andrew Bell, Colin Macfarquhar, Ernest Flagg, Vincent Scully, J.P. Morgan, Guglielmo Marconi, Winfried Otto Schumann
+  - "a pan that rang like a bell" — the planted acoustic image, paid off twice: once in the wound, once in the return
+  - "like ringing a pan and hearing a bell" — Coburn's original phrasing, the seed
+  - "the record diverging from the material" — the inversion of the standard Mandela Effect definition
+  - "two days where the standard approach would have taken hours" — material resistance as labor record
+  - "density and composition more consistent with cut limestone aggregate" — Alcott's precise professional language
+  - "not there" — the three-word notation for the missing demolition records
+  - "the specific absence is the evidence" — repeated refrain, the investigation's sharpest instrument
+  - "the line runs below grade" — the through-line connecting all four operations
+  - "the things that remain are the things the demolition missed" — repeated closing motif
+  - "find the oldest building on your street" — the Invitation, the specific action given to the listener
+- **Unique elements:** Three-source convergence (Coburn/incident report/Alcott) — each independent, none aware of the others; polyphase AC running through unknown material for six months as the implication that cannot be stated; Chicago grade raise as structural parallel (buried city under the new city); demolition record gap as specific rather than general archival loss; below-grade material at south colonnade zone as the thing the demolition did not reach; Museum of Science and Industry as the location where one principal structure stood (rebuilt in Indiana limestone)
+- **Names spent:** Nikola Tesla, Elias Coburn (fabricated), R.T. Alcott (fabricated), Daniel Burnham, Frederick Law Olmsted, Louis Sullivan, George Westinghouse, Julius Rosenwald (referenced by implication via Museum of Science and Industry)
 
 ### 004 — THE TESLA BROTHERS
 - **Wound:** Dane Tesla — the brother the universe removed. Tesla's lifelong loneliness reframed as amputation, not personality
