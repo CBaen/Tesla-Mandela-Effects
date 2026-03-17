@@ -158,13 +158,13 @@ The opening question implies a mystery about death and institutional suppression
 
 ## 9. Emotional Thesis
 
-**Endpoint: Existential dread**
+**Endpoint: Vertigo**
 
-The episode closes on a question — "What was Nikola Tesla?" — that refuses to answer itself. The dread builds throughout, but it arrives as a very specific form: not fear of death, not fear of government, but the dread of looking at the sun and not being certain you are in the same reality you were born into.
+The episode closes on a question — "What was Nikola Tesla?" — that refuses to answer itself. The sensation is not dread (which implies a threat you can name and face) but vertigo: the ground that was solid a moment ago is not solid anymore. Nothing is solid. Not the standard biography, not the government's explanation, not the color of the sun, not the listener's certainty about the reality they inhabit.
 
-The closing emotional beat must accomplish: the listener turns away from Tesla as subject and confronts themselves as evidence. If Mandela Effects began at Tesla's birth — if the light and the sky and the color of the world shifted when he arrived — then the listener has been living inside an altered reality their entire life. They may not be in the timeline they were born into. They may be carrying the memory of a sun that no longer exists in the world they currently inhabit.
+The closing emotional beat must accomplish: the listener's footing disappears. Tesla himself — someone they may have thought they understood — turns out to be a question with no edge. If something arrived through his birth and departed through his death, if the light changed when he arrived and the color of the sky has been wrong ever since — then the listener has been standing on altered ground without knowing it. The ground doesn't suddenly crack. It simply reveals it was never solid.
 
-The final question is directed at Tesla. But it lands on the listener.
+The final question is directed at Tesla. But it lands on the listener's footing.
 
 ---
 
@@ -360,6 +360,8 @@ Tesla does not speak in this episode except through verified, exact quotes attri
 
 Verified quotes available for use (exact words, verifiable sources):
 - "It is absolutely immaterial to me whether I run my turbine in thought or test it in my shop." — Tesla, "My Inventions," Electrical Experimenter, 1919
+- "Invariably my device works as I conceived that it should, and the experiment comes out exactly as I planned it. In twenty years there has not been a single exception." — Tesla, "My Inventions," Electrical Experimenter, 1919
+- **CRITICAL:** These two quotes are NOT consecutive. There are four sentences between them in the original text. They must not be run together as a single passage. Use them separately, with the gap acknowledged if both are cited in proximity.
 - The birth storm tradition and midwife exchange (family oral tradition, documented via O'Neill, 1944 — present as transmitted memory, not verified direct speech)
 - "When that pigeon died, something went out of my life." — attributed to Tesla via O'Neill, 1944; use as reported speech, not direct quote in quotation marks unless exact wording is verified
 
