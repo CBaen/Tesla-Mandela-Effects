@@ -76,7 +76,7 @@ He spent the winter of eighteen ninety-nine documenting this. The Colorado Sprin
 
 In nineteen fifty-two, Winfried Otto Schumann, a German physicist at Ludwig Maximilian University of Munich, mathematically derived the resonant frequency of the Earth's electromagnetic cavity — the space between the planet's surface and its ionosphere. His calculation produced a fundamental frequency of approximately seven point eight three hertz.
 
-Schumann published this in Zeitschrift fur Naturforschung. The mathematical derivation was confirmed by experiment in the early nineteen sixties.
+Schumann published this in Zeitschrift für Naturforschung. The mathematical derivation was confirmed by experiment in the early nineteen sixties.
 
 Tesla had measured this frequency. Schumann had derived it from mathematics. They were separated by more than fifty years. They arrived at the same number from different directions.
 
@@ -98,7 +98,7 @@ On July fourth, two thousand and twelve, Fabiola Gianotti — spokesperson for t
 
 The room, which was full of physicists who had spent decades working toward this moment, received the announcement with what can only be described as carefully contained joy. This is what particle physics looks like when it wins. Careful joy. The celebration of a proof.
 
-Peter Higgs — the University of Edinburgh physicist who had predicted this particle's existence in nineteen sixty-four, nearly fifty years earlier — was present in the room. He was eighty-two years old. He was described by observers as having wept.
+Peter Higgs — the University of Edinburgh physicist who had predicted this particle's existence in nineteen sixty-four, nearly fifty years earlier — was present in the room. He was eighty-three years old. He was described by observers as having wept.
 
 The particle was officially named the Higgs boson. The popular press had been calling it "the God Particle" for years, after Leon Lederman's nineteen ninety-three book of the same title — a name Lederman himself had settled on after his original choice, "the Goddamn Particle," was declined by his publisher. Peter Higgs, for the record, found the "God Particle" nickname undignified and said so repeatedly over the years. The nickname stuck anyway. Nicknames do.
 

@@ -105,6 +105,8 @@ The outline is the shape of the subtraction.
 
 Now ask the same question about Nikola Tesla. Who was the person Nikola Tesla was supposed to work beside? Not in the general sense of "would a collaborator have helped him?" Not in the commercial sense of a partner who could have managed the business side. In the specific, structural sense of the Wright brothers. The person whose limitations were covered by Tesla's strengths. The person whose strengths covered the limitations that Tesla, alone, could not compensate for. The person the cognitive system was built for.
 
+Tesla's documented failures are interesting precisely because they are not failures of brilliance. The War of Currents was won — Tesla's alternating current system runs the world. Wardenclyffe was not a failure of physics — the resonance principle was sound. The failures were failures of execution, of partnership, of the ability to sustain the human relationships that translate a vision into a completed structure. Tesla saw the finished version with perfect clarity. He could run it in his mind without error, for twenty years, not a single exception. What he could not do, alone, was navigate the human architecture required to build it in the world.
+
 And ask: what was Tesla's name for that person, in the one text where he allowed himself to name anything directly?
 
 Tesla wrote: "a brother who was gifted to an extraordinary degree."
@@ -435,7 +437,7 @@ This is what Nikola Tesla was — not the brilliant isolated eccentric who happe
 
 Tesla built a life around the shape of the absence. Not around the grief — around the shape. The way a building built around a removed structural column distributes its weight to everything that remains, loading the surviving walls with more than they were designed to carry, and standing nonetheless, because the builder was that good.
 
-He stood nonetheless. For eighty-six years. He carried the extra load. He distributed it across every relationship, every invention, every laboratory, every pigeon he fed from the windowsill of Room three-three-two-seven.
+He stood nonetheless. For eighty-six years. He carried the extra load. He distributed it across every relationship, every invention, every laboratory, every pigeon he fed from the windowsill of Room three-three-two-seven. The pigeons — the white pigeon he described as the creature he loved above all others, the one whose death he recorded with a grief that surprised even his most devoted biographers — these are what a man reaches for when the circuit that was supposed to run between two minds has been running through one for eighty years. He was not eccentric when he loved the pigeons. He was using what he had. He was directing the current somewhere, anywhere, rather than let it burn through the open end without a destination.
 
 He built his entire life around an absence he never named.
 
