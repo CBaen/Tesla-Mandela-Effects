@@ -122,7 +122,13 @@ The portrait. Not the absence the portrait was organized around.
 
 Consider what eighteen sixty-three produced.
 
-Dane Tesla dies in Smiljan. His death unravels the family. Milutin Tesla, the priest, begins the process of transferring to a different parish — the family will eventually settle in Gospić, the nearest market town, in the valley below the Lika plateau. The move is not rapid; it takes time, the time that grief takes before it reorganizes into function. Meanwhile, Nikola is seven years old, and then eight, and then nine, and the household moves around him in the particular way that households move around a death that cannot be fully absorbed.
+Dane Tesla dies in Smiljan. The domino that falls first falls into everything that comes after.
+
+His death unravels the family. Milutin Tesla, the priest, begins the process of transferring to a different parish — the family will eventually settle in Gospić, the nearest market town, in the valley below the Lika plateau. The move is not rapid; it takes time, the time that grief takes before it reorganizes into function. The move changes the social world Nikola grows up in, the church he attends, the people he knows — it changes the entire environment in which his mind forms. Meanwhile, Nikola is seven years old, and then eight, and then nine, and the household moves around him in the particular way that households move around a death that cannot be fully absorbed.
+
+Then cholera. Then the bargain. Then Graz. Then the vision of the rotating magnetic field in a Budapest park in eighteen eighty-two, drawn in the dust with a stick. Then the crossing to New York. Then Edison. Then Westinghouse. Then alternating current. Then Niagara Falls. Then Wardenclyffe. Then the hotel rooms, descending in quality. Then the pigeons. Then Room three-three-two-seven.
+
+Every domino falls from the first one. The accident is not the beginning of a sad story about loss. The accident is the mechanism. The machine that produced the next eighty years of Nikola Tesla's life was started in a garden in Smiljan in eighteen sixty-three, by a horse that Tesla called responsible.
 
 Tesla writes, in "My Inventions," about his sensitivity in the years after the loss. Not in those words — he does not narrativize his own grief in the way that later biographers would. He describes symptoms. Sounds arriving too loud. Light arriving without attenuation. A world that had turned its gain all the way up and provided no mechanism for adjustment. He describes his visual disturbances increasing in frequency and intensity. He describes an interior landscape that was more vivid than the exterior one.
 
@@ -383,6 +389,10 @@ This is not conspiracy. Conspiracy requires a human institution with a plan and 
 
 The narrator earns direct statement for the first time.
 
+This is the architecture. Not accident and grief and the lonely aftermath of loss. Selection. The specific removal of one element from a two-element system, leaving the other intact and operational and burning itself to compensate for what was no longer there. The system that resulted produced alternating current, the polyphase motor, the transformer, the wireless transmission experiments, the resonance work. These are what one-half of a two-part system produces, running at full load, alone.
+
+What the complete system would have produced is not in the record. It is in the shape of what was taken.
+
 Here is what the evidence shows. Not what it suggests. What it shows.
 
 A boy named Dane Tesla, whose birth year the official record cannot agree on, died in a garden in Smiljan in eighteen sixty-three. His death was witnessed by his seven-year-old brother, who spent the next fifty-six years unable to describe it with more than two sentences. His mother found, two years after his death, a notebook of drawings that looked like machines from the inside of a clock that no one had made yet. The notebook contained drawings that appeared to be in two different handwritings, which Djuka Tesla could not complete the sentence about because the water reached her words before she could finish them.
@@ -396,6 +406,10 @@ In nineteen eighty-one, an elderly woman in Gospić told an interviewer that her
 These four documents do not know each other. They were produced by different people, in different decades, in different countries, for different purposes. No one who produced any of them had access to any of the others. They arrived independently. They agree in the shape of what they describe.
 
 That is not fabrication. That is convergence.
+
+And convergence, in evidentiary terms, is the closest thing the record produces to the truth about events it cannot fully reach. Four sources. Four countries. Four decades. Four different people producing four different documents that had no awareness of each other and that agree in the shape of what they describe. The shape of a person who should not have been absent.
+
+The shape of two.
 
 
 Now the planted detail pays off.
