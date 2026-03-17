@@ -37,7 +37,7 @@ The investigation does not know what happened to Elias Coburn.
 It begins with what he heard.
 
 
-The 1893 World's Columbian Exposition ran from the first of May to the thirtieth of October, on six hundred and ninety acres of former lakefront swamp and parkland in Jackson Park, on the south shore of Lake Michigan, in Chicago.
+The World's Columbian Exposition of eighteen ninety-three ran from the first of May to the thirtieth of October, on six hundred and ninety acres of former lakefront swamp and parkland in Jackson Park, on the south shore of Lake Michigan, in Chicago.
 
 The site was chosen in January of eighteen ninety. The groundbreaking followed in the fall of that year. The fair opened on schedule in May of eighteen ninety-three — less than three years from the first survey to the opening bell. Twenty-seven million people passed through its gates. Approximately twenty-seven million. The number is documented. It was the largest single peacetime gathering in American history to that point.
 
@@ -236,7 +236,7 @@ What were the walls of the White City made of?
 
 The answer the record provides is: plaster. Staff. Temporary material on a temporary frame, built to last six months and then removed.
 
-Elias Coburn's hand said something different.
+Elias Coburn's hand said the record was wrong.
 
 And then Elias Coburn's hand went quiet.
 
@@ -542,7 +542,7 @@ The buildings of the World's Columbian Exposition were illuminated for six month
 The things that remain are the things the demolition missed.
 
 
-There is something the investigation has been building toward, and it arrives here, in the final movement, because it could not have been stated at the beginning. The listener needed the full sequence first. The wall. The fair. The photographs. The engineering argument. Coburn's letter. The incident report. The grade raise. The missing documentation. Alcott's foundation borings. Tesla's rotating fields. Only now — carrying all of that — does the final question arrive with the weight it requires.
+The investigation has been building toward a specific question, and it arrives here, in the final movement, because it could not have been stated at the beginning. The listener needed the full sequence first. The wall. The fair. The photographs. The engineering argument. Coburn's letter. The incident report. The grade raise. The missing documentation. Alcott's foundation borings. Tesla's rotating fields. Only now — carrying all of that — does the final question arrive with the weight it requires.
 
 The Mandela Effect, as it applies to the World's Columbian Exposition, is not that people remember a fair that didn't happen. The fair happened. The photographs are real. Twenty-seven million people were there.
 
