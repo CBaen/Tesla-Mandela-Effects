@@ -140,11 +140,11 @@ The machine confirmed the particle in two thousand and twelve.
 
 The machine reached its highest operational energy in two thousand and fifteen.
 
-The question the episode appeared to be asking — why do you remember it wrong? — is not yet the right question. The right question begins forming now, at the edge of what the cognitive science explanation can reach:
+The question the investigation appeared to be asking — why do you remember it wrong? — is not yet the right question. The right question begins forming now, at the edge of what the cognitive science explanation can reach:
 
 Wrong relative to what?
 
-The Tromsø Geophysical Observatory is operated by the University of Tromsø — UiT The Arctic University of Norway. It maintains a set of electromagnetic monitoring instruments used for space weather research and Schumann resonance baseline studies. The observatory is in the far north. The instrumentation is calibrated regularly. The data is reliable.
+The Tromsø Geophysical Observatory is operated by the University of Tromsø — UiT The Arctic University of Norway. It maintains a set of electromagnetic monitoring instruments used for space weather research and Schumann resonance baseline studies. The observatory sits in the far north, where in July the sun does not set — the light at two in the morning is the same flat, pale light as the light at two in the afternoon. The monitoring stations run continuously in that perpetual brightness, logging the Earth's electromagnetic pulse against the silence of the Arctic above.
 
 The log for July fourth, two thousand and twelve, shows the Schumann resonance fundamental frequency at its standard baseline — seven point eight three hertz — for the majority of the monitoring period. Routine. Consistent. The kind of data that does not generate annotations.
 
@@ -346,9 +346,9 @@ Without Wardenclyffe — without any equivalent architecture — the frequency r
 
 What does ambient, unguided resonance at the Earth's fundamental frequency do?
 
-The question pivot is here. The episode opened asking: why do you remember it wrong?
+The question pivot is here. The investigation opened asking: why do you remember it wrong?
 
-The question the episode is actually asking: wrong relative to which baseline?
+The question the investigation is actually asking: wrong relative to which baseline?
 
 Not wrong relative to the publisher's records. Not wrong relative to the cognitive patterns established by German-Jewish surname frequency. Wrong relative to what the Earth's electromagnetic substrate was doing when the memory was encoded — and wrong relative to what that substrate is doing now.
 
@@ -392,7 +392,7 @@ The word is not in any of the three documents.
 
 The word is in the listener's mind.
 
-The word arrived there because the listener is carrying both the E-I-N memory and the knowledge that the A-I-N is what the record shows. The listener has been doing, for this entire episode, exactly what the Tromsø operator and the Colorado Springs geologist and Selassie were doing: measuring a discrepancy between a record and an expectation, and finding no explanation in the available reference data.
+The word arrived there because the listener is carrying both the E-I-N memory and the knowledge that the A-I-N is what the record shows. The listener has been doing, across this entire investigation, exactly what the Tromsø operator and the Colorado Springs geologist and Selassie were doing: measuring a discrepancy between a record and an expectation, and finding no explanation in the available reference data.
 
 The listener is not outside the investigation.
 
@@ -530,7 +530,7 @@ Wrong relative to which baseline?
 
 The listener who remembers "Berenstain" as "Berenstein" could be carrying a memory encoded in a substrate state that no longer exists. The listener who has always remembered "Berenstain" correctly could be carrying a memory that was always calibrated to this substrate state. From inside either memory, you cannot tell. There is no position outside your own electromagnetic experience from which to check which baseline made you.
 
-This is the dread that is specific to this episode. Not the dread of corporate suppression. Not the dread of dimensional catastrophe. The dread of epistemic position.
+This is the specific flavor of dread that this investigation has been building toward. Not the dread of corporate suppression. Not the dread of dimensional catastrophe. The dread of epistemic position.
 
 You are inside the field.
 
@@ -594,7 +594,7 @@ The listener assembled the architecture. The narrator did not perform the connec
 
 The connection happened inside the listener.
 
-That connection — the moment the architecture became visible — happened within the same electromagnetic substrate that everything else in this episode happened within. Within the Earth's resonant field. Within the frequency that runs at seven point eight three hertz, give or take, at every surface of the planet continuously.
+That connection — the moment the architecture became visible — happened within the same electromagnetic substrate that everything else in this investigation happened within. Within the Earth's resonant field. Within the frequency that runs at seven point eight three hertz, give or take, at every surface of the planet continuously.
 
 Within the frequency that the Colorado Springs soil has been oscillating in for a hundred and twenty-five years.
 
@@ -656,9 +656,9 @@ When the baseline moved, and then moved back, what you carried with you was not 
 
 You are carrying both. You just do not know which layer is the original.
 
-The question the episode appeared to be asking: why do you remember it wrong?
+The question the investigation appeared to be asking: why do you remember it wrong?
 
-The question the episode is actually asking: wrong relative to which baseline?
+The question the investigation is actually asking: wrong relative to which baseline?
 
 And then: which baseline made you?
 
