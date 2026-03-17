@@ -69,7 +69,7 @@ And then: Nikola Tesla arrived at the Electricity Building.
 
 Tesla and the Westinghouse Electric Company had won the contract to light the World's Columbian Exposition. The contract was significant — it was the largest electrical lighting contract in American history to that point, and it was contested by Westinghouse and General Electric in a competition that Westinghouse won by offering a lower per-lamp price using an alternating current system. General Electric was committed to direct current. Westinghouse and Tesla were not.
 
-The Electricity Building at the 1893 fair was, in effect, the public announcement that the AC system had won the argument about which form of electricity would power the twentieth century. The War of Currents — the rivalry between Tesla's alternating current and Edison's direct current that had defined the electrical industry for the preceding decade — was formally decided at the 1893 World's Columbian Exposition, in Jackson Park, Chicago, in front of twenty-seven million witnesses who came to see the lights and did not know, most of them, that the light itself was the argument's conclusion.
+The Electricity Building at the eighteen ninety-three fair was, in effect, the public announcement that the AC system had won the argument about which form of electricity would power the twentieth century. The War of Currents — the rivalry between Tesla's alternating current and Edison's direct current that had defined the electrical industry for the preceding decade — was formally decided at the World's Columbian Exposition of eighteen ninety-three, in Jackson Park, Chicago, in front of twenty-seven million witnesses who came to see the lights and did not know, most of them, that the light itself was the argument's conclusion.
 
 The Westinghouse-Tesla system illuminated the entire fairgrounds. One hundred thousand incandescent lamps — some accounts put the number higher, at closer to two hundred and fifty thousand, depending on how the count is taken. The number does not matter in the way the fact matters: every building in the Court of Honor, every exterior lamp lining the lagoons, every bulb inside the Manufactures and Liberal Arts Building, every fixture in the Electricity Building where Tesla himself demonstrated his system — all of it ran on Tesla's alternating current. Every building was connected to that system. Every building was a node in a network that had never existed before on this scale.
 
@@ -105,7 +105,7 @@ One of them is cognitive. One of them is physical.
 The investigation is interested in the physical one.
 
 
-Consider the specific experience of arriving at the 1893 fair.
+Consider the specific experience of arriving at the fair.
 
 The site at Jackson Park was reached by rail — the Illinois Central Railroad ran dedicated exposition trains from downtown Chicago to the fairgrounds on the south shore. Visitors stepped off the train and entered the exposition grounds at a gate that fronted the formal entry sequence Olmsted had designed: a progression from the mundane transit of urban travel into something that operated on completely different spatial logic.
 
@@ -159,7 +159,7 @@ The demolition was harder than it should have been.
 Something in certain sections of certain buildings resisted the standard demolition approach for those specifications. The specifications said plaster. The plaster should have given easily. In some sections, it did. In others, something behind the plaster did not.
 
 
-The photographs from the 1893 World's Columbian Exposition are not difficult to find. Any library with a decent newspaper archive has some. The Chicago History Museum holds thousands. Digitization efforts over the past three decades have placed a substantial portion online, accessible through search engines that will return them within seconds of the query being entered.
+The photographs from the World's Columbian Exposition are not difficult to find. Any library with a decent newspaper archive has some. The Chicago History Museum holds thousands. Digitization efforts over the past three decades have placed a substantial portion online, accessible through search engines that will return them within seconds of the query being entered.
 
 Look at them.
 
