@@ -25,7 +25,16 @@ Mandela Effects and Tesla experiments CAN recur as passing references or brief m
 6. **The negation** — "This is not about what happened. This is about what didn't." Deny the obvious frame, force the listener to rebuild their expectation.
 7. **The artifact** — Start with a physical object (a letter, a photograph, a device) and let the object tell the story.
 
-## Structural Shapes (vary — never use the same shape twice in a row)
+## Structural Shapes (tracked — never repeat within 3 episodes)
+
+**Formally tracked dimension.** Log each episode's structural shape with: which beats carried major reveals (twist beats), which beats integrated prior evidence without adding new information (integration beats), what the false floor was (the explanation that seemed complete before the deeper layer arrived), and what the closing type was. This prevents structural repetition at scale across 200+ episodes.
+
+**Beat-level logging fields (required in each episode entry):**
+- **Structural shape:** Name from the menu below
+- **Twist beats:** Which of the 7 narrative beats carried major reveals or re-framings
+- **Integration beats:** Which beats consolidated prior evidence without introducing new surprises
+- **False floor:** The explanation that seemed complete before the deeper layer arrived
+- **Closing type:** The closing type used (cross-references the Closing Types menu)
 
 1. **Chronological spiral** — Move through time, each pass adds layers of evidence and reinterpretation.
 2. **Crime scene investigation** — Start at the anomaly (the "body"), work backward through evidence to find the cause.
@@ -349,7 +358,8 @@ These choices are blocked for Episode 011 based on the window rules in the regis
 - Sensory hook (009) — blocked
 - The artifact (010) — blocked
 
-**Structural shapes (2-episode window — cannot repeat if used in 009 or 010):**
+**Structural shapes (3-episode window — cannot repeat if used in 008, 009, or 010):**
+- Crime scene investigation (008) — blocked
 - Chronological spiral (009) — blocked
 - The trial (010) — blocked
 
@@ -370,7 +380,7 @@ These choices are blocked for Episode 011 based on the window rules in the regis
 **Available for Episode 011:**
 - Closing types: The Mirror, The Open Wound, The Witness, The Callback
 - Opening types: Direct address question, Declarative impossibility, Witness cold open, Fact that becomes horrifying, The negation
-- Structural shapes: Dual timeline, Single witness, The collection, The letter, The descent, Crime scene investigation
+- Structural shapes: Dual timeline, Single witness, The collection, The letter, The descent
 - Tesla connection types: Direct appearance, Technology descendant, Philosophical parallel, Absence
 - Emotional endpoints: Vertigo, Paranoia, Loneliness
 
