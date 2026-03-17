@@ -30,7 +30,7 @@ The sound was, by all accounts, considerable.
 
 Fifty-three superconducting magnets were damaged. The LHC went dark. The repairs would take fourteen months.
 
-In the intervening seventy-nine minutes between the first proton beam and the helium explosion — between ten twenty-eight on September tenth and the eleven forty-seven timestamp on a document filed in Sector Three-Four before the incident — a monitoring team in the LHC's instrumentation subgroup logged something in the ambient electromagnetic field surrounding the ring. Not in the beam itself. Not in the particle interaction data. In the background. The operational environment that the machine worked within.
+Nine days before the helium explosion — on September tenth — the first proton beam had completed its first circuit. In the days between that successful run and the September nineteenth catastrophe, a monitoring team in the LHC's instrumentation subgroup filed a document. The filing timestamp was eleven forty-seven AM on September nineteenth — recorded approximately within the same hours as the explosive venting that would shut down the machine. A document filed in Sector Three-Four before the incident. It logged something in the ambient electromagnetic field surrounding the ring. Not in the beam itself. Not in the particle interaction data. In the background. The operational environment that the machine worked within.
 
 The document is two pages. Standard CERN internal format, classified "RESTRICTED — INTERNAL USE ONLY." It was subsequently released in a two thousand and nineteen partial FOIA request to the European Commission's scientific records division as part of batch seven-B of pre-incident operational documentation. The photocopy available is a photocopy of a photocopy — the original is not accessible. The filing officer is identified only by departmental code: IM-34.
 
@@ -38,7 +38,7 @@ The memo reads, in part: "During the September tenth first-beam operational wind
 
 Seven point nine hertz.
 
-No follow-up was filed. Seventy-nine minutes after the timestamp on that memo, the helium vented. The September tenth data became irrelevant to everything that followed. The calibration recommendation was absorbed into the repairs. The run was postponed fourteen months.
+No follow-up was filed. The same day the memo was filed, the helium vented. The September tenth data became irrelevant to everything that followed. The calibration recommendation was absorbed into the fourteen months of repairs that followed. The run was postponed.
 
 The IM-34 memo entered the batch seven-B archive. The batch seven-B archive entered the partial FOIA release. The FOIA index listing the batch is not independently searchable. The inquiry closes there.
 
@@ -49,8 +49,6 @@ Seven point nine hertz.
 Before the machine. Before the ring. Before the tunnel was bored through the limestone under Geneva.
 
 Before any of that, there was Colorado Springs.
-
-The summer of eighteen ninety-nine. Arrive there the way a breath paragraph should arrive — with a date, a location, and the specific quality of the air.
 
 May, eighteen ninety-nine. A laboratory on the eastern edge of Colorado Springs, Colorado. The smell of ozone cut through with the sulfurous undertone of copper left too long in current — the laboratory air carried the taste of electricity before electricity had a common name for its smell. Grassland stretched flat from the laboratory's wooden walls toward Pikes Peak. At altitude, the air was thinner, brighter, more conductive. The sky at that elevation was a different sky — closer, more attentive, as though the atmospheric membrane that cushioned lower elevations had here been stretched thin.
 
