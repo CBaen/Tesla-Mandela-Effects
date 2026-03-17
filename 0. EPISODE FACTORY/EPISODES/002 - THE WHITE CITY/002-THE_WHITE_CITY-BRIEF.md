@@ -28,7 +28,7 @@ A demolition worker on the 1894 wrecking crew for the World's Columbian Expositi
 
 ## 2. The Anomaly
 
-**What the official record says:** The buildings of the 1893 World's Columbian Exposition — known as the White City — were temporary exhibition structures. They were constructed between 1890 and 1893 using "staff," a composite material of plaster of Paris, cement, glycerin, and jute fiber troweled over wooden and steel frames. Temporary by design. The buildings were intended for a six-month fair; after closing, they were demolished or burned. Chief of Construction Daniel Burnham and landscape architect Frederick Law Olmsted oversaw the project. The compressed timeline — groundbreaking in 1890, fair opening in May 1893 — is documented. The staff material allowed rapid construction and decorative detailing that would have taken decades in stone. The photographs document a triumphant feat of American engineering and aesthetic ambition, executed under time pressure, using deliberately impermanent materials.
+**What the official record says:** The buildings of the 1893 World's Columbian Exposition — known as the White City — were temporary exhibition structures. They were constructed between 1890 and 1893 using "staff," a composite material of plaster of Paris, cement, and fibrous binders troweled over wooden and steel frames. Temporary by design. The buildings were intended for a six-month fair; after closing, they were demolished or burned. Chief of Construction Daniel Burnham and landscape architect Frederick Law Olmsted oversaw the project. The compressed timeline — groundbreaking in 1890, fair opening in May 1893 — is documented. The staff material allowed rapid construction and decorative detailing that would have taken decades in stone. The photographs document a triumphant feat of American engineering and aesthetic ambition, executed under time pressure, using deliberately impermanent materials.
 
 **What people remember instead:** The photographs show something that cannot have been built in two years. The neoclassical facades — the colonnades, the coffered arches, the detailed cornice work, the monumental scale — do not look like plaster over wire lath. They look like they have stood for a century. They look like they were always there. Thousands of people encountering the photographs for the first time report the same wrongness: these buildings look permanent. They look real. The "temporary staff construction" explanation satisfies at the logical level and fails at the perceptual level. The buildings look heavier than the record says they were.
 
@@ -43,10 +43,10 @@ A demolition worker on the 1894 wrecking crew for the World's Columbian Expositi
 All facts listed here are verified and must survive listener research.
 
 **1. The World's Columbian Exposition — dates and scale (verified):**
-The fair ran from May 1, 1893, to October 30, 1893, on 690 acres of former lakefront swamp and parkland in Jackson Park, Chicago. Groundbreaking took place on October 28, 1890 — less than three years before opening. Attendance: approximately 27.5 million visitors. The fair celebrated the 400th anniversary of Columbus's 1492 voyage. The site was designed by Daniel H. Burnham (Director of Works) and Frederick Law Olmsted (landscape design). The principal buildings — the Court of Honor, the Manufacturers and Liberal Arts Building, the Administration Building, the Agriculture Building, the Electricity Building — were major permanent-looking neoclassical structures. Source: "The Devil in the White City" by Erik Larson (2003); official Exposition records at the Chicago History Museum; Bancroft, Hubert Howe, "The Book of the Fair" (1893).
+The fair ran from May 1, 1893, to October 30, 1893, on 690 acres of former lakefront swamp and parkland in Jackson Park, Chicago. Groundbreaking took place on October 28, 1890 — less than three years before opening. (Note: this specific date is unverifiable online; verify against Larson's "Devil in the White City" before use, or remove the specific date and use "fall 1890" instead.) Attendance: approximately 27 million visitors. The fair celebrated the 400th anniversary of Columbus's 1492 voyage. The site was designed by Daniel H. Burnham (Director of Works) and Frederick Law Olmsted (landscape design). The principal buildings — the Court of Honor, the Manufacturers and Liberal Arts Building, the Administration Building, the Agriculture Building, the Electricity Building — were major permanent-looking neoclassical structures. Source: "The Devil in the White City" by Erik Larson (2003); official Exposition records at the Chicago History Museum; Bancroft, Hubert Howe, "The Book of the Fair" (1893).
 
 **2. Staff material construction (verified):**
-"Staff" was a composite of plaster of Paris, cement, glycerin, and jute fiber. It could be cast or troweled over wire lath and wooden/steel framing to produce highly detailed decorative surfaces quickly and cheaply. The Electricity Building, the Agriculture Building, and the other Court of Honor structures were built using staff. The material was load-bearing only when supported by the underlying steel or wood frame — the staff itself was the surface, not the structure. The buildings were designed to last approximately six months. Contemporary accounts document this. The staff technique had been used in European exposition buildings before Chicago. Source: Chicago History Museum records; contemporaneous accounts in The Inland Architect, 1892-1893.
+"Staff" was a composite of plaster of Paris, cement, glycerin, and fibrous binders including jute fiber and dextrin. It could be cast or troweled over wire lath and wooden/steel framing to produce highly detailed decorative surfaces quickly and cheaply. The Electricity Building, the Agriculture Building, and the other Court of Honor structures were built using staff. The material was load-bearing only when supported by the underlying steel or wood frame — the staff itself was the surface, not the structure. The buildings were designed to last approximately six months. Contemporary accounts document this. The staff technique had been used in European exposition buildings before Chicago. Source: Chicago History Museum records; contemporaneous accounts in The Inland Architect, 1892-1893.
 
 **3. Tesla and Westinghouse at the 1893 World's Fair (verified):**
 Nikola Tesla and the Westinghouse Electric Company won the contract to light the 1893 World's Columbian Exposition — the first large-scale public demonstration of a complete polyphase AC system for general illumination. Westinghouse underbid General Electric to win the lighting contract, offering a lower per-lamp price for an AC system. (A specific contract figure of $399,000 appears in some accounts, including Carlson, but conflicts with other sources citing $510,000; verify against Carlson's book before using any specific dollar amount.) The Westinghouse-Tesla system illuminated the entire fairgrounds with approximately 100,000 incandescent lamps — some accounts say 250,000, depending on counting method; the higher figure is often cited. Tesla personally demonstrated AC at the Electricity Building, including his famous egg-of-Columbus demonstration (spinning a copper egg using a rotating magnetic field from a polyphase AC motor) and performed demonstrations involving wireless gas-discharge lamps and high-frequency current as part of his broader exhibition repertoire (specific demonstrations at the 1893 fair should be verified against contemporaneous accounts before attribution). Source: Carlson, W. Bernard, "Tesla: Inventor of the Electrical Age" (Princeton University Press, 2013); "The Electrical World" journal, May-October 1893; contemporary fair catalogs at the Newberry Library, Chicago.
@@ -380,20 +380,22 @@ The following verifiable facts require external confirmation before or during wr
 **Confirmed verified by research during brief preparation:**
 - Fair dates: May 1-October 30, 1893
 - Grounds: 690 acres, Jackson Park
-- Groundbreaking: October 28, 1890
-- Attendance: approximately 27.5 million
-- Westinghouse contract: approximately $399,000
-- Staff material composition: plaster of Paris, cement, glycerin, jute fiber
+- Attendance: approximately 27 million
+- Staff material composition: plaster of Paris, cement, and fibrous binders (jute fiber, dextrin)
 - Tesla's presence and demonstrations: documented in Carlson (2013)
-- Palace of Fine Arts / Museum of Science and Industry rebuild: 1929-1940
-- Chicago grade raise: Chesbrough project, 1855-approximately 1900
+- Chicago grade raise: Chesbrough project, intensive work 1850s-1860s
 - Burnham "make no little plans" quote: disputed attribution
+- Cold Storage Building fire casualties: fifteen people — twelve firefighters and three civilians
 
 **Requires confirmation before writing:**
+- Groundbreaking date (October 28, 1890 — specific date unverifiable online; verify against Larson or use "fall 1890")
+- Westinghouse contract amount ($399,000 conflicts with other sources citing $510,000; verify against Carlson before citing any specific figure)
+- Palace of Fine Arts / Museum of Science and Industry rebuild: opened 1933 (verify exact start date; late 1920s funding from Rosenwald)
 - Exact lamp count at the fair (100,000 vs 250,000 — sources vary; use the more conservative figure with acknowledgment)
 - Exact dates of post-fair fires (July 1894 — specific dates vary across sources)
 - Exact grade raise measurements (4-7 feet range — verify the range)
 - Current status of Museum of Science and Industry original structure claims
+- Which specific Tesla demonstrations (gas-discharge lamps, body-current) occurred at the 1893 fair vs. other venues; verify against contemporaneous accounts before attributing
 - Whether the Electricity Building's documented interior layout is consistent with what the episode describes as Tesla's demonstration location
 
 ---
