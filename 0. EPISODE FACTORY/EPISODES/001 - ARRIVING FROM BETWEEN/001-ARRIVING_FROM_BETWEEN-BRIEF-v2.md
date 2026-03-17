@@ -45,7 +45,7 @@ All facts listed here are verified and must survive listener research.
 **1. Tesla's birth and death (verified):**
 - Born: July 10, 1856, in Smiljan, in the Military Frontier of the Austrian Empire (modern-day Croatia), to Milutin Tesla (Serbian Orthodox priest) and Đuka Tesla (née Mandić)
 - Died: January 7, 1943, in Room 3327 of the Hotel New Yorker, Manhattan
-- Found by maid Alice Monaghan on January 8, after the "Do Not Disturb" sign had been on the door for approximately three days (placed around January 5)
+- Found by a hotel maid (reportedly named Alice Monaghan, per biographical accounts) on January 8, after the "Do Not Disturb" sign had been on the door for approximately three days (placed around January 5)
 - Cause of death: coronary thrombosis. Age: eighty-six.
 
 **2. The birth during the storm (verified with source caveat):**
