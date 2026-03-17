@@ -1,6 +1,6 @@
 # Tesla Mandela Effects
 
-Audio docufiction podcast series. Standalone episodes, 10,000-13,000 words each, ElevenLabs Eleven Turbo v2 TTS for YouTube.
+Audio docufiction podcast series. Standalone episodes, 10,000-16,000 words each, ElevenLabs Eleven Turbo v2 TTS for YouTube.
 
 ## START HERE
 

@@ -26,7 +26,7 @@ Episodes 001-004 each took 2-4 sessions because instances burned context on edit
 
 ### The Workflow
 1. **Brief** — Research the topic. Write the Episode Brief (Production Guide Step 1). This is the only prose you write in main context.
-2. **Writing passes (3-5 subagents)** — Each subagent writes 3,000-5,000 words. Each gets: the brief, all prior pass output, and instructions to read the reference files. Target 10,000-13,000 words total across all passes. Hit the target in the first draft. No expansion passes after.
+2. **Writing passes (3-5 subagents)** — Each subagent writes 3,000-5,000 words. Each gets: the brief, all prior pass output, and instructions to read the reference files. Target 10,000-16,000 words total across all passes, governed by 400-paragraph limit and narrative completion. Hit the target in the first draft. No expansion passes after.
 3. **Caption Key** — Generate ARPAbet pronunciations (subagent or main context — it's small).
 4. **Pre-Delivery Verification** — Delegate to a subagent running the Production Guide Step 5 checklist. All 13 categories must pass.
 5. **Series Bible update** — Add the episode entry to the Anti-Cloning Registry.
