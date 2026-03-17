@@ -521,6 +521,48 @@ The buildings of the World's Columbian Exposition were illuminated for six month
 
 The things that remain are the things the demolition missed.
 
+
+There is something the investigation has been building toward, and it arrives here, in the final movement, because it could not have been stated at the beginning. The listener needed the full sequence first. The wall. The fair. The photographs. The engineering argument. Coburn's letter. The incident report. The grade raise. The missing documentation. Alcott's foundation borings. Tesla's rotating fields. Only now — carrying all of that — does the final question arrive with the weight it requires.
+
+The Mandela Effect, as it applies to the World's Columbian Exposition, is not that people remember a fair that didn't happen. The fair happened. The photographs are real. Twenty-seven million people were there.
+
+The Mandela Effect is that the photographs show permanence where the record says impermanence. And that discrepancy — the gap between what the photographs show and what the record says — has an explanation that the standard account provides and that most people accept.
+
+The standard account is: the photography was designed to deceive. The buildings were designed to look permanent. The deception worked.
+
+The investigation has no quarrel with this explanation for the photographs.
+
+The investigation has a quarrel with what Coburn's hammer found.
+
+Because if the photographs look like stone because the photography was designed to make plaster look like stone — then when you go inside the wall and strike the material, you should find plaster.
+
+Coburn struck the material.
+
+He found something the cold chisel could not cut.
+
+He found material running below the floor level.
+
+He called it stone because it behaved like stone. Because he had worked stone before, on the Kinzie Street clearance, and he knew the difference between material that yields to a cold chisel and material that does not.
+
+The photographs may be a designed deception.
+
+But Coburn's hammer is not a designed deception.
+
+The hammer does not know what the official record says. The hammer reads the material directly, in the only language available to it: force, and return, and the difference between what yields and what does not.
+
+The hammer said stone.
+
+The record said plaster.
+
+One of them is wrong.
+
+The investigation closes on the question that this forces: if the record is wrong about what the buildings were made of — if certain sections of certain buildings contained material that the record does not account for — then the record is also wrong about what Tesla's alternating current was running through for six months in eighteen ninety-three.
+
+The investigation does not state what that means.
+
+The investigation closes.
+
+
 Find the oldest building on your street.
 
 Look at the foundation.

@@ -192,11 +192,11 @@ The narrator offers the clerical error interpretation. That is what it probably 
 
 Eighteen sixty-five. Two years after the accident. Six weeks after the accident by the reckoning of the letter itself.
 
-Djuka Tesla — Nikola and Dane's mother, born Đuka Mandić, a woman of documented extraordinary memory and practical intelligence, a woman who built her own household tools and who had memorized the Serbian epic poetry cycle from beginning to end — Djuka Tesla writes a letter to her cousin in Gračac.
+Đuka Tesla — Nikola and Dane's mother, born Đuka Mandić, a woman of documented extraordinary memory and practical intelligence, a woman who built her own household tools and who had memorized the Serbian epic poetry cycle from beginning to end — Đuka Tesla writes a letter to her cousin in Gračac.
 
-The letter is two pages, written in Serbian, dated approximately six weeks after the horse accident. It was found inside a family Bible during renovations to a small church in Gračac in nineteen eighty-eight. The Bible belonged to Djuka's cousin's family. A regional historical society received the letter as a donation and produced a partial translation. The historical society dissolved in nineteen ninety-seven. The letter's current location is unknown.
+The letter is two pages, written in Serbian, dated approximately six weeks after the horse accident. It was found inside a family Bible during renovations to a small church in Gračac in nineteen eighty-eight. The Bible belonged to Đuka's cousin's family. A regional historical society received the letter as a donation and produced a partial translation. The historical society dissolved in nineteen ninety-seven. The letter's current location is unknown.
 
-Djuka writes that she has been going through Dane's belongings. She describes the task with a flatness that is not indifference but containment — the prose of someone who has committed to completing a task they cannot afford to stop in the middle of, because stopping would mean feeling what the task is actually about. She is going through his things. She is keeping some of them. She is making decisions.
+Đuka writes that she has been going through Dane's belongings. She describes the task with a flatness that is not indifference but containment — the prose of someone who has committed to completing a task they cannot afford to stop in the middle of, because stopping would mean feeling what the task is actually about. She is going through his things. She is keeping some of them. She is making decisions.
 
 She found a notebook. Not a school notebook, she writes — a different kind, with no lines. The notebook contains drawings.
 
@@ -206,7 +206,7 @@ The way other children draw horses. Casually, repeatedly, instinctively — the 
 
 Dane Tesla spent his spare time with the inside of machines that did not exist yet.
 
-Djuka writes that she showed the drawings to Nikola. Nikola looked at them for a long time. Then he handed them back without speaking.
+Đuka writes that she showed the drawings to Nikola. Nikola looked at them for a long time. Then he handed them back without speaking.
 
 She writes: "He will not tell me what they are. But I think he knows. I think he knew before I showed him."
 
@@ -214,7 +214,7 @@ The silence of a seven-year-old who recognized something without having language
 
 The letter ends. The last sentence is partially obscured by water damage. What is legible reads: "What I cannot understand is why some of the pages appear to have been drawn by [damaged] and some by [damaged]."
 
-Two different people. Or two different states of the same person. Or something else that Djuka Tesla noticed but could not complete, because the water took the sentence before she could finish it.
+Two different people. Or two different states of the same person. Or something else that Đuka Tesla noticed but could not complete, because the water took the sentence before she could finish it.
 
 The letter stops. The historical society that held it dissolved. The family Bible passed from hand to hand until the hands it could be traced to ran out.
 
@@ -370,7 +370,7 @@ Nikola brought squares. The geometric overlay. The golden grid that welcomed him
 
 Dane brought something else. His notebook — the machine drawings that looked like the inside of a clock that no one had made yet — was not the Grid's geometry. It was something adjacent to it. Something parallel to it. Something that did not move in the same direction.
 
-Djuka noticed it: the drawings appeared to be made by two different people, or by one person in two different states. The hand that drew the machines that looked like clock interiors, and the hand that drew something else. Two orientations. Two angles of approach. The same predisposition, but not the same relationship to what the predisposition showed them.
+Đuka noticed it: the drawings appeared to be made by two different people, or by one person in two different states. The hand that drew the machines that looked like clock interiors, and the hand that drew something else. Two orientations. Two angles of approach. The same predisposition, but not the same relationship to what the predisposition showed them.
 
 Dane could see the Grid. Dane was not glad about it.
 
@@ -395,7 +395,7 @@ What the complete system would have produced is not in the record. It is in the 
 
 Here is what the evidence shows. Not what it suggests. What it shows.
 
-A boy named Dane Tesla, whose birth year the official record cannot agree on, died in a garden in Smiljan in eighteen sixty-three. His death was witnessed by his seven-year-old brother, who spent the next fifty-six years unable to describe it with more than two sentences. His mother found, two years after his death, a notebook of drawings that looked like machines from the inside of a clock that no one had made yet. The notebook contained drawings that appeared to be in two different handwritings, which Djuka Tesla could not complete the sentence about because the water reached her words before she could finish them.
+A boy named Dane Tesla, whose birth year the official record cannot agree on, died in a garden in Smiljan in eighteen sixty-three. His death was witnessed by his seven-year-old brother, who spent the next fifty-six years unable to describe it with more than two sentences. His mother found, two years after his death, a notebook of drawings that looked like machines from the inside of a clock that no one had made yet. The notebook contained drawings that appeared to be in two different handwritings, which Đuka Tesla could not complete the sentence about because the water reached her words before she could finish them.
 
 In eighteen ninety-one, a patent application was filed at the U.S. Patent Office with two names in the applicant field. One name was Nikola Tesla. The other began with D and ended with -sla. The original application is not in the searchable records. The photograph of the cover sheet survived in a New Haven estate until two thousand and three. A second photograph from the same lot shows two men in a laboratory — one at a workbench, one at a blackboard — the blackboard covered in equations written in a hand that is not Tesla's.
 
