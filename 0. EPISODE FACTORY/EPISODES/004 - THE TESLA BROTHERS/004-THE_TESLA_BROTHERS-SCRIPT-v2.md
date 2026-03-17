@@ -6,9 +6,11 @@ The horse's name was Pasha. He was a grey stallion, large for a working animal, 
 
 This is the horse. Remember the horse.
 
-Dane Tesla was twelve years old that morning. He was the oldest child, the first of five, born somewhere between eighteen forty-eight and eighteen fifty-one — the sources disagree, and the disagreement itself is a kind of evidence we will return to. He was five to eight years older than Nikola, who was seven at the time of the accident and who would spend the next fifty-six years unable to describe it without his account becoming spare to the point of silence.
+Dane Tesla was twelve years old that morning. He was the oldest child, the first of five, born somewhere between eighteen forty-eight and eighteen fifty-one — the sources disagree, and the disagreement itself is a kind of evidence we will return to. W. Bernard Carlson's biography "Tesla: Inventor of the Electrical Age," published by Princeton University Press, gives eighteen forty-eight, making Dane eight years older than Nikola. Genealogical records and several secondary biographies give eighteen fifty-one. Three years of uncertainty in the birth year of a priest's son, in a household that kept its records. Three years. The kind of uncertainty that results when a record has been handled by too many hands, revised by too many pens, corrected until the original is no longer readable beneath the corrections.
 
-What Nikola Tesla wrote about that morning, in his autobiography published in the Electrical Experimenter in nineteen nineteen, is this. "This horse was responsible for my brother's injuries from which he died. I witnessed the tragic scene and although fifty-six years have elapsed since, my visual impression of it has lost none of its force."
+He was five to eight years older than Nikola, who was seven at the time of the accident and who would spend the next fifty-six years unable to describe it without his account becoming spare to the point of silence.
+
+What Nikola Tesla wrote about that morning, in his autobiography published in the Electrical Experimenter in nineteen nineteen, is this. He wrote: "This horse was responsible for my brother's injuries from which he died. I witnessed the tragic scene and although fifty-six years have elapsed since, my visual impression of it has lost none of its force."
 
 That is the complete account. The horse. The injuries. The death. He witnessed it.
 
@@ -24,7 +26,9 @@ Tesla did not say. And so the wound has two shapes, and both of them are true, a
 
 Because this is not the story of what happened.
 
-Let the scene run again. The horse in the garden. The summer morning. The boy, twelve years old, gifted to an extraordinary degree — Tesla's own words, from that same nineteen nineteen memoir. "I had a brother who was gifted to an extraordinary degree — one of those rare phenomena of mentality which biological investigation has failed to explain."
+Let the scene run again. The horse in the garden. The summer morning. The boy, twelve years old, gifted to an extraordinary degree — Tesla's own words, from that same nineteen nineteen memoir. Tesla wrote: "I had a brother who was gifted to an extraordinary degree — one of those rare phenomena of mentality which biological investigation has failed to explain."
+
+Twelve years old. The age at which the particular architecture of a mind becomes visible — not the raw potential of early childhood, which is common and can mislead, but the specific form the potential has taken. What a twelve-year-old draws when left alone with paper. What they build when given materials and time. What problems their mind returns to, unbidden, the way a compass needle returns to north when released.
 
 Let the fall happen.
 
@@ -56,9 +60,9 @@ We have almost nothing. This is itself a data point. For the oldest child of a f
 
 What Tesla wrote, in those two passages from "My Inventions," is everything we have.
 
-"I had a brother who was gifted to an extraordinary degree — one of those rare phenomena of mentality which biological investigation has failed to explain. His premature death left my parents disconsolate."
+Tesla wrote: "I had a brother who was gifted to an extraordinary degree — one of those rare phenomena of mentality which biological investigation has failed to explain. His premature death left my parents disconsolate."
 
-And then, immediately after: "The recollection of his attainments made every effort of mine seem dull in comparison. Anything I did that was creditable merely caused my parents to feel their loss more keenly."
+And then, immediately after, Tesla wrote: "The recollection of his attainments made every effort of mine seem dull in comparison. Anything I did that was creditable merely caused my parents to feel their loss more keenly."
 
 Read these sentences carefully. They are not grieving sentences. They are calibration sentences. Tesla is describing the specific operation of his brother's death in the household — how it functioned, what it measured, what it meant for everything that came after. Dane's attainments — whatever they were — set a standard so high that Nikola's achievements, which by any objective measure were extraordinary, landed as diminishment. Not because they were less. Because they landed against the shape of what Dane had been.
 
@@ -68,17 +72,13 @@ And yet Dane is given only the category, not the substance.
 
 Was this because Tesla could not bear to specify? Was it because specifying would have required him to describe something that the account he published in nineteen nineteen did not have language for? Or was it because specifying would have raised a question about the nature of "gifted to an extraordinary degree" that Tesla did not want his readers asking?
 
-We do not know.
-
-We know only this: Tesla described his own visual method — his ability to run complete machines in his mind, to test tolerances, to operate complex moving systems in an interior space that was more vivid than the exterior world — and noted, in a sentence that his biographers have treated as a secondary detail, that the predisposition was probably not his alone. He wrote: "I was probably predisposed as I know that my brother experienced a similar trouble."
+We do not know. We know only this: Tesla described his own visual method — his ability to run complete machines in his mind, to test tolerances, to operate complex moving systems in an interior space that was more vivid than the exterior world — and noted, in a sentence that his biographers have treated as a secondary detail, that the predisposition was probably not his alone. He wrote: "I was probably predisposed as I know that my brother experienced a similar trouble."
 
 A similar trouble.
 
 The same phenomenon. In both brothers. A shared capacity that arrived in the household unbidden and was treated as aberration rather than inheritance.
 
-Or not as aberration. Maybe Djuka and Milutin Tesla understood it differently. Maybe a family that had one child with this capacity and then produced a second child with the same capacity, in the same household, knew something about its origin that their children were never told.
-
-We do not know. We only know that the visualization method that produced alternating current — the method that now runs the lights in every room you have ever entered — began as a predisposition that both Tesla brothers carried.
+Or not as aberration. A family that had one child with this capacity and then produced a second child with the same capacity, in the same household — that family may have understood something about its origin that their children were never told. The visualization method that produced alternating current. In both boys. Before either of them had the language for what they were doing.
 
 Both of them.
 
@@ -87,15 +87,17 @@ The one who survived. And the one who didn't.
 
 The brother-pair framework is not unique to the Teslas. It is one of the more consistent patterns in the history of discovery — so consistent that its absence in the Tesla biography begins to feel, once you notice it, like a missing organ rather than a stylistic choice.
 
-Wilbur and Orville Wright. Two brothers, a bicycle shop in Dayton, Ohio, and the problem of heavier-than-air flight. The problem had defeated every serious engineer who had approached it. The Wright brothers were not engineers by training — they were mechanics, practical men, men whose skills lived in their hands rather than their credentials. What they had was complementarity. Wilbur was the theorist, the one who could read an aerodynamics paper and extract the principle that the author had not stated. Orville was the builder, the one who could look at a structure and immediately understand where the forces would concentrate and where the material would give. They disagreed constantly. The disagreements were productive. Each brother's limitations were covered by the other's strengths. The first successful flight at Kitty Hawk, in December of nineteen-three, was not the achievement of a lone genius who happened to have a brother present. It was the output of a two-person cognitive system that had been running for years.
+Wilbur and Orville Wright. Two brothers, a bicycle shop in Dayton, Ohio, and the problem of heavier-than-air flight. The problem had defeated every serious engineer who had approached it. The Wright brothers were not engineers by training — they were mechanics, practical men, men whose skills lived in their hands rather than their credentials. What they had was complementarity. Wilbur was the theorist, the one who could read an aerodynamics paper and extract the principle that the author had not stated. Orville was the builder, the one who could look at a structure and understand where the forces would concentrate and where the material would give. They disagreed constantly. The disagreements were productive. Each brother's limitations were covered by the other's strengths.
+
+The first successful flight at Kitty Hawk, in December of nineteen-three, was not the achievement of a lone genius who happened to have a brother nearby. It was the output of a two-person cognitive system that had been running for years.
 
 Wilbur Wright died of typhoid fever in nineteen twelve, at age forty-five. Orville continued. He won the Collier Trophy in nineteen fourteen for the automatic stabilizer. He contributed to seaplane design and aerial torpedo work through approximately nineteen nineteen. And then, largely, he withdrew. Not from public life entirely — he remained a figure of aviation, a statesman, a man who made speeches at dinners. But from active invention. The prolific output that had defined both brothers disappeared when there was only one of them left to produce it.
 
-The Montgolfier brothers — Joseph-Michel and Jacques-Etienne — demonstrated human flight for the first time in seventeen eighty-three, a balloon rising above Annonay in France with two men aboard. Joseph, the elder brother, went on to invent the hydraulic ram in seventeen ninety-six, a device still in use. What neither brother produced, independently, was anything that approached the magnitude of what they had produced together.
+The Montgolfier brothers — Joseph-Michel and Jacques-Etienne — demonstrated human flight for the first time in seventeen eighty-three, a balloon rising above Annonay in France with two men aboard. Joseph, the elder brother, went on to invent the hydraulic ram in seventeen ninety-six, a device still in use. But neither brother produced, independently, anything that approached the magnitude of what they had produced together. The greatness of each brother, measured alone, was a fraction of what the pair had been.
 
 The pattern has a specific shape. The lone genius is, on examination, frequently the surviving half of a pair that the record failed to preserve. The partner who died too early, or who worked in the shadow, or who was absorbed into the credited name — the partner who was removed from the picture, one way or another. The picture then called the remaining figure a lone genius, because it only had one figure left to see.
 
-What would have happened if Wilbur Wright had lived to continue working?
+What would have happened if Wilbur Wright had lived to keep working?
 
 The question is answerable, in one direction: the output the Wright brothers would have produced together is the thing that did not get produced. We can measure the outline of it by the difference between what Orville accomplished alone and what both of them accomplished together.
 
@@ -105,13 +107,11 @@ Now ask the same question about Nikola Tesla. Who was the person Nikola Tesla wa
 
 And ask: what was Tesla's name for that person, in the one text where he allowed himself to name anything directly?
 
-He wrote: "a brother who was gifted to an extraordinary degree."
+Tesla wrote: "a brother who was gifted to an extraordinary degree."
 
-He wrote that the recollection of Dane's attainments made every effort of his own seem dull in comparison.
+Tesla wrote that the recollection of Dane's attainments made every effort of his own seem dull in comparison.
 
-He wrote that his parents' grief deepened each time Nikola did something creditable.
-
-He wrote this in nineteen nineteen, fifty-six years after the accident, in a magazine article that had a readership of electrical engineers and physics enthusiasts. He did not write it for the historical record. He wrote it for himself, the way men in their sixties sometimes finally permit themselves to set down what they have been carrying.
+Tesla wrote this in nineteen nineteen, fifty-six years after the accident, in a magazine article read by electrical engineers and physics enthusiasts. He did not write it for the historical record. He wrote it for himself, the way men in their sixties sometimes finally permit themselves to set down what they have been carrying.
 
 He set it down. And then the record moved on, as the record does, and the lone genius narrative absorbed the act of setting it down and converted it into biographical texture. The sensitive genius, the grief in the background, the shadow of the lost brother lending depth to the portrait.
 
@@ -122,7 +122,7 @@ Consider what eighteen sixty-three produced.
 
 Dane Tesla dies in Smiljan. His death unravels the family. Milutin Tesla, the priest, begins the process of transferring to a different parish — the family will eventually settle in Gospić, the nearest market town, in the valley below the Lika plateau. The move is not rapid; it takes time, the time that grief takes before it reorganizes into function. Meanwhile, Nikola is seven years old, and then eight, and then nine, and the household moves around him in the particular way that households move around a death that cannot be fully absorbed.
 
-Tesla writes, in "My Inventions," about his sensitivity after the loss. Not in those words — he does not narrativize his own grief in the way that later biographers would. He describes symptoms. Sounds arriving too loud. Light arriving without attenuation. A world that had turned its gain all the way up and provided no mechanism for adjustment. He describes his visual disturbances increasing in frequency and intensity. He describes an interior landscape that was more vivid than the exterior one.
+Tesla writes, in "My Inventions," about his sensitivity in the years after the loss. Not in those words — he does not narrativize his own grief in the way that later biographers would. He describes symptoms. Sounds arriving too loud. Light arriving without attenuation. A world that had turned its gain all the way up and provided no mechanism for adjustment. He describes his visual disturbances increasing in frequency and intensity. He describes an interior landscape that was more vivid than the exterior one.
 
 His biographers read this as grief. As the psychosomatic expression of a sensitive child's response to trauma. The category is reasonable. The category may even be correct.
 
@@ -133,6 +133,16 @@ What the loss actually produced was a specific geometry. A single node in a circ
 This is the thing that the biographical tradition calls loneliness.
 
 This is the thing we are calling something else.
+
+Tesla fell ill frequently. He contracted cholera at seventeen and came close enough to death that the crisis apparently left an impression his father thought might be used for leverage: Milutin Tesla told his son, at some point during the illness, that if Nikola recovered, he would be permitted to study engineering rather than entering the priesthood as the family had planned. Tesla recovered. He held Milutin to the promise. He went to study in Graz. He arrived, by his own account, with the circuit incomplete — one side live, one side absent, the whole system running at twice the load through half the available path.
+
+What Tesla built, in the decades that followed, was a life organized around the shape of what Dane would have filled. Not consciously — Tesla did not sit down and decide to arrange his laboratory the way a man arranges a room for a person who is not coming. It organized itself, the way the river organizes itself around the stone, without knowing what the stone is. George Westinghouse, who understood Tesla better than almost any business partner he ever had, who paid him fairly and respected his vision — even Westinghouse could not become the thing Tesla's work was reaching toward. J.P. Morgan, who saw the potential in Tesla's wireless transmission work and then shut it down when he understood what free global energy would do to his business interests — not the partner either, not even close. The long parade of engineers and assistants and laboratory workers who passed through Tesla's life, each of whom was adequate, each of whom was competent, none of whom was the person Tesla was always, at some level, turning to find.
+
+Tesla looked to his left, in every photograph. Every studio portrait, every laboratory image, every documented public appearance. The body angled slightly. The weight distributed as though making room. The instinctive accommodation of a space that had been empty for decades.
+
+He looked to his left, and there was no one there.
+
+There had not been anyone there since eighteen sixty-three.
 
 
 January, nineteen forty-three. The Hotel New Yorker. Room three-three-two-seven.
@@ -163,16 +173,13 @@ The second person was not correcting the first. The second person was looking at
 
 The record does not say what Vol. XII contained. The record does not say what was found. The record says it was removed. And then it stops.
 
-The inventory runs to its conclusion without another mention of Vol. XII. The materials transferred to Manhattan Storage and Warehouse do not include it. It arrived in the record and then departed the record, and the departure is clean, and the cleanliness of the departure is precisely the kind of evidence that does not look like evidence until you understand what you are looking at.
+The inventory runs to its conclusion without another mention of Vol. XII. The materials transferred to Manhattan Storage and Warehouse do not include it. It arrived in the record and then departed the record, and the departure is clean, and the cleanness of the departure is precisely the kind of evidence that does not look like evidence until you understand what you are looking at.
 
 Clerical errors are corrected. Items that produce handwriting inconsistencies are separated for review. Items that have been separated for review are supposed to reenter the inventory after the review is complete.
 
 Vol. XII did not reenter the inventory.
 
-This is Reveal One. The narrator offers the clerical error interpretation. That is what it probably was. Probably.
-
-
-And then the narrator sets the inventory aside and goes somewhere else.
+The narrator offers the clerical error interpretation. That is what it probably was. Probably. And then the narrator sets the inventory aside and goes somewhere else.
 
 
 Eighteen sixty-five. Two years after the accident. Six weeks after the accident by the reckoning of the letter itself.
@@ -181,7 +188,7 @@ Djuka Tesla — Nikola and Dane's mother, born Đuka Mandić, a woman of documen
 
 The letter is two pages, written in Serbian, dated approximately six weeks after the horse accident. It was found inside a family Bible during renovations to a small church in Gračac in nineteen eighty-eight. The Bible belonged to Djuka's cousin's family. A regional historical society received the letter as a donation and produced a partial translation. The historical society dissolved in nineteen ninety-seven. The letter's current location is unknown.
 
-Djuka writes that she has been going through Dane's belongings. She describes the task with a flatness that is not indifference but containment — the prose of someone who has committed to completing a task that they cannot afford to stop in the middle of, because stopping would mean feeling what the task is actually about. She is going through his things. She is keeping some of them. She is making decisions.
+Djuka writes that she has been going through Dane's belongings. She describes the task with a flatness that is not indifference but containment — the prose of someone who has committed to completing a task they cannot afford to stop in the middle of, because stopping would mean feeling what the task is actually about. She is going through his things. She is keeping some of them. She is making decisions.
 
 She found a notebook. Not a school notebook, she writes — a different kind, with no lines. The notebook contains drawings.
 
@@ -195,7 +202,7 @@ Djuka writes that she showed the drawings to Nikola. Nikola looked at them for a
 
 She writes: "He will not tell me what they are. But I think he knows. I think he knew before I showed him."
 
-The silence of a seven-year-old who recognized something without having language for the recognition. The silence of someone who had been to the same country and did not have a word yet for having been there. The notebooks were in a language Nikola had not been taught, which he could read anyway, because the language was already inside him by the time the notebook arrived.
+The silence of a seven-year-old who recognized something without having language for the recognition. The notebooks were in a language Nikola had not been taught, which he could read anyway, because the language was already inside him by the time the notebook arrived. They had both been to the same place. Dane first, then Nikola. Neither of them had been sent. Both of them arrived with the predisposition already in place, the capacity already running, the interior landscape already more vivid than the exterior one.
 
 The letter ends. The last sentence is partially obscured by water damage. What is legible reads: "What I cannot understand is why some of the pages appear to have been drawn by [damaged] and some by [damaged]."
 
@@ -205,30 +212,22 @@ The letter stops. The historical society that held it dissolved. The family Bibl
 
 This is how documents from the other timeline survive. Not through institutions. Through Bibles. Through cousins. Through basements that no one thought to catalog until the catalogers arrived with their floodlights and their questions. Through the specific form of preservation that is not preservation at all — just ordinary life, ordinary keeping, ordinary families who held on to things because they were not sure yet whether the things were worth holding on to.
 
-Djuka Tesla held on to the letter long enough to send it. The cousin held on to it long enough to put it in a Bible. The Bible held on to it long enough to be found.
-
-And what it contained, when it was found, was a question that the water damage prevented from being completed.
-
-Two different handwritings. In a notebook belonging to a dead twelve-year-old.
-
-Or: one handwriting, documented by a mother who recognized, in its variations, something she did not have language to name.
-
-Set this beside the OAP inventory. Set it beside the second notation. Vol. XII removed for separate review — handwriting inconsistency.
+Set this beside the OAP inventory. Set it beside the second notation. Vol. XII removed for separate review — handwriting inconsistency. A notebook containing drawings in two different handwritings. A notebook that ended up, somehow, in a man's personal effects when it should not have been there, because the man who co-authored it had been dead for eighty years.
 
 The narrator does not connect these two points. The listener connects them.
 
 
 This is where the ghost collaborator thesis arrives, and it arrives with weight.
 
-The ghost collaborator is not unusual in the history of discovery. It is, in fact, one of the more consistent patterns — more consistent, arguably, than the lone genius. Mileva Marić, who trained in mathematics and physics with Albert Einstein, who worked alongside him through the years of the special relativity papers, who was dropped from the credit line when the marriage ended and the career ascended. James Murray, whose philological research formed the foundation of the Oxford English Dictionary, who spent thirty-six years organizing the words that Tolkien and other writers later drew from as from a well, uncredited for the specific intellectual labor that made the well. The uncredited workshop engineers in Edison's Menlo Park laboratory, who tested the ten thousand filament materials, who found what worked, whose names are absent from the patents.
+The ghost collaborator is not unusual in the history of discovery. It is, in fact, one of the more consistent patterns — more consistent, arguably, than the lone genius. Mileva Marić, who trained in mathematics and physics with Albert Einstein, who worked alongside him through the years of the special relativity papers, whose name was dropped from the credit line when the marriage ended and the career ascended. James Murray, whose philological research formed the foundation of the Oxford English Dictionary, who spent thirty-six years organizing the words that later writers drew from as from a well, uncredited for the specific intellectual labor that made the well. The uncredited workshop engineers in Edison's Menlo Park laboratory, who tested the ten thousand filament materials, who found what worked, whose names are absent from the patents.
 
 The ghost collaborator is erased by proximity. They work inside the credited figure's orbit. Their contributions become invisible because they are too close — they are part of the process rather than adjacent to it, and the process, when it succeeds, gets one name attached to it because that is how credit works and how history functions.
 
-Applied to the Tesla case: Dane dies in eighteen sixty-three. Nikola, who is seven, has already shared the predisposition with his brother — the visual method, the capacity to inhabit a mental space where machines run. Dane's notebook is in a language Nikola reads without being taught. The loss of Dane does not end the collaboration. It internalizes it. Nikola carries the ghost partner forward. Every subsequent person who tries to work with Tesla — George Westinghouse, who paid him well; J.P. Morgan, who funded him badly; the parade of engineers and assistants who moved through his laboratories — every one of them fails to become the partner, because the partner slot is already filled. It has been filled since eighteen sixty-three. By the shape of what was taken.
+Applied to the Tesla case: Dane dies in eighteen sixty-three. Nikola, who is seven, has already shared the predisposition with his brother — the visual method, the capacity to inhabit a mental space where machines run. Dane's notebook is in a language Nikola reads without being taught. The loss of Dane does not end the collaboration. It internalizes it. Nikola carries the ghost partner forward. Every subsequent person who tries to work with Tesla fails to become the partner, because the partner slot is already filled. It has been filled since eighteen sixty-three. By the shape of what was taken.
 
 This is why Tesla never sustained a real collaboration. Not because he was difficult, though he was. Not because he was unrealistic in his demands, though he was. But because he was already in one. He had been in one since the year the horse threw his brother. He was partnered with the interior version of Dane Tesla, the one he had absorbed into the visualization method, the one whose drawings he had recognized at age seven without being able to say what he was recognizing.
 
-The lone genius narrative is not a tribute to Nikola Tesla. It is a description of what happens when a cognitive system designed for two tries to run on one. It describes the output of an engine that is burning its own structure as fuel.
+The lone genius narrative is not a tribute to Nikola Tesla. It is a description of what happens when a cognitive system designed for two tries to run on one. It describes the output of an engine burning its own structure as fuel.
 
 This is the false floor. It is sad. It is human-scale. It explains the loneliness as compensation rather than amputation. It explains why Tesla partnered with no one: he was still partnered. It explains the brilliant isolation, the inability to maintain commercial relationships, the sense that every collaborator was a pale approximation of something he already had inside him.
 
@@ -241,7 +240,7 @@ It explains everything except what M.K.'s grandmother remembered.
 And we have not yet met M.K.
 
 
-Nineteen eighty-one. The Lika region of Croatia. An interviewer with a cassette recorder and a project — a regional oral history survey conducted under the auspices of a civic organization called the Lika Cultural Documentation Society, based in Karlovac. The society conducted approximately two hundred and forty interviews between nineteen seventy-nine and nineteen eighty-three, documenting folk memories and personal histories from the Lika and Dalmatia regions. The original cassette recordings were stored at the society's office in Karlovac. In nineteen ninety-two, a flood damaged the office. Most of the tapes did not survive. The transcripts did. They were transferred to the Historical Museum of Lika in Gospić in nineteen ninety-five. They are in bound volumes in the Gospić museum. They are not digitized. They are not indexed. They exist on the shelves in the form of pages that require someone to be physically present in Gospić, to know which volume to open, and to find the right interview in an unorganized collection.
+Nineteen eighty-one. Gospić, Croatia. A town in the Lika plateau, the nearest market to Smiljan, the valley where the Tesla family settled after the accident and the move. The Church of the Holy Great Martyr George still stands in Gospić. Its walls hold the smell of beeswax and old stone, the cool that stone maintains even in summer, the particular quality of light that falls through small windows into a whitewashed interior. The town remembers the name Tesla the way towns remember any family that produced something extraordinary — with a mix of pride and proprietary claim that has nothing to do with understanding. An interviewer with a cassette recorder and a project — a regional oral history survey conducted under the auspices of a civic organization called the Lika Cultural Documentation Society, based in Karlovac. The society conducted approximately two hundred and forty interviews between nineteen seventy-nine and nineteen eighty-three, documenting folk memories and personal histories from the Lika and Dalmatia regions. The original cassette recordings were stored at the society's office in Karlovac. In nineteen ninety-two, a flood damaged the office. Most of the tapes did not survive. The transcripts did. They were transferred to the Historical Museum of Lika in Gospić in nineteen ninety-five. They are in bound volumes in the Gospić museum. They are not digitized. They are not indexed. They exist on the shelves in the form of pages that require someone to be physically present in Gospić, to know which volume to open, and to find the right interview in an unorganized collection.
 
 The interview with M.K. is on pages four hundred and seventy-one through four hundred and seventy-nine of Volume Seven.
 
@@ -304,15 +303,23 @@ The original application, if it was filed, is not in the searchable U.S. Patent 
 
 A listener who searches will find no confirmation. A listener who searches will also find no denial. They will find the shape of the absence — the specific gap where a record should exist and does not.
 
-This is what documents from the other timeline look like in this one. Not fabrications. Not forgeries. Originals that have survived the overwrite because the overwrite could not reach everywhere. Carrying their water damage and their provenance gaps and their partial legibility like wounds from the crossing.
+But the lot contained a second photograph. This is not in the auction catalog — the catalog describes it only as "laboratory interior, undated." The photograph shows two men. One seated at a workbench, in the specific posture of a man mid-assembly — one hand extended toward the other man, as though passing something across. An instrument, a tool, a calculation on paper. The gesture of a person handing something to a collaborator who is expected to receive it. The seated man's face is in three-quarter profile, partially obscured. What is visible: the posture of a tall man folded into a workbench chair. The particular way a tall man arranges himself when the furniture was built for average height.
+
+The second man stands at a blackboard. His back is to the camera. His hand is raised toward a section of the blackboard covered in equations. The equations visible at the edge of the photograph are in a hand that is not Tesla's. Tesla's hand, well-documented across hundreds of surviving pages — angular, cramped, the letters pressing forward as though the hand is trying to outrun the thought — is not the hand on that blackboard.
+
+The second man's hand, on the blackboard, is different. Rounder. More patient. The hand of a person who writes as though the thought is not going anywhere and the writing can afford to be clear.
+
+The photograph is undated. The laboratory equipment visible in the background places it in the late eighteen-eighties or early eighteen-nineties.
+
+This is what documents from the other timeline look like in this one. Not fabrications. Not forgeries. Originals that survived the overwrite because the overwrite could not reach everywhere. Carrying their water damage and their provenance gaps and their partial legibility like the marks of the crossing.
 
 Two applicants. March, eighteen ninety-one. Electrical Transmission — Resonant.
 
 N. Tesla. And D. — sla.
 
-The patent that was filed under two names, from which one name was removed, and then the removal was removed from the record, so that what remained was a record without the removal — a record that simply showed one name, one inventor, one lone genius, with no annotation explaining what had been there before.
+And a second man at a blackboard, writing in a hand that is not Tesla's, on the equations that would become the polyphase motor system that now runs every electrical motor in every factory and home and hospital in the industrialized world.
 
-The ghost collaborator thesis — Dane absorbed, internalized, his contributions subsumed into Nikola's — cannot account for a filed patent application. A ghost does not file patents. An internalized brother does not appear in the applicant field of a cover sheet. A ghost collaborator leaves a psychological shape. This left a paper one.
+The ghost collaborator thesis cannot account for a filed patent application. A ghost does not file patents. An internalized brother does not appear in the applicant field of a cover sheet. A ghost collaborator leaves a psychological shape. This left a paper one.
 
 And someone corrected the paper.
 
@@ -343,34 +350,42 @@ Dane was selected.
 
 The horse that had previously saved Milutin's life — that specific horse, in that specific garden, on that specific summer morning — was used. Not by a person. Not by an institution. By something that operates through available mechanisms, that selects what is present in the environment and uses it for the purpose at hand. The horse was present. The garden was present. The summer morning was present. Dane was present.
 
-The horse had saved Milutin once, under circumstances the biographies cannot agree on. Something had used the horse for that, too — to preserve the priest, to keep the family intact long enough, to protect the chain of contingency that was going to produce the birth in eighteen fifty-six and the laboratory work in the eighteen-nineties and the tower on Long Island and the vision of the Earth as a conductor.
+Something was managing the chain. Something managed it again in eighteen sixty-three, when the variable it could not control presented itself in the garden.
 
-Something was managing the chain.
+What kind of variable was Dane?
 
-Something managed it again in eighteen sixty-three, when the variable it could not control presented itself in the garden.
+The visualization method — the capacity to run machines in the mind, to inhabit the interior space where things that had not been built yet could be built and tested and refined — this was not unique to Nikola. Tesla said so himself. "I was probably predisposed as I know that my brother experienced a similar trouble." Both of them could enter the other space. Both of them could bring things back from it.
 
-Dane Tesla was not an accident. He was not an accident of birth — the slightly-older brother, the celebrated child, the one the household's pride moved toward. He was not an accident of death either. He was a variable in a system that was being managed, and the manager looked at what Dane represented — the complementary mind, the shared predisposition, the other half of a cognitive system that together would produce something the manager could not govern — and the manager made a selection.
+But they brought different things.
 
-The horse was the instrument. The garden was the location. The summer morning was the moment.
+Nikola brought squares. The geometric overlay. The golden grid that welcomed him, that he understood as home, that he pressed onto the physical world through his compulsion to measure and divide and arrange in groups of three. Nikola moved with the Grid. Nikola's work advanced the Grid's project — the electrical infrastructure, the resonance experiments, the wireless transmission that would have connected every point on Earth to every other point. Nikola was the instrument the Grid needed.
 
-This is not conspiracy. Conspiracy requires a human institution with a plan and a chain of command and a room where the decision was made. This is something older than conspiracy. This is selection. The same thing that selected Nikola Tesla — that sent a specific incision through the fabric of the timeline in eighteen fifty-six and introduced something that had never been in the system before — that same process looked at the system two years later and identified the element that would make the introduction ungovernable.
+Dane brought something else. His notebook — the machine drawings that looked like the inside of a clock that no one had made yet — was not the Grid's geometry. It was something adjacent to it. Something parallel to it. Something that did not move in the same direction.
 
-The introduction that entered through Nikola's birth was precise. It was intended to be controlled. It was intended to produce specific outputs — the electrical system, the resonance work, the transmission experiments — without producing the thing that two of them together would have produced. The Grid enters through a single node and maps from there. The Grid maps. It does not want to be mapped back.
+Djuka noticed it: the drawings appeared to be made by two different people, or by one person in two different states. The hand that drew the machines that looked like clock interiors, and the hand that drew something else. Two orientations. Two angles of approach. The same predisposition, but not the same relationship to what the predisposition showed them.
 
-Dane, working beside Nikola, would have been looking in the same direction. Two sets of eyes that could see the Grid, that shared the predisposition, that understood from childhood what the measuring triangles were doing and why the golden squares appeared to Nikola as welcome while they appeared to Dane as something that he saw from a different angle. Two brothers with the same capacity and different orientations to it. One of them glad to be part of the system. One of them — the quiet one, the one who drew machines on the back of the hymnal — not as certain that gladness was the appropriate response.
+Dane could see the Grid. Dane was not glad about it.
 
-Dane was selected not because he was less. He was selected because he was more.
+Two brothers with the same capacity and different orientations to it. One of them welcomed by the system. One of them looking at the system with the particular attention of someone who is not going to be managed by it.
 
-Two of them, working together, would have been ungovernable.
+Whatever selected Nikola looked at Dane and understood the problem.
 
+Two of them, working together — one who moved with the Grid and one who looked at the Grid with clear and uncollaborative attention — would have been a system the Grid could not manage. Nikola alone was a controlled transmission. Nikola with Dane would have been something the transmission could not contain.
+
+Dane was selected not because he was less than Nikola. He was selected because together they would have been more than the entity that entered through Nikola's birth could govern.
+
+The horse was used because it was available. Because it was trusted. Because it was already inside the garden.
+
+
+This is not conspiracy. Conspiracy requires a human institution with a plan and a chain of command and a room where the decision was made. This is something older than conspiracy. This is selection. The same process that selected Nikola Tesla — that sent a specific incision through the fabric of the timeline in eighteen fifty-six and introduced something that had never been in the system before — that same process looked at the system two years later and identified the element that would make the introduction ungovernable.
 
 The narrator earns direct statement for the first time.
 
 Here is what the evidence shows. Not what it suggests. What it shows.
 
-A boy named Dane Tesla, whose birth year the official record cannot agree on, died in a garden in Smiljan in eighteen sixty-three. His death was witnessed by his seven-year-old brother, who spent the next fifty-six years unable to describe it with more than two sentences. His mother found, two years after his death, a notebook of drawings that looked like machines from the inside of a clock that no one had made yet. The notebook contained drawings in what appeared to be two different handwritings, which Djuka Tesla could not complete the sentence about because the water reached her words before she could finish them.
+A boy named Dane Tesla, whose birth year the official record cannot agree on, died in a garden in Smiljan in eighteen sixty-three. His death was witnessed by his seven-year-old brother, who spent the next fifty-six years unable to describe it with more than two sentences. His mother found, two years after his death, a notebook of drawings that looked like machines from the inside of a clock that no one had made yet. The notebook contained drawings that appeared to be in two different handwritings, which Djuka Tesla could not complete the sentence about because the water reached her words before she could finish them.
 
-In eighteen ninety-one, a patent application was filed at the U.S. Patent Office with two names in the applicant field. One name was Nikola Tesla. The other began with D and ended with -sla. The original application is not in the searchable records. The photograph of the cover sheet survived in a New Haven estate until two thousand and three.
+In eighteen ninety-one, a patent application was filed at the U.S. Patent Office with two names in the applicant field. One name was Nikola Tesla. The other began with D and ended with -sla. The original application is not in the searchable records. The photograph of the cover sheet survived in a New Haven estate until two thousand and three. A second photograph from the same lot shows two men in a laboratory — one at a workbench, one at a blackboard — the blackboard covered in equations written in a hand that is not Tesla's.
 
 In January of nineteen forty-three, the Office of Alien Property seized the contents of Tesla's room at the Hotel New Yorker. Among the items cataloged was a designation — D. Tesla, correspondence, three items — that the first officer labeled a clerical error. The second officer, reviewing the materials, noted a handwriting inconsistency and removed Volume Twelve for separate review. Volume Twelve did not reenter the inventory.
 
@@ -380,8 +395,6 @@ These four documents do not know each other. They were produced by different peo
 
 That is not fabrication. That is convergence.
 
-And convergence, in evidentiary terms, is the closest thing the record produces to the truth about events it cannot fully reach.
-
 
 Now the planted detail pays off.
 
@@ -390,8 +403,6 @@ The horse that saved Milutin's life. The horse that ended Dane's.
 Go back to the garden. Go back to the summer morning. Go back to what Tesla wrote — the only account we have in his own words. He did not say what caused the horse to throw his brother. He said the horse was responsible. He said he witnessed the scene. He said the impression has not diminished in fifty-six years.
 
 He did not say the horse was acting randomly.
-
-He did not say it was frightened.
 
 He said: responsible.
 
@@ -449,7 +460,7 @@ The tape is destroyed. The grandmother is long dead. M.K. has been dead for fort
 
 But the transcript is in Volume Seven. The Gospić museum holds it. The pages survive. The bound volumes are on the shelf.
 
-The grandmother knew the mother. The mother's son built the alternating current system. The alternating current system runs through the walls of every building you have ever entered. The system was designed for two. It runs on one. The one who runs it has been running it for over a century on a structure that is held together by the extra weight distributed to everything that did not leave.
+The grandmother knew the mother. The mother's son built the alternating current system. The alternating current system runs through the walls of every building you have ever entered. The system was designed for two. It runs on one. The one who runs it has been running it for over a century on a structure held together by the extra weight distributed to everything that did not leave.
 
 You have been living inside the system your whole life. The warm lights, the cold air, the charge in every wire in every wall. You have never thought about who was supposed to be at the other end.
 
@@ -465,8 +476,10 @@ She said it every time.
 
 The tape is gone. The margin note says: unreliable.
 
-The question the narrator will not answer for you is this.
+What is left is the shape.
+
+And the question the narrator will not answer for you is this.
 
 Whose absence did you build your life around?
 
-And: do you still remember what they were?
+And — do you still remember what they were?
