@@ -36,7 +36,7 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 
 ### Word count is a guideline, not a ceiling
 - **Pattern**: Episodes constrained to 10,000-13,000 words. Opus compressed quality to hit the word count target, sacrificing storytelling for arbitrary limits.
-- **Rule**: Focus on emotional beats and great storytelling. Episodes can exceed 13,000 words if the story requires it. Never sacrifice quality for a word count.
+- **Rule**: Focus on emotional beats and great storytelling. Episodes target 10,000-16,000 words, governed by 400-paragraph limit. Never sacrifice quality for a word count.
 - **Why**: GL wants maximum quality. The stories are movie-length and should be treated as movies — the runtime serves the story, not the other way around.
 
 ### 1M context changes the writing process
@@ -53,3 +53,8 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 - **Pattern**: Claude Code alone does fact-checking during pre-delivery verification.
 - **Rule**: Claude Code does initial check, then critical facts must be confirmed via Claude web browser. Multiple auditors required. The Quote Rule and Attribution Rule carry legal liability.
 - **Why**: Claude Code's fact-checking has limits. Training knowledge is unreliable for specific historical details (see global lessons-learned: "Training Data Is Never an Acceptable Source for Legal or Regulatory Facts").
+
+### Save scripts and caption keys as .txt in addition to .md
+- **Pattern**: ElevenLabs and other apps can't read .md files.
+- **Rule**: Always output both .md and .txt versions of the script and caption key. The .md is the working copy; the .txt is the upload copy. Manifest stays as .json.
+- **Why**: GL's production pipeline uses ElevenLabs for TTS and other apps that require .txt input.
