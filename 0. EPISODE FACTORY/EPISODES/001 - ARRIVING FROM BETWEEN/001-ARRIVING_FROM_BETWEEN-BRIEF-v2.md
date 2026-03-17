@@ -11,8 +11,8 @@
 
 - **Opening type:** Sensory hook — drop into physical sensation before explaining anything
 - **Structural shape:** Story Circle — return-and-change (the listener arrives at Tesla's death twice; the second arrival is from a different person)
-- **Closing type:** The Mirror — the final question turns the listener into the subject
-- **Emotional endpoint:** Existential dread — "What was Nikola Tesla?" lands on the listener personally
+- **Closing type:** The Callback — the final return to Room 3327 echoes the opening scene, transformed by everything learned; the ozone smell means something different the second time
+- **Emotional endpoint:** Vertigo — the ground shifts under the listener; "What was Nikola Tesla?" is not a question about biography; it destabilizes everything the listener thought was solid
 - **Tesla connection type:** Direct appearance — Tesla is the episode's central character; his life examined as a biography of something not fully human
 - **Fabricated source formats:** Personal diary or journal entry (primary); Oral history / recorded interview transcript (secondary); Monitoring station log with handwritten annotation (tertiary)
 
