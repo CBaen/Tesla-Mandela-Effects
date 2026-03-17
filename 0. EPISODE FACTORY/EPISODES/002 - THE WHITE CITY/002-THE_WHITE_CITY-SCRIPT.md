@@ -187,7 +187,7 @@ The record says plaster.
 
 The photographs say weight.
 
-One of these two things is not fully accounting for something.
+One of these two things is not fully accounting for the material Elias Coburn found.
 
 Elias Coburn was inside the wall when he found out which one.
 
@@ -471,6 +471,26 @@ This wall is not saying that.
 This wall gives back more than it should. Like ringing a pan and hearing a bell.
 
 He is not afraid. He is inconvenienced. The section is taking longer than the specifications predicted, and he does not know how to explain the additional hours to his foreman, and so he writes the letter that is now the oldest surviving account of what the demolition workers found when they opened walls that twenty-seven million visitors had walked past without knowing there was anything to find.
+
+The letter is in photocopy now, wherever it is. The original is in the possession of no institution that accepts public inquiries. The collector who held it died in nineteen seventy-one and his estate was dispersed. The researcher who made the photocopy in the nineteen nineties did not publish and is not named in any accessible account of the documents. The photocopy exists somewhere. The letter's current physical location is the kind of unresolved question that archival research produces in quantity — the trail goes cold at a specific point and does not resume.
+
+What the letter contains is what it contains. Coburn's handwriting, uneven on the water-stained first page and steadier on the protected second and third pages. His description of the work. His description of the sections that resisted. His description of the sound. His description of what he found when the resistant section finally gave.
+
+A pan that rang like a bell.
+
+Stone, not staff.
+
+Running below the floor level.
+
+He planned to write more.
+
+The field notes end.
+
+The investigation carries both things simultaneously: Coburn's observation, which is specific and direct and physically grounded, and the silence that follows it, which is neither explanation nor resolution but simply the absence of the next letter. The investigation does not know whether Coburn finished the northwest section and found more of the same. The investigation does not know whether Coburn's foreman received the letter and acted on it or set it aside. The investigation does not know what happened to Elias Coburn after April of eighteen ninety-four, because the city's records — which should hold some trace of a working man who lived and worked in Gary, Indiana, and hired out to demolition contractors in Chicago — hold nothing that connects to his name after that date.
+
+The silence after the final field note entry is not dramatic. It is ordinary in the way that most archival silences are ordinary. Most working men of eighteen ninety-four did not leave substantial records of their lives. Their presence in the historical record is incidental — a hire sheet here, a wage record there, an incident report if something went wrong on the job. Coburn left a letter. He left field notes. That is more than most. The absence of additional documentation does not mean something happened to him.
+
+It means the investigation ends where the record ends.
 
 He writes the letter. He sends it. He plans to write again when the crew reaches the northwest section.
 
