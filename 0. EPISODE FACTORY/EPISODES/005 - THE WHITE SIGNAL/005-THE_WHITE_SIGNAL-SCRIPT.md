@@ -376,7 +376,7 @@ What she found — and documented in a research draft submitted to the Journal o
 
 The paper documented: pigeon navigation failure rates in a specific corridor of midtown Manhattan were elevated compared to statistically expected baselines by a margin that Varga considered significant. The birds that flew through this corridor showed elevated rates of disorientation, delayed return, and non-return compared to birds flying comparable distances in other parts of the city and surrounding region. The dead zone was not large — it corresponded roughly to a stretch of midtown running approximately along Fifth Avenue from approximately Fifty-third to Forty-second Street, widening slightly to the east — but it was consistent across multiple trials and multiple pigeon populations.
 
-Varga's geological note in the paper: the corridor sat above a continuous rock formation running northeast from approximately Fifth Avenue at Fifty-fifth Street through Bryant Park and continuing toward the East River. She had consulted geophysical survey data from the nineteen thirties documenting this formation's electromagnetic properties. The formation's electromagnetic signature differed from adjacent formations — not in magnitude, but in frequency. Varga measured the resonant frequency of the formation at approximately eight hertz.
+Varga's geological note in the paper: the corridor sat above a continuous rock formation running south along the Fifth Avenue corridor from approximately Fifty-fifth Street through Bryant Park at Forty-second Street. She had consulted geophysical survey data from the nineteen thirties documenting this formation's electromagnetic properties. The formation's electromagnetic signature differed from adjacent formations — not in magnitude, but in frequency. Varga measured the resonant frequency of the formation at approximately eight hertz.
 
 She noted, in the paper's introduction, that the frequency was "consistent with the Schumann resonance, though the source is geological rather than atmospheric in origin."
 
@@ -392,16 +392,16 @@ Varga measured the geological formation under Bryant Park and found it resonatin
 
 She never knew about the night manager's diary. She never knew about the Westinghouse letter. She never knew about the USGS baseline shift. She was measuring pigeons above a rock formation in midtown Manhattan and found something she could not explain. She left before she could try again.
 
-Varga did not know that the geological formation she was measuring — the one running northeast from Fifth Avenue and Fifty-fifth Street, through Bryant Park, toward the East River — connects, below the surface, to the rock shelf of Long Island, where Tesla pressed iron three hundred feet horizontally into the bedrock and then transmitted, at the Earth's own frequency, for as long as he had funding to transmit.
+Varga did not know that the geological formation she was measuring — the one running south along Fifth Avenue from Fifty-fifth Street through Bryant Park at Forty-second Street — connects, below the surface, to the broader Manhattan schist formation that extends east under Queens to the rock shelf of Long Island, where Tesla pressed iron three hundred feet horizontally into the bedrock and then transmitted, at the Earth's own frequency, for as long as he had funding to transmit.
 
 She did not know that the corner of Fifth Avenue and Fifty-fifth Street is approximately six blocks south of the Hotel St. Regis.
 
-She was measuring pigeons above the specific geological formation that the white pigeon had been navigating along, night after night, from the northeast — from Bryant Park, along the formation that resonated at eight hertz, to the hotel window on the twelfth floor.
+She was measuring pigeons above the specific geological formation that the white pigeon had been navigating along, night after night, from the south — from Bryant Park, north along the formation that resonated at eight hertz, to the hotel window on the twelfth floor.
 
 
-She always came from the northeast.
+She always came from the south.
 
-Not from habit. Not from learned landmark recognition. From a bearing. A consistent bearing that aligned, precisely, with a geological formation that carries the frequency Tesla transmitted into the Earth at Wardenclyffe. A formation that runs from the iron Tesla pressed into the Long Island bedrock, under the island, into the geological body of Manhattan, northeast through the borough past Bryant Park, toward the Hotel St. Regis and the window that had been left unlatched for her.
+Not from habit. Not from learned landmark recognition. From a bearing. A consistent bearing that aligned, precisely, with a geological formation that carries the frequency Tesla transmitted into the Earth at Wardenclyffe. A formation that connects — below the island of Manhattan, below Queens, below the waters of Long Island Sound — from the iron Tesla pressed into the Long Island bedrock, westward through the geological body of the region, south along the Fifth Avenue corridor through Bryant Park, concentrating its signal at the point where the formation meets the bedrock directly beneath the Hotel St. Regis and the window that had been left unlatched for her.
 
 She was not navigating to him. She was navigating to the signal.
 
@@ -411,7 +411,7 @@ Not toward him. Toward the frequency. And the frequency came from beneath where 
 
 She was not his companion. She was his evidence. The only evidence he had that the signal was working.
 
-The only biological instrument sensitive enough to receive what Wardenclyffe was transmitting. The magnetite in her beak did what the Westinghouse laboratory's instruments could not. She could feel what they were measuring for. She navigated to it. She returned to it, night after night, from the direction of Bryant Park, because the geological formation under Bryant Park was the corridor through which the signal traveled from the iron in the Long Island bedrock to the hotel window on the twelfth floor of the St. Regis.
+The only biological instrument sensitive enough to receive what Wardenclyffe was transmitting. The magnetite in her beak did what the Westinghouse laboratory's instruments could not. She could feel what they were measuring for. She navigated to it. She returned to it, night after night, from the direction of Bryant Park to the south, because the geological formation connecting Long Island to the Manhattan bedrock carried the signal along its body — and the signal concentration point was the St. Regis, where the formation's conducting path ran directly below the building's foundation, directly below the window on the twelfth floor.
 
 Tesla asked the Westinghouse technicians to check for anomalies when she was present. They found nothing. He was not surprised. He had already known that the only instrument sensitive enough to confirm the signal was the one in his hands. The one in the cage. The one tapping on the glass.
 
@@ -434,9 +434,9 @@ He was evicted from the St. Regis in nineteen twenty-three. He moved to the Hote
 
 He still fed pigeons. He still sent the hotel employees and messengers with seed to the parks and the library. He still watched for them. He fed them because he had always fed them, and because the category of creature to which she belonged still required his attention even though she was no longer in it.
 
-He kept feathers. Not her feathers — she was gone. Feathers of the birds that came after, that were not her, that could not receive what she had received. That had the same wings and the same magnetite crystals and the same capacity for field sensing, but none of which came from the northeast, none of which tapped on the glass with the specific quality of something that knew there was someone on the other side and that the someone was expecting it.
+He kept feathers. Not her feathers — she was gone. Feathers of the birds that came after, that were not her, that could not receive what she had received. That had the same wings and the same magnetite crystals and the same capacity for field sensing, but none of which came from the south, from the direction of the parks, none of which tapped on the glass with the specific quality of something that knew there was someone on the other side and that the someone was expecting it.
 
-He kept their feathers on the windowsill. The windowsill of the room at the Hotel New Yorker — a room in a different building, a different street, a different geological position relative to the formation under Bryant Park, a different bearing from the northeast. The formation was still there. The eight-hertz signal was still propagating through the rock. But the instrument that had been calibrated to receive it was gone.
+He kept their feathers on the windowsill. The windowsill of the room at the Hotel New Yorker — a room in a different building, a different street, a different geological position relative to the formation under Bryant Park, a different bearing from the south. The formation was still there. The eight-hertz signal was still propagating through the rock. But the instrument that had been calibrated to receive it was gone.
 
 And in her absence — what?
 
