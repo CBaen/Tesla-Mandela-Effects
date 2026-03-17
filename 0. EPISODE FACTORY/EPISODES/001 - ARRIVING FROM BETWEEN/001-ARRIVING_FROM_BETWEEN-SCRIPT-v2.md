@@ -201,7 +201,7 @@ What if Tesla arrived without one? What if the filter was something the body was
 
 This is speculation. We are marking it as speculation. But the accumulation of the record invites it.
 
-He could not connect to other people. This is one of the most consistently documented facts of Tesla's biography. Not in the way that extraordinary intelligence sometimes creates distance — the distance of pace, of reference, of finding ordinary conversation a kind of waiting. This was something more fundamental. Tesla wrote about people with genuine interest and even warmth, but the warmth was observed warmth — the warmth of someone watching a species they found fascinating rather than sharing territory with them. His relationships were with his work, with his ideas, with the pigeon he kept in later life, with the machines he ran in his mind's quiet engineering facility. The human connections that sustained him were almost uniformly with people who could hold still long enough for him to work — benefactors, correspondents, the occasional journalist who sat with him in the hotel dining room and asked good questions.
+He could not connect to other people. This is one of the most consistently documented facts of Tesla's biography. Not in the way that extraordinary intelligence sometimes creates distance — the distance of pace, of reference, of finding ordinary conversation a kind of waiting. This was the gap between a naturalist and the species being studied. Tesla wrote about people with genuine interest and even warmth, but the warmth was observed warmth — the warmth of someone watching a species they found fascinating rather than sharing territory with them. His relationships were with his work, with his ideas, with the pigeon he kept in later life, with the machines he ran in his mind's quiet engineering facility. The human connections that sustained him were almost uniformly with people who could hold still long enough for him to work — benefactors, correspondents, the occasional journalist who sat with him in the hotel dining room and asked good questions.
 
 He did not lack for language. He was fluent in eight languages by most accounts. He was capable of conversation that others found electrifying. But beneath the capability, the distance held. He could not find others of his kind. He spent eighty-six years looking, in the coded way that beings look for their kind when they are not sure what their kind is or whether it exists on this side of anything.
 
@@ -325,7 +325,7 @@ The government took Tesla's papers in nineteen forty-three.
 
 What took the color out of the sun?
 
-That question has been here since the beginning. It has been here since we first noticed the smell in Room 3327 and found that it had no ordinary cause. It has been waiting under every section of the standard biography, every crack in the accepted account, every document that ended in a different hand or stopped filing or fell silent in the archives.
+That question has been here since the beginning. It has been here since the smell in Room 3327 refused its ordinary explanation and produced nothing but silence in the record where an answer should have been. It has been waiting under every section of the standard biography, every crack in the accepted account, every document that ended in a different hand or stopped filing or fell silent in the archives.
 
 The seizure was real. The suppression was real. The institutional machinery of classification was real and it is well-documented and it is available for research.
 
@@ -375,7 +375,7 @@ The communications. Tesla described receiving signals during his Colorado Spring
 
 The wireless energy. Not a theory — a demonstration. He lit two hundred bulbs at a distance of forty miles without connecting wires. The demonstration was witnessed. The record of the demonstration exists. What does not exist, because the patents were not granted and the tower was demolished and the papers were seized, is the next step. What the next step was, Tesla had described. He had described it to reporters who wrote it down in the newspapers that are now digitized and searchable. He had described it to scientists who had corresponded with him and whose letters survive. He had described it to anyone who would listen, because the thing he was trying to build was not for sale and was not for any one government or any one company. He was trying to give it to the planet.
 
-These threads — the death ray, the cosmic signals, the wireless energy — are the open loops of this investigation. Each one is an episode this investigation will return to. Each one, examined alone, produces a version of the question the standard biography asks and answers: what were Tesla's radical claims, and why didn't they succeed?
+These threads — the death ray, the cosmic signals, the wireless energy — are the open loops of this investigation. Each one, examined alone, produces a version of the question the standard biography asks and answers: what were Tesla's radical claims, and why didn't they succeed?
 
 But examined together, in the frame of what has been assembled here — the birth during the lightning storm, the ozone in the room, the sky that changed over the Lika valley on the morning of July eleventh, the compulsive measurement, the engineered isolation, the transmissions he described receiving from somewhere that was not Earth — they produce a different question entirely.
 
@@ -390,7 +390,7 @@ The record of the sun's color before the mid-twentieth century is not a scientif
 
 What they saw was yellow. Warm. Arriving with a quality that, if it had a temperature, would be described as comfortable — the way heat from a hearth is comfortable, the way afternoon in June is comfortable. The paintings are the record.
 
-And then something happened to the record.
+And then the sky stopped matching what the record said about it.
 
 Not to the paintings — those are intact. To the sky itself. The sky started looking like a different sky. Not to everyone. Not all at once. The change was the kind of change that is almost impossible to notice because there is nothing to notice it against — the sky above you is the sky you look at every day, and there is no older sky to hold alongside it for comparison. You can only notice it when the memory does not match. When you look up and something in the comparison between what is present and what you remember is wrong in a way that is specific and unnameable and that no one around you seems to register.
 
