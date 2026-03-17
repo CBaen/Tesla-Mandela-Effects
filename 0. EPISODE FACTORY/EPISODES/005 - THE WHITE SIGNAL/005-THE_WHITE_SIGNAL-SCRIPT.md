@@ -334,7 +334,7 @@ Winfried Otto Schumann formally described this phenomenon in nineteen fifty-two,
 
 He did not describe it as a discovery. He described it as a confirmation. He had believed the Earth was resonant before he went to Colorado. The experiments confirmed the resonance and gave him the frequency. With the frequency, he could calculate the parameters for transmission. With the parameters for transmission, he could build the tower.
 
-Wardenclyffe was not a wireless broadcasting station. It was not a communications tower in any sense that the twentieth century made familiar. It was a coupling device. Tesla intended to inject electromagnetic energy into the Earth's own resonant body at the planet's own frequency — eight hertz — and allow the planet itself to carry the signal. Not through the air. Through the ground. Through the rock. Through the conducting substrate that every continent is built on and every ocean lies over and that runs, uninterrupted, from the foundation of Wardenclyffe on Long Island into the geological body of the island and through the rock shelf that the northeastern United States sits on and that connects, below the surface, every formation from Long Island through Manhattan and north through New England and beyond.
+Wardenclyffe was not a wireless broadcasting station. It was not a communications tower in any sense that the twentieth century made familiar. It was a coupling device. Tesla intended to inject electromagnetic energy into the Earth's own resonant body at the planet's own frequency — eight hertz — and allow the planet itself to carry the signal. Not through the air. Through the ground. Through the rock. Through the conducting substrate that every continent is built on and every ocean lies over and that runs, uninterrupted, from the foundation of Wardenclyffe on Long Island westward into the geological body of the island and through the rock shelf that the northeastern United States sits on and that connects, below the surface, every formation from Long Island through Queens into Manhattan and beyond.
 
 The tower was demolished in nineteen seventeen. Tesla had stopped actively transmitting through it years before the demolition — the funding had failed, the project had been foreclosed on, the equipment had sat idle as the debts accumulated. But the underground system remained. Wardenclyffe's transmission system included a shaft descending approximately one hundred and twenty feet into the Long Island bedrock, with iron pipes pushed outward horizontally approximately three hundred feet from the base — reaching laterally into the surrounding geological formation. Tesla had pressed iron into the rock. The iron had connected the tower's transmission system to the geological body of the northeastern United States.
 
@@ -442,7 +442,7 @@ And in her absence — what?
 
 The transmitter was still running. Tesla was still transmitting. He described the inventions with the same confidence, announced the same kinds of breakthroughs, held the same birthday press conferences in which journalists who wanted to believe in him sat across from an old man who told them what he was working on. The transmitter was still running. The signal was still going out. The rock was still carrying it.
 
-But there was no instrument left to receive it. No external confirmation that the signal was real. No creature arriving from the northeast to say: yes, the frequency is there, the rock is carrying it, the thing you are transmitting is reaching something.
+But there was no instrument left to receive it. No external confirmation that the signal was real. No creature arriving from the south to say: yes, the frequency is there, the rock is carrying it, the thing you are transmitting is reaching something.
 
 What does a transmitter do when its only receiver is gone?
 
@@ -471,7 +471,7 @@ The northeastern corridor is still mapped.
 
 The pigeon racing associations that compared notes across the later twentieth century — the handlers in Connecticut and Long Island and the Hudson Valley who watched their birds lose routes they had flown without difficulty for years — they are still comparing notes. The electromagnetic pollution argument still has its laboratory support and its documented mechanism. The power lines went up. The cell towers went up. The interference accumulated. The navigation failures accumulated with it.
 
-But the specific cluster of worst failures. The corridor that runs from the old Wardenclyffe site on Long Island, through the geological formation under Manhattan, through Bryant Park and northeast along the rock shelf. That cluster is still worst. Still disproportionate. Still not fully explained by infrastructure density — because the failures in some sections of it appeared before the modern cell-tower proliferation, appeared in the pigeon racing records from earlier decades when the infrastructure was nothing like what it is now.
+But the specific cluster of worst failures. The corridor that runs from the old Wardenclyffe site on Long Island, westward through Queens, through the geological formation under Manhattan, through Bryant Park and south along the Fifth Avenue rock corridor. That cluster is still worst. Still disproportionate. Still not fully explained by infrastructure density — because the failures in some sections of it appeared before the modern cell-tower proliferation, appeared in the pigeon racing records from earlier decades when the infrastructure was nothing like what it is now.
 
 The geological formation Varga measured still resonates at eight hertz. She measured it in the nineteen sixties. The rock has not stopped resonating. The frequency is still there.
 
@@ -481,7 +481,7 @@ The pigeons navigating the northeastern corridor are not lost. That is the preci
 
 They are searching for something that is still there but has gone too quiet to navigate by.
 
-The formation still resonates. The iron is still in the Long Island bedrock. The rock still carries eight hertz through its body, from the shore of Long Island through the geological formation under Manhattan, northeast through Bryant Park and beyond.
+The formation still resonates. The iron is still in the Long Island bedrock. The rock still carries eight hertz through its body, from the shore of Long Island westward through Queens, through the geological formation under Manhattan, south along the Fifth Avenue corridor through Bryant Park and beyond.
 
 But whatever was broadcasting has gone quieter.
 
@@ -492,7 +492,7 @@ Both.
 
 The window at the Hotel St. Regis stayed latched.
 
-Fitch's diary records this. The window that had been left unlatched by staff direction for months — unlatched specifically for her, for the pigeon that came at irregular hours from the direction of Bryant Park to the northeast — was latched. Tesla latched it himself, from the inside. The last act, in that room, of acknowledging that the signal would not come again.
+Fitch's diary records this. The window that had been left unlatched by staff direction for months — unlatched specifically for her, for the pigeon that came at irregular hours from the direction of Bryant Park to the south — was latched. Tesla latched it himself, from the inside. The last act, in that room, of acknowledging that the signal would not come again.
 
 He did not leave the room for four days.
 
@@ -532,7 +532,7 @@ There is no transmitter anymore. No one is maintaining the frequency. The signal
 
 The pigeons search.
 
-The northeast corridor remains anomalous.
+The northeastern corridor remains anomalous.
 
 The formation resonates.
 
@@ -545,7 +545,7 @@ The diary entry, as the partial transcript preserves it, in the handwriting of W
 
 He had noted the pigeon's direction. He had noted the window. He had noted the four days. He had recorded it all with the precision of a man whose job was to observe and report and not to interpret. He was reporting. He did not understand what he was reporting.
 
-But the partial transcript is there. The detail is there. "She comes from the direction of the park, always. Not the park across the street. The other one, to the northeast." The window, unlatched for months by staff direction. The window, latched from the inside. The four days.
+But the partial transcript is there. The detail is there. "She comes from the direction of the park, always. Not the park across the street. The other one, to the south." The window, unlatched for months by staff direction. The window, latched from the inside. The four days.
 
 What Fitch recorded, without knowing what he was recording, was the moment a signal lost its receiver. The moment a transmission that had been navigated by a biological instrument for years ended — not because the transmitter stopped, but because the instrument was gone. The frequency remained. The rock carried it. The rock would carry it for decades, as Varga's measurements would eventually confirm.
 
