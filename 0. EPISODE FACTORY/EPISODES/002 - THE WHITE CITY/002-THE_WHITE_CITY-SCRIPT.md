@@ -358,11 +358,27 @@ It was running current through whatever they were.
 
 The investigation does not state what that means.
 
+What the investigation is asking is not whether the AC current caused something. The investigation is more careful than that.
+
+What the investigation is asking is whether the specific combination — materials that were not what the specification said they were, carrying a current that produced rotating magnetic fields at a scale never previously attempted — produced conditions that have not been fully characterized.
+
+Tesla was not ignorant of what alternating current does beyond its illumination function. He had been studying electrical resonance for years. He understood that the behavior of alternating current in a conductor was inseparable from the electromagnetic field that the current produced around the conductor. The conductor illuminated by AC current was also a source of rotating magnetic fields, extending outward from the conductor into whatever surrounded it.
+
+He demonstrated this at the Electricity Building itself. The gas-discharge lamps he held in his hands and lit without wires were lit by the high-frequency current he had induced in his own body. His body was the conductor. The gas in the tubes was responding to the field his body was carrying.
+
+What was the field responding to, in the buildings?
+
+In a standard staff construction building — plaster, wire lath, wood framing, steel underframe — the answer is predictable. The electrical properties of those materials under electromagnetic exposure are well-characterized. The field distributes through the conductors, interacts minimally with the insulating plaster, and dissipates at predictable rates.
+
+In a building that contained stone where the specification said plaster — in the interior wall sections, at the base of load-bearing columns, in the foundation zones that sat below the floor level and extended, as Coburn noted, further below grade than the above-grade demolition ever reached — the answer is less clear.
+
+Limestone responds to electromagnetic fields differently than plaster. Not dramatically, not in ways that produce visible effects under ordinary circumstances. But the response is different. The material is different. And the scale of Tesla's system — the entire fairgrounds, every building connected, six months of continuous operation at levels of wattage that had no prior precedent — is not ordinary circumstances.
+
 Tesla spent the year after the exposition beginning the experiments that would eventually lead him to Colorado Springs — the remote high-altitude laboratory where he demonstrated that the earth itself could carry electrical resonance, that the planet was a conductor of specific frequencies, that you could introduce a signal at one point and detect it at another point on the other side of the sphere. The experiment that would eventually become Wardenclyffe. The attempt to make the earth's own electromagnetic substrate the transmission medium for wireless power.
 
 He had been thinking about this for years before Colorado Springs.
 
-The 1893 exposition ran his system through six hundred and ninety acres of buildings for six months.
+The eighteen ninety-three exposition ran his system through six hundred and ninety acres of buildings for six months.
 
 Whatever those buildings were made of, he ran his current through them for six months.
 

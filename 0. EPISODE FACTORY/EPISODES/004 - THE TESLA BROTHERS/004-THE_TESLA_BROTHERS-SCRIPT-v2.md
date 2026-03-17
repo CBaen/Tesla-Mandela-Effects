@@ -47,7 +47,7 @@ The Mandela Effect is not a trick of memory. It is not a cognitive failure, not 
 
 People remember the Tesla brothers. Not one person. Not a small group of enthusiasts with a forum and a theory. A diffuse, consistent, independent pattern of recollection — surfacing in comments under Tesla documentaries, in library reference requests, in handwritten notes in the margins of Tesla biographies from the nineteen-sixties and nineteen-seventies, before the internet could have coordinated such a thing. People who remember a history text that described the Tesla brothers, plural. People who remember a museum display that listed two names. People who have no reason to have invented this and no source they can point to when asked where they encountered it. The memory is consistent in its vagueness. No one can name the book. No one can cite the page. The memory is of having known, once, and finding the knowledge gone.
 
-That is what overwrite residue looks like. Not a specific false memory. Not a detail that was substituted for another detail. The shape of something that was taken, felt by the absence it left.
+That is what overwrite residue looks like. Not a specific false memory. Not a detail that was substituted for another detail. The shape of something that was taken, made legible by the absence it left behind.
 
 The episode you are listening to presents what the other timeline documented. The episode is not claiming the other timeline is the real one. The episode is noting that the other timeline exists — that it left evidence — and that the evidence has been accumulating in places where official records do not reach.
 

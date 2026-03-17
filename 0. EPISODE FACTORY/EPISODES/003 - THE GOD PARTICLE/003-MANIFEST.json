@@ -1,0 +1,294 @@
+{
+  "episode": "003",
+  "title": "The God Particle",
+  "assets": [
+    {
+      "name": "Nikola_Tesla_1899",
+      "type": "character",
+      "era": "1899",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 43. Colorado Springs experimental period. At the peak of his physical and intellectual powers. Working alone at altitude.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1901",
+      "type": "character",
+      "era": "1901",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 45. Wardenclyffe construction period. Building the tower on Long Island. Still investor-funded, before Morgan withdrew.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "JP_Morgan_1899",
+      "type": "character",
+      "era": "1899",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1837,
+      "physique": "American man, early 60s, heavyset build, large frame, distinctive bulbous nose (rhinophyma), thick white mustache, deep-set commanding eyes, short neck, broad shoulders. Physically imposing even seated.",
+      "attire": "Formal dark wool suit with waistcoat, heavy gold watch chain, white cravat, top hat when outdoors",
+      "notes": "Financial backer of Tesla's Colorado Springs and Wardenclyffe projects. Withdrew funding in 1904. The wealthiest private individual in America at the turn of the century.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Fabiola_Gianotti_2012",
+      "type": "character",
+      "era": "2012",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1960,
+      "physique": "Italian woman, early 50s, medium height, slim build, dark hair worn short or pulled back, precise professional bearing, alert focused expression",
+      "attire": "Professional dark blazer, lanyard with CERN badge, business attire appropriate for a press conference",
+      "notes": "ATLAS collaboration spokesperson at CERN. Announced the Higgs boson discovery July 4, 2012. First woman to be Director-General of CERN (from 2016).",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Joe_Incandela_2012",
+      "type": "character",
+      "era": "2012",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1956,
+      "physique": "American man, mid-50s, medium build, graying hair, professorial appearance, calm authoritative expression",
+      "attire": "Professional suit, CERN lanyard, business attire for press conference",
+      "notes": "CMS collaboration spokesperson at CERN. Co-announced the Higgs boson discovery July 4, 2012 alongside Gianotti.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Peter_Higgs_2012",
+      "type": "character",
+      "era": "2012",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1929,
+      "physique": "British man, 83 years old, slender, white-haired, slightly stooped with age, gentle expression, spectacles",
+      "attire": "Tweed jacket, open-collar shirt, academic casual",
+      "notes": "Predicted the Higgs boson in 1964. Present at the 2012 announcement. Described as having wept. Won the 2013 Nobel Prize in Physics with Englert.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Amara_Selassie_2012",
+      "type": "character",
+      "era": "2012",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1978,
+      "physique": "Woman of East African heritage, early 30s, medium height, lean build, close-cropped natural hair, precisely observant expression, calm but watchful demeanor",
+      "attire": "CERN safety badge on lanyard, technical workwear — practical dark slacks and fitted jacket, flat shoes. Notebook always visible.",
+      "notes": "Fabricated character. Former ATLAS detector calibration engineer, 2006-2014. Baseline resonance monitoring specialist. Filed three anomaly reports about the 7.9 Hz signature, all closed. Kept a private log for two additional years. Wrote the final letter to the IMEC archive in 2019.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Colorado_Springs_Laboratory_1899",
+      "type": "location",
+      "era": "1899",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "Tesla's experimental station on the eastern edge of Colorado Springs, Colorado. Built 1899, experiments concluded January 1900. Purpose-built wooden structure on grassland with Pikes Peak visible.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Colorado_Springs_Laboratory_Exterior_1899",
+          "era": "1899",
+          "physique": "Large rectangular wooden structure on flat grassland at approximately 1,840 meters altitude. Rough-hewn timber walls, corrugated metal roof sections, open-sided portions to vent electrical experiments. A large wooden tower protrudes from the center of the structure — the main coil form. The surrounding grassland extends flat toward Pikes Peak on the west, visible as a grey-blue mass on the horizon. The sky is intensely blue at altitude. Ozone smell in the air. Wisps of smoke or vapor from experimental runs.",
+          "notes": "The building where Tesla's magnifying transmitter was housed. Deliberately built far from town to avoid interference."
+        },
+        {
+          "name": "Colorado_Springs_Laboratory_Interior_1899",
+          "era": "1899",
+          "physique": "Vast interior dominated by the magnifying transmitter — a large coil structure rising toward the ceiling with a copper sphere at the apex. Thick copper wire wound in precise layers. Wooden benches with galvanometers, frequency meters, and hand-wound inductors. The floor is bare earth packed hard. Electrical cables run in all directions, cloth-insulated with brass terminals. The air carries the permanent scent of ozone and hot copper. In operation, blue-white electrical discharge radiates from the primary coil.",
+          "notes": "Where Tesla produced 41-meter lightning bolts and measured terrestrial stationary waves."
+        }
+      ]
+    },
+    {
+      "name": "Wardenclyffe_Tower_Site_1901",
+      "type": "location",
+      "era": "1901",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Shoreham, Long Island, New York. Construction began 1901, funding withdrawn 1904, site mortgaged, demolished July 4 1917. FLUX knows the Wardenclyffe Tower from historical photographs.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Wardenclyffe_Tower_Exterior_1901",
+          "era": "1901",
+          "physique": "Wooden tower rising approximately 57 meters from a broad square base. The tower narrows as it rises, topped by a large toroidal copper dome — the antenna cap — approximately 20 meters in diameter. The tower is built from heavy timber trusses in a lattice pattern. Surrounding it: a brick laboratory building, construction materials, open Long Island landscape. The tower is never completed — scaffolding remains on the upper sections.",
+          "notes": "Under construction 1901-1904. Never completed to operational status due to Morgan withdrawing funding."
+        },
+        {
+          "name": "Wardenclyffe_Demolition_1917",
+          "era": "1917",
+          "physique": "The tower during demolition — July 4, 1917. The upper copper dome has been partially removed. Dynamite charges are visible at the tower base. The explosion has tilted the structure — it leans at an angle, timber trusses fractured. Dust and smoke from the initial blast. The brick laboratory building remains intact behind the damaged tower. Open Long Island sky, summer.",
+          "notes": "Demolished by the Smiley Steel Company of New York for scrap metal value of approximately 1,750 dollars."
+        }
+      ]
+    },
+    {
+      "name": "CERN_LHC_Facility_2008",
+      "type": "location",
+      "era": "2008",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "CERN European Organization for Nuclear Research, Meyrin, Geneva, Switzerland, near the Franco-Swiss border. FLUX knows the CERN facility from public photographs.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "LHC_Tunnel_Interior_2008",
+          "era": "2008",
+          "physique": "Underground circular tunnel approximately 3.8 meters in diameter, 100 meters below the Franco-Swiss border. The walls curve continuously. Running the length of the tunnel: the LHC beam pipe — two parallel blue cylindrical pipes encased in superconducting dipole magnets, each magnet painted standard CERN blue-grey with bright yellow and red connections. Overhead: cable trays in orange and blue. The tunnel is cold — operating temperature near absolute zero. Pale fluorescent lighting at regular intervals. The tunnel curves away in both directions to the horizon.",
+          "notes": "27-kilometer ring. Two counter-rotating proton beams. First circulated September 10, 2008. Helium explosion September 19, 2008 in Sector 3-4 damaged 53 magnets."
+        },
+        {
+          "name": "CERN_Control_Room_2008",
+          "era": "2008",
+          "physique": "Large open-plan control room. Banks of computer monitors arranged in curved rows facing a large wall of display screens showing real-time beam status, detector readouts, and facility maps. Physicists seated at workstations, many wearing casual clothing despite the historic nature of the day. The atmosphere is focused and tense. Coffee cups. Cable bundles under desks. Standard fluorescent office lighting.",
+          "notes": "Where physicists applauded on September 10, 2008 when the first proton beam completed its circuit."
+        },
+        {
+          "name": "CERN_Courtyard_Nataraja_2012",
+          "era": "2012",
+          "physique": "Outdoor courtyard at CERN's main campus in Meyrin. Concrete pathways, institutional landscaping. At the center: a bronze statue of Nataraja — Shiva as the Lord of the Dance — approximately 2 meters tall. Shiva stands in the classic pose: right foot raised on a dwarf, left leg lifted in dance, four arms extended holding flame, drum, raised hand of protection, and pointing downward. The figure is encircled by a ring of flames. The statue has an aged bronze patina. A small informational plaque in French and English at its base.",
+          "notes": "Gifted by the Indian government in 2004. Represents the cosmic dance of creation and destruction — poetically aligned with particle creation and annihilation in the LHC."
+        },
+        {
+          "name": "CERN_Press_Conference_Room_2012",
+          "era": "2012",
+          "physique": "Large auditorium-style room at CERN. Rows of seats filled with physicists, journalists, and observers. A presentation screen at the front showing particle physics data and the Higgs boson signature graphs — distinctive bump at 125 GeV. Two podiums. Overhead: cameras, broadcast equipment. The room is packed, some observers standing at the back. Excited, contained energy in the crowd.",
+          "notes": "July 4, 2012. Gianotti and Incandela announced the Higgs boson discovery here. Peter Higgs was present in the audience."
+        }
+      ]
+    },
+    {
+      "name": "Tromsø_Geophysical_Observatory_2012",
+      "type": "location",
+      "era": "2012",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "University of Tromsø, UiT The Arctic University of Norway. Real institution. Electromagnetic monitoring station used for space weather research and Schumann resonance baseline studies.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Tromsø_Observatory_Monitoring_Station_2012",
+          "era": "2012",
+          "physique": "Small monitoring room in the far north. Rows of instrument racks with electromagnetic monitoring equipment — rectangular grey metal boxes with LED indicators and printed paper output reels. A desk with a monitoring log — standard printed graph paper with baseline frequency tracings, handwritten margin annotations in blue ink. A single window shows perpetual Arctic summer daylight — pale flat light even at night. The room smells of electronics and paper. Climate-controlled, quiet except for the steady hum of instrument cooling fans.",
+          "notes": "July 4, 2012: the log shows the Schumann resonance fundamental at 7.83 Hz, then a deviation of 0.3 Hz for eleven minutes beginning at 14:11 GMT, then return to baseline. Margin note: 'The baseline moved.'"
+        }
+      ]
+    },
+    {
+      "name": "Colorado_Springs_Former_Site_1974",
+      "type": "location",
+      "era": "1974",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "The former Tesla experimental laboratory site, repurposed multiple times since 1900. In 1974, subject to a geological survey for a proposed commercial development (not built).",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Former_Tesla_Lab_Site_Field_1974",
+          "era": "1974",
+          "physique": "Flat grassland on the eastern edge of Colorado Springs at altitude. The original laboratory buildings are gone — the land has been used for other purposes and returned to rough grass. Survey stakes and orange flagging tape mark measurement grid points. A geological survey team's equipment: electromagnetic induction meters on wooden tripods, cable spools, paper chart recorders. Pikes Peak visible in the west. Clear dry air. The site looks unremarkable. Nothing visible above ground suggests what happened here seventy-five years earlier.",
+          "notes": "Survey team flagged a persistent 7-9 Hz electromagnetic oscillation inconsistent with any local power infrastructure. The geologist's footnote: 'the ground remembering something that happened to it.'"
+        }
+      ]
+    },
+    {
+      "name": "Tesla_Magnifying_Transmitter_1899",
+      "type": "object",
+      "era": "1899",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A very large Tesla coil system. The primary coil: a flat spiral of heavy copper conductor approximately 15 meters in diameter on the laboratory floor. The secondary coil: a helical winding rising 6 meters, wound with thousands of turns of finer copper wire on a wooden form. The extra (tertiary) coil: a tall helix rising to the roof, topped by a copper ball on a wooden mast that protrudes through the roof of the building. The three coils are connected by thick copper bus bars. The whole system is energized by a mechanical alternator the size of a wardrobe, driven by a belt from a steam engine. When operating at full power, electrical discharge radiates in all directions from the topmost sphere — blue-white filaments, some over 40 meters long.",
+      "attire": "",
+      "notes": "The apparatus Tesla used to produce 41-meter artificial lightning and to discover terrestrial stationary waves. Temporarily blacked out the Colorado Springs power grid during early testing.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Wardenclyffe_Iron_Root_System_1901",
+      "type": "object",
+      "era": "1901",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "An underground system of iron pipes and conduits drilled 91 meters (300 feet) into the Long Island bedrock below the Wardenclyffe tower foundation. The system extends outward from the tower base in radial tunnels. The iron pipes are thick-walled, connected at the surface to heavy copper conductors running up through the tower structure. The system is entirely underground and invisible from the surface — its presence is inferred only from Tesla's engineering drawings and the bore holes at the tower base. The earth around the pipes is compressed and discolored from the boring process.",
+      "attire": "",
+      "notes": "The Earth-coupling mechanism. Designed to inject current into the planet's resonant electromagnetic substrate and allow terrestrial stationary waves to propagate globally. The architecture that would have channeled the Earth's resonant frequency. When the tower was demolished in 1917, the root system remained underground.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "LHC_Beam_Pipe_2008",
+      "type": "object",
+      "era": "2008",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Two parallel stainless steel cylindrical pipes, each approximately 5 centimeters in diameter, running the full 27-kilometer circumference of the LHC ring inside the tunnel. The pipes are enclosed in superconducting dipole magnets — massive blue cylindrical structures approximately 14 meters long and 600 kg each, cooled to 1.9 Kelvin by liquid helium. The pipe interiors are evacuated to near-perfect vacuum. Inside, two counter-rotating beams of protons travel at 99.9999991 percent of the speed of light. The beam itself is invisible — only its effects on detectors are measurable.",
+      "attire": "",
+      "notes": "First circulated a proton beam September 10, 2008. The helium explosion on September 19, 2008, was caused by a faulty electrical connection between two superconducting magnets in Sector 3-4, releasing approximately 6 tonnes of liquid helium into the tunnel.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Selassie_Letter_Photocopy_2019",
+      "type": "object",
+      "era": "2019",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Three pages of handwritten letter on paper, presented as a photocopy. Page 1: clear, sharp photocopy. CERN letterhead visible at top, partially legible. 'PERSONAL — NOT FOR DISTRIBUTION' handwritten above the letterhead in blue ink. Dense handwriting in English, occasional French technical terms. Page 2: photocopy quality degrades — a dark water stain covers the lower third of the page, obscuring two to three lines of text. Page 3: partially legible — right margin is cut off, some lines unreadable. The final paragraph and final line are visible and clear. The letter is stored in a plain manila folder labeled in black marker: 'anonymous correspondence, 2019.'",
+      "attire": "",
+      "notes": "Fabricated document. Signed 'A. Selassie, former calibration engineer, ATLAS detector, 2006-2014.' Hand-delivered to a conference registrant at the International Mandela Effect Conference, 2019. Contains Selassie's description of the 7.9 Hz baseline anomaly, three formal reports, private log, and final line: 'I am not saying the machine is broken. I am saying the machine works. And that is worse.'",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tromsø_Monitoring_Log_2012",
+      "type": "object",
+      "era": "2012",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Standard printed electromagnetic monitoring log — graph paper with pre-printed axis lines, continuous frequency trace in black ink printed by a chart recorder. The baseline shows a steady line at 7.83 Hz. At a specific point on July 4, the line dips and shifts — a visible deviation in the printed trace, 0.3 Hz lower, lasting 11 minutes, then returning to baseline. In the margin beside this deviation: handwritten annotation in blue ink, different pen width from standard log entries, written after the fact. The handwriting is neat, technical. The note reads: 'Second deviation this year. Check solar index — no storm activity. Not CME. Not instrument: recalibrated July 2. The baseline moved.' No further handwritten entries on this page.",
+      "attire": "",
+      "notes": "Fabricated document. The Tromsø Geophysical Observatory is a real institution; this specific log page is fictional. The deviation at 14:11 GMT corresponds to the CERN Higgs boson press conference.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "IM34_CERN_Memo_2008",
+      "type": "object",
+      "era": "2008",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Two pages of standard CERN internal document format. Header: 'RESTRICTED — INTERNAL USE ONLY' in red. CERN letterhead. Filing code visible: 'IM-34.' Timestamp: September 19, 2008, 11:47. The document is presented as a photocopy of a photocopy — slightly degraded resolution, minor skew from the copying process. Text is dense, technical, in standard memo format with numbered findings. The key finding: a table of anomaly readings from Sector 3-4 instruments during the September 10 first-beam run, with the 7.9 Hz signature listed in the anomaly column.",
+      "attire": "",
+      "notes": "Fabricated document. 'IM-34' is a departmental code, not a person. Filed September 19, 2008 — same day as the helium explosion. Released in a 2019 partial FOIA request to the European Commission as part of 'batch 7-B' of pre-incident operational documentation.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
