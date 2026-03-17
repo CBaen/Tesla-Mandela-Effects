@@ -198,9 +198,9 @@ With no identifiable current source.
 
 "The ground remembering something that happened to it."
 
-This is where the surface-level answer — cognitive pattern completion, brain substituting a statistically probable suffix, nothing more — begins to feel like a floor. It has the texture of a floor. It holds weight. But there is something underneath it.
+This is where the surface-level answer — cognitive pattern completion, brain substituting a statistically probable suffix, nothing more — begins to feel like a floor. It has the texture of a floor. It holds weight. But it does not reach the bottom.
 
-And the something underneath it is not an alternative explanation. It is an older question.
+And what is below it is not an alternative explanation. It is an older question.
 
 The Earth has a fundamental resonant frequency. Tesla found it in eighteen ninety-nine by running current through the planet and listening to what came back. Schumann derived it mathematically fifty-three years later. The experiment that confirmed the particle whose field decides what has reality — the experiment that ran at the frequency of the first moments after the Big Bang — ran within the Earth's own electromagnetic body. Within the substrate Tesla identified. Within the frequency the Colorado Springs soil has been producing continuously, without interruption, for one hundred and twenty-five years.
 
@@ -210,7 +210,7 @@ The machine was operating inside it.
 
 And the question that the cognitive science explanation cannot quite reach — the question about timing, about correlation, about why the reports accelerated in two thousand and eight and not in nineteen ninety-eight, or nineteen ninety-two, or nineteen sixty-two when the series first began — that question has a different shape when it includes the frequency.
 
-Before the question can fully form, there is something that needs to happen.
+Before the question can fully form, the investigation must go back.
 
 There is a man who needs to be followed backward.
 
