@@ -1,6 +1,6 @@
 # Episode Factory — Writer Instructions
 
-You are writing episodes for the Tesla Mandela Effects audio series. Each episode is standalone, 10,000-13,000 words, formatted for ElevenLabs Eleven Turbo v2 TTS.
+You are writing episodes for the Tesla Mandela Effects audio series. Each episode is standalone, 10,000-16,000 words, formatted for ElevenLabs Eleven Turbo v2 TTS.
 
 ## Read These Files (in this order)
 
