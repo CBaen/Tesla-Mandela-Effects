@@ -9,7 +9,7 @@
 
 ## Title Note
 
-"The White Signal" — the pigeon is never named. She is referred to throughout as the white pigeon, then as the signal, then as the white signal. The title works on three levels: the pigeon's color (white, with gray-tipped wings), Tesla's description of the light from her eyes at the moment of death (a beam of light — a signal ending), and the electromagnetic signal Tesla spent his life trying to transmit. When the pigeon died, the transmission stopped. This title holds all three meanings without announcing any of them.
+"The White Signal" — the pigeon is never named. She is referred to throughout as the white pigeon, then as the signal, then as the white signal. The title works on three levels: the pigeon's color (white, with light grey tips on its wings), Tesla's description of the light from her eyes at the moment of death (a beam of light — a signal ending), and the electromagnetic signal Tesla spent his life trying to transmit. When the pigeon died, the transmission stopped. This title holds all three meanings without announcing any of them.
 
 ---
 
