@@ -1,0 +1,266 @@
+{
+  "episode": "002",
+  "title": "The White City",
+  "assets": [
+    {
+      "name": "Elias_Coburn_1894",
+      "type": "character",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1863,
+      "physique": "American working man, late 20s to early 30s, stocky demolition-worker build, calloused hands, dust-darkened work clothes, heavy coat for Chicago winter, steady practical posture of someone who reads buildings with his body",
+      "attire": "Heavy canvas work coat, wool cap, thick leather gloves, worn work boots with mud and plaster dust",
+      "notes": "Fabricated. Chicago demolition worker, eleven years experience by 1894. Worked South Side warehouses, Kinzie Street clearance, brick apartment buildings. Assigned to Manufactures and Liberal Arts Building demolition, south colonnade, winter 1894. Wrote a letter to his foreman Mr. H. describing material that did not behave like plaster. Kept field notes in a small cloth-covered notebook. Last field note entry: April 1894, a materials count. No record of him after that date.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "RT_Alcott_1904",
+      "type": "character",
+      "era": "1904",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1858,
+      "physique": "American civil engineer, mid-40s, trim professional build, clean-shaven, wire-rimmed spectacles, the bearing of a methodical man who reads the ground for a living, ink-stained fingers, practical fieldwork clothing",
+      "attire": "Tweed suit jacket over work shirt, leather field boots, flat cap, carrying a leather satchel with soil-boring tools and a site diagram pad",
+      "notes": "Fabricated. Chicago-area structural engineer hired by a development group in 1904 to assess Jackson Park for redevelopment potential. Conducted soil borings at the former Manufactures and Liberal Arts Building south wing perimeter. Found foundation material density inconsistent with staff construction specifications. Wrote a 28-page typewritten report with hand-drawn site diagrams. Report donated to Chicago Architectural Foundation in the 1920s after his death; transferred to Ryerson and Burnham Libraries but listed as 'not yet catalogued.'",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 37 at the 1893 World's Columbian Exposition. Demonstrated polyphase AC system at the Electricity Building. Held gas-discharge tubes in his hands and lit them without wires, using his body as conductor. Demonstrated egg-of-Columbus rotating magnetic field device. His Westinghouse contract illuminated all one hundred thousand lamps at the fairgrounds. Tall, impeccably dressed for demonstrations.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Daniel_Burnham_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1846,
+      "physique": "American architect, late 40s, commanding physical presence, broad-shouldered, full dark mustache going to grey, the bearing of a man who ran a thousand-worker construction site by force of personal authority",
+      "attire": "Dark wool suit, overcoat, formal hat — the dress of a civic leader and public figure, not a working architect",
+      "notes": "Director of Works for the 1893 World's Columbian Exposition. Directed construction of all principal Court of Honor buildings. Attributed with 'Make no little plans' — though the attribution is disputed. Held the compressed three-year construction timeline together through institutional authority.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Manufactures_and_Liberal_Arts_Building_1893",
+      "type": "location",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The largest enclosed structure in the world at time of construction. Facade eight hundred feet wide, one hundred and thirty feet high at the cornice line. Neoclassical design: colonnaded, coffered, heavily ornamented with carved and molded detail in white staff material. The white calcium sulfate surface photographed like marble in direct midday light. Closed the east end of the Court of Honor. Interior floor area: more than thirty acres.",
+      "attire": "",
+      "notes": "Built in under three years from staff material — plaster of Paris, Portland cement, glycerin, jute fiber, dextrin — over wire lath over wood and steel framing. Designed to last six months. In demolition 1893-1894, certain sections of the south colonnade resisted standard wrecking tools.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Manufactures_Building_Interior_1893",
+          "era": "1893",
+          "physique": "Glass-roofed system of interior avenues, not a single large room. A planned city grid at reduced scale: national pavilions from dozens of countries arranged along interior walkways. Natural light admitted through the glass roof, filtered and diffuse. In spring, greenhouse warmth; in October, shelter from lakefront cold. The interior had its own weather. Crowds at human scale making the space feel simultaneously grand and inhabited.",
+          "notes": "Where twenty-seven million visitors circulated over six months. The interior photography shows depth and scale but rarely reveals the wall construction."
+        },
+        {
+          "name": "South_Colonnade_Interior_1894",
+          "era": "1894",
+          "physique": "The south colonnade of the Manufactures and Liberal Arts Building during winter demolition. Stripped of ornamentation in progress. Exposed structural elements — wire lath partially torn away, white staff material cracked and fractured. Cold interior, no longer enclosed from the Chicago winter. In the section between piers fourteen and sixteen: wall surfaces that resisted standard demolition bar strikes. Stone visible behind the outer staff facing when that section finally gave. The stone running below floor level, into the ground.",
+          "notes": "The location of Coburn's anomaly. Piers 14-16 of the south colonnade. Staff material as expected on the outer surface; denser material behind it in certain sections. Below the floor level: not investigated. Above-grade demolition only."
+        },
+        {
+          "name": "Manufactures_Building_Exterior_Night_1893",
+          "era": "1893",
+          "physique": "The Manufactures and Liberal Arts Building at night, illuminated by Tesla's alternating current system. One hundred thousand incandescent lamps burning simultaneously. The white staff facades glowing against the dark lake, the reflection broken into fragments by the slight chop of the basin water. The light more even and more total than any gas illumination had previously achieved. The building appearing to glow from within as well as from without.",
+          "notes": "The image twenty-seven million people carried away. The illuminated fair at night, on AC current, is the root of the Mandela Effect — memory of something permanent rather than temporary."
+        }
+      ]
+    },
+    {
+      "name": "Court_of_Honor_1893",
+      "type": "location",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Grand central plaza approximately one thousand feet wide. Three sides enclosed by principal neoclassical exhibition buildings — Agriculture, Transportation, Administration, Machinery Hall — all in white staff construction, cornice lines at one hundred and thirty feet. The fourth side open to a reflecting basin connecting to Lake Michigan. Lagoons designed by Olmsted as mirrors for the white facades. Midday light direct from Lake Michigan making every surface read as marble or stone. Scale dwarfing anything in contemporary American civic architecture.",
+      "attire": "",
+      "notes": "The heart of the fair's formal aesthetic program. The photography was designed to capture this space at its most impressive — midday, direct light, angles that read the buildings as permanent stone. The Court of Honor is where the Mandela Effect lives: the mass memory of something that looked like it had always existed.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Court_of_Honor_Lagoon_Night_1893",
+          "era": "1893",
+          "physique": "The lagoon at the center of the Court of Honor at night. Dark water under one hundred thousand AC lamps. The white buildings reflected and fragmented by the slight chop — the reflection broken into shards of white light rather than a clean mirror. The quality of light unprecedented: more even, more total than gas illumination, with no flickering, no diminishing at distance. The lamps burning steadily on Tesla's alternating current.",
+          "notes": "The night photographs are the ones visitors remembered most vividly. The reflection in the lagoon doubled the apparent illumination and created an impression of the buildings floating above the water."
+        }
+      ]
+    },
+    {
+      "name": "Electricity_Building_1893",
+      "type": "location",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Neoclassical exhibition building in the Court of Honor, white staff construction matching the other principal structures. Interior: the Westinghouse-Tesla demonstration area. A large platform or stage for Tesla's demonstrations. The egg-of-Columbus apparatus on a demonstration table. Rows of gas-discharge tubes in varying configurations. The interior lit entirely by AC current from the Westinghouse generating station. The scale of the electrical installation unprecedented — the central node of the system that connected every lamp in the fairgrounds.",
+      "attire": "",
+      "notes": "The public announcement that AC had won the War of Currents. Where Tesla personally demonstrated the rotating magnetic field and wireless lamp illumination. The building from which the distribution network that connected to every structure in the fairgrounds originated.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Tesla_Demonstration_Stage_1893",
+          "era": "1893",
+          "physique": "A raised platform inside the Electricity Building. Polished wood floor. The egg-of-Columbus apparatus positioned at center: a copper egg resting on a horizontal platform above a polyphase AC motor, spinning upright without mechanical contact. To one side: a row of gas-discharge tubes of varying lengths and gas compositions — some glowing violet, some white, some blue-green. A demonstration table with electrical instrumentation. The air carrying the slight metallic ozone quality of high-frequency alternating current discharge.",
+          "notes": "Where Tesla held the gas-discharge tubes in his hands and lit them with his own body as conductor. The demonstration proved AC could transmit through non-metallic conductors. Thirty thousand watts of generating capacity fed the fairgrounds from the Westinghouse station."
+        }
+      ]
+    },
+    {
+      "name": "Jackson_Park_1894",
+      "type": "location",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The six-hundred-and-ninety-acre former fairgrounds in the process of demolition. Chicago winter — February through April 1894, the lakefront amplifying cold and wind. Buildings in various states of deconstruction: some exterior walls standing without roofs, some structures reduced to framing, some still largely intact. The ground between structures compressed and churned by demolition traffic. The lagoons drained or in process of being drained. The formal landscape Olmsted designed now a construction site in reverse.",
+      "attire": "",
+      "notes": "The demolition was multiple overlapping operations by different contractors. Some buildings were demolished by crews; some burned in the July 1894 fires. The below-grade foundation material at the south colonnade zone was not disturbed by above-grade demolition work.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Jackson_Park_Demolition_Site_1894",
+          "era": "1894",
+          "physique": "Ground-level view of active demolition. Demolition workers in heavy winter coats moving through the exposed skeleton of the Manufactures and Liberal Arts Building interior. Debris of white staff material on the concrete floor — cracked and powdered where it gave easily, in larger resistant chunks where the material was denser. Timber framing partially removed, steel underframe still standing in some sections. Dust of plaster and cement in the cold air. The cold lake visible through gaps where exterior walls have been removed.",
+          "notes": "The environment where Coburn worked for two days on the section between piers 14-16. Physical labor: demolition bar strikes, the sound of each strike telling the worker what the wall is made of."
+        }
+      ]
+    },
+    {
+      "name": "Jackson_Park_Survey_1904",
+      "type": "location",
+      "era": "1904",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Jackson Park returned to parkland after ten years. October 1904 — dead leaves and lake water smell, compressed soil from former construction. The ghost geometry of the former fairgrounds still visible in the compaction pattern of the ground, in residual foundation material at grade. A civil engineer's survey equipment positioned at intervals across the former south wing perimeter: soil boring apparatus, a survey rod, a hand-drawn site diagram on a drafting pad. The ground disturbed at boring locations, core samples in labeled tubes beside each boring.",
+      "attire": "",
+      "notes": "Where R.T. Alcott conducted his soil borings for the Chicago development group. Found material density at the former south wing foundation zone inconsistent with the light-construction footings expected from staff-over-steel buildings.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Westinghouse_Generating_Station_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A large industrial generating facility within the fairgrounds. Multiple AC generators — polyphase alternating current machines of a type and scale not previously deployed commercially. Copper wire distribution conduit running from the station through underground pathways to every building on the six-hundred-and-ninety-acre site. The generators producing a continuous rotating electromagnetic field at the AC system frequency. The physical scale of the installation: larger than any prior commercial AC deployment. Thirty thousand watts minimum output.",
+      "attire": "",
+      "notes": "The central node of Tesla's lighting system. Connected by wire to every lamp, motor, and demonstration device in every building on the site. The current that ran through this system ran through whatever the buildings were built of, wherever that material touched the distribution system's conducting paths. Six months of continuous operation.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Egg_of_Columbus_Device_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A tabletop demonstration apparatus. A horizontal platform approximately eighteen inches in diameter, smooth polished surface. Beneath the platform: a polyphase AC motor with two-phase coil windings, connected to the Westinghouse AC supply. A copper egg approximately four inches long, oblong, polished bright, resting on the platform surface. When energized, the motor produces a rotating magnetic field that extends upward through the platform. The field catches the copper egg, which begins to spin and stands upright on its end without mechanical contact, wobbling slightly before steadying. The egg spins because the rotating field catches it. The motor does not touch the egg.",
+      "attire": "",
+      "notes": "Tesla's primary demonstration device at the 1893 Exposition. Named for Columbus's challenge to stand an egg on its end. Proved AC produced a rotating magnetic field that acted on conductive material without mechanical contact. The demonstration refuted claims that AC was too dangerous for practical use.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tesla_Gas_Discharge_Tubes_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Glass tubes approximately eight to eighteen inches in length, sealed at both ends, evacuated of most air, filled with different gas mixtures — nitrogen, argon, neon, hydrogen. The glass surface slightly frosted from the vacuum process. When held in Tesla's hands during the demonstration, the tubes glow without wire connections: violet for nitrogen and argon, pale blue-white for hydrogen, yellow-orange for sodium-vapor mixtures. The glow uniform along the tube's length rather than localized. No wires attached. Tesla's body serves as the conductor, carrying high-frequency alternating current induced from the Westinghouse distribution system.",
+      "attire": "",
+      "notes": "Demonstration of wireless illumination: high-frequency AC transmitted through the human body as conductor, energizing gas in sealed tubes without wire contact. Tesla held them in front of thousands of visitors. His body was the conductor. The gas in the tubes responded to the field his body was carrying.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Letter_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A three-page handwritten letter on standard working-man's paper, the kind sold at corner stationery shops. Water staining on the first page — a horizontal stain in the upper third that obscures the day of the date, leaving the month and year legible. The paper folded and refolded many times: crease lines create a grid pattern visible against the light. The handwriting on page one is slightly uneven, the hand of someone writing in cold conditions or tired from physical labor. Pages two and three are steadier, more protected from the water damage, the handwriting more settled. The letter addressed to 'Mr. H.' — the foreman's full name not provided. Salutation, description of work progress, detailed account of the anomalous wall sections, the specific paragraph describing what was found when the resistant section gave: stone, not staff, running below floor level.",
+      "attire": "",
+      "notes": "Fabricated. The primary source document. Current physical location unknown: the collector who held it died in 1971, estate dispersed. A photocopy was made in the 1990s by a researcher who did not publish and is not named in accessible accounts. The photocopy exists somewhere. The letter's chain of custody: Coburn to Mr. H., then to private hands, then to a collector in Kenosha, Wisconsin.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Field_Notebook_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A small cloth-covered notebook, approximately four by six inches. The cloth cover is dark green or grey, worn at the corners from pocket carry. Interior pages ruled with light pencil lines. Entries in Coburn's hand — practical, abbreviated, the notation of a working man keeping a labor record: dates, locations within the building, materials counts, crew notes. The final entry is a materials count. The entry after it is blank — the rest of the pages unused.",
+      "attire": "",
+      "notes": "Fabricated. Coburn's working record. Field notes end in April 1894. The final entry is a materials count, not a narrative entry. What happened after is not recorded anywhere the investigation can find.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Halsted_Briggs_Incident_Report_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "An official incident report form, the standard documentation required by municipal practice for worker injuries on demolition sites. Typewritten on official contractor stationery: 'Halsted and Briggs Wrecking' in letterhead. Filed March seventh, eighteen ninety-four. Contains: date, location (Transportation Building annex), description of incident (two workers injured when a resistant section gave and displaced material struck them), and the notation by the superintendent: 'material not consistent with expected staff construction.' The form is signed and witnessed. It survived because injury reports were legally mandatory.",
+      "attire": "",
+      "notes": "Fabricated. The only contractor document from the demolition period referencing material conditions for the Court of Honor structures. Present in the archive only because worker injury made it legally required. The rest of the demolition documentation is absent.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Alcott_Engineering_Report_1904",
+      "type": "object",
+      "era": "1904",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A twenty-eight-page typewritten document on standard engineering stationery. The typewriter font is consistent with early 1900s American office equipment. Hand-drawn site diagrams interspersed with the typed text — plan views of the former south wing perimeter, boring locations marked with numbered labels, soil-column diagrams at each boring site showing layer composition. One diagram shows the depth at which anomalous material was encountered and its extent. The key quoted passage appears on page seventeen or eighteen, in a section labeled 'South Wing Perimeter Analysis': 'density and composition more consistent with cut limestone aggregate than with mixed cement staff.'",
+      "attire": "",
+      "notes": "Fabricated. Known only through quotation in Alcott's professional correspondence. Not in accessible archives. Donated to Chicago Architectural Foundation in 1920s after Alcott's death, transferred to Ryerson and Burnham Libraries in 1960s, listed as 'not yet catalogued' in most recent finding aid.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Staff_Construction_Wall_Section_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A cross-section of standard staff construction as used in the White City buildings: from exterior surface inward — white calcium sulfate finish layer (thin, smooth, photographs like marble), staff material beneath (plaster of Paris, Portland cement, glycerin, jute fiber, dextrin, two to three inches thick), wire lath (galvanized metal mesh nailed to framing), wood framing (dimensional lumber, standard stud spacing), steel underframe (I-beams and columns where structural loads required). The total wall thickness: six to eight inches. The exterior surface white and detailed — cast rosettes, molded cornices, carved ornament — all produced in the staff material by skilled crews working with molds and trowels.",
+      "attire": "",
+      "notes": "Standard specification for the Court of Honor buildings. What the demolition workers expected to find everywhere. What they found in some sections. In other sections, the inner material did not behave as specified.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "White_City_Official_Photographs_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Large-format glass plate photographs, the standard of the period. The printing process produces rich tonal range — deep blacks in shadow, bright whites in highlight. The Court of Honor buildings photographed at midday, direct south-facing light, which produces the mineral solidity of the white calcium sulfate surface. Shadow relationships at the base of columns suggest mass and load-bearing weight. The detailed cornice work reads as carved stone, not molded plaster. The photographs are composed: angles chosen to eliminate visual evidence of impermanence, framings that exclude scaffolding, debris, or any suggestion of construction rather than establishment.",
+      "attire": "",
+      "notes": "The official photography was an extension of the architecture's argument — both were saying the same thing: this has always been here. Thousands of people have looked at these photographs and reported the buildings look permanent. The photographs say weight. The record says plaster. Coburn's hammer said the photographs were, in at least some sections, correct.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
