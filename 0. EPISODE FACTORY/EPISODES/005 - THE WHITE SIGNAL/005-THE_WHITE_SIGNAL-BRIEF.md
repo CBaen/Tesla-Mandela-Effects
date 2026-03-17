@@ -283,55 +283,59 @@ Geometry appears incidentally and plausibly: the geological corridor runs northe
 ## 14. The 7-Point Narrative Structure
 
 ### Point 1 — The Wound (Opening, minutes 0–10)
-The sensory hook. A hotel window, slightly open. The cold. The city below. The sound of wings landing on stone. The tap on the glass. "He was not surprised. He was never surprised. She had been coming to this window for years."
+**Thread A (the pigeon period) opens.** The sensory hook. A hotel window, slightly open. The cold. The city below. The sound of wings landing on stone. The tap on the glass. "He was not surprised. He was never surprised. She had been coming to this window for years."
 
 The narrator withholds who "he" is for several more sentences — building the room, the cold, the particular silence of a man waiting for something he cannot explain and does not try to. Then: Tesla's name, and the year. Nineteen twenty-one. The Hotel St. Regis.
 
 The recontextualizing detail planted: the pigeon always arrives from the northeast.
 
-Macro loop opens: what was she bringing him?
+Macro loop opens with Thread B's first intrusion: a single sentence about homing pigeons losing their way. Not explained. Not elaborated. Just placed: "Today, homing pigeons fail their routes in specific corridors across the northeastern United States. No one has agreed on why." The investigation will return to this.
 
 ### Point 2 — The Surface (minutes 10–25)
-The investigation begins. O'Neill's "Prodigal Genius" as the primary source — named and dated. The documented relationship: Bryant Park, the New York Public Library, the thousands of dollars in pigeon feed, the white pigeon with gray-tipped wings described as distinct from all others. Tesla's statement that she understood him.
+**Thread A deepens.** The investigation begins inside Tesla's story. O'Neill's "Prodigal Genius" named and dated. The documented relationship: Bryant Park, the New York Public Library, the thousands of dollars in pigeon feed, the white pigeon with gray-tipped wings described as distinct from all others. Tesla's statement — via O'Neill — that she understood him.
 
-The narrator presents this completely and lets the listener settle on the compassionate explanation: an isolated man and his bird. The investigation frames this sympathetically. The Mandela Effect (homing pigeons losing their way) is present in embryo — a single line about pigeon racing records, a passing mention that something changed in pigeon navigation mid-century. The listener forms their first hypothesis: an eccentric old man, a touching story, nothing more.
+The narrator presents this completely and lets the listener settle on the compassionate explanation: an isolated man and his bird. **Thread B intrudes briefly:** a passing note about pigeon racing associations documenting something shifting in return rates mid-century. "Not a collapse — a drift. Gradual, geographic, and oddly specific in where it was worst." Then Thread A resumes. The listener has two open questions now, though they do not yet know they are related.
 
 ### Point 3 — The Cracks (minutes 25–42)
-Fabricated Source 1 (W.H. Fitch's diary) arrives — the night manager's observations, the direction from the northeast, the window unlatched. Then: the science. Magnetite crystals. Electromagnetic navigation. The pigeon's precision — an instrument for sensing the Earth's magnetic field. Tesla's documented electromagnetic sensitivity — a different instrument, built into a different kind of body, calibrated for the same class of phenomena.
+**Thread A continues.** Fabricated Source 1 (W.H. Fitch's diary) arrives — the night manager's observations, the direction from the northeast, the window unlatched. Then: the science of pigeon navigation. Magnetite crystals. Electromagnetic field sensing. The pigeon's precision — an instrument for sensing the Earth's magnetic field that no human technology matched until recently. Tesla's documented electromagnetic sensitivity — a different instrument, built into a different kind of body, calibrated for the same class of phenomena.
 
 Two instruments. Same signal class. One says the other understood him.
 
-Fabricated Source 3 (the Westinghouse letter) arrives: Tesla brought the pigeon to the lab. He was running a test. The technicians' instruments couldn't detect what he thought she was receiving. He wasn't surprised.
+Fabricated Source 3 (the Westinghouse letter) arrives: Tesla brought the pigeon to the lab in nineteen twenty. He was running a test. The technicians' instruments couldn't detect what he thought she was receiving. He wasn't surprised.
+
+**Thread B deepens:** the geographic shape of the navigation failures. Not random. Clustered. The northeastern corridor — running from Long Island through lower New York State into Connecticut — shows the highest documented failure rates in the pigeon racing record. Thread B holds here. Thread A continues.
 
 Reveal 1: the attachment was not purely emotional. Tesla was using the pigeon as a detection instrument. She was receiving something the laboratory equipment could not measure.
 
 ### Point 4 — The False Floor (minutes 42–55)
-The psychological explanation arrives at full weight. Clinical language, behavioral literature, grief psychology. The specific attachment pattern. The perception anomaly at the moment of death — explained as extreme emotional stress in a hypersensitive individual. The twenty years of diminished output — explained as complicated grief in an elderly, isolated man.
+**Thread A arrives at its apparent resolution.** The psychological explanation comes at full weight. Clinical language, behavioral literature, grief psychology. The specific attachment pattern of an isolated, hypersensitive mind. The perception anomaly at the moment of death — explained as extreme emotional stress. The twenty years of diminished output — complicated grief in an elderly, abandoned man.
 
-The False Floor lands: the story of a man who loved a bird and never recovered from losing her. It is a real and complete story. It is not the whole story.
+The False Floor lands across both threads: Thread A — a man who loved a bird and never recovered. Thread B — navigation failures caused by electromagnetic pollution, a documented and increasing correlation with power-line density. Both explanations are complete. Both are real. Both have peer-reviewed support.
 
-The question pivot: "Complicated grief predicts mourning. It predicts withdrawal. It does not predict the cessation of a technical capability."
+The question pivot: "But complications grief predicts mourning. It predicts withdrawal. It does not predict the cessation of a technical capability. And electromagnetic pollution does not explain why the worst navigation failures cluster not around the densest electrical infrastructure — but around Long Island."
 
 ### Point 5 — The Real Wound (minutes 55–68)
-The investigation turns toward the evidence the psychological explanation cannot process. The specific timing of Tesla's productivity decline — not at Morgan's withdrawal, not at Wardenclyffe's demolition, not at the foreclosure, but at the pigeon's death. The USGS monitoring log (Fabricated Source 2) arrives: the baseline electromagnetic shift at the Colorado Springs station, summer nineteen twenty-three, one year after the pigeon died. The annotator's note: "Baseline shift confirmed. Shift is directional — not uniform decay."
+**Threads A and B begin to press toward each other.** Thread A: the specific timing of Tesla's productivity decline — not at Morgan's withdrawal, not at Wardenclyffe's demolition, not at the foreclosure. At the pigeon's death. Thread B: the USGS monitoring log (Fabricated Source 2) arrives — the baseline electromagnetic shift at the Colorado Springs station, summer nineteen twenty-three, one year after the pigeon died. The annotator's note: "Baseline shift confirmed. Shift is directional — not uniform decay. Asked Denver for comparison logs. No comparison logs survive."
 
-The narrator begins to ask: what if the pigeon was not the emotional anchor? What if she was the calibration instrument? What if when she died, Tesla did not lose his companion — he lost the only confirmation that what he was perceiving was real?
+Both threads have gaps at the same date: Thread A loses the pigeon in nineteen twenty-two. Thread B records a baseline shift in nineteen twenty-three. The narrator does not connect them. The listener does.
 
-Strategic absence: what would it look like, from the outside, if a transmission system lost its only receiver? It would look like the transmitter stopped. Because there is no longer any way to know if the signal is working.
+Strategic absence: what would it look like, from the outside, if a transmission system lost its only biological receiver? It would look like the transmitter stopped. And it would look like the thing that had been navigating by the transmission started losing its way.
 
 ### Point 6 — The Implication (minutes 68–76)
-Varga's paper (Fabricated Source 4) arrives. The eight-hertz geological formation. The navigation dead zone in midtown Manhattan. The corridor running northeast from the St. Regis Hotel to Bryant Park. Varga does not know what she found. She measured the frequency and noted it was consistent with the Schumann resonance. She submitted the paper. It was rejected. She left academic research.
+**Thread B delivers its evidence.** Varga's paper (Fabricated Source 4) arrives. The eight-hertz geological formation. The navigation dead zone in midtown Manhattan. The corridor running northeast from the St. Regis Hotel to Bryant Park. Varga measured the frequency and noted it was consistent with the Schumann resonance. She did not know she had named the thread connecting everything. She submitted the paper. It was rejected. She left academic research.
 
-The implication assembles without the narrator naming it: the rock under Bryant Park resonates at the same frequency Tesla transmitted into the Earth at Colorado Springs. The pigeon navigated by that frequency. The corridor she traveled — from Bryant Park to the St. Regis Hotel, northeast to west — was the signal path. Not a habit. A route.
+**Thread A delivers its parallel evidence:** the Colorado Springs frequency — approximately eight hertz, the Earth's resonant frequency — was what Tesla transmitted into the rock through Wardenclyffe's iron pipe roots, three hundred feet down. The rock holds frequencies differently than air. Air dissipates signal. Rock stores it.
 
 The planted detail is about to pay off: the direction from the northeast has been in the listener's mind since the opening. The listener now understands what it was. But the episode does not say it yet. The narrator pauses. "She always came from the northeast."
 
 ### Point 7 — The Open Question (minutes 76–85)
-The recontextualization. The pigeon landed from the northeast because the geological formation running northeast from Bryant Park to the St. Regis resonated at eight hertz — the frequency Tesla transmitted into the Earth, which the rock stored even after Wardenclyffe was demolished. She was not coming to him. She was homing to the signal in the rock.
+**The threads converge.** The recontextualization. The pigeon landed from the northeast because the geological formation running northeast from Bryant Park to the St. Regis Hotel resonated at eight hertz — the frequency Tesla transmitted into the Earth, which the rock stored even after Wardenclyffe was demolished. She was not coming to him. She was homing to the signal in the rock.
 
 The narrator earns the right to direct statements for the first time: "She was not his companion. She was his evidence. The only evidence he had that the signal was working."
 
-Then: the closing. The window, latched from the inside. The remaining twenty years narrated in compression — the announcements without prototypes, the hotel New Yorker, the pigeons he fed from a distance when his legs failed him, the feathers on the windowsill of a room the white pigeon never visited. He kept feathers. Not of her — she was gone. Feathers of the birds that came after, that were not her, that could not receive what she could receive. He kept them anyway.
+Then: the closing. The window, latched from the inside. The remaining twenty years narrated in compression — the announcements without prototypes, the Hotel New Yorker, the pigeons he fed from a distance when his legs failed him, the feathers on the windowsill of a room the white pigeon never visited. He kept feathers. Not of her — she was gone. Feathers of the birds that came after, that were not her, that could not receive what she could receive. He kept them anyway.
+
+**Thread B's final note:** The navigation failures continue. The northeastern corridor is still mapped. The formation under Bryant Park still resonates at eight hertz. But whatever was broadcasting has gone quiet. The pigeons are not lost. They are searching for a signal that no longer has a transmitter. Or a receiver. Or both.
 
 Register shift. Fitch's diary entry read directly — his voice, his words, the window, the direction, the four days. Then: The Silence.
 
