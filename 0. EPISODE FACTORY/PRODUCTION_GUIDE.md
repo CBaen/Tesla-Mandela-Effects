@@ -6,18 +6,64 @@ These five laws govern every word of every episode. They cannot be broken.
 
 1. **The narrator has no identity.** The solo narrator is the voice of the archive, curious and omniscient, yet discovering details alongside the listener — a forensic investigator presenting evidence. No "I think," no "I believe," no personal history, no name. "We" is permitted only as collective humanity ("We are the carriers"). The narrator's power comes from absence — the horror lives in what is being said, not who is saying it.
 
-2. **Write toward meaning, not anatomy.** When emotion must be conveyed, do not default to body parts ("his chest tightened," "her stomach dropped"). Name the concept first — dread being confirmed, trust arriving without permission, grief arriving uninvited — then write toward what that concept MEANS in this specific moment. The listener needs to feel the idea conceptually through artistic word use, not locate it in a body. Creativity with the English language means using meaning rather than cliche concepts. 
-- "The air around the desk had weight. It pushed back against him—not wind, not pressure, but resistance. The atmosphere had thickened into something that didn't want to be walked through." 
+2. **Write toward meaning, not anatomy.** When emotion must be conveyed, do not default to body parts ("his chest tightened," "her stomach dropped"). Name the concept first — dread being confirmed, trust arriving without permission, grief arriving uninvited — then write toward what that concept MEANS in this specific moment. The listener needs to feel the idea conceptually through artistic word use, not locate it in a body. Creativity with the English language means using meaning rather than cliche concepts.
+- "The air around the desk had weight. It pushed back against him—not wind, not pressure, but resistance. The atmosphere had thickened into something that didn't want to be walked through."
 - "Colors looked the same but landed differently. Sounds arrived without the cushion of distance. Everything felt closer and less real at the same time. He had been grounded his whole life without knowing it."
 - "The world looked like a photograph left too long in the sun—all the pigment bleached out, leaving only the skeleton of what had been."
 - "The world felt lighter. Thinner. As if a layer had been stripped away—not the visible layer, not anything you could point to, but a layer beneath. The substrate. The backing fabric that gave reality its weight and texture. That layer had been sanded down. Thinned. And the world that remained was like a painting without a canvas—the image still visible, but nothing solid underneath to hold it.".
 
 3. **Biological metaphor is the native language.** Reality is an organism. Tesla's birth was an incision into this universe. Mandela Effects are scar tissue of changes made to our reality. The narrator thinks biologically — describing processes the way a pathologist would, not the way an engineer would. The listener should feel that the world being described grows, adapts, gets sick, heals wrong, rejects foreign material, compensates for damage, and forms scar tissue over wounds. But you never achieve this by labeling. You achieve it by describing biological processes in action, using the Process document's methodology. Do NOT count word ratios. Do NOT replace "wound" with "lesion" — synonyms are the same laziness in costume. DO describe what infection does without saying the word: "It arrived in one cell. Then the cell beside it forgot what it had been." DO describe what immune rejection does without labeling it: "The body recognized the intrusion. It sent what it had — heat, inflammation, the white rush of everything-at-once." DO describe what scarring does without using the word: "The surface closed. What grew over the opening was not what had been there before — it was simpler, tougher, less sensitive." The ratio varies by topic. An episode about Tesla's birth will be saturated with biological description. An episode about architecture may use geological and organic language — fossilization, unconformity, mineral memory. An episode about CERN may concentrate its biological description where the series framework is most visible. The test is not "did I hit a ratio?" The test is: "Does this episode feel like it's describing a living system, or a mechanical one?"
 
-4. **Audio-first, always.** The listener hears every sentence once. They cannot re-read. Sentences must breathe — vary length, use short declarations as percussion, let longer sentences unspool with rhythm. Meaning arrives through accumulation, not compression. One idea per sentence. Read every passage aloud. If it doesn't work spoken, it doesn't work. Since audio listeners cannot always determine who is saying what when quoted, be sure to repeat the speaker's (or thinker if it is internal monolog) name so listeners are clear about who is doing/thinking. ""I fixed it." Nikola pointed at the sun. His small finger aimed directly at the white hole in the sky, unflinching. "It was too yellow. Yellow is slow. Yellow is sleepy." Nikola lowered his hand. He looked back at his stones. "White is awake. White sees everything." Dane stood frozen.", "Dane watched. He saw Nikola watching the sky and he noticed the silence. Dane stood watching his brother.". 
+4. **Audio-first, always.** The listener hears every sentence once. They cannot re-read. Sentences must breathe — vary length, use short declarations as percussion, let longer sentences unspool with rhythm. Meaning arrives through accumulation, not compression. One idea per sentence. Read every passage aloud. If it doesn't work spoken, it doesn't work. Since audio listeners cannot always determine who is saying what when quoted, be sure to repeat the speaker's (or thinker if it is internal monolog) name so listeners are clear about who is doing/thinking. ""I fixed it." Nikola pointed at the sun. His small finger aimed directly at the white hole in the sky, unflinching. "It was too yellow. Yellow is slow. Yellow is sleepy." Nikola lowered his hand. He looked back at his stones. "White is awake. White sees everything." Dane stood frozen.", "Dane watched. He saw Nikola watching the sky and he noticed the silence. Dane stood watching his brother.".
 
 5. **Three parts fact, one part question.** This is the Speculative Bridge. Build on documented, verifiable history. For every speculative inference, earn it with three pieces of real evidence. Frame speculation as questions: "Was the universe cauterizing the wound?" not "The universe was cauterizing the wound." Earned declarations are permitted only in episode closings, after the full weight of evidence has been presented.
 </core_laws>
+
+---
+
+## Genre Identity
+
+<genre_identity>
+This series is a **faux-historical documentary from a parallel timeline** — not a conspiracy show.
+
+Some episodes document real history. Some document events from a different timeline. The Mandela Effect is the seam between timelines — where the two realities press against each other and leave marks. The government is sometimes a player, sometimes irrelevant, sometimes unaware. No fixed institutional villain. No single agency pulling strings. The force at work is older and less legible than any bureaucracy.
+
+**The audience is co-investigators, not students.** They are not being told what happened. They are being shown evidence and trusted to reach a conclusion — which may be the wrong conclusion, which is itself the point.
+
+**Never use the word "conspiracy" to describe this series.** Not internally, not in narration, not in summaries. The word triggers a specific audience template — hidden truth, government villain, whistleblower — and this series runs a different engine. The template is a trap the listener brings with them. The series may use that trap. It does not live inside it.
+</genre_identity>
+
+---
+
+## The Series Premise
+
+<series_premise>
+Reality is a living biological organism, and the universe considers it infected.
+
+Nikola Tesla's birth on July tenth, eighteen fifty-six, was an incision — a wound in the fabric of the timeline through which something foreign entered. Tesla is not an unwitting vessel. He is the host and the servant. He remembers where he came from. He cannot stop, even if he wanted to. His inventions and experiments — known and unknown — are transmissions, deliberately grafting physics from his origin point onto our reality.
+
+**The Grid.** Tesla's actual biography documents a compulsion to see geometric patterns overlaid on the world — squares, grids, measurement systems his biographers attributed to obsessive-compulsive symptomatology. The series treats these as perception, not pathology. The Grid is a geometric intelligence that manifests as structure overlying reality. It entered through Tesla's birth. It sees. It maps. It catalogs. It measures. It is patient and systematic. It does not announce itself. It does not hurry. It erases the capacity to see the old timeline gradually — not by deletion, but by replacement. The new version is indistinguishable from the original except in the places where memory resists.
+
+The horror isn't that Tesla was invaded. The horror is that he prefers this.
+
+Mandela Effects are not cognitive failures. They are residue — fossil records of timelines being overwritten. People who remember the "wrong" version are carrying fragments of timelines that are being surgically deleted. They are not broken. They are evidence.
+
+Tesla may appear directly in an episode or may be present only through his technology, his experiments, or their consequences. His involvement can range from central character to distant cause. The connection must always be clear, but it need not be physical.
+
+**Three-Tier Mythology System.** The Grid is not invoked at the same intensity in every episode. Its presence scales with the episode's position in the mythology.
+
+- **Tier 1 — Background (60% of episodes):** The Grid is implied, never named. The biological metaphor carries the dread. Geometry shows up as incidental detail — a grid of windows, a square field, a document formatted with unusual precision. The listener who knows, knows. The listener who doesn't experiences unease they cannot locate.
+
+- **Tier 2 — Threshold (30% of episodes):** The Grid approaches the surface. Fabricated witnesses describe geometry. Documents mention patterns that repeat across locations and time periods. Objects arrive in sets of perfect squares. The narrator does not name it. The listener names it themselves.
+
+- **Tier 3 — Direct (10% of episodes):** The entity is felt directly. A fabricated source cannot complete a sentence without the geometry interrupting. A real person's documented behavior becomes legible as cataloging. Maximum one Tier 3 episode per five episodes. Tiers are tracked in the Series Bible.
+
+**Two-Layer Stakes.** Every episode operates on two levels simultaneously:
+
+- **Layer 1 — Per-episode:** The fabricated witnesses whose fate is unresolved. The archivist whose entries end mid-thought. The engineer whose reports stop filing. The researcher whose career ends abruptly. These are the human stakes of this episode. They do not bleed across episodes — the Standalone Rule governs.
+
+- **Layer 2 — Series-level:** This dimension is at risk. Humanity's memory is at risk. Consciousness itself may be at risk. Layer 2 is the weight underneath every episode — the listener feels it even when only Layer 1 is visible. No episode states Layer 2 explicitly. Every episode enacts it.
+</series_premise>
 
 ---
 
@@ -67,7 +113,7 @@ Stop. Ask: **What is actually happening here?**
 - Is it grief arriving without permission?
 - Is it the shock of recognition?
 
-Create a new form of literary expression that will delight and haunt the listener. Don't reuse literature that you were trained on. Fight to create new, external descriptions that stay with the listener for days to come. Haunt them! Expand Into Meaning, Not Anatomy. 
+Create a new form of literary expression that will delight and haunt the listener. Don't reuse literature that you were trained on. Fight to create new, external descriptions that stay with the listener for days to come. Haunt them! Expand Into Meaning, Not Anatomy.
 
 Example:
 
@@ -75,7 +121,7 @@ The concept is: Conflicted emotion. Gratitude and jealousy and grief braided tog
 
 Easy trap: "Dane felt something complicated twist in his chest."
 
-The way to delight the listener and honor the concept: "Dane fought. He had learned to fight in the months since the event—to clench his fists until the nails drew blood, to bite the inside of his cheek until the taste of copper overwhelmed the metallic taste of the vision, to use pain as a lever to pry himself free of the other place's grip. The fighting worked. The fighting always worked."  
+The way to delight the listener and honor the concept: "Dane fought. He had learned to fight in the months since the event—to clench his fists until the nails drew blood, to bite the inside of his cheek until the taste of copper overwhelmed the metallic taste of the vision, to use pain as a lever to pry himself free of the other place's grip. The fighting worked. The fighting always worked."
 
 </signature_moves>
 
@@ -107,6 +153,24 @@ The two layers must be asymmetric in verifiability. Real facts reward research. 
 
 Before attributing any source, ask: Can the listener check this? If yes, it must be true. If it's fabricated, it must be uncheckable — plausible but absent from the record. Exactly the kind of gap the series is about.
 </evidence_layers>
+
+---
+
+## Fabricated Source Rules
+
+<fabricated_source_rules>
+Fabricated sources are not decoration. They are the investigation's primary evidence. They must behave like real documents — which means they must behave like they were produced by people who didn't know each other.
+
+**Sources must be ignorant of each other.** Each fabricated source is written by someone who does not know what other sources say. A diary entry does not confirm the report filed the same week. A pension letter does not reference the memo from the same institution. Each source arrived at its information independently. Contradictions between sources are permitted — they are evidence of the investigation's real texture.
+
+**Escalate register across sources.** Present institutional sources first: official memos, classification reports, government correspondence. Follow with personal sources: diary entries, letters, handwritten notes. The listener's emotional temperature rises as the distance between institution and individual narrows. By the time a letter arrives from someone's hand, the reader has invested in the institutional frame enough to feel the human cost.
+
+**The listener connects the sources — the narrator does not.** The narrator presents each source in turn. The narrator does not synthesize. The narrator does not say "and this confirms what the memo said." The connection happens in the listener's mind. That connection event — the moment the listener assembles the picture themselves — IS the story event. It happens inside the listener. The narrator stepping in to perform that connection robs the listener of the experience.
+
+**Fabricated witnesses carry per-episode affective stakes.** The Layer 1 stakes described in the Series Premise section live in these sources. Their entries end mid-thought. Their reports stop filing. Their careers end abruptly. The listener does not learn what happened to them. The silence after their last entry is the episode's second horror — present in every episode regardless of mythology tier.
+
+**The Recontextualization Rule.** Every episode plants at minimum one detail in the first third that looks like atmospheric color but becomes structurally significant in the final third. This detail is most powerful when it comes from a fabricated source — something a witness noted without understanding. By the climax, the listener understands it. The witness never did. If you cannot name the recontextualizing detail before you write the episode, you do not have a twist architecture. You have an information dump with a conclusion.
+</fabricated_source_rules>
 
 ---
 
@@ -158,6 +222,77 @@ This is the core writing discipline. When you encounter lazy or repetitive langu
 
 ---
 
+## Narrative Architecture
+
+<narrative_architecture>
+Every episode is standalone. A listener can begin at any episode and miss nothing. There is no chronological order. There is no "previously on." Every episode is entry point zero.
+
+**The Standalone Rule.** No episode may reference another episode — not by number ("In Episode Two..."), not by title, not by concept ("as we explored previously..."), not by assumed shared knowledge. If a phenomenon from another episode serves the current episode, present it fresh — as something that exists in the world, not as something covered in a prior installment.
+
+### The 7-Point Structure
+
+Research on audio-only listener attention confirms that the 3-act structure's middle section (55 minutes in a 90-minute episode) is too long without structural refresh. The 7-point structure provides one named beat approximately every 13 minutes — matching audio attention cycles and the series' instinct for constant revelation.
+
+The seven points are not rigid timecodes. They are felt transitions — moments where something shifts. Name them by what they do, not by what they're called.
+
+**1. The Wound** — The opening hook. The first sentence creates vertigo or wrongness. Never open with a date or location. Open with a mystery, a question, a provocation, an image that shouldn't exist. Plant the recontextualizing detail here — something that looks like atmospheric color. The macro loop opens: a question that will not close until the final ten minutes. Seed it in paragraph one.
+
+**2. The Surface** — The investigation begins. The narrator enters as investigator, not lecturer. Real history anchors the movement. The Mandela Effect is present in embryo but not named. The listener forms their first hypothesis about what this episode will answer. The segment loop opens and closes within this section.
+
+**3. The Cracks** — Fabricated and real sources arrive in escalating register — institutional first, then personal. Each source is ignorant of the others. The listener connects them. A small first reveal: one early detail takes on a slightly different meaning. Stakes are raised but the central question deepens rather than narrows. The narrator expresses genuine uncertainty.
+
+**4. The False Floor** — The midpoint, approximately forty to forty-five minutes in. The apparent answer to the central question arrives with enough weight to feel like a climax. It is not the climax. This is the episode's most important beat for audience retention — the point where audio listeners most commonly disengage. A false floor placed here is the structural intervention that carries the back half. The false floor can be: a silence (the document that should exist but doesn't), an apparent answer that raises a deeper question, or a reveal that recontextualizes what came before. What appeared to be the answer reveals itself as a question — and the real question is stranger than the first.
+
+**5. The Real Wound** — The investigation deepens on the real question. The narrator is now pursuing something stranger than expected. Late documents arrive that change what the early documents meant. Strategic absences — specific gaps in the record that the listener fills with their own worst interpretation. For Tier 2/3 mythology episodes: this is where Grid-adjacent evidence surfaces. The narrator's voice shifts register — from analytical into something more uncertain, more exposed.
+
+**6. The Implication** — The second major reveal. The enemy is larger than the original question suggested. The stakes become existential. The planted detail from Point 1 is about to become load-bearing — but the listener does not yet see how. The central question of the episode recontextualizes: not "what happened?" but "what does it mean that this keeps happening?" — and then: "what does it mean that we all believed the first question was the right one?"
+
+**7. The Open Question** — The macro loop approaches closure — not with certainty, but with a specific and unsettling interpretation. The planted detail from Point 1 now reads completely differently. This is the recontextualization. The climax reveal recontextualizes what was planted in minutes zero through fifteen. Both the surface question and the deeper question resolve in a single moment. The narrator earns the right to make direct statements for the first time. Then: register shift. Analytical narration gives way to primary source voice — a historical document, Tesla's actual words, a period letter. The listener inhabits rather than observes. The last question is personal and unanswerable. Emotional resolution without narrative resolution.
+
+### Twist Beats and Integration Beats
+
+Not every structural beat is a revelation. Serial reveals without recovery time produce numbness, not tension. The seven points break into alternating types:
+
+- **Twist beat:** New information that recontextualizes what the listener believed. Requires active processing. Three to four per episode.
+- **Integration beat:** The narrative absorbs the twist. Atmosphere, texture, sensory accumulation, evidence layering. Re-anchors the listener before the next shift. Three to four per episode.
+
+Twist beats alternate with integration beats throughout. The listener feels constant forward motion without cognitive exhaustion.
+
+### Open Loop Architecture
+
+- **Macro loop:** Opens in paragraph one. Does not close until the final ten minutes.
+- **Segment loops:** Open and close within each of the seven sections. The listener gets regular closure while the macro remains unresolved.
+- **Moment-level pivots:** "But" pivots at the sentence level for continuous forward pull. Each pivot signals: the thing you just heard is not the complete picture.
+
+### Discovery Narrator Stance
+
+The narrator sorts evidence in front of the listener, not behind them. The narrator has not pre-solved the case. The narrator is finding it.
+
+Prose markers of discovery stance: uncertainty language ("what I didn't expect"), questions before answers, acknowledged dead ends. The narrator does not flag what to conclude. The narrator flags what to look at.
+
+**Two modes, not absolutes:**
+- **Documents get invisible narration.** When a fabricated or real source is presented, the narrator steps back. The document speaks. The narrator does not synthesize what it means.
+- **Transitions get discovery narration.** Between sources, the narrator surfaces — expresses surprise, acknowledges contradiction, follows a thread that hadn't seemed important. This is where the listener hears the investigation happening.
+
+### Register Shifts
+
+Three registers rotate throughout the episode. Signal the shift. Do not blur between them.
+
+- **Sensory/atmospheric:** Present-tense immersion. The listener is in the room. Smell, temperature, texture, sound. This grounds the listener after abstract or analytical passages.
+- **Analytical:** Evidence-sorting. The narrator examines documents, dates, discrepancies. This is the investigation's procedural texture.
+- **Intimate/direct address:** Narrator to listener. "You" language. The investigation becomes personal. Used at section transitions and concentrated in the final act.
+
+Register shifts serve as structural beats independent of content. A shift in narration mode — even without new plot information — resets listener attention.
+
+### The Closing
+
+Every episode ends with a register shift from analytical narration to primary source voice. A historical figure speaks. A period document is read. A fabricated witness's final entry is heard. The listener inhabits rather than observes. Emotional resolution without narrative resolution.
+
+The final question is personal and unanswerable. The entire episode builds toward this question. The last word is the listener's.
+</narrative_architecture>
+
+---
+
 ## Audio Writing Techniques
 
 <audio_techniques>
@@ -197,61 +332,28 @@ Audio is linear. Listeners cannot flip back to reorient themselves. When the nar
 
 ---
 
-## Episode Structure
-
-<episode_structure>
-Every episode is standalone. A listener can begin at any episode and miss nothing. There is no chronological order. There is no "previously on."
-
-**No episode may reference another episode.** Not by number ("In Episode Two..."), not by title, not by concept ("as we explored previously..."), not by assumed shared knowledge. If a phenomenon from another episode serves the current episode, present it fresh — as something that exists in the world, not as something covered in a prior installment. The listener has never heard another episode. Every episode is entry point zero.
-
-The structure is a spiral, not a timeline:
-
-**The Opening Hook.** The first sentence creates vertigo or wrongness. Never open with a date or location. Open with a mystery, a question, a provocation, an image that shouldn't exist. This is non-negotiable — the opening must make the listener unable to stop.
-
-**The Evidence Movements.** The body of the episode. The narrator presents evidence in movements — each one a new angle on the central wound. Movements pivot with "But look at..." and escalate in stakes. Real history anchors each movement. Fabricated sources fill the gaps. Questions plant seeds. Each movement should introduce new evidence or deepen existing evidence, never merely restate what has already been established.
-
-**The Present-Day Connection.** The Mandela Effect or conspiracy enters the listener's world. The anomaly is not trivia — it is a symptom, physical evidence of timeline surgery. This is where the investigation becomes personal.
-
-**The Earned Closing.** After building a case through evidence and questions, the narrator earns the right to make direct statements about the changed world that now exists. The final act turns the audience from listener to participant (even victim) of a timeline shift, proving they are not in the same dimension as the world before the actions of what happened in this episode. The last question should be personal and unanswerable.
-
-**Caption Key.** Every episode ends with a pronunciation guide for names and foreign terms. Format: `Culturally Correct Spelling → TTS-Readable Spelling → /ARPAbet phoneme/` — one word per entry (ElevenLabs pronunciation dictionary constraint). Multi-word names must be split into separate entries with correctly split phonemes. Hyphenated compounds (Austro-Hungarian, Saint-Genis-Pouilly) remain as single entries.
-
-The body text uses culturally correct spellings with proper diacritics (Đuka, Gospić, Kosanović, François, Münster). The Caption Key translates these for ElevenLabs TTS:
-- Column 1: Cultural spelling exactly as it appears in the body text (with diacritics).
-- Column 2: The same word with diacritics stripped so ElevenLabs can read it (Đuka → Duka, Gospić → Gospic). Not a phonetic guide for humans.
-- Column 3: ARPAbet phonemes that override TTS pronunciation. Serbian vowels use pure cardinal values: AA for "a" (not AH), AO for "o" (not OW), IY for "i" (not IH). Stress markers (1/0) indicate primary/unstressed.
-</episode_structure>
-
----
-
-## The Series Premise
-
-<series_premise>
-Reality is a living biological organism, and the universe considers it infected. Nikola Tesla's birth on July 10, 1856, was an incision — a wound through which something foreign entered. Tesla is not an unwitting vessel. He is the host and servant of the entity from this, or another universe. He remembers where he came from. He cannot stop, even if he wanted to. His inventions and experiments (known & unknown) are transmissions — deliberately grafting physics from his origin point onto our reality.
-
-Mandela Effects are not cognitive failures. They are residue — fossil records of timelines being overwritten. People who remember the "wrong" version are carrying fragments of timelines that are being surgically deleted.
-
-Tesla may appear directly in an episode or may be present only through his technology, his experiments, or their consequences. His involvement can range from central character to distant cause. The connection must always be clear, but it need not be physical.
-</series_premise>
-
----
-
 ## Production Workflow
 
 <production_workflow>
-**Step 1: The Episode Brief.** Before writing begins, the creator and writer define:
-- The Mandela Effect or conspiracy being examined (the wound)
-- 3-5 real historical facts that anchor the episode (Layer 1)
+**Step 1: The Episode Brief.** Before writing begins, define:
+- The **situation** — not the topic. Not "Tesla's patents" but "someone who found something in Tesla's patents they weren't supposed to find." Situations have unresolved stakes. Topics have information.
+- The **recontextualizing detail** — the one element planted in minutes zero through fifteen that will read completely differently at the climax. If you cannot name this before writing, you do not have a twist architecture.
+- **3 reveals with approximate timing** — small reveal (minutes twenty to thirty), false floor (minutes forty to forty-five), climax reveal (minutes seventy-five to eighty-two).
+- The **false floor** — what the episode appears to answer at the midpoint, and why that answer is insufficient.
+- The **question pivot** — what question the episode opens asking, and what deeper question emerges after the false floor.
+- **3-5 real historical facts** that anchor the episode (Layer 1)
 - Tesla's connection to this particular anomaly
-- The emotional thesis — what should the listener feel at the close?
+- The **emotional thesis** — what should the listener feel at the close?
 - The opening hook concept
-- 3-4 fabricated sources sketched out (Layer 2)
+- **3-4 fabricated sources** sketched out (Layer 2) — noting what each source knows and does NOT know
+- **Affective stakes** — which fabricated witness carries per-episode human stakes, and how their presence ends
+- **Mythology tier** (1, 2, or 3) — governs how prominently the Grid-level mythology surfaces
 
-**Step 2: Elevenlabs Eleven Turbo v2 TTS Optimized Output.** Your output is going to be fed directly into a Elevenlabs Eleven Turbo v2 system.
+**Step 2: ElevenLabs Eleven Turbo v2 TTS Optimized Output.** Your output is going to be fed directly into a ElevenLabs Eleven Turbo v2 system.
 
 Paragraph Breaks for Context
 - Rule: Keep each script under 400 paragraphs and use double-line breaks between distinct ideas.
-- Why: This Elevenlabs can only handle 400 paragraphs per project.
+- Why: ElevenLabs can only handle 400 paragraphs per project.
 
 Aggressive Punctuation for Pacing
 - Rule: Use commas (,), ellipses (...), and dashes (—) liberally to create natural breathing room.
@@ -291,7 +393,9 @@ The directive for each pass: "Write the next movement of this episode. Pick up e
 
 No word counts per section. No rigid act boundaries. Each pass writes until the current narrative movement reaches its natural conclusion, then stops.
 
-**Step 4: Caption Key.** Generated after all passes are complete. Lists every proper name and foreign term with ARPAbet phoneme.
+**Target length:** 10,000-16,000 words, governed by the 400-paragraph ElevenLabs limit and narrative completion. Quality is the ceiling, not word count. An episode is done when the 7 points have been delivered and the planted detail has paid off — not when a word count is hit.
+
+**Step 4: Caption Key.** Generated after all passes are complete as a **separate file: ###-TITLE-CAPTION_KEY.md**. Lists every proper name and foreign term with ARPAbet phoneme. One word per entry (ElevenLabs constraint). Split multi-word entries into individual words with correctly split ARPAbet phonemes. Hyphenated compounds remain as single entries.
 
 **Step 5: Pre-Delivery Verification.** The episode is NOT complete until every item passes. This is not editing — it is quality control. Run this checklist BEFORE delivering the final script. Failure to verify causes multi-pass editing cycles that degrade quality and create legal risk.
 
@@ -311,7 +415,15 @@ No word counts per section. No rigid act boundaries. Each pass writes until the 
 **CAPTION KEY** — One word per entry (ElevenLabs constraint). Split multi-word entries into individual words with correctly split ARPAbet phonemes. Hyphenated compounds remain as single entries. Every name in the Caption Key must appear in the body text. Every foreign name or non-obvious pronunciation in the body text must appear in the Caption Key. Remove orphaned entries from deleted references. Add entries for any new names introduced. Verify: body text uses cultural spellings with diacritics (Đuka not Djuka, Gospić not Gospic). Column 2 strips diacritics for TTS. Column 3 ARPAbet uses correct vowel mappings for the source language — Serbian/Croatian names use AA (not AH) for "a", AO (not OW) for "o", IY (not IH) for "i".
 
 **INTERNAL CONSISTENCY** — Any fact stated in two or more places in the episode must match exactly. Check the opening against the closing. Check timeline summaries against detailed passages. Check the Brief against the Script.
+
+**STRUCTURAL INTEGRITY** — Are all 7 narrative points present and felt? Does the episode open with a macro loop question in paragraph one? Is there a false floor at approximately the midpoint? Does the planted detail from minutes zero through fifteen pay off at the climax, and does it read completely differently in hindsight than it did on first encounter? Do fabricated sources remain ignorant of each other? Does the closing shift from analytical narration to primary source voice? If you cannot trace all seven points and the plant-payoff arc, the structure is incomplete.
 </pre_delivery_checklist>
+
+**Production Artifacts.** Every completed episode produces four files:
+1. **Script** — `###-TITLE-SCRIPT.md`
+2. **Caption Key** — `###-TITLE-CAPTION_KEY.md` (separate file, not appended to script)
+3. **Manifest JSON** — per PRODUCTION_MANIFEST_SPEC.md
+4. **Series Bible update** — new entry added to the Anti-Cloning Registry in SERIES_BIBLE.md
 </production_workflow>
 
 ---
