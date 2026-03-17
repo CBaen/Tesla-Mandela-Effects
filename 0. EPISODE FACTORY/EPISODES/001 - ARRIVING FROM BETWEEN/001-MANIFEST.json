@@ -1,0 +1,314 @@
+{
+  "episode": "001",
+  "title": "Arriving From Between",
+  "assets": [
+    {
+      "name": "Nikola_Tesla_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 86. Final day. Found dead in Room 3327 of the Hotel New Yorker on January 8, 1943. Body arranged with military precision in bed, sheets pulled tight. Elderly, gaunt, white hair.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1856,
+      "physique": "Newborn infant, dark hair, pale skin, eyes unfocused",
+      "attire": "Swaddled in white linen",
+      "notes": "Birth scene, Smiljan, midnight during lightning storm. FLUX has no reference for infant Tesla — description required.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Duka_Tesla_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1822,
+      "physique": "Serbian woman, mid-30s, strong peasant build, dark hair pulled back tightly, weathered hands, intense dark eyes, high cheekbones, broad shoulders from farm work",
+      "attire": "Simple white linen dress for childbirth, wool blanket over shoulders",
+      "notes": "Tesla's mother, née Mandic. Invented household tools. Memorized Serbian epic poetry. Replied to midwife's dark omen: 'the child will be a child of light.'",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Milutin_Tesla_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1819,
+      "physique": "Serbian Orthodox priest, late 30s, tall, lean build, full dark beard, deep-set eyes, high forehead, scholarly bearing",
+      "attire": "Black Orthodox clerical robe with silver cross pendant, black kamilavka cap",
+      "notes": "Tesla's father. Parish priest of Smiljan. Kept the baptismal register. Made bargain with dying Nikola: study engineering if he recovered from cholera.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Dane_Tesla_1863",
+      "type": "character",
+      "era": "1863",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1850,
+      "physique": "Serbian boy, approximately 13 years old, sturdy build, dark hair, open face, older-brother bearing — the celebrated child of the household",
+      "attire": "Simple 19th-century Serbian village clothing: linen shirt, wool trousers, leather boots",
+      "notes": "Tesla's older brother. Described as possibly more gifted than Nikola. Died in a horse accident in Smiljan, approximately 1863-1865. His death intensified Tesla's involuntary visual episodes.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "PE_Foxworth_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1906,
+      "physique": "American man, late 30s, clean-shaven, sharp jaw, close-cropped dark hair, military bearing despite civilian suit, alert eyes, unhurried confidence",
+      "attire": "Dark grey wool suit, white shirt, narrow tie, fedora, leather briefcase",
+      "notes": "FBI Assistant Director P.E. Foxworth, head of Special Intelligence Service. Coordinated seizure of Tesla's papers. Was involved from early in the day of January 7 — before the body was publicly known to be there.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "John_G_Trump_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1907,
+      "physique": "American man, mid-30s, round face, receding hairline, wire-rimmed glasses, academic appearance, mild expression, comfortable in libraries",
+      "attire": "Tweed suit jacket, bow tie, white shirt",
+      "notes": "MIT professor, physicist with security clearances. Reviewed Tesla's papers in approximately three weeks. Filed report concluding no 'new sound workable principles or methods.' Uncle of future president.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Alice_Monaghan_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1910,
+      "physique": "American woman, early 30s, practical build, dark uniform of Hotel New Yorker housekeeping staff, hair pinned back under a white cap, sturdy working hands",
+      "attire": "Hotel New Yorker maid's uniform: dark dress, white apron, white cap",
+      "notes": "Hotel maid who discovered Tesla's body on January 8. Described the room as smelling like the air before a thunderstorm. Said it once to her sister and did not repeat it.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "RV_Hotel_Maintenance_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1900,
+      "physique": "American man, early 40s, working-class build, practical bearing, calloused hands, the steady posture of someone who maintains things for a living",
+      "attire": "Hotel maintenance uniform: dark work shirt, heavy trousers, worn leather work boots",
+      "notes": "Fabricated. R.V. — initials only. Hotel New Yorker maintenance worker 1935-1950. Kept a personal diary. Smelled summer-storm air in the corridor near Room 3327 in January 1943. Did not investigate. Wrote it down and went back to work.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Zdravko_Blazic_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1820,
+      "physique": "Croatian man, mid-30s, lean schoolteacher build, practical clothing, ink-stained fingers, observant eyes behind simple wire spectacles, the grounded posture of someone who records things accurately",
+      "attire": "Mid-19th century civilian professional clothing: dark wool jacket, linen shirt, trousers, leather shoes",
+      "notes": "Fabricated. Gospic schoolteacher 1852-1879. Kept a diary. Noted livestock standing in the open facing one direction after the storm, the well water tasting sharper, and the morning light looking like 'an examination was being conducted.' Did not know a child had been born in Smiljan that night.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Hotel_New_Yorker_1943",
+      "type": "location",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Art deco hotel, 43 stories, corner of 34th Street and 8th Avenue, Manhattan. Tesla's home for his final decade.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Room_3327_1943",
+          "era": "1943",
+          "physique": "Corner room on 33rd floor. Two walls of curtained windows facing south toward Bryant Park. Cramped, barely large enough for the life compressed into it. Dark wood desk near south-facing window. Single bed against north wall, sheets pulled with military precision. Steamer trunks, filing boxes, and wire-bound crates stacked floor to ceiling, labeled in mixed English and Serbian. Steam radiator beneath window. Three gray-tipped pigeon feathers resting on the windowsill. A stack of hotel napkins on the desk covered in dense mathematical notation and circuit diagrams in pencil. Bakelite desk lamp. 1940s rotary telephone. The air smells of ozone — sharp, clean, like the atmosphere after a lightning strike — though the windows are sealed and no storm has passed.",
+          "notes": "Tesla's room for a decade. Number divisible by 3 — his requirement. Found January 8, 1943 by Alice Monaghan. Body present in bed January 7-8."
+        },
+        {
+          "name": "Hotel_New_Yorker_Exterior_1943",
+          "era": "1943",
+          "physique": "43-story art deco tower at the corner of 34th Street and 8th Avenue. Brick and limestone facade with strong vertical emphasis. 'Hotel New Yorker' signage at the crown. Street-level awnings. January snow on sidewalks. Yellow taxi cabs on 8th Avenue. Pedestrians in winter coats and hats. Flat grey January sky.",
+          "notes": ""
+        },
+        {
+          "name": "Hotel_Corridor_33rd_Floor_1943",
+          "era": "1943",
+          "physique": "Long narrow hallway with repeating dark wood doors. Geometric carpet pattern in muted burgundy and gold. Flat institutional lighting from wall sconces. Brass room numbers on each door. Quiet. Still. A faint smell near Room 3327 — the sharp ozone quality of summer storm air, inexplicable in January.",
+          "notes": "The corridor where R.V. passed the Do Not Disturb sign and smelled the summer storm air in winter."
+        }
+      ]
+    },
+    {
+      "name": "Smiljan_Village_1856",
+      "type": "location",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "Village in the Lika region of the Military Frontier of the Austrian Empire (modern-day Croatia). Population under 400. Limestone plateau country, rocky, cold even in summer. Single road through a valley below the plateau.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Tesla_Farmhouse_Smiljan_1856",
+          "era": "1856",
+          "physique": "Simple stone farmhouse with whitewashed walls and a dark timber roof. Small windows with wooden shutters. A yard with bare earth behind the house. An oil lamp visible through a window. Chimney. Summer night — warm air, limestone dust, wild thyme. The night of the birth: air charged with the smell of lightning, rain on stone.",
+          "notes": "Tesla's birthplace. Adjacent to the parish church where Milutin Tesla served as priest."
+        },
+        {
+          "name": "Tesla_Birthing_Room_1856",
+          "era": "1856",
+          "physique": "Small interior room lit by a single oil lamp. Rough stone walls, low timber ceiling. A bed with linen sheets. A washing basin on a wooden stand, the water surface trembling in concentric rings from the thunder. The air dense — pressure in the ears, the sharp smell of ozone from the lightning outside.",
+          "notes": "Where Tesla was born at the stroke of midnight during a lightning storm. Family tradition holds this was the precise moment of the storm's peak."
+        },
+        {
+          "name": "Smiljan_Valley_Morning_1856",
+          "era": "1856",
+          "physique": "A valley in the Lika plateau region of the Austrian Military Frontier. July 11, 1856 — morning after the birth storm. Limestone meadows still wet from overnight rain. Livestock — cattle and sheep — standing in the open, not sheltered, all facing the same direction. A quality of light that the schoolteacher Blazic described as 'like an examination was being conducted' — white, purposeful, attending rather than simply illuminating. Well water that tastes sharper than before.",
+          "notes": "The landscape documented by Zdravko Blazic the morning after Tesla's birth. Three separate witnesses noted the changed quality of the light and atmosphere."
+        }
+      ]
+    },
+    {
+      "name": "Gospic_Town_1856",
+      "type": "location",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "Nearest market town to Smiljan, approximately 15 kilometers away in the valley below the Lika plateau. Administrative center of the Lika region. Population: a few thousand. Austrian Empire military frontier town.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Gospic_Primary_School_1856",
+          "era": "1856",
+          "physique": "Small Austrian-era schoolhouse. Stone construction, single large classroom with rows of wooden desks. A teacher's desk at the front. A woodstove in the corner. Chalk dust and ink smell. Maps on the wall. A window overlooking a cobblestone street.",
+          "notes": "Where Zdravko Blazic taught from 1852 to 1879. The practical, observational character of his teaching life carried into his diary keeping."
+        },
+        {
+          "name": "Gospic_Meteorological_Station_1856",
+          "era": "1856",
+          "physique": "Small Austrian Imperial observation post. Stone room with wooden shelving holding barometric instruments, thermometers, precipitation gauges, and an aneroid barometer. A writing desk with the official log — a leather-bound ledger with columns for date, time, temperature, pressure, precipitation, sky conditions. Ink pots and sharpened quills. The standard observer's handwriting is neat and institutional. The margin note of July 11 is in a different hand, different ink pressure — added by a second person who did not sign their entry.",
+          "notes": "Subsidiary observation post of the Imperial Royal Central Institute for Meteorology and Earth Magnetism in Vienna. Records from the Military Frontier were dispersed across multiple archives after the dissolution of the Austrian Empire. This specific log's location is unknown."
+        }
+      ]
+    },
+    {
+      "name": "Manhattan_Storage_Warehouse_1943",
+      "type": "location",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "West side of Manhattan. Where Tesla's trunks were transferred after seizure by the Office of Alien Property Custodian.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Manhattan_Storage_Interior_1943",
+          "era": "1943",
+          "physique": "Dark industrial warehouse space. Concrete floors, steel shelving. Rows of stacked trunks and crates under bare fluorescent lights. Climate-indifferent darkness. Labels softening in the humidity. The accumulated output of six decades compressed into rows.",
+          "notes": "The trunks sat here for years before being shipped to Belgrade."
+        }
+      ]
+    },
+    {
+      "name": "Tesla_Seized_Trunks_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Approximately eighty containers: worn leather steamer trunks with brass clasps and leather straps, reinforced wooden crates bound with wire, cardboard filing boxes. Mixed sizes. Labels in mixed English and Serbian handwriting in a personal shorthand, dates spanning decades — some from the 1880s and 1890s, some from the 1940s. The arrangement is not random — it is an archive organized by a mind that remembered the location of every document in every container.",
+      "attire": "",
+      "notes": "Seized by the Office of Alien Property Custodian within approximately two days of Tesla's death. Approximately eighty containers total. Contents assigned to John G. Trump for review. Individual contents of twenty trunks remained classified for decades.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tesla_Hotel_Napkin_Equations_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Stack of white Hotel New Yorker cloth napkins, each covered in dense, precise mathematical notation and circuit diagrams drawn in pencil. Wave frequency calculations, resonant circuit schematics, electromagnetic field equations. The handwriting is controlled, confident — the hand of an engineer who spent six decades training himself to think in equations. Some napkins stacked neatly; others scattered across the desk surface with pencil stubs between them. The work shows no sign of deterioration.",
+      "attire": "",
+      "notes": "Tesla could not afford proper stationery in his final years. The napkins were his notebooks. Found on the desk in Room 3327.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Office_Of_Alien_Property_Crates_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "New wooden shipping crates with raw, unfinished pine slats. Splintery. Stamped with official government markings: 'OFFICE OF ALIEN PROPERTY' in black stenciled ink. Serial numbers. Pre-labeled, pre-fitted for transport. The dimensions appear calibrated for what they were intended to hold — as if measured before the death was publicly announced.",
+      "attire": "",
+      "notes": "Agents arrived with these crates already prepared. The preparation implies planning that predated the death. Pre-labeled before Tesla's body was publicly known to exist in Room 3327.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Gospic_Meteorological_Log_1856",
+      "type": "object",
+      "era": "1856",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Leather-bound official ledger, approximately folio size. Dark brown cover, stamped with the Austrian Imperial meteorological seal. Columns in ruled black ink for date, time, temperature, barometric pressure, precipitation, sky conditions. The standard entries are in a neat institutional hand. On the July 11, 1856 entry, a margin note appears in a different, slightly more hurried hand and different ink color: 'Atmospheric ionization reading anomalous this morning. Instrument rechecked. No instrument fault found. Will report if anomaly continues.' No signature. The standard observer's hand resumes on July 12 with no mention of the anomaly.",
+      "attire": "",
+      "notes": "Fabricated. The Gospic observation station was a real institution; this specific log is fictional. Regional meteorological records from the Military Frontier are genuinely dispersed and many destroyed — the log's provenance is described as unknown in the episode.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Blazic_Diary_1856",
+      "type": "object",
+      "era": "1856",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Small personal diary, handwritten in Croatian. Worn leather cover, hand-sewn binding. Pages yellowed, ink faded to brown. The July 1856 entry is partially water-damaged — the paper blurred at one corner. Handwriting is practical, observational, without flourish. The partial photocopy (as described in the 1931 folklore pamphlet transcription) shows the entry cut off at the water damage point.",
+      "attire": "",
+      "notes": "Fabricated. Zdravko Blazic's personal diary, partially transcribed in an 1931 regional folklore pamphlet published by the Gospic Regional Cultural Society. Original in family possession in Split. Not in any national archive. The relevant July 1856 entry notes the livestock behavior, the changed well water, and the quality of the morning light.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Do_Not_Disturb_Sign_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Hotel New Yorker door hanger sign. Cardboard with printed text: 'DO NOT DISTURB.' Hanging on the exterior door handle of Room 3327. The sign has been in place since approximately January 5, 1943 — visible through the gap at the bottom of the door where corridor light catches the brass door handle.",
+      "attire": "",
+      "notes": "The object that held the door closed for three days while whatever was in the room completed its departure. Found by Alice Monaghan on January 8.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
