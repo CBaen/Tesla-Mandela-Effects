@@ -135,9 +135,9 @@ That is the sufficient explanation. The explanation that requires nothing strang
 
 But Tesla was a man who spent his entire professional life documenting phenomena that appeared to require nothing strange of the universe until you looked at them carefully enough. He had a specific capacity for looking at things carefully enough. And when he said she understood him, he used the word with the precision of a man who knew the difference between learned recognition and something else.
 
-Something else.
+Recognition that arrives not through familiarity but through calibration — the way one instrument recognizes another of its own class. Not learned. Received.
 
-The investigation into what that something else might be is where the two threads — the man in the hotel room, and the pigeons losing their way — are going to meet.
+The investigation into what that recognition might have been receiving is where the two threads — the man in the hotel room, and the pigeons losing their way — are going to meet.
 
 We are not there yet. We are building toward it. The way you build toward anything that matters: from evidence, not from conclusions. Three parts fact to one part question. The facts first.
 
@@ -287,7 +287,7 @@ The psychology predicts mourning. It does not predict the cessation of a technic
 
 A man grieving a companion becomes sad. He does not stop being able to invent. He does not lose the capacity to translate internal architecture into working demonstrations. Grief does not do that to the brain. Grief narrows the world. It does not change what the brain can do within whatever world remains.
 
-What changes the brain's technical capability is not loss. It is the loss of something the brain was using. Something it was calibrated to. Something it was using as a reference.
+What changes the brain's technical capability is not loss. It is the loss of the instrument by which the brain confirmed its own accuracy — the external receiver that answered back, that proved the transmission was real, that closed the loop between what the mind produced and what the world received.
 
 The false floor of this investigation is that the psychology explains it. The psychology is real. The psychology is true. The psychology is insufficient.
 
