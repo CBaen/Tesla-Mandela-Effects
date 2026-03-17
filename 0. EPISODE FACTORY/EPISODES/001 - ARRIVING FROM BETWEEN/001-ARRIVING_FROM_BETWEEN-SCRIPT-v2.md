@@ -581,7 +581,7 @@ The transit left a smell.
 
 R.V. noted it. He did not report it. He wrote it in a diary and went back to work.
 
-The sky over the Smiljan valley changed on the morning of July eleventh, eighteen fifty-six. A grandmother noticed it and said it once. The schoolteacher noted that the light looked like an examination was being conducted. The atmospheric instrument read an ionization that had no instrument cause.
+The sky over the Smiljan valley changed on the morning of July eleventh, eighteen fifty-six. A grandmother noticed it and said it once. The schoolteacher noted the quality of the light — white, purposeful, attending — and moved on to record road conditions. The atmospheric instrument read an ionization that had no instrument cause.
 
 The sky has been the replacement sky ever since.
 
