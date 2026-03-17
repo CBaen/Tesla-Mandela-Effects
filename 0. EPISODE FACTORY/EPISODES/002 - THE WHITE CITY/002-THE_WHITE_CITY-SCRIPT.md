@@ -415,6 +415,27 @@ The demolition did not reach it.
 
 It may still be there.
 
+There is a specific geometry to the question the investigation is now holding.
+
+The grade raise moved through the city's commercial core from the eighteen fifties through the eighteen sixties. The White City rose on the south lakefront between eighteen ninety and eighteen ninety-three. The demolition crews moved through the White City between eighteen ninety-three and eighteen ninety-four. Alcott's borings moved through the Jackson Park soil in October of nineteen oh four.
+
+Four different operations, across six decades, all engaged in the same essential activity: moving through Chicago's subsurface record and encountering, at intervals, material that does not match the current official version of what is supposed to be there.
+
+The grade raise found the old city. The builders buried it.
+
+The demolition crews found walls that resisted. They worked around the anomalous sections and moved on.
+
+Alcott found limestone aggregate under a site that was supposed to hold only the residue of plaster construction. The development group declined to proceed.
+
+In each case, the operation stopped at the anomaly. The anomaly was noted, filed in whatever form the context allowed, and left in place. The city grew over it. The park grew over it. The record moved on.
+
+The specific gaps in the record cluster at the exact points where these operations encountered what was not supposed to be there.
+
+This is not proof of anything. The investigation is precise about what it can and cannot assert. Records go missing for ordinary reasons. Construction timelines are compressed and documentation suffers. An anomaly in a demolition worker's letter is not an anomaly in the historical record — it is a single worker's observation, passed through private hands, arriving now without the context that would allow verification.
+
+What the investigation can assert is the pattern. Not as conspiracy. Not as revelation. As the shape that the evidence produces when you lay the four operations next to each other and draw a line through the anomalies they each encountered.
+
+The line runs below grade.
 
 The closing of this investigation is not a conclusion. This should be stated plainly, because the investigation has taken you through a specific sequence of evidence — the wall, the photographs, the engineering argument, Coburn's letter, the incident report, the grade raise, the demolition records that are not where they should be, Alcott's foundation analysis, Tesla's current — and the listener deserves to know that the sequence does not end in a definitive answer. It ends in a specific and unsettling interpretation.
 
