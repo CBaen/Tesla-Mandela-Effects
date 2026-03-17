@@ -149,13 +149,13 @@ The negation works here because the episode IS a negation of the accepted record
 
 **What it contains:** Evidence that something in the Tesla seizure bore Dane's designation and was separated from the rest of the inventory for a reason that was never entered into the formal record. The "handwriting inconsistency" notation — added after the "clerical error" correction — implies that whoever reviewed the materials found something in the handwriting that could not be explained by a clerical error.
 
-**What it does not know:** It does not know about the patent photograph. It does not know about Djuka's letter. It does not know about the Zagreb oral history. It was produced by a government officer cataloging a seizure in the chaos of wartime, and it was corrected and annotated by at least two different people at two different times, neither of whom was talking to the other.
+**What it does not know:** It does not know about the patent photograph. It does not know about Djuka's letter. It does not know about the Lika oral history survey. It was produced by a government officer cataloging a seizure in the chaos of wartime, and it was corrected and annotated by at least two different people at two different times, neither of whom was talking to the other.
 
 **Why it is uncheckable:** The OAP inventory is a real document. The supplemental notations are fabricated. A listener who researches the OAP inventory will find real documents — the seizure is well-documented — but will not find this specific item number or annotation. The gap is the point.
 
 ---
 
-### Source 3 — Letter from Djuka Tesla to her cousin in Gracac, eighteen sixty-five
+### Source 3 — Letter from Djuka Tesla to her cousin in Gračac, eighteen sixty-five
 
 **Document type:** Institutional correspondence / family document.
 
@@ -254,7 +254,7 @@ Who was Dane? All we have is Tesla's words. "Gifted to an extraordinary degree."
 
 **3. The Cracks**
 
-The alternate timeline frame opens explicitly. The episode shifts register: what follows is documentation from the timeline where Dane survived. Fabricated Source 1 arrives — the patent application photograph. Two names in the applicant field. The second name damaged but its shape legible. The narrator presents it as evidence, not speculation. The narrator does not synthesize. The narrator moves on. Fabricated Source 2 — Djuka's letter. The notebook. The drawings. Nikola looking at them for a long time and saying nothing. The narrator notes that Nikola's biographers describe his visualization method as beginning after Dane's death — beginning as a symptom of grief, as involuntary visions of "images accompanied by strong flashes of light." The narrator asks: what if the method did not begin after Dane's death? What if it began as recognition of what Dane was already doing?
+The alternate timeline frame opens explicitly. The episode shifts register: what follows is documentation from the timeline where Dane survived. Fabricated Source 1 arrives — the patent application photograph. Two names in the applicant field. The second name damaged but its shape legible. The narrator presents it as evidence, not speculation. The narrator does not synthesize. The narrator moves on. Fabricated Source 2 — Djuka's letter. The notebook. The drawings. Nikola looking at them for a long time and saying nothing. The narrator notes that Tesla himself describes the visions as a boyhood predisposition possibly shared with Dane — "I was probably predisposed as I know that my brother experienced a similar trouble" — and that the causal link between Dane's death and the onset of the visions is biographers' inference, not Tesla's own account. The narrator asks: what if the method was not a grief symptom at all, but something both brothers carried? What if Nikola's recognition of Dane's drawings was recognition of the same language?
 
 **4. The False Floor**
 
@@ -274,7 +274,7 @@ The planted detail pays off. The horse that saved Milutin's life. The horse that
 
 The narrator earns direct statement for the first time: Dane was not removed because he was less than Nikola. He was removed because together, they would have been more than the entity that entered through Nikola's birth could manage. The lone genius narrative is not a tribute to Nikola Tesla. It is a description of what was left after the selection was made.
 
-Register shift: the Zagreb transcript closes the episode. M.K.'s voice — rendered through the transcript, as the interviewer reads the grandmother's words back to her — describing two boys in a church. One drawing machines. One singing. The image holds. Then: silence. Then, to the listener: "You have a person-shaped absence too. You have stopped noticing it because it has always been there. That is not acceptance." The final question: whose absence did you build your life around?
+Register shift: the Gospić archive transcript closes the episode. M.K.'s voice — rendered through the transcript, as the interviewer reads the grandmother's words back to her — describing two boys in a church. One drawing machines. One singing. The image holds. Then: silence. Then, to the listener: "You have a person-shaped absence too. You have stopped noticing it because it has always been there. That is not acceptance." The final question: whose absence did you build your life around?
 
 ---
 
@@ -286,4 +286,4 @@ Register shift: the Zagreb transcript closes the episode. M.K.'s voice — rende
 
 **Quote Rule — Critical:** The only direct quotes attributed to real people are Tesla's words from "My Inventions" (nineteen nineteen) — exact and verified. The letter from Djuka is fabricated and attributed to a fabricated document. The OAP inventory annotation is fabricated. The patent photograph is fabricated. No real person receives a fabricated quote.
 
-**Fact-Check Priority:** Dane's birth year (approximately eighteen fifty-one — sources vary between eighteen fifty and eighteen fifty-three; the brief uses "approximately eighteen fifty-one" which is defensible), the competing accounts of the horse accident (Tesla's autobiography vs. secondary biographies — verify the secondary sources), the Wright Brothers parallel (Orville's post-Wilbur inventive output — verify the claim that he produced no significant original work after nineteen twelve).
+**Fact-Check Priority (resolved in v2):** Dane's birth year now reflects source conflict: Carlson gives eighteen forty-eight, genealogy sources give eighteen fifty-one — both noted. Horse accident: brief now correctly distinguishes Tesla's sparse primary account (no cause given, no pea-shooter) from secondary biographical tradition (Seifer et al.). Tesla's visions: brief now correctly frames the causal link to grief as biographers' inference, not Tesla's statement — and notes Tesla's own words about Dane sharing the predisposition. Wright Brothers: Orville's post-Wilbur output now accurately described (Collier Trophy 1914, work to ~1919, then withdrawal). Tesla's 1891 address: corrected to 175 Grand Street. Fabricated oral history source: renamed and relocated (Lika Cultural Documentation Society, Karlovac, 1979-1983) to avoid confusion with the real IEF Zagreb project. Gračac church renovation: moved to nineteen eighty-eight (pre-war).
