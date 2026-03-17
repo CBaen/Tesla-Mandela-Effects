@@ -292,7 +292,7 @@ The recontextualizing detail planted: the pigeon always arrives from the northea
 Macro loop opens with Thread B's first intrusion: a single sentence about homing pigeons losing their way. Not explained. Not elaborated. Just placed: "Today, homing pigeons fail their routes in specific corridors across the northeastern United States. No one has agreed on why." The investigation will return to this.
 
 ### Point 2 — The Surface (minutes 10–25)
-**Thread A deepens.** The investigation begins inside Tesla's story. O'Neill's "Prodigal Genius" named and dated. The documented relationship: Bryant Park, the New York Public Library, the thousands of dollars in pigeon feed, the white pigeon with gray-tipped wings described as distinct from all others. Tesla's statement — via O'Neill — that she understood him.
+**Thread A deepens.** The investigation begins inside Tesla's story. O'Neill's "Prodigal Genius" named and dated. The documented relationship: Bryant Park, the New York Public Library, the thousands of dollars in pigeon feed, the white pigeon with light grey tips on its wings described as distinct from all others. Tesla's statement — via O'Neill — that she understood him.
 
 The narrator presents this completely and lets the listener settle on the compassionate explanation: an isolated man and his bird. **Thread B intrudes briefly:** a passing note about pigeon racing associations documenting something shifting in return rates mid-century. "Not a collapse — a drift. Gradual, geographic, and oddly specific in where it was worst." Then Thread A resumes. The listener has two open questions now, though they do not yet know they are related.
 
@@ -364,18 +364,24 @@ These are the episode's defining visual metaphors. Log in the Series Bible — D
 ## 16. Writing Agent Directives
 
 **On Tesla's voice:**
-Tesla does not speak directly in this episode. All Tesla language is reported through O'Neill or paraphrased in narration. Writing agents must not place Tesla's words in quotation marks unless the exact verified words from the primary source can be confirmed. Specifically:
-- "Something went out of my life" — narrate as O'Neill's account of what Tesla said. Do not put in quotation marks.
-- "I knew my life's work was finished" — same treatment. Report via O'Neill, do not quote directly.
-- "She understood me" — same treatment. Present as Tesla's documented claim via O'Neill, not as direct quote.
+The following quotes are verified from O'Neill's "Prodigal Genius" and MAY be used in direct quotation, attributed to Tesla as reported by O'Neill:
 
-The only verified direct Tesla quote available for this episode comes from "My Inventions" (1919), which predates the pigeon relationship's peak. Writing agents may use quotes from "My Inventions" about Tesla's visualization method or sensory experience, with the caveat that these predate nineteen twenty-one and must be placed in appropriate temporal context.
+- "a beautiful bird, pure white with light grey tips on its wings" — Tesla's description of the pigeon
+- "I loved that pigeon as a man loves a woman, and she loved me"
+- "As long as I had her, there was a purpose to my life"
+- "Yes, it was a real light, a powerful, dazzling, blinding light, a light more intense than I had ever produced by the most powerful lamps in my laboratory" — Tesla's description of the light from the pigeon's eyes at death
+- "When that pigeon died, something went out of my life"
+- "Up to that time I knew with a certainty that I would complete my work... but when that something went out of my life I knew my life's work was finished"
+
+These are the ONLY Tesla words that may appear in quotation marks in this episode. "She understood me" is a paraphrase of the documented relationship — present as: Tesla said that the pigeon understood him. Do not quote directly.
+
+Writing agents may also use quotes from "My Inventions" (1919) about Tesla's visualization method or sensory experience, with the caveat that these predate nineteen twenty-one and must be placed in appropriate temporal context.
 
 **On the beam of light:**
 The beam of light from the pigeon's eyes at the moment of death is documented via O'Neill. It should be presented as Tesla's account as reported by O'Neill — not as an established fact about what light does, but as what Tesla described seeing. The episode does not explain the beam. It presents it. The narrator can note that light does not behave this way — that the account is anomalous — without explaining it. The anomaly is the point.
 
 **On the pigeon's species and description:**
-She is a white pigeon with gray-tipped wings. Not a dove — Tesla's biography documents pigeons specifically, and the distinction matters for the electromagnetic navigation science (domestic pigeons, Columbia livia, are the navigation-capable species; doves have different behavioral profiles). The pigeon is never given a name in this episode. She is "the white pigeon," "she," and — in the closing — "the signal." The episode does not name her.
+She is a white pigeon with light grey tips on its wings — O'Neill's exact phrasing is "a beautiful bird, pure white with light grey tips on its wings." Not a dove — Tesla's biography documents pigeons specifically, and the distinction matters for the electromagnetic navigation science (domestic pigeons, Columbia livia, are the navigation-capable species; doves have different behavioral profiles). The pigeon is never given a name in this episode. She is "the white pigeon," "she," and — in the closing — "the signal." The episode does not name her.
 
 **On the hotel:**
 The pigeon relationship took place at the Hotel St. Regis (during the pigeon's lifetime, approximately 1918–1922). Tesla's final years were at the Hotel New Yorker (1933–1943). Writing agents must be precise about this. The opening scene (nineteen twenty-one) is at the St. Regis. The closing images (feathers on a windowsill, twenty years later) are at the New Yorker. These are two different buildings, two different rooms, two different periods of Tesla's life.
@@ -384,7 +390,7 @@ The pigeon relationship took place at the Hotel St. Regis (during the pigeon's l
 The Schumann resonance (approximately 7.83 hertz, rounded to eight hertz in Varga's paper) is a real electromagnetic phenomenon first formally described by Winfried Otto Schumann in nineteen fifty-two. Tesla identified the Earth's resonant frequency in eighteen ninety-nine — before Schumann. The episode uses eight hertz as the thread connecting Tesla's Colorado Springs experiments, Wardenclyffe's deep iron-pipe system, the geological formation under Bryant Park, and Varga's measurement. Writing agents should not call it "the Schumann resonance" in the early sections (where the connection is not yet established). Introduce the frequency first, and name Schumann only when the connection is earned — as a form of the episode's recurring discovery stance.
 
 **On homing pigeon navigation failures:**
-This is a real and documented phenomenon. Writing agents should use qualitative language rather than specific statistics unless a specific study and percentage can be verified. "Pigeon racing records document a shift in return rates beginning mid-century" is supportable. A specific percentage without a verified source is not. The episode should not overclaim the navigation failure data — the effect exists in the record, but the causal chain (Tesla → rock frequency → pigeon navigation) is the episode's speculation, not established science.
+The mechanism is real (Mora et al. 2004 confirms electromagnetic disruption impairs magnetoreception in pigeons). The systematic documentation of failure rates is NOT established at the level the episode's mythology requires — do not state that RPRA, Oxford's Department of Zoology, or any named institution has formally tracked and published navigation failure statistics. Use anecdotal framing: "pigeon racing communities have reported increasing navigation failures" and "accounts from the racing community describe specific corridors where homing pigeons lose their bearings." Cell towers and dense electrical infrastructure only proliferated from the nineteen eighties onward — do not frame the onset as "mid-twentieth century." Use "later twentieth century" for the documented uptick. The episode's causal chain (Tesla → rock frequency → pigeon navigation failures) is the episode's speculation, not established science — present it as a question the evidence raises, not as a conclusion.
 
 **On the closing:**
 The Silence. The investigation closes. The final line delivers the episode's one unbearable fact. After that line, there is no question, no pivot, no further investigation. The narrator earns the right to a direct statement at the very end — and then stops. The silence after is the episode's last instrument. Trust it. Do not add a closing question. Do not redirect to the listener with "you." Let Tesla's twenty years be the last thing in the room.
