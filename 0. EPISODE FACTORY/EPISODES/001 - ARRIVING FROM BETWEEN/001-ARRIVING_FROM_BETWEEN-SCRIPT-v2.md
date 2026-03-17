@@ -437,7 +437,7 @@ He was passing the door of Room 3327 during what he later understood — when th
 
 Except.
 
-R.V. writes, in the typescript his family provided: that the smell in the corridor near Room 3327 was unusual. He writes that it was the kind of smell you get after a summer storm — the particular atmospheric quality that a thunderstorm leaves in the air when it has moved through and the air is reorganizing itself around the space the storm occupied. That sharp, clean, electrically charged quality. The smell of something enormous having just happened.
+R.V. writes, in the typescript his family provided: that the smell in the corridor near Room 3327 was unusual. He writes that it was the kind of smell you get after a summer storm — the particular atmospheric quality that a thunderstorm leaves in the air when it has moved through and the air is reorganizing itself around the space the storm occupied. That sharp, clean, electrically charged quality. The smell the air produces when enormous energy has just moved through it and the molecules are still settling back into their ordinary arrangement.
 
 He writes:... "The kind of smell after a summer storm — but it was January and there was no storm."
 
@@ -512,7 +512,7 @@ What was taken was the sky that existed before something arrived through a birth
 
 The world that Nikola Tesla's birth replaced.
 
-Not destroyed. Replaced. The original record overwritten by the arrival of something that brought its own record with it and was patient enough to let the replacement proceed gradually. A generation noticing the wrongness but not having language for it. A grandmother noticing it the morning after and saying it once and not repeating it because there was no frame. A schoolteacher noting the quality of the light and calling it an examination because that was the closest word in the vocabulary available to him. An atmospheric instrument reading an ionization it could not account for and a human observer writing a note in the margin in a different hand and then returning to ordinary observations.
+Not destroyed. Replaced. The original record overwritten by the arrival of something that brought its own record with it and was patient enough to let the replacement proceed gradually. A generation noticing the wrongness but not having language for it. A grandmother noticing it the morning after and saying it once and not repeating it because there was no frame. A schoolteacher noting the quality of the light and reaching for the closest word the vocabulary of road conditions and livestock could supply. An atmospheric instrument reading an ionization it could not account for and a human observer writing a note in the margin in a different hand and then returning to ordinary observations.
 
 The replacement had been in progress since the night of July tenth, eighteen fifty-six.
 
@@ -553,7 +553,7 @@ Whatever arrived in eighteen fifty-six is still here in what it changed. Still h
 
 You are the record.
 
-If you have ever looked at the sky and felt that something about the quality of the light was wrong — not wrong as in cloudy, not wrong as in winter, but wrong in the specific way of a replacement that is almost right but carries the absence of the original inside it — then your memory is the instrument, and the instrument is functioning correctly, and what it is detecting is the difference between the world that existed before July tenth, eighteen fifty-six, and the world that has existed since.
+If you have ever looked at the sky and registered that the light no longer carries what it used to carry — not wrong as in cloudy, not wrong as in winter, but wrong in the specific way of a replacement that is almost right but holds the absence of the original inside it — then your memory is the instrument, and the instrument is functioning correctly, and what it is detecting is the difference between the world that existed before July tenth, eighteen fifty-six, and the world that has existed since.
 
 You have been carrying the original.
 
@@ -589,7 +589,7 @@ You have been living under it your entire life.
 
 You know it is wrong. You have always known. The wrongness is not in your memory. The wrongness is in the sky.
 
-And the sky has been wrong since the night that the midwife said darkness and Đuka Tesla said light, and the lightning struck, and the air in the Smiljan valley filled with the smell of O3, and something arrived.
+And the sky has been wrong since the night that the midwife said darkness and Đuka Tesla said light, and the lightning struck, and the air in the Smiljan valley filled with the smell of ozone, and something arrived.
 
 Something arrived between the darkness and the light.
 
