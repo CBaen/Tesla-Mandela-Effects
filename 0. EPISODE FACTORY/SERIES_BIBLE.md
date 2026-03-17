@@ -4,7 +4,7 @@
 This file prevents episode cloning. Before writing any episode brief, the writer MUST read this file and ensure the new episode does not duplicate:
 - The same closing type as the previous 3 episodes
 - The same opening type as the previous 2 episodes
-- The same structural shape as the previous 2 episodes
+- The same structural shape as the previous 3 episodes
 - The same Tesla connection type as the previous 2 episodes
 - Any Mandela Effect that was a PRIMARY feature in the last 5 episodes
 - The same fabricated source format used in the previous episode
