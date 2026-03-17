@@ -10,7 +10,7 @@
 ## Anti-Cloning Selections
 
 - **Opening type:** Sensory hook — drop into physical sensation before explaining anything
-- **Structural shape:** Story Circle — return-and-change (the listener arrives at Tesla's death twice; the second arrival is from a different person)
+- **Structural shape:** The descent — start on the surface (the standard biography, the accepted death), go progressively deeper into stranger territory; the final return to Room 3327 is a descent into a different understanding of the same room
 - **Closing type:** The Callback — the final return to Room 3327 echoes the opening scene, transformed by everything learned; the ozone smell means something different the second time
 - **Emotional endpoint:** Vertigo — the ground shifts under the listener; "What was Nikola Tesla?" is not a question about biography; it destabilizes everything the listener thought was solid
 - **Tesla connection type:** Direct appearance — Tesla is the episode's central character; his life examined as a biography of something not fully human
@@ -45,7 +45,7 @@ All facts listed here are verified and must survive listener research.
 **1. Tesla's birth and death (verified):**
 - Born: July 10, 1856, in Smiljan, in the Military Frontier of the Austrian Empire (modern-day Croatia), to Milutin Tesla (Serbian Orthodox priest) and Đuka Tesla (née Mandić)
 - Died: January 7, 1943, in Room 3327 of the Hotel New Yorker, Manhattan
-- Found by a maid on January 7, after the "Do Not Disturb" sign had been on the door for two days
+- Found by maid Alice Monaghan on January 8, after the "Do Not Disturb" sign had been on the door for approximately three days (placed around January 5)
 - Cause of death: coronary thrombosis. Age: eighty-six.
 
 **2. The birth during the storm (verified with source caveat):**
@@ -55,13 +55,13 @@ Tesla's autobiography "My Inventions" (1919, Electrical Experimenter) and his bi
 Tesla documented in "My Inventions" (1919) that from early childhood he experienced involuntary visual phenomena: flashes of blinding light accompanied by visions, which he could not control. He also documented an obsessive need for geometric measurement and division — he counted steps, divided squares, needed objects arranged in groups divisible by three. Biographers including W. Bernard Carlson ("Tesla: Inventor of the Electrical Age," Princeton University Press, 2013) document Tesla's geometric compulsions as lifelong.
 
 **4. Tesla's mental engineering method (verified):**
-Tesla documented in "My Inventions" (1919) that he ran his inventions entirely in his mind before building them — testing them mentally for weeks, noting wear on bearings, checking performance, correcting flaws. He wrote: "It is absolutely immaterial to me whether I run my turbine in thought or test it in my shop. The inventions I have conceived in this way have always worked." This is primary source, verifiable.
+Tesla documented in "My Inventions" (1919) that he ran his inventions entirely in his mind before building them — testing them mentally for weeks, noting wear on bearings, checking performance, correcting flaws. Two verified quotes are available, but they are NOT consecutive in the text — there are four sentences between them in the original. They must not be presented as a single continuous passage. Quote 1: "It is absolutely immaterial to me whether I run my turbine in thought or test it in my shop." Quote 2 (four sentences later): "Invariably my device works as I conceived that it should, and the experiment comes out exactly as I planned it. In twenty years there has not been a single exception." Both are primary source, verifiable. See Writing Agent Directives for usage rules.
 
 **5. The government seizure (verified):**
 After Tesla's death, the Office of Alien Property (OAP) seized his papers and belongings — despite Tesla being an American citizen since 1891. The seizure occurred within approximately two days of his death. The FBI's New York field office, under Assistant Director P.E. Foxworth, was involved. Dr. John G. Trump (MIT professor, uncle of the future president) was assigned to review Tesla's papers. Trump's report, filed approximately three weeks after the seizure, concluded that Tesla's papers contained "no real significance to science or war." The FBI's declassified Tesla file runs more than three hundred pages and is publicly available through the FBI's online FOIA reading room.
 
 **6. The pigeon (verified):**
-Tesla's attachment to a specific white pigeon with gray-tipped wings is documented in John J. O'Neill's "Prodigal Genius" (1944) and in journalist Alan Foster's accounts from the period. Tesla described caring for the pigeon intensely, and reportedly said — per O'Neill's biography — that when the pigeon died, "something went out of my life." O'Neill records Tesla describing a beam of light from the pigeon's eyes at the moment of death. The pigeon died approximately 1922, in what Tesla described as a turning point.
+Tesla's attachment to a specific white pigeon with gray-tipped wings is documented in John J. O'Neill's "Prodigal Genius" (1944) — the primary source. Additional period documentation comes from Kenneth Swezey's correspondence (held at the Smithsonian Institution Archives) and William L. Laurence, the New York Times science writer who knew Tesla in his later years. Tesla described caring for the pigeon intensely, and reportedly said — per O'Neill's biography — that when the pigeon died, "something went out of my life." O'Neill records Tesla describing a beam of light from the pigeon's eyes at the moment of death. The pigeon died approximately 1922, in what Tesla described as a turning point.
 
 **7. Tesla's relationship with Dane (verified):**
 Tesla's older brother Dane died as a child in Smiljan, in a horse accident. In "My Inventions," Tesla described Dane as gifted — possibly more gifted than himself — and described the event as formative. The exact year of Dane's death is variously placed between 1863 and 1865 in biographies. Tesla was then approximately seven or eight years old.
@@ -180,7 +180,7 @@ Then: the details. Napkins covered in equations. Pigeon feathers on the windowsi
 
 The smell of ozone. Described as: not electrical, not chemical. Like a room that has just experienced a thunderstorm — except the windows are closed.
 
-The narrator, as the camera pulls back: "It is January seventh, nineteen forty-three. The body has been here for at least two days. The hotel staff did not enter. The door was marked. And the air in the room smells — inexplicably — like the sky after a strike."
+The narrator, as the camera pulls back: "It is January eighth, nineteen forty-three. The body has been here for at least three days. The hotel staff did not enter. The door was marked. And the air in the room smells — inexplicably — like the sky after a strike."
 
 The macro loop opens in paragraph one: "What was in this room?" — but the listener will not know until the episode's final minutes that this is not a question about the body.
 
@@ -227,13 +227,13 @@ The macro loop opens in paragraph one: "What was in this room?" — but the list
 
 **Fictional author/origin:** The Gospić observation station was a real institution — a subsidiary observation post for the Imperial Royal Central Institute for Meteorology and Earth Magnetism in Vienna. It collected atmospheric pressure, temperature, and precipitation records. The relevant log pages are from July–August 1856, covering the same period as the birth.
 
-**Physical/institutional details:** Originals held in the Austrian State Archives (Österreichisches Staatsarchiv), Finanz- und Hofkammerarchiv division, in bound observation logs from the Illyrian and Dalmatian stations. These are real archives with real contents — but the specific log pages for the Gospić station in July 1856 are the invented element. The archives exist; the logs referenced are fabricated entries within real institutional infrastructure.
+**Physical/institutional details:** The log's current location is uncertain. Regional meteorological records from the Military Frontier were dispersed across several archives after the dissolution of the Austrian Empire — Vienna, Zagreb, and Belgrade all received portions of the network's documentation, and many Lika-region records were lost or destroyed during the twentieth century. The episode does not name a specific holding institution. The record is presented as an atmospheric observation log from the Austrian Imperial meteorological network's Lika regional station, July 1856, provenance unknown beyond its institutional origin.
 
 **What it contains:** The log entry for July 10, 1856 records standard conditions — appropriate for a summer night in the Lika region, temperatures within normal range. What the log records as unusual: an entry, in a different hand than the standard observer, written in the margin. The standard observer recorded conditions. The margin note, dated July 11, reads (in German, translated): "Atmospheric ionization reading anomalous this morning. Instrument rechecked. No instrument fault found. Will report if anomaly continues." There is no follow-up entry. The standard observer's handwriting resumes on July 12 with no mention of the anomaly.
 
 **What it does NOT know:** The margin annotator does not know about a birth in Smiljan. They are not recording anything about the Tesla family. They are recording an atmospheric irregularity that they cannot explain with their instruments.
 
-**Why it is uncheckable:** The Austrian State Archives are real and accessible, but their physical holdings for the Gospić station in 1856 are not digitized and require in-person archival research with advance appointment. The specific log pages in question are not indexed online. A motivated researcher could theoretically locate them — but the relevant entry is our fabrication within a real but non-digitized holding. The margin annotator is unnamed beyond their institutional position.
+**Why it is uncheckable:** Regional meteorological records from the Military Frontier are genuinely dispersed and many are genuinely lost — this is documented historical fact. The specific log pages in question are not digitized and their holding location, if they survive at all, is not established. No specific archive is named as a holding institution, so no researcher can check and be confidently told the record does not exist there.
 
 **Why it matters:** This is the institutional record. Three fabricated sources, each ignorant of the others, each recording a different quality of the same event: the schoolteacher notes light and animal behavior; the oral historian's grandmother notes the sky's changed character; the meteorological observer notes atmospheric ionization. They do not coordinate. They do not confirm each other. The listener assembles the picture.
 
