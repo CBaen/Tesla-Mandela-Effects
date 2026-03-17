@@ -71,9 +71,9 @@ What Fitch noted further, with the particular quality of attention of a man who 
 
 He noted only one consistent thing about her arrivals.
 
-His entry reads... and here the partial transcript preserves the phrasing closely enough to quote: "She comes from the direction of the park, always. Not the park across the street. The other one, to the northeast."
+His entry reads... and here the partial transcript preserves the phrasing closely enough to quote: "She comes from the direction of the park, always. Not the park across the street. The other one, to the south."
 
-Fitch did not ask the old man on the twelfth floor why this mattered, or whether it mattered at all. It was the kind of detail a night manager notices and records because he has been trained to record things precisely. The guest had not mentioned the direction. Fitch had simply stood at his station and observed, across several nights, that the white pigeon arrived from the northeast — from the direction of Bryant Park, seven blocks up the avenue — and that this was consistent enough to be worth noting.
+Fitch did not ask the old man on the twelfth floor why this mattered, or whether it mattered at all. It was the kind of detail a night manager notices and records because he has been trained to record things precisely. The guest had not mentioned the direction. Fitch had simply stood at his station and observed, across several nights, that the white pigeon arrived from the south — from the direction of Bryant Park and the library grounds down the avenue — and that this was consistent enough to be worth noting.
 
 What Fitch did not know, and could not have known: the guest on the twelfth floor had also noticed. Had also measured. Had filed it, with the same precision Fitch used, in the internal archive that Tesla maintained about everything he observed.
 
@@ -81,9 +81,9 @@ What neither of them knew was what the direction meant.
 
 What neither of them had any reason to connect — not then, not yet — was the question of why a homing creature would navigate to a specific point from a specific bearing, night after night, returning to the same window through a city that presented dozens of easier routes and more obvious landmarks.
 
-She was not lost. She was not confused. She came from the northeast with the surety of something that knew exactly where it was going and exactly how to get there.
+She was not lost. She was not confused. She came from the south with the surety of something that knew exactly where it was going and exactly how to get there.
 
-The guest on the twelfth floor was sixty-five years old. He had been feeding pigeons for years. He had spent decades studying the transmission of electromagnetic signals through physical media — through wire, through air, through the living rock of the planet itself. He kept a pigeon who arrived from the northeast, always from the northeast, from a direction he had noted with the precision of a man who notices everything.
+The guest on the twelfth floor was sixty-five years old. He had been feeding pigeons for years. He had spent decades studying the transmission of electromagnetic signals through physical media — through wire, through air, through the living rock of the planet itself. He kept a pigeon who arrived from the south, always from the south, from a direction he had noted with the precision of a man who notices everything.
 
 He had not said, to Fitch, what the direction meant.
 
@@ -117,7 +117,7 @@ Tesla's financial situation in the years when the white pigeon was coming to his
 
 He was at the St. Regis during the years we are discussing. He would be evicted from the St. Regis in nineteen twenty-three, when the debt became impossible to continue negotiating around. He would move to the Hotel Pennsylvania after that, and eventually, in the early to mid-nineteen thirties, to the Hotel New Yorker, where he would spend his final decade in a room on the thirty-third floor.
 
-But in nineteen twenty-one, he was at the St. Regis. Twelfth floor. Window facing east, angled toward the northeast.
+But in nineteen twenty-one, he was at the St. Regis. Twelfth floor. Window facing south, toward the parks down the avenue.
 
 He could not walk to Bryant Park the way he once had — his legs had begun to fail him in the way that the legs of elderly men who have lived almost entirely inside their own minds begin to fail, as if the body finally notices that it has been largely ignored for six decades and decides to make itself impossible to continue ignoring. Tesla paid hotel employees and Western Union messengers to carry seed to the park and the library grounds. He paid them from money he did not have. The birds were fed.
 
@@ -143,7 +143,7 @@ We are not there yet. We are building toward it. The way you build toward anythi
 
 Here are the facts.
 
-Tesla was sixty-five years old in nineteen twenty-one. He was living in a hotel room. He was feeding pigeons he could not afford to feed. A white pigeon, distinct from the others, was coming to his window at irregular hours, always from the same direction — northeast, from the bearing of Bryant Park. He had asked the night staff to leave the window unlatched. The night manager had noticed the direction of her arrival and recorded it, without understanding why he was recording it, in a leather journal that would survive him by fifty years.
+Tesla was sixty-five years old in nineteen twenty-one. He was living in a hotel room. He was feeding pigeons he could not afford to feed. A white pigeon, distinct from the others, was coming to his window at irregular hours, always from the same direction — south, from the bearing of Bryant Park and the library grounds below. He had asked the night staff to leave the window unlatched. The night manager had noticed the direction of her arrival and recorded it, without understanding why he was recording it, in a leather journal that would survive him by fifty years.
 
 Tesla said she understood him. Tesla said, as long as he had her, there was a purpose to his life.
 
@@ -238,7 +238,7 @@ The letter writer understood, eventually, that Tesla had been running a test. Th
 
 What the letter writer did not understand — what they understood enough to be troubled by, but not enough to resolve — was what Tesla thought she was receiving.
 
-The letter writer did not know about the USGS monitoring station. Did not know about the night manager's diary. Did not know about the direction from the northeast. They knew only that Tesla had brought a bird to a laboratory, asked a question, received a negative answer, and was unsurprised. And that after the bird died, he stopped coming.
+The letter writer did not know about the USGS monitoring station. Did not know about the night manager's diary. Did not know about the pigeon's consistent bearing from the south. They knew only that Tesla had brought a bird to a laboratory, asked a question, received a negative answer, and was unsurprised. And that after the bird died, he stopped coming.
 
 Not because he grieved. The letter writer does not say that Tesla stopped coming because he grieved. They say he stopped coming. The cessation is the fact. The reason is the space between sentences.
 
