@@ -94,7 +94,7 @@ Not this night.
 
 The livestock had moved into the open. They were standing in the open fields, all of them, and they were facing the same direction. Not east, not toward town, not toward any shelter. Blažić does not record the direction because to him the direction was not the point — the orientation was the point. Every animal in those open fields, facing the same way, as if they were being addressed by something that had yet to arrive or had already arrived and they were simply acknowledging.
 
-He recorded this at dawn, walking out to assess the valley. He wrote it with the sentence structure of a man writing quickly, before the mind's need for explanation could smooth the image into something more comfortable. He wrote it because the image had seated itself in him and he could not move past it without committing it to paper.
+He recorded this at dawn, walking out to assess the valley. He wrote it with the sentence structure of a man writing quickly, before the mind's need for explanation could smooth the image into comfort. He wrote it because the image had seated itself in him and he could not move past it without committing it to paper.
 
 Then the well water. He drew from the well the following morning and the water had a taste. Not a bad taste. Not a taste of anything wrong. A taste where there usually was none — as if the water had acquired something overnight, or shed something that had been buffering it, and what remained was the water itself, unmediated, with its own character now apparent. He describes it as sharper. More present.
 
@@ -113,11 +113,11 @@ He moved to the next day's entry. Road conditions.
 
 There is a second account. It arrived not through paper but through three generations of voice.
 
-In nineteen seventy-four, a graduate student from the University of Zagreb's Faculty of Humanities and Social Sciences traveled through the Lika region collecting fieldwork interviews on folk memory. She recorded on cassette. She filed transcripts. She never completed her thesis. The tape of the interview in question is not in the digitized portion of the faculty archive, if it was ever digitized.
+In nineteen seventy-four, a graduate student from the University of Zagreb traveled through the Lika region collecting fieldwork interviews on folk memory. She recorded on cassette. She never completed her thesis. The tape of the interview in question is not in the digitized portion of the faculty archive, if it was ever digitized.
 
 The woman she interviewed is identified in the transcript only as Subject K. She was approximately eighty years old in nineteen seventy-four. Third-generation memory. What she carried was not observation but inheritance — the kind of memory that survives because one person decided it was worth the act of passing on, and then another person made the same decision.
 
-Her grandmother had been a young woman from Gospić in the summer of eighteen fifty-six. What the grandmother told her, and what she told the graduate student on a cassette tape whose location is now unknown, was this:
+Her grandmother had been a young woman from Gospić in the summer of eighteen fifty-six. What the grandmother told her, and what she passed to the graduate student on a cassette whose location is now unknown, was this:
 
 The morning after the birth night in Smiljan, the sky looked clean in a way it hadn't been before.
 
