@@ -254,11 +254,11 @@ The City of Chicago Bureau of Public Works maintained forms for contractor incid
 
 Two workers injured on March seventh, eighteen ninety-four.
 
-The incident report describes the nature of the incident: the crew was working a wall section in the Transportation Building annex, Grid fourteen. The wall section proved resistant to the standard demolition method. The crew applied additional force. The stone gave suddenly. Two workers were struck by displaced sections.
+The incident report describes the nature of the incident: the crew was working a wall section in the Transportation Building annex, Grid fourteen. The wall section proved resistant to the standard demolition method. The crew applied additional force. The material gave suddenly. Two workers were struck by displaced sections.
 
-In the field labeled Material Conditions Contributing to Incident, the superintendent wrote, in his own hand: Wall section in Grid 14 unexpectedly resistant. Construction not consistent with expected staff plaster. Crew applied additional force. Stone gave suddenly. Two workers struck by displaced sections.
+In the field labeled Material Conditions Contributing to Incident, the superintendent wrote, in his own hand: Wall section in Grid 14 unexpectedly resistant. Material not consistent with expected staff construction. Crew applied additional force. Material gave suddenly. Two workers struck by displaced sections.
 
-Not consistent with expected staff plaster.
+Material not consistent with expected staff construction.
 
 The superintendent who wrote this didn't know Elias Coburn. He hadn't read the letter to Mr. H. He hadn't stood with his bare hand on the south colonnade wall and felt what Coburn felt. He was filling out a mandatory form after two members of his crew had been hurt, and the field that asked him to describe surface conditions received an accurate answer.
 
