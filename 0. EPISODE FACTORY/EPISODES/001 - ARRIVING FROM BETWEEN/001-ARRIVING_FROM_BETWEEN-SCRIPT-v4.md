@@ -113,7 +113,7 @@ There is a second account. It arrived not through paper but through three genera
 
 In nineteen seventy-four, a graduate student from the University of Zagreb traveled through the Lika region collecting fieldwork interviews on folk memory. She recorded on cassette. She never completed her thesis. The tape of the interview in question is not in the digitized portion of the faculty archive, if it was ever digitized.
 
-The woman she interviewed is identified in the transcript only as Katarina She was approximately eighty years old in nineteen seventy-four. Third-generation memory. What she carried was not observation but inheritance — the kind of memory that survives because one person decided it was worth the act of passing on, and then another person made the same decision.
+The woman she interviewed was named Katarina. She was approximately eighty years old in nineteen seventy-four. Third-generation memory. What she carried was not observation but inheritance — the kind of memory that survives because one person decided it was worth the act of passing on, and then another person made the same decision.
 
 Her grandmother had been a young woman from Gospić in the summer of eighteen fifty-six. What the grandmother told her, and what she passed to the graduate student on a cassette whose location is now unknown, was this:
 
