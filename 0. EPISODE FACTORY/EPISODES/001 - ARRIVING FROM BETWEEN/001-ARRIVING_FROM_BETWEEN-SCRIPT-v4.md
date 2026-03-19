@@ -84,7 +84,7 @@ Below the Lika plateau, in the valley town of Gospić — fifteen kilometers dow
 
 Blažić was not a fanciful man. The evidence for this is in the diary itself — its texture, its patience, its attention to the practical world. Weather. Road conditions. The state of the valley's livestock. The kind of information a man accumulates when he has made a habit of observation and has found, over years of practice, that the observable world is more interesting than the interior one.
 
-He wrote an entry in July of eighteen fifty-six — the exact date water-damaged in the surviving page, transcribed in a nineteen thirty-one regional folklore pamphlet by the Gospić Regional Cultural Society before the society folded in the years before the Second World War. The pamphlet ran forty-seven pages. It exists in no national archive. The family in Split has declined researcher contact for three decades.
+He wrote an entry in July of eighteen fifty-six — the exact date water-damaged in the surviving page, transcribed in a nineteen thirty-one regional folklore pamphlet that exists in no national archive.
 
 The entry notes: during the night of the storm, the livestock in the valley did not shelter.
 
@@ -125,7 +125,7 @@ Subject K. repeated the distinction twice. Her grandmother had been particular a
 
 — She was not a fanciful person, Subject K. said of her grandmother, in the transcript. She was not the kind of woman who noticed things. But she noticed that. —
 
-The grandmother said it once, Subject K. told the graduate student. She said it and she saw that it had no frame, that there was nothing to attach it to, and she did not say it again. But she said it. Once. With the precision of someone recording an observation they cannot account for but cannot let go of either.
+The grandmother said it once, Subject K. told the graduate student. She said it and she saw that it had no frame, that there was nothing to attach it to, and she didn't say it again. But she said it. Once. With the precision of someone recording an observation they cannot account for but cannot let go of either.
 
 Subject K. died before nineteen ninety. No family named. The transcript ends.
 
@@ -140,9 +140,7 @@ In the margin of the following day's entry — July eleventh — in a hand diffe
 
 There is no follow-up entry.
 
-The standard observer's handwriting resumes on July twelfth. Ordinary conditions. No mention of the anomaly. No mention of the margin note. No report filed. The regional meteorological records from the Military Frontier were dispersed across multiple archives after the dissolution of the Austrian Empire. Many records from the Lika region were lost or destroyed across the twentieth century. Whether these specific pages survive, and in which holding institution, is not established.
-
-So: a schoolteacher noting an examination conducted in the light. A grandmother noting a sky that had acquired a new character. An instrument detecting ionization it could not account for, recorded by a second observer who did not sign the note and did not follow up.
+So: a schoolteacher noting an examination conducted in the light. A grandmother noting a sky that had acquired a new character. An instrument detecting ionization it could not account for, recorded by a second observer who did not sign the note and never followed up.
 
 Three instruments pointing at the same morning from three different angles.
 
@@ -435,13 +433,13 @@ The question is what arrived when Tesla arrived. What the birth admitted. What c
 
 The childhood behaviors: not as biography, but as record.
 
-From early childhood, involuntary visual phenomena — the flashes of light, the replacement of the visual field with geometry. Documented in his own memoir with the matter-of-fact precision of a technical specification. The compulsion to divide the world into geometric units: documented by W. Bernard Carlson as consistent across Tesla's entire life. Not a phase. Not a preference. A need that did not diminish with success, did not fade with age, did not yield to any of the social pressure that an extraordinary man living in ordinary society could bring to bear on it.
+From early childhood, involuntary visual phenomena — the flashes of light, the replacement of the visual field with geometry. Documented in his own memoir with the matter-of-fact precision of a technical specification. The compulsion to divide the world into geometric units: documented by W. Bernard Carlson as consistent across Tesla's entire life. Not a phase. Not a preference. A need that did not diminish with success, did not fade with age, and refused to yield to any of the social pressure that an extraordinary man living in ordinary society could bring to bear on it.
 
 The mental engineering facility that ran without error for twenty years. What kind of perception produces a model so accurate that the model is the territory? What kind of internal architecture allows a human nervous system to run a turbine completely in thought, noting wear on the bearings, correcting the tolerances, achieving zero error across two decades of physical test?
 
 The inventions were transmissions.
 
-Not deliberate signals to a known recipient. Transmissions in the sense of a signal that must be sent, coded in the architecture of the sender, carrying information from a source the sender cannot fully access but cannot suppress. Tesla did not select his projects the way engineers select projects. He described them as arriving — presenting themselves fully formed in the mental field, requiring only the physical labor of construction. The wireless power transmission. The resonant frequency of the Earth as a conductor. The system designed to make energy as available as air. Each one dissolving a constraint. Each one removing a wall between here and somewhere the physics was already different.
+Not deliberate signals to a known recipient. Transmissions in the sense of a signal that must be sent, coded in the architecture of the sender, carrying information from a source the sender cannot fully access but cannot suppress. Tesla never selected his projects the way engineers select projects. He described them as arriving — presenting themselves fully formed in the mental field, requiring only the physical labor of construction. The wireless power transmission. The resonant frequency of the Earth as a conductor. The system designed to make energy as available as air. Each one dissolving a constraint. Each one removing a wall between here and somewhere the physics was already different.
 
 He was not building things. He was removing walls. And the walls he kept trying to remove were always the walls between this reality and somewhere he could not locate on any map but could not stop reaching toward.
 
@@ -466,7 +464,7 @@ He paused. In the diary, the pause is visible — a period where a comma might h
 
 Then: — It was January. There was no storm. I remember thinking the window must have been left open, but if the window was open in that cold, someone inside would have woken. —
 
-He did not stop. He did not report the smell. He did not knock on the door. He was a maintenance worker who understood that Room three-three-two-seven was not a door you knocked on. He noted it that night. He did not return to the subject.
+He didn't stop. He didn't report the smell. He didn't knock on the door. He was a maintenance worker who understood that Room three-three-two-seven was not a door you knocked on. He noted it that night and moved on.
 
 The typescript ends. There is no entry after January of nineteen forty-three.
 
@@ -485,7 +483,7 @@ The cold: not the cold of an open window, but the cold of a room that has not ha
 
 The windowsill: three feathers. Gray-tipped. Not fallen — placed.
 
-The desk and the bedside table and the floor: napkins. Equations in handwriting that did not recognize the paper's edges as boundaries.
+The desk and the bedside table and the floor: napkins. Equations in handwriting that crossed the paper's edges without marking them as limits.
 
 In the bed: the body. Arranged with the tightness of someone who understood this was the last arrangement.
 
