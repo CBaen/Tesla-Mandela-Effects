@@ -1,0 +1,433 @@
+FACT-CHECK REQUEST — Episode 001 "Arriving From Between" (v4 Script)
+Tesla Mandela Effects Audio Series
+
+---
+
+INSTRUCTIONS FOR THE PERSON RUNNING THIS CHECK
+
+You have been given this document to fact-check a podcast script about Nikola Tesla. The script is docufiction — it deliberately blends real history with fabricated sources. Your job is ONLY to verify the real/historical claims listed below. Do NOT check the fabricated sources (Zdravko Blažić's diary, Subject K., the meteorological margin note, Walter Simmons's diary — these are intentional fiction and should not be checked).
+
+For each numbered item below:
+1. Determine whether the claim as stated in the script is accurate.
+2. If inaccurate, state the correct fact and the correct source.
+3. If uncertain or disputed across sources, flag the disagreement and note which source is most authoritative.
+4. Note any claim that is accurate but subtly misleading in the way it is phrased.
+
+Priority key:
+- CRITICAL = if wrong, could damage the show's credibility or constitute a factual error listeners will catch
+- VERIFY = should be confirmed, lower risk if slightly off
+
+Primary sources to prefer (in order of authority):
+1. Tesla's own memoir "My Inventions" (published in Electrical Experimenter, 1919)
+2. John J. O'Neill's biography "Prodigal Genius: The Life of Nikola Tesla" (1944)
+3. W. Bernard Carlson's biography "Tesla: Inventor of the Electrical Age" (Princeton University Press, 2013)
+4. FBI's declassified Tesla file (available via FBI online FOIA reading room)
+5. Other peer-reviewed biographical sources
+
+When you are done, format your response as: claim number, verdict (ACCURATE / INACCURATE / DISPUTED / MISLEADING), correction or note if needed.
+
+---
+
+SECTION A — DEATH SCENE (Hotel New Yorker)
+
+1.
+Claim: Tesla's body was found in Room 3327, Hotel New Yorker, on the 33rd floor.
+Source cited in script: None (stated as established fact).
+What to verify: Was the room number 3327? Was it on the 33rd floor? Cross-check O'Neill, Carlson, and any hotel record citations in biographies.
+Priority: CRITICAL
+
+2.
+Claim: The "Do Not Disturb" sign had been on the door since approximately January 5th — three days before the body was discovered.
+Source cited in script: "guest management record" (implied institutional record).
+What to verify: Was the sign on the door for approximately three days before discovery? Confirm the timeline — when was Tesla last seen alive, and when was he found?
+Priority: CRITICAL
+
+3.
+Claim: Tesla's body was found on the morning of January 8, 1943.
+Source cited in script: Stated as established fact.
+What to verify: Is January 8, 1943 the correct date of discovery? (Note: Tesla died January 7 or 8 — biographies sometimes differ on whether he was found on the 7th or 8th.)
+Priority: CRITICAL
+
+4.
+Claim: Tesla had not requested food, laundry, or any contact for approximately three days, and this was "known to be a preference. Longstanding. Staff had been told."
+Source cited in script: None.
+What to verify: Is it documented that Hotel New Yorker staff had standing instructions not to disturb Tesla? Is his preference for isolation and minimal contact with staff documented in the biographical record?
+Priority: VERIFY
+
+---
+
+SECTION B — BIRTH (Smiljan, July 10, 1856)
+
+5.
+Claim: Nikola Tesla was born on July 10, 1856, in the village of Smiljan.
+Source cited in script: Stated as established fact.
+What to verify: Confirm birth date (July 10, 1856) and birthplace (Smiljan). Confirm Smiljan was in the Lika region of the Military Frontier of the Austrian Empire at that time.
+Priority: CRITICAL
+
+6.
+Claim: Tesla was born at midnight during a violent lightning storm.
+Source cited in script: "the family would say later, passing this detail down through the chain of oral tradition that became the documented account."
+What to verify: Is the midnight birth during a lightning storm documented in Tesla's memoir or O'Neill's biography? Is the "child of darkness / child of light" exchange between the midwife and Duka documented?
+Priority: CRITICAL
+
+7.
+Claim: The midwife said "He is a child of darkness, this child born in a storm" and Duka replied "No. He will be a child of light."
+Source cited in script: Oral tradition / documented account.
+What to verify: Is this exchange recorded in Tesla's memoir "My Inventions" or O'Neill's biography? Are these the exact words used, or is this a paraphrase? Who said what — the script initially attributes both readings, then corrects itself saying the midwife spoke first.
+Priority: CRITICAL
+
+8.
+Claim: Tesla's mother Duka Tesla was née Mandic.
+Source cited in script: None.
+What to verify: Is Duka Tesla's maiden name Mandic?
+Priority: VERIFY
+
+9.
+Claim: Duka Tesla "had a memory like an inventory and hands that had built her own tools" and "had memorized Serbian epic poetry in lengths that would have exhausted scholars."
+Source cited in script: None explicitly.
+What to verify: Is Duka's memorization of Serbian epic poetry documented in Tesla's memoir or O'Neill? Is the description of her building her own tools sourced from Tesla's own writings?
+Priority: VERIFY
+
+10.
+Claim: Tesla's father Milutin Tesla was a Serbian Orthodox priest who spoke four languages and could "parse the Greek of the apostles and the Latin of the church fathers."
+Source cited in script: None explicitly.
+What to verify: Was Milutin Tesla a Serbian Orthodox priest? Did he speak four languages? Is his knowledge of Greek and Latin documented?
+Priority: VERIFY
+
+---
+
+SECTION C — CHILDHOOD (Smiljan/Gospic)
+
+11.
+Claim: The cat's name — "in biographical tradition, though not in Tesla's own autobiography" — was Macak (Serbian word for tomcat).
+Source cited in script: "biographical tradition" (not Tesla's memoir).
+What to verify: Is "Macak" the name given to the cat in biographical tradition? Is it correct that Tesla's memoir does NOT name the cat but gives only "the animal and the event"? Where does the name Macak originate?
+Priority: VERIFY
+
+12.
+Claim: The Macak/static electricity episode occurred when Tesla was three years old.
+Source cited in script: Stated as established fact / Tesla's memoir.
+What to verify: Does Tesla's memoir or O'Neill place this event at age three? Confirm the age.
+Priority: VERIFY
+
+13.
+Claim: The geometric vision episode (squares replacing the visual field) occurred at age six during dinner.
+Source cited in script: Drawn from Tesla's memoir.
+What to verify: Does Tesla's memoir describe involuntary visual phenomena beginning in early childhood? Does he describe geometric patterns/squares specifically? Does he describe them as replacing the visual field? Was the first onset around age six?
+Priority: CRITICAL
+
+14.
+Claim: Tesla documented in his memoir "flashes of blinding light, involuntary images that replaced the visual field."
+Source cited in script: Tesla's memoir "My Inventions," 1919.
+What to verify: Does Tesla's memoir actually describe these phenomena in these terms? What exact language does he use?
+Priority: CRITICAL
+
+15.
+Claim: Tesla had a "lifelong geometric compulsion: counting steps, dividing objects into groups of three, calculating the cubic volume of food before eating it, the need to arrange the world in patterns divisible by three."
+Source cited in script: W. Bernard Carlson, "Tesla: Inventor of the Electrical Age," Princeton University Press, 2013.
+What to verify: Does Carlson document this compulsion? Are the specific behaviors (counting steps, dividing by three, calculating cubic volume of food) sourced from Carlson or elsewhere? Is "divisible by three" accurate, or was it a different number? Confirm the publisher and year of Carlson's book.
+Priority: CRITICAL
+
+16.
+Claim: Dane Tesla died when Nikola was "approximately seven years old — the biographies place it variously between 1863 and 1865, the exact year disagreed upon across sources."
+Source cited in script: "the biographies" (unspecified).
+What to verify: What year did Dane Tesla die? What do the major biographies (O'Neill, Carlson) say? Is there genuine disagreement about the year?
+Priority: VERIFY
+
+17.
+Claim: Dane Tesla died in a horse accident in Smiljan.
+Source cited in script: None explicitly.
+What to verify: How did Dane Tesla die? Was it a horse accident? In Smiljan? What does Tesla's memoir say about it?
+Priority: CRITICAL
+
+18.
+Claim: Tesla's memoir gives only: "I witnessed the tragic scene" regarding Dane's death — that single sentence, with no physical details.
+Source cited in script: Tesla's memoir "My Inventions."
+What to verify: What exactly does Tesla write about Dane's death in "My Inventions"? Is "I witnessed the tragic scene" the exact quote, or a paraphrase? How much detail does he actually provide?
+Priority: CRITICAL
+
+19.
+Claim: After Dane's death, the frequency of Tesla's visual phenomena intensified. "The flashes of blinding light, the involuntary geometric replacement of the visual field... What changed after Dane was their frequency."
+Source cited in script: Tesla's memoir (implied).
+What to verify: Does Tesla's memoir or O'Neill document that the visual phenomena worsened after Dane's death? Or is this a narrative inference the script is making without sourcing?
+Priority: CRITICAL
+
+20.
+Claim: Tesla wrote about Dane with lasting grief, describing Dane as "the celebrated child. The exceptional one. The one toward whom the household's pride moved naturally."
+Source cited in script: Tesla's memoir.
+What to verify: What does Tesla actually write about Dane in "My Inventions"? Is there language about Dane being the exceptional/celebrated child? Does Tesla's memoir express lasting grief?
+Priority: VERIFY
+
+---
+
+SECTION D — PROFESSIONAL LIFE AND QUOTES
+
+21.
+Claim: Tesla arrived at the Port of New York on June 6, 1884, with four cents in his pocket and a letter of introduction to Thomas Edison.
+Source cited in script: Stated as established fact.
+What to verify: Was the arrival date June 6, 1884? Was it "four cents in his pocket"? Was the letter of introduction to Edison specifically? (Some accounts say he carried a letter from Charles Batchelor.)
+Priority: CRITICAL
+
+22.
+Claim: Tesla published "My Inventions" in the Electrical Experimenter in 1919.
+Source cited in script: Stated explicitly.
+What to verify: Is the publication venue "Electrical Experimenter" correct? Is 1919 correct?
+Priority: CRITICAL
+
+23.
+DIRECT QUOTE: "...it is absolutely immaterial to me whether I run my turbine in thought or test it in my shop."
+Source cited in script: Tesla's memoir "My Inventions," Electrical Experimenter, 1919.
+What to verify: Is this an exact verbatim quote from "My Inventions"? No paraphrasing, no word substitutions. Must be verified word-for-word against the source text.
+Priority: CRITICAL — Quote Rule (legal risk if wrong)
+
+24.
+DIRECT QUOTE: "...invariably my device works as I conceived that it should, and the experiment comes out exactly as I planned it. In twenty years there has not been a single exception."
+Source cited in script: Tesla's memoir "My Inventions," four sentences after the turbine quote.
+What to verify: Is this an exact verbatim quote from "My Inventions"? Confirm it appears approximately four sentences after the turbine quote. Confirm the "twenty years" figure and "not a single exception" phrasing.
+Priority: CRITICAL — Quote Rule (legal risk if wrong)
+
+25.
+Claim: Tesla's mental engineering "ran without error for twenty years of professional work."
+Source cited in script: Derived from Tesla's memoir quote above.
+What to verify: Flows from Item 24. Flag if the memoir says something different about the timeframe.
+Priority: VERIFY (depends on Item 24)
+
+26.
+Claim: "Tesla won the War of Currents. His alternating current system now powers every home in the industrialized world."
+Source cited in script: Stated as established fact.
+What to verify: Is "War of Currents" the standard historical term? Was the outcome clearly Tesla/Westinghouse's win? Is AC now universal?
+Priority: VERIFY
+
+27.
+Claim: Tesla gave George Westinghouse his Niagara patents "for far less than their value because Westinghouse told him the company could not survive otherwise."
+Source cited in script: Stated as established fact.
+What to verify: Did Tesla tear up or relinquish his royalty contract with Westinghouse? Is the account that Westinghouse told Tesla the company was in danger accurate? What does Carlson or O'Neill say about this transaction?
+Priority: CRITICAL
+
+28.
+Claim: Wardenclyffe was "a tower on Long Island, designed to transmit electrical power wirelessly across the planet... through the Earth itself."
+Source cited in script: Stated as established fact.
+What to verify: Was Wardenclyffe on Long Island? Was its stated purpose wireless power transmission globally? Did Tesla's stated design involve the Earth as a conductor?
+Priority: VERIFY
+
+29.
+Claim: J.P. Morgan was Tesla's primary investor in Wardenclyffe and pulled the funding when he understood it would make energy free.
+Source cited in script: Stated as established fact.
+What to verify: Was Morgan the primary Wardenclyffe investor? Did Morgan pull funding? Is the reason stated (free energy with no billing mechanism) historically documented, or is it one interpretation? What does Carlson say?
+Priority: CRITICAL
+
+30.
+Claim: "Wardenclyffe was demolished for scrap during the First World War."
+Source cited in script: Stated as established fact.
+What to verify: When was Wardenclyffe demolished? Was it during WWI? Was it demolished for scrap metal? What year specifically?
+Priority: VERIFY
+
+31.
+Claim: "The Hotel New Yorker offered him a room in exchange for the distinction of having Nikola Tesla as a resident. Some accounts say the rate was nominal. Some say it was free."
+Source cited in script: "some accounts" (vague).
+What to verify: Did the Hotel New Yorker provide Tesla a room at no cost or reduced cost? What do O'Neill and Carlson say about the arrangement?
+Priority: VERIFY
+
+32.
+Claim: Tesla was "seventy-seven years old" when described as living in the Hotel New Yorker era (implied by narrative context).
+Source cited in script: Implied timeline.
+What to verify: When did Tesla move to the Hotel New Yorker? He was born 1856 and died 1943. If he moved around 1933, he would have been ~77. Verify the move date.
+Priority: VERIFY
+
+33.
+Claim: Tesla became an American citizen in 1891.
+Source cited in script: "He had been an American citizen since eighteen ninety-one. Fifty-two years."
+What to verify: Is 1891 the correct year Tesla was naturalized as a US citizen?
+Priority: CRITICAL
+
+34.
+Claim: Tesla "was fluent in eight languages."
+Source cited in script: Stated as established fact.
+What to verify: Is eight the correct number of languages Tesla spoke? Which languages? What do the biographies say?
+Priority: VERIFY
+
+---
+
+SECTION E — THE PIGEON
+
+35.
+DIRECT QUOTE: O'Neill records Tesla describing the pigeon as "a beautiful bird, pure white with light grey tips on her wings."
+Source cited in script: O'Neill's biography.
+What to verify: Does O'Neill's biography contain this exact description in Tesla's words? Verify word-for-word.
+Priority: CRITICAL — Quote Rule
+
+36.
+Claim: Tesla had the pigeon injured and brought her inside. He fed her daily and arranged his schedule around her visits.
+Source cited in script: O'Neill's biography (implied).
+What to verify: Is it documented in O'Neill that Tesla brought the pigeon inside when she was injured? Did he arrange his schedule around her visits?
+Priority: VERIFY
+
+37.
+Claim: The pigeon died "around 1922" and Tesla was "living then at the Hotel St. Regis."
+Source cited in script: "Biographical accounts place it around nineteen twenty-two."
+What to verify: When did the pigeon die? What hotel was Tesla living in at the time? Was it the St. Regis? (NOTE: A previous version of this script incorrectly placed Tesla at the Hotel New Yorker in 1922 — the New Yorker opened in 1930. The current script says St. Regis. Verify this correction is accurate.)
+Priority: CRITICAL
+
+38.
+DIRECT QUOTE: "—Yes, it was a real light, a powerful, dazzling, blinding light, a light more intense than I had ever produced by the most powerful lamps in my laboratory.—"
+Source cited in script: O'Neill's biography.
+What to verify: Does O'Neill's biography contain this exact quote attributed to Tesla? Verify word-for-word.
+Priority: CRITICAL — Quote Rule (legal risk if wrong)
+
+39.
+DIRECT QUOTE: "—I loved that pigeon as a man loves a woman, and she loved me.—"
+Source cited in script: O'Neill's biography.
+What to verify: Does O'Neill's biography contain this exact quote? Verify word-for-word.
+Priority: CRITICAL — Quote Rule (legal risk if wrong)
+
+40.
+DIRECT QUOTE: "—When that pigeon died, something went out of my life.—"
+Source cited in script: O'Neill's biography.
+What to verify: Does O'Neill's biography contain this exact quote? Verify word-for-word.
+Priority: CRITICAL — Quote Rule (legal risk if wrong)
+
+41.
+DIRECT QUOTE: "—Up to that time I knew with a certainty that I would complete my work... but when that something went out of my life I knew my life's work was finished.—"
+Source cited in script: O'Neill's biography (described as appearing separately from Item 40).
+What to verify: Does O'Neill's biography contain this exact quote? Is the ellipsis accurate, or does it omit material that changes the meaning? Are Items 40 and 41 near each other or separated in O'Neill's text? Verify word-for-word.
+Priority: CRITICAL — Quote Rule (legal risk if wrong)
+
+---
+
+SECTION F — GOVERNMENT SEIZURE
+
+42.
+Claim: "The Office of Alien Property Custodian — established under the Trading with the Enemy Act to manage assets seized from foreign nationals whose holdings were considered potentially dangerous in wartime."
+Source cited in script: Stated as established fact.
+What to verify: Is this an accurate description of the OAPC's mandate? Was it established under the Trading with the Enemy Act? Was Tesla's property seized by the OAPC?
+Priority: VERIFY
+
+43.
+Claim: Tesla was a naturalized American citizen since 1891, therefore the OAPC statute "did not fit."
+Source cited in script: Stated as established fact.
+What to verify: Is it accurate that the OAPC had no legal jurisdiction over a naturalized American citizen? Was the OAPC seizure of Tesla's papers legally anomalous?
+Priority: CRITICAL
+
+44.
+Claim: "Within approximately two days of Tesla's death, the OAPC had taken custody of his papers and belongings."
+Source cited in script: Stated as established fact.
+What to verify: How quickly did the OAPC take custody? Was it within two days?
+Priority: VERIFY
+
+45.
+Claim: "FBI Assistant Director P.E. Foxworth — head of the Special Intelligence Service — was involved from early in the day of January seventh. Before the body was publicly reported. Before Alice Monaghan had used her passkey."
+Source cited in script: Stated as established fact (FBI declassified file implied).
+What to verify: Was P.E. Foxworth an FBI Assistant Director? Was he head of the Special Intelligence Service? Is it documented that he was involved before the body was officially discovered? What does the declassified FBI file say about the timeline?
+Priority: CRITICAL
+
+46.
+Claim: The crates used to remove Tesla's belongings were "pre-labeled" — prepared before the death occurred.
+Source cited in script: Stated as established fact.
+What to verify: Is the "pre-labeled crates" detail documented in the historical record? Where does this claim originate? What is the source? (This is a significant claim — if not historically sourced, it could be a fabrication presented as fact.)
+Priority: CRITICAL
+
+47.
+Claim: "Twenty trunks" of material were seized.
+Source cited in script: Stated as established fact.
+What to verify: Is twenty trunks the documented number? What does the FBI file or OAPC records say?
+Priority: VERIFY
+
+48.
+Claim: "The government assigned Dr. John G. Trump, a physicist from MIT with appropriate security clearances, to review what Tesla had spent sixty years producing."
+Source cited in script: Stated as established fact.
+What to verify: Was John G. Trump a physicist from MIT? Did he have security clearances? Was he the person assigned to review Tesla's papers?
+Priority: CRITICAL
+
+49.
+Claim: "Trump reviewed sixty years of work in three weeks."
+Source cited in script: Stated as established fact.
+What to verify: How long did Trump's review take? Was it approximately three weeks?
+Priority: VERIFY
+
+50.
+DIRECT QUOTE of government document: "Tesla's work did not include new sound workable principles or methods for scientific or military application, and would not constitute a hazard in unfriendly hands."
+Source cited in script: "The language the declassified record actually contains — not the paraphrase that has entered popular circulation."
+What to verify: Is this the exact language from Trump's report or the declassified record? Verify it word-for-word against the FBI's declassified Tesla file (available via the FBI online FOIA reading room). The script specifically claims this is NOT a paraphrase — verify that claim too.
+Priority: CRITICAL (Presented as exact government language)
+
+51.
+Claim: "The FBI's declassified Tesla file runs more than three hundred pages. Publicly available through the FBI's online FOIA reading room."
+Source cited in script: Stated as established fact.
+What to verify: Is the file publicly available via the FBI FOIA reading room? Is "more than three hundred pages" accurate?
+Priority: VERIFY
+
+52.
+Claim: "The individual contents of the twenty trunks remained classified for decades."
+Source cited in script: Stated as established fact.
+What to verify: Were Tesla's papers classified for decades? When were they declassified or released? Is it accurate that the specific contents were classified even if Trump's assessment was released?
+Priority: VERIFY
+
+---
+
+SECTION G — OZONE CHEMISTRY
+
+53.
+Claim: "The word [ozone] comes from the Greek verb meaning 'to smell' — the Greeks named it for its distinctive quality."
+Source cited in script: Stated as established fact.
+What to verify: Is "ozone" derived from a Greek verb meaning "to smell"? Is this etymology accurate?
+Priority: VERIFY
+
+54.
+Claim: "Ozone forms when electrical discharge splits oxygen molecules in the atmosphere and reassembles them into three-atom compounds."
+Source cited in script: Stated as established fact.
+What to verify: Is this an accurate description of ozone formation via electrical discharge? (O2 split and recombined as O3.) Is the chemistry correct?
+Priority: VERIFY
+
+---
+
+SECTION H — MANDELA EFFECT TERM
+
+55.
+Claim: "Go back further than Fiona Broome's coining of the term around two thousand nine."
+Source cited in script: Stated as established fact.
+What to verify: Did Fiona Broome coin the term "Mandela Effect"? Was it around 2009? Is she credited as the originator?
+Priority: VERIFY
+
+---
+
+SECTION I — TESLA'S RESONANCE THEORY
+
+56.
+Claim: Tesla's Wardenclyffe design involved "the planet as a conductor" — specifically "induce the right resonant frequency in it."
+Source cited in script: Stated as established fact.
+What to verify: Is it historically documented that Tesla's Wardenclyffe design relied on Earth resonance/the Earth as a conductor? What does Carlson say about Tesla's actual stated design parameters?
+Priority: VERIFY
+
+---
+
+ADDITIONAL CROSS-CHECKS
+
+57.
+Claim: The Hotel New Yorker had a 33rd floor and Room 3327 was on it.
+Source cited: Implied by room number convention.
+What to verify: Does/did the Hotel New Yorker have a 33rd floor? Was Tesla in Room 3327? The room number is stated multiple times as established fact — confirm it.
+Priority: CRITICAL
+
+58.
+Claim: Tesla was 86 years old at death ("eighty-six years" referenced multiple times).
+Source cited: Derived from birth year 1856, death 1943.
+What to verify: Tesla born July 10, 1856, died January 7, 1943. He had not yet reached his 87th birthday — he was 86. Confirm this is the correct age at death.
+Priority: VERIFY
+
+---
+
+END OF FACT-CHECK REQUEST
+
+Total items to verify: 58
+Critical items: 29
+Verify items: 29
+
+When you return findings, please structure as:
+- Item number
+- ACCURATE / INACCURATE / DISPUTED / MISLEADING / UNVERIFIABLE
+- If inaccurate: the correct fact and best source
+- If disputed: summary of the dispute and which source to prefer
+- If misleading: what the accurate context is
+- If unverifiable through standard sources: flag for further research
+
+Thank you.
