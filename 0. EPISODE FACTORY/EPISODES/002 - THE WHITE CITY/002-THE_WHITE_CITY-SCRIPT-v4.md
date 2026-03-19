@@ -243,7 +243,7 @@ The collection dispersed in nineteen seventy-one.
 
 The originals' current location hasn't been established.
 
-There is no record of Elias Coburn in any Chicago city directory after eighteen ninety-four. No death certificate bearing his name has been located in the Cook County records for that period. No labor record from any subsequent contractor project in the Chicago area has produced his name. The investigation notes the absence. It doesn't fill it.
+There is no record of Elias Coburn in any Chicago city directory after eighteen ninety-four. No death certificate bearing his name has been located in the Cook County records for that period. No labor record from any subsequent contractor project in the Chicago area has produced his name. The record notes the absence. It doesn't fill it.
 
 What did he find in the northwest section?
 
@@ -270,7 +270,7 @@ Material not consistent with expected staff construction.
 
 The incident report surfaced through a footnote in an unpublished master's thesis on Chicago labor history, written in nineteen sixty-seven at the University of Illinois Chicago. The thesis is accessible at the Richard J. Daley Library. The source document it references isn't archived with the thesis — it sits somewhere in the genuinely extensive, genuinely unsorted sections of the Illinois State Archives' Bureau of Public Works holdings from the eighteen-ninety to nineteen-ten period, without a catalog number.
 
-The investigation does not know what to make of this.
+The record does not know what to make of this.
 
 Two separate demolition operations, separate buildings, separate personnel, separate months. One a laborer's private note about a billing dispute. One a supervisor's mandatory incident report after workers were hurt. Neither of them was investigating the White City's construction materials. Both of them were doing their jobs. And both of them noted, in the process of doing their jobs, that the material they encountered was not the material they expected to encounter.
 
@@ -474,7 +474,7 @@ He wrote: density and composition more consistent with cut limestone aggregate t
 
 Then he moved to the next boring.
 
-The investigation has been watching him do this for a while, and what it cannot shake is the specificity of the phrase. Not unusual. Not anomalous. More consistent with cut limestone aggregate. The language of a man who examined the core sample and recognized what he was looking at and wrote down what he recognized. Cut limestone aggregate. Not geological limestone — not the native bedrock of the Chicago lakefront area. Cut. The word implies quarrying. The word implies someone selected this stone and placed it here.
+The narrator has been watching him do this for a while, and what cannot be shaken is the specificity of the phrase. Not unusual. Not anomalous. More consistent with cut limestone aggregate. The language of a man who examined the core sample and recognized what he was looking at and wrote down what he recognized. Cut limestone aggregate. Not geological limestone — not the native bedrock of the Chicago lakefront area. Cut. The word implies quarrying. The word implies someone selected this stone and placed it here.
 
 Placed it below where the south colonnade of the Manufactures and Liberal Arts Building stood.
 
