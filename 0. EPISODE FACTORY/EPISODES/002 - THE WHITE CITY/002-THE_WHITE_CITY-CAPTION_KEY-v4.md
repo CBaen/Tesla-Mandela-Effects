@@ -47,3 +47,10 @@ ionization → ionization → /AY2 AH0 N IH0 Z EY1 SH AH0 N/
 Schonbein → Schonbein → /SH OH1 N B AY0 N/
 Carlson → Carlson → /K AA1 R L S AH0 N/
 Smiljan → Smiljan → /S M IH1 L Y AA0 N/
+Universelle → Universelle → /Y UW1 N IH0 V ER0 S EH0 L/
+Eiffel → Eiffel → /AY1 F AH0 L/
+Plaisance → Plaisance → /P L EH1 Z AH0 N S/
+Halsted → Halsted → /HH AO1 L S T EH0 D/
+Niagara → Niagara → /N AY0 AE1 G R AH0/
+Wardenclyffe → Wardenclyffe → /W AO1 R D AH0 N K L IH0 F/
+Westinghouse → Westinghouse → /W EH1 S T IH0 NG HH AW2 S/
