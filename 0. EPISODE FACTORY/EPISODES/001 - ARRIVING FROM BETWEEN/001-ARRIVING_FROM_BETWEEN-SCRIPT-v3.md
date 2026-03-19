@@ -1,8 +1,8 @@
-Nikola Tesla died alone in Room three three two seven of the Hotel New Yorker on January seventh, nineteen forty-three — and for three days, nobody opened the door.
+The body hadn't even grown cold yet.
 
-Not a maid. Not management. Not the FBI agent who — and this is documented, and this will matter — already knew.
+Room three three two seven. Hotel New Yorker. A "Do Not Disturb" sign on the handle for three days and nobody — not a maid, not management, not the FBI agent who already knew — opened the door.
 
-Three days. A "Do Not Disturb" sign on the handle. And behind that sign, behind that door, something the official record has never been able to account for.
+Three days. And behind that sign, behind that door, something the official record has never been able to account for.
 
 We are going to start there. We are going to start with what was in that room.
 
