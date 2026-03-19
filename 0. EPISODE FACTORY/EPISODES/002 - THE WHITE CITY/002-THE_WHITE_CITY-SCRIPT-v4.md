@@ -49,7 +49,7 @@ That is the conservative count — the count drawn from the Westinghouse contrac
 
 Twenty thousand people made a sound that was not applause.
 
-Applause is something a person decides to make. This was something a person does not decide — the involuntary sound a body produces when the visual field is overwhelmed faster than the nervous system can process the new information. The sound came from the chest, from the place in the chest that responds to things before the mind has caught up. Then it became applause, as the minds caught up. But for a moment, between the lights coming on and the hands beginning to move, the crowd made the sound of pure registration.
+Applause is a decision. This was not — the involuntary sound a body produces when the visual field is overwhelmed faster than the nervous system can process the new information. The sound came from the chest, from the place in the chest that responds to things before the mind has caught up. Then it became applause, as the minds caught up. But for a moment, between the lights coming on and the hands beginning to move, the crowd made the sound of pure registration.
 
 The Court of Honor was white.
 
@@ -123,7 +123,7 @@ Not handwriting. Not a label applied later, open to questions of attribution. Th
 
 Physical construction at Jackson Park began in January of eighteen ninety-one.
 
-The official construction timeline for the Manufactures and Liberal Arts Building places the completion of the facade in late eighteen ninety-two, approximately two years after groundbreaking. For the facades shown in the Halsted negatives to be as complete as they appear, the construction would have had to progress at a rate significantly faster than the documented timeline — or the photographs are showing something that doesn't correspond to the documented timeline.
+The official construction timeline for the Manufactures and Liberal Arts Building places the completion of the facade in late eighteen ninety-two, approximately two years after groundbreaking. For the facades shown in the Halsted negatives to be as complete as they appear, the construction would have had to progress at a rate significantly faster than the documented timeline — or the photographs are showing a state of completion that the timeline cannot account for.
 
 The official explanation exists and it is the correct place to start. Glass plates were reused. The date code indicates plate manufacture, not photograph exposure. Supervising engineers sometimes staged construction photographs for official record, documenting completed sections in advance of the overall project schedule. These are reasonable explanations. They account for the anomaly without requiring the timeline to be wrong.
 
@@ -546,11 +546,11 @@ The notebook ends at the page before that section.
 
 The follow-up letter doesn't exist.
 
-The record does not know what Elias Coburn found in the northwest section.
+The investigation does not know what Elias Coburn found in the northwest section.
 
-The record does not know where Elias Coburn went after April of eighteen ninety-four.
+The investigation does not know where Elias Coburn went after April of eighteen ninety-four.
 
-The record knows what he found before he stopped writing, and what he found is still in the ground at the south colonnade zone of the Jackson Park exposition footprint, at the depth R.T. Alcott measured in October of nineteen oh-four, below the brick and the limestone and the street-level world above it.
+The investigation knows what he found before he stopped writing, and what he found is still in the ground at the south colonnade zone of the Jackson Park exposition footprint, at the depth R.T. Alcott measured in October of nineteen oh-four, below the brick and the limestone and the street-level world above it.
 
 Find the oldest building on your street.
 
