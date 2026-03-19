@@ -371,7 +371,7 @@ FBI Assistant Director P.E. Foxworth — head of the Special Intelligence Servic
 
 The crates that arrived within approximately two days of Tesla's death. This detail resists comfortable explanation. The standard response to a death is to wait for the legal process, for next of kin, for the appropriate forms to travel through the appropriate channels. The crates did not wait.
 
-Approximately eighty trunks and crates, along with barrels and packages — six decades of work: the notes, the designs, the private correspondence, the objects of investigation accumulated by a mind that had not stopped working until it stopped entirely. The government assigned Dr. John G. Trump, a professor of electrical engineering at the Massachusetts Institute of Technology, to review what Tesla had spent sixty years producing.
+Approximately eighty trunks and crates, along with barrels and packages — six decades of work: the notes, the designs, the private correspondence, the objects of investigation accumulated by a mind that had not stopped working until it stopped entirely. The government assigned Dr. John G. Trump, an assistant professor of electrical engineering at the Massachusetts Institute of Technology and a technical aide to the National Defense Research Committee, to review what Tesla had spent sixty years producing.
 
 Three days.
 
