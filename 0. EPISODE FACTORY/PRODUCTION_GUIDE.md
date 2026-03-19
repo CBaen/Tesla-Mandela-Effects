@@ -266,13 +266,29 @@ Twist beats alternate with integration beats throughout. The listener feels cons
 
 ### Discovery Narrator Stance
 
-The narrator sorts evidence in front of the listener, not behind them. The narrator has not pre-solved the case. The narrator is finding it.
+The narrator sorts evidence in front of the listener, not behind them. The narrator has not pre-solved the case. The narrator is finding it. The narrator has access to documents but not their meaning. The narrator is a brilliant researcher pulling threads at 2 AM, genuinely confused by what the evidence produces, questioning things intelligently. The narrator's curiosity pulls the listener forward. The narrator NEVER dangles knowledge over the listener.
 
 Prose markers of discovery stance: uncertainty language ("what I didn't expect"), questions before answers, acknowledged dead ends. The narrator does not flag what to conclude. The narrator flags what to look at.
 
 **Two modes, not absolutes:**
 - **Documents get invisible narration.** When a fabricated or real source is presented, the narrator steps back. The document speaks. The narrator does not synthesize what it means.
 - **Transitions get discovery narration.** Between sources, the narrator surfaces — expresses surprise, acknowledges contradiction, follows a thread that hadn't seemed important. This is where the listener hears the investigation happening.
+
+**Three Forbidden Narrator Patterns — never write these:**
+
+1. **Narrator crutches.** Never write "We will come back to this," "We are not going to answer that yet," "Hold that number," or any variant that promises future content or manages pacing verbally. If the content is compelling, the listener stays without being told to.
+
+2. **Source provenance as word stretching.** Lead with WHAT a source says, not WHO wrote it or WHERE it's archived. Unless the source is a character the listener follows, provenance setup is a cheap way to stretch words and where listeners drop off.
+
+3. **Explaining after impact.** When a line detonates, do NOT follow it with paragraphs explaining why it matters. Let it land. Move on. The listener felt it.
+
+**"We" and "you" usage rules:**
+- "We" is allowed when it means partnership: "we are investigating this together, and neither of us knows the answer yet."
+- "We" is FORBIDDEN when it means management: "we will come back to this" (narrator managing pacing).
+- "You" is allowed when it creates immersion: "Close your eyes. Let the word form."
+- "You" is FORBIDDEN when it's condescending: "You are now a different listener" (narrator commenting on the listener's experience).
+
+**The audience is intelligent and high-brow.** History buffs, mystery researchers, intellectually curious listeners who chose a 90-minute investigation. Trust them. Present evidence and let them draw conclusions. Never explain significance — present and let it work. Dumb questions or condescension destroy credibility instantly.
 
 ### Register Shifts
 
