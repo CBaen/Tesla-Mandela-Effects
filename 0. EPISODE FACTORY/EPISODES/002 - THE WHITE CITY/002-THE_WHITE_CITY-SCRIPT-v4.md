@@ -379,6 +379,26 @@ The narrator does not say what this means.
 
 The listener assembles the picture.
 
+But the narrator can sit with what is in the record. Because there is something in the record that is easy to pass past, and it should not be passed past.
+
+Tesla demonstrated the rotating magnetic field principle with a copper egg. The egg spun because the rotating field induced currents within it — the copper became a site of interaction between the field's geometry and the material's capacity to receive it. The egg's response was a function of what the egg was made of. Copper. A material with specific electrical conductivity properties. The field moved through the egg and the egg moved in response.
+
+A polyphase AC system is not confined to its wiring. The field extends. The wires are the channels of highest intensity, but the field exists in the space around the wires and in the material the wires are embedded in and adjacent to. For six months, every wall of the White City was a site of this — not the deliberate induction demonstration, not the egg in the bowl, but the ambient effect of a continuously operating polyphase system running through structures. The field moved through whatever the walls were made of for five months.
+
+Different materials respond differently to a rotating magnetic field. The response is a function of conductivity, density, crystalline structure. Staff material — plaster, glycerin, jute fiber — responds negligibly. Its molecular structure does not have the ordered geometry that produces significant electromagnetic interaction. It absorbs the field passively, like a sponge absorbs water without being changed by it.
+
+Cut limestone is not plaster. Limestone is calcium carbonate — a different crystalline structure, a different density, a different relationship between the material's geometry and an external field. Tesla knew, from the Colorado Springs experiments and from the theoretical foundation of his transmitter work, that the Earth itself — fundamentally a limestone and mineral aggregate — responded to properly induced frequencies in ways that plaster did not.
+
+If the south colonnade pier contained cut limestone where the specification said it should contain plaster...
+
+What was Tesla's current running through?
+
+What was the rotating field interacting with?
+
+The investigation does not know.
+
+The investigation has three documents and a question.
+
 
 One building survives.
 
