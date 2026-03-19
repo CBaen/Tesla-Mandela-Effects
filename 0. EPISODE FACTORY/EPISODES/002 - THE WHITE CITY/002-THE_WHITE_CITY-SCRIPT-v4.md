@@ -423,27 +423,81 @@ The things that remain are the things the demolition missed.
 
 The Museum of Science and Industry at Jackson Park is worth visiting.
 
-Not for the exhibits — the exhibits are very good, but they are not why the investigation mentions it. The Museum is worth visiting because when you stand on its south side and look at the foundation, you are looking at Indiana limestone that was quarried and laid in the late nineteen twenties, above brick that was fired and laid in the early eighteen nineties, above whatever the original foundation contains at depth, in the soil of Jackson Park, at a place where a structural engineer in nineteen oh-four ran a boring and wrote down what his equipment encountered.
+Not for the exhibits — the exhibits are very good, but they are not why the investigation mentions it. The Museum is worth visiting because when you stand on its south side and look at the foundation — not the facade, not the limestone facing, but the lowest visible course of stone where the building meets the grade — you are looking at Indiana limestone quarried and laid in the late nineteen twenties, above brick fired and laid in the early eighteen nineties, above whatever the original foundation contains at depth in the soil of Jackson Park, at the location where a structural engineer in nineteen oh-four positioned his boring equipment and recorded what it encountered.
 
 He was surprised by what he found.
 
-He was a professional. His profession was examining what the ground contains. He was not surprised easily.
+He was a professional. He had been taking soil borings for years. He was not surprised by soil. He wrote it down and moved to the next boring.
 
-He wrote it down. He moved to the next boring.
+What surprises an engineer doing routine fieldwork is not dramatic. What surprises an engineer doing routine fieldwork is a number — a resistance measurement, a density reading, a material composition — that does not match what the project specification said should be there. Not a revelation. A discrepancy. A discrepancy that requires documentation because a professional cannot simply skip past a discrepancy.
 
-Find the oldest building on your street. Not the one that looks oldest — looks can be redone, facades can be replaced, surfaces can be renewed to suggest either age or freshness depending on what the owner wants the building to suggest. The oldest building. The one that has the most history between it and the street it faces. Stand in front of it and look down — not at the facade, not at the windows, not at the architectural details that are meant to be seen. Look at the foundation. The part below grade. The part that was there before the street was at its current level, before the building was renovated or rebuilt or faced with new material, before whatever happened to the surface happened to it.
+He wrote: density and composition more consistent with cut limestone aggregate than with mixed cement staff.
 
-Look at what the foundation is made of.
+Then he moved to the next boring.
 
-Look at how far down it goes before you can no longer see it.
+The investigation has been watching him do this for a while, and what it cannot shake is the specificity of the phrase. Not unusual material. Not anomalous reading. More consistent with cut limestone aggregate. The language of a man who examined the core sample and recognized what he was looking at and wrote down what he recognized. Cut limestone aggregate. Not geological limestone — not the native bedrock of the Chicago lakefront area. Cut. The word implies quarrying. The word implies someone selected this material and placed it here.
 
-Consider that you have walked past this building every day, and the part of it you have been looking at is the part someone put there for you to look at, and the part below the street is the part no one put there for any particular audience. The part below grade is what was there before anyone was selecting what to show.
+Placed it below where the south colonnade of the Manufactures and Liberal Arts Building stood.
 
-Elias Coburn put his bare hand on a wall in February of eighteen ninety-four and felt something that did not match the specification he had been given. He wrote it down in the only language available to a man doing his job. The language was precise. The language was specific. The language was the language of hands that had spent weeks learning a material and then encountered something the material was not supposed to be.
+Below where Elias Coburn found it from above, eleven years earlier.
 
-It gave back more than it should have.
+Below where it had been when Tesla's alternating current ran through every wall for six months.
 
-Like ringing a pan and hearing a bell.
+Below the demolished building.
+
+Still there.
+
+
+Here is what the investigation can offer.
+
+Go outside. If you are near a city — any city — find the oldest building on your street. Not the one that looks oldest. The one that IS oldest. The one with the most history between it and the street it faces. Walk to it. Stand in front of it. Then look down, not at the facade, not at the windows, not at the architectural details that were put there for you to look at. Look at where the building enters the ground. The foundation. The base course of stone or brick that is below the visible face of the building, the part that sits in the earth or below the sidewalk grade.
+
+Look at what it is made of.
+
+Feel the surface of it, if you can reach it without difficulty. Put your palm against it.
+
+Consider that you have been walking past this building your whole time in this neighborhood, and you have been seeing the part of it that faces the street — the part someone selected to face the street — and the part below grade was never selected for anyone. It was placed there before there was a street to face. It was placed before anyone was thinking about what would be visible. It is what it is without performance.
+
+Most foundations are exactly what they appear to be — brick or stone or poured concrete, the straightforward material of their era, the expected answer to the question of what holds a building in the ground.
+
+Some are not.
+
+Some have material below grade that does not quite match the material above. Some have foundations that predate the building they support. Some have been sitting below the street level since before the street was raised, since before the neighborhood was built around them, since before the record that would explain them was written.
+
+The record accounts for the surface.
+
+It does not always account for what is underneath.
+
+This is not a call to tear things up. Alcott did not tear things up. He noted what he found and moved to the next boring and submitted his report and the development group declined to proceed and the report went into his professional archive and from there into a transfer inventory listing it as not yet catalogued where it remains to this day.
+
+He found it. He recorded it. He moved on.
+
+The investigation does not think he was wrong to move on.
+
+The investigation thinks he was right to write it down.
+
+
+Elias Coburn wrote it down.
+
+Not because he had a theory. Not because he was looking for an anomaly. Because he was a working man doing his job carefully, the kind of man who keeps records against the possibility that a dispute will require documentation, the kind of man who puts his bare hand on a surface to confirm what his gloved hands told him. The kind of man whose hands had spent enough time learning one material that they recognized immediately when they met another.
+
+His hands recognized what they touched.
+
+He wrote: It gave back more than it should have. Like ringing a pan and hearing a bell.
+
+The letter is in someone's hands right now — or the photocopy of the letter, the durable version that survived when the original was dispersed — and the person holding it is holding it with both hands, elbows bent, the letter cupped rather than held, the grip of someone who has been surprised once and cannot afford to be surprised again.
+
+The fold lines are worn through.
+
+The paper opens without being told.
+
+Someone has returned to this document many times.
+
+Someone found it and kept finding it necessary to return to it, to read that passage again, to verify once more that the words are what they appear to be. Not: a discovery that changes everything. Not: proof of something hidden. Just: a careful man's note about a wall that didn't behave the way the specification said it should, in a building that was supposed to be temporary, in a city that was built to perform permanence and was then removed.
+
+Almost entirely removed.
+
+The things that remain are the things the demolition missed.
 
 He was going to write down more.
 
@@ -453,32 +507,18 @@ The notebook ends at the page before that section.
 
 The follow-up letter does not exist.
 
-The world is full of buildings with foundations that have never been documented. Most foundations predate the buildings above them. Some predate the streets beside them. Walk past them every day. Walk past the part that was there before the surface was laid and the record was written and the official explanation was produced for the people who needed an explanation.
+The investigation does not know what Elias Coburn found in the northwest section.
 
-The explanation accounts for what the photographs show.
+The investigation does not know where Elias Coburn went after April of eighteen ninety-four.
 
-It does not account for what Coburn's hands found.
+The investigation knows what he found before he stopped writing, and what he found is still in the ground at the south colonnade zone of the Jackson Park exposition footprint, at the depth R.T. Alcott measured in October of nineteen oh-four, below the brick and the limestone and the street-level world above it.
 
-What did the White City contain, that Tesla's rotating magnetic fields moved through for six months?
+Find the oldest building on your street.
 
-The investigation does not know.
+Look at the foundation.
 
-The investigation has a laborer's letter. The investigation has a contractor's incident form. The investigation has a structural engineer's boring note, eleven years after the demolition, describing material below grade that should not have been there.
+Look at what it is made of.
 
-Three instruments. Three independent observations. Three separate positions within the same project, none of them aware of the others, none of them theorizing, all of them noting a practical fact in the language their position gave them.
+Put your hand on it.
 
-The material was not what it should have been.
-
-Whatever it was, it is still there.
-
-The things that remain are the things the demolition missed.
-
-And Elias Coburn, who was going to write down more, and then did not — his field notes end where the notebook ends, at the page before the northwest section, and the investigation cannot follow him past that page because there is nothing past that page.
-
-There is only what he found before he stopped writing.
-
-It gave back more than it should have.
-
-That is the record.
-
-That is what survives.
+What do you feel coming back?
