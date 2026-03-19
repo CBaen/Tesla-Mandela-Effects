@@ -54,6 +54,21 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 - **Rule**: Claude Code does initial check, then critical facts must be confirmed via Claude web browser. Multiple auditors required. The Quote Rule and Attribution Rule carry legal liability.
 - **Why**: Claude Code's fact-checking has limits. Training knowledge is unreliable for specific historical details (see global lessons-learned: "Training Data Is Never an Acceptable Source for Legal or Regulatory Facts").
 
+### The narrator does not already know the answer
+- **Pattern**: Writing agents produce narrators who already know where the investigation leads and manage when the listener gets to find out. This creates condescending, herding narrator behavior ("we will come back to this," "we are not going to answer that yet," "hold that number").
+- **Rule**: The narrator is discovering WITH the listener. The narrator has the documents but not the meaning. The narrator is a brilliant researcher pulling threads at 2 AM, genuinely confused by what the evidence produces, questioning things INTELLIGENTLY. The narrator doesn't know the destination. The narrator's genuine curiosity pulls the listener forward. The audience is intelligent and high-brow — they will hate a narrator that talks down to them, herds them, or dangles knowledge over their heads.
+- **Why**: GL said: "We only like narrators when they're just as confused and joining us and pushing the story forward." The voice of the archive has access to documents, not answers. The meaning is being discovered in real time.
+
+### Three FORBIDDEN narrator patterns
+- **Pattern**: (1) Narrator crutches: "We will come back to this," "We are not going to answer that yet." (2) Source provenance as word stretching: paragraphs about who wrote a source and where it's archived before revealing what it says. (3) Explaining after impact: following a powerful line with paragraphs about why it's powerful.
+- **Rule**: (1) NEVER promise future content — if the material is compelling, the listener stays without being told to. (2) Lead with what the source SAYS, not who wrote it or where it's stored, unless the source is a character. (3) Let detonations land in silence. Don't explain what the listener just felt.
+- **Why**: GL said "I hate that a lot" about crutches, "that's a cheap way to stretch words" about provenance, and these are band-aids over weak content. Fix the content, not the framing.
+
+### The audience is intelligent and high-brow
+- **Pattern**: Writing agents default to over-explaining, hand-holding, and spelling out implications.
+- **Rule**: The audience is smart. They are history buffs, conspiracy researchers, and intellectually curious listeners who chose a 90-minute investigation. Trust them. Present evidence and let them draw conclusions. Never explain why something is significant — present it and let the significance work. Dumb questions from the narrator destroy credibility instantly.
+- **Why**: GL specified the audience is intelligent, high-brow. Condescension causes drop-off. The show treats listeners as co-investigators, not students.
+
 ### Save scripts and caption keys as .txt in addition to .md
 - **Pattern**: ElevenLabs and other apps can't read .md files.
 - **Rule**: Always output both .md and .txt versions of the script and caption key. The .md is the working copy; the .txt is the upload copy. Manifest stays as .json.
