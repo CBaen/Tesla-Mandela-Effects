@@ -127,9 +127,9 @@ The official construction timeline for the Manufactures and Liberal Arts Buildin
 
 The official explanation exists and it is the correct place to start. Glass plates were reused. The date code indicates plate manufacture, not photograph exposure. Supervising engineers sometimes staged construction photographs for official record, documenting completed sections in advance of the overall project schedule. These are reasonable explanations. They account for the anomaly without requiring the timeline to be wrong.
 
-The record notes them.
+The investigation notes them.
 
-The record also notes that the Halsted negatives are six plates. Not a systematic documentation series — six plates from what would have been a much larger documentation effort if the construction was being photographed at multiple stages. Six plates donated by an unnamed estate in nineteen thirty-seven. Six plates that show something that requires explanation, in a collection that doesn't permit the examination necessary to fully resolve the question.
+The investigation also notes that the Halsted negatives are six plates. Not a systematic documentation series — six plates from what would have been a much larger documentation effort if the construction was being photographed at multiple stages. Six plates donated by an unnamed estate in nineteen thirty-seven. Six plates that show something that requires explanation, in a collection that doesn't permit the examination necessary to fully resolve the question.
 
 The photographs were designed to make the buildings look permanent.
 
@@ -138,7 +138,7 @@ That explanation is complete and accurate.
 But now comes Elias Coburn.
 
 
-The standard account of how the White City was built deserves its full weight before it is destabilized, because it is remarkable on its own terms and the record is not served by treating it as a deception before the evidence requires that.
+The standard account of how the White City was built deserves its full weight before it is destabilized, because it is remarkable on its own terms and the investigation is not served by treating it as a deception before the evidence requires that.
 
 Staff plaster was an architectural achievement. The composite of plaster of Paris, cement, glycerin, and binders — primarily jute fiber and dextrin, a starch-derived adhesive — could be cast or troweled over wire lath and structural framing to produce detailed decorative surfaces with a speed that traditional stone construction couldn't match. European exposition buildings had used similar techniques for decades. The Paris Exposition Universelle of eighteen eighty-nine had demonstrated what temporary exhibition architecture was capable of — the Eiffel Tower was the iron anchor of that fair, but the surrounding exhibition buildings were exercises in exactly the kind of rapid-construction grandeur that staff composite made possible.
 
@@ -243,7 +243,7 @@ The collection dispersed in nineteen seventy-one.
 
 The originals' current location hasn't been established.
 
-There is no record of Elias Coburn in any Chicago city directory after eighteen ninety-four. No death certificate bearing his name has been located in the Cook County records for that period. No labor record from any subsequent contractor project in the Chicago area has produced his name. The record notes the absence. It doesn't fill it.
+There is no record of Elias Coburn in any Chicago city directory after eighteen ninety-four. No death certificate bearing his name has been located in the Cook County records for that period. No labor record from any subsequent contractor project in the Chicago area has produced his name. The investigation notes the absence. It doesn't fill it.
 
 What did he find in the northwest section?
 
@@ -266,13 +266,13 @@ He was not theorizing. He was reporting.
 
 This is what two independent observers — a demolition laborer working the Manufactures and Liberal Arts Building and a contractor's superintendent working the Transportation Building annex — described across two months of demolition work at the Jackson Park site. Not the same building. Not the same section. Not the same project. And not the same vocabulary, because one was a working man writing to his foreman and the other was a supervisor filing a mandatory form. The vocabulary was different. The observation was the same.
 
-Not consistent with expected staff plaster.
+Material not consistent with expected staff construction.
 
-The incident report surfaced through a footnote in an unpublished master's thesis on Chicago labor history, written in nineteen sixty-seven at the University of Illinois Chicago. The thesis is accessible at the Richard J. Daley Library. The source document it references is not archived with the thesis — it sits somewhere in the genuinely extensive, genuinely unsorted sections of the Illinois State Archives' Bureau of Public Works holdings from the eighteen-ninety to nineteen-ten period, without a catalog number.
+The incident report surfaced through a footnote in an unpublished master's thesis on Chicago labor history, written in nineteen sixty-seven at the University of Illinois Chicago. The thesis is accessible at the Richard J. Daley Library. The source document it references isn't archived with the thesis — it sits somewhere in the genuinely extensive, genuinely unsorted sections of the Illinois State Archives' Bureau of Public Works holdings from the eighteen-ninety to nineteen-ten period, without a catalog number.
 
-The record does not know what to make of this.
+The investigation does not know what to make of this.
 
-Two separate demolition operations, separate buildings, separate personnel, separate months. One a laborer's private note about a billing dispute. One a supervisor's mandatory incident report after workers were hurt. Neither of them was investigating the White City's construction. Both of them were doing their jobs. And both of them noted, in the process of doing their jobs, that the stone they encountered was not the plaster they expected to encounter.
+Two separate demolition operations, separate buildings, separate personnel, separate months. One a laborer's private note about a billing dispute. One a supervisor's mandatory incident report after workers were hurt. Neither of them was investigating the White City's construction materials. Both of them were doing their jobs. And both of them noted, in the process of doing their jobs, that the material they encountered was not the material they expected to encounter.
 
 The narrator sits with this for a moment.
 
@@ -397,7 +397,7 @@ He was writing the mystery.
 
 Two separate demolition workers, separate buildings, separate months, both describing the same anomaly in the only language their positions gave them. A structural engineer eleven years later, with boring equipment and professional formation, describing the same stone in the language of his profession. Three instruments pointing at the same thing from three different angles. None of them knew what the others had seen. None of them were investigating. None of them had a theory.
 
-The record has the frame.
+The investigation has the frame.
 
 
 Nikola Tesla and the Westinghouse Electric Company won the contract to light the eighteen ninety-three World's Columbian Exposition. This is documented. W. Bernard Carlson's biography of Tesla — Tesla: Inventor of the Electrical Age, published by Princeton University Press in twenty thirteen — is among the sources for this. The Westinghouse-Tesla polyphase alternating current system was the first large-scale public demonstration of a complete polyphase AC system for general illumination. Every building at the fair was connected. Every wall. Every pier.
@@ -434,9 +434,9 @@ What was Tesla's current running through?
 
 What was the rotating field interacting with?
 
-The record does not know.
+The investigation does not know.
 
-The record has three documents and a question.
+The investigation has three documents and a question.
 
 
 One building survives.
@@ -462,7 +462,7 @@ The things that remain are the things the demolition missed.
 
 The Museum of Science and Industry at Jackson Park is worth visiting.
 
-Not for the exhibits — the exhibits are very good, but they are not why the record mentions it. The Museum is worth visiting because when you stand on its south side and look at the foundation — not the facade, not the limestone facing, but the lowest visible course of stone where the building meets the grade — you are looking at Indiana limestone quarried and laid in the late nineteen twenties, above brick fired and laid in the early eighteen nineties, above whatever the original foundation contains at depth in the soil of Jackson Park, at the location where a structural engineer in nineteen oh-four positioned his boring equipment and recorded what it encountered.
+Not for the exhibits — the exhibits are very good, but they are not why the investigation mentions it. The Museum is worth visiting because when you stand on its south side and look at the foundation — not the facade, not the limestone facing, but the lowest visible course of stone where the building meets the grade — you are looking at Indiana limestone quarried and laid in the late nineteen twenties, above brick fired and laid in the early eighteen nineties, above whatever the original foundation contains at depth in the soil of Jackson Park, at the location where a structural engineer in nineteen oh-four positioned his boring equipment and recorded what it encountered.
 
 He was surprised by what he found.
 
@@ -474,7 +474,7 @@ He wrote: density and composition more consistent with cut limestone aggregate t
 
 Then he moved to the next boring.
 
-The record has been watching him do this for a while, and what it cannot shake is the specificity of the phrase. Not unusual. Not anomalous. More consistent with cut limestone aggregate. The language of a man who examined the core sample and recognized what he was looking at and wrote down what he recognized. Cut limestone aggregate. Not geological limestone — not the native bedrock of the Chicago lakefront area. Cut. The word implies quarrying. The word implies someone selected this stone and placed it here.
+The investigation has been watching him do this for a while, and what it cannot shake is the specificity of the phrase. Not unusual. Not anomalous. More consistent with cut limestone aggregate. The language of a man who examined the core sample and recognized what he was looking at and wrote down what he recognized. Cut limestone aggregate. Not geological limestone — not the native bedrock of the Chicago lakefront area. Cut. The word implies quarrying. The word implies someone selected this stone and placed it here.
 
 Placed it below where the south colonnade of the Manufactures and Liberal Arts Building stood.
 
@@ -487,7 +487,7 @@ Below the demolished building.
 Still there.
 
 
-Here is what the record can offer.
+Here is what the investigation can offer.
 
 Go outside. If you are near a city — any city — find the oldest building on your street. Not the one that looks oldest. The one that IS oldest. The one with the most history between it and the street it faces. Walk to it. Stand in front of it. Then look down, not at the facade, not at the windows, not at the architectural details that were put there for you to look at. Look at where the building enters the ground. The foundation. The base course of stone or brick that is below the visible face of the building, the part that sits in the earth or below the sidewalk grade.
 
@@ -511,9 +511,9 @@ This is not a call to tear things up. Alcott didn't tear things up. He noted wha
 
 He found it. He recorded it. He moved on.
 
-The record does not think he was wrong to move on.
+The investigation does not think he was wrong to move on.
 
-The record thinks he was right to write it down.
+The investigation thinks he was right to write it down.
 
 
 Elias Coburn wrote it down.
