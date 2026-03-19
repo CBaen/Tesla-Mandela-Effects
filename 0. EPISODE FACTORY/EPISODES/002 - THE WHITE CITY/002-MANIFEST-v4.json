@@ -1,0 +1,237 @@
+{
+  "episode": "002",
+  "title": "The White City",
+  "assets": [
+    {
+      "name": "Elias_Coburn_1894",
+      "type": "character",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1858,
+      "physique": "White American working man, mid-30s, stocky and solid build, hands conspicuously large with thickened knuckles from years of demolition work, short brown hair under a wool cap, square jaw, weathered skin darkened by outdoor labor, forearms corded with muscle, calloused palms, one thumb showing a pale scar ridge from an old tool injury. His face is not remarkable but his hands are the hands of someone who has spent years reading material through them.",
+      "attire": "Heavy canvas work coat, brown wool trousers, leather work boots, wool cap, thick leather work gloves usually in hand or tucked in coat pocket",
+      "notes": "Demolition laborer from Gary, Indiana. Worked the Manufactures and Liberal Arts Building demolition December 1893 to April 1894. His field notes end before the northwest section. His follow-up letter does not exist.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Cecelia_Wren_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1855,
+      "physique": "White American woman, late 30s, schoolteacher bearing — upright posture, alert expression, practical dark dress without excessive ornamentation, hair pinned neatly but not elaborately, spectacles with wire frames, ink-stained right index finger from daily writing",
+      "attire": "Dark wool day dress appropriate for the period, gloves, small hat pinned at an angle, cloth bag carried over one arm",
+      "notes": "Schoolteacher from Evanston, Illinois. Attended the opening night ceremony May 1, 1893. Kept a private diary. Never published. Acquired with Coburn's papers in the same Kenosha estate lot.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "RT_Alcott_1904",
+      "type": "character",
+      "era": "1904",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1862,
+      "physique": "White American man, early 40s, civil engineer's bearing — methodical movements, thin build with a slight stoop from years of bending over drawings, wire-rimmed glasses, close-cropped graying hair at the temples, weathered hands from fieldwork but with ink calluses from drafting, watchful grey eyes",
+      "attire": "Brown tweed suit, white shirt with stiff collar, heavy overcoat for field work, leather survey case, steel-toed boots appropriate for construction site work",
+      "notes": "Civil engineer hired by a Chicago development group in 1904 to assess whether salvageable foundation materials remained at the Jackson Park exposition site. His report is unpublished. The Ryerson and Burnham Libraries' Alcott accession materials are listed as not yet catalogued.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 37. Present at the 1893 World's Columbian Exposition demonstrating polyphase AC in the Electricity Building. Egg-of-Columbus demonstration. Does not appear as a character in the episode — present only through documented connection.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Daniel_Burnham_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1846,
+      "physique": "White American man, late 40s, imposing physical presence — tall, broad-shouldered, full dark mustache, confident bearing of a man accustomed to commanding large operations, direct gaze, well-tailored suit for official appearances",
+      "attire": "Dark formal suit, white shirt, top hat for official ceremony, frock coat for construction site",
+      "notes": "Director of Works for the 1893 World's Columbian Exposition. Oversaw construction of the White City. Not a character in the episode — referenced by name only.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "World_Columbian_Exposition_Jackson_Park_1893",
+      "type": "location",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "690 acres of former lakefront swamp and parkland in Jackson Park, Chicago. Fair ran May 1 to October 30, 1893. Approximately 27 million visitors.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Court_of_Honor_Opening_Night_1893",
+          "era": "1893",
+          "physique": "The central ceremonial space of the White City. Open lagoon at center, surrounded by monumental neoclassical buildings: Agriculture Building to the south, Manufactures and Liberal Arts Building to the north, Administration Building with gilded dome at the west end. All facades in white calcium sulfate staff material. At opening night, one hundred thousand incandescent lamps illuminate every cornice and colonnade simultaneously — warm white light from every surface, the lagoon reflecting a doubled White City in dark water. Twenty thousand people in the open space between the buildings.",
+          "notes": "Opening night May 1, 1893. President Grover Cleveland pressed the telegraph key."
+        },
+        {
+          "name": "Manufactures_and_Liberal_Arts_Building_1893",
+          "era": "1893",
+          "physique": "The largest building in the world at the time of the fair. 447 meters long. Neoclassical facade in white calcium sulfate staff material over steel and wood framing. Massive colonnades, entablature with detailed relief work, pediment pavilions at the entry points. The scale is overwhelming — the building fills the northern edge of the Court of Honor. Under illumination, the facade reads as marble. The south colonnade runs along the lagoon-facing side, with regularly spaced piers between the colonnade bays.",
+          "notes": "South colonnade, second pier from the east — the location Coburn describes in his letter."
+        },
+        {
+          "name": "Manufactures_Building_Interior_Fair_1893",
+          "era": "1893",
+          "physique": "Over two million square feet of interior space. A vast column-free exhibition hall under a arched steel and glass roof that admits diffuse daylight. Exhibits from dozens of nations arranged in national sections. The interior smells of varnish, wood polish, and the particular compressed-air smell of a large enclosed space holding thousands of people. During the fair: exhibit stands, display cases, visiting crowds.",
+          "notes": "Interior during fair operations."
+        },
+        {
+          "name": "Electricity_Building_1893",
+          "era": "1893",
+          "physique": "Neoclassical building dedicated to electrical exhibits. The Westinghouse AC system demonstration ran here. Tesla's egg-of-Columbus demonstration occupied a central display position. Edison's DC exhibits competed for attention from the opposite side of the building. The interior is lit with dramatically more intensity than any other exhibition space — banks of arc lamps and incandescent fixtures demonstrating the capabilities of the systems they run on.",
+          "notes": "Where Tesla demonstrated polyphase AC. Where the Westinghouse-Tesla system's superiority over Edison's DC was publicly established."
+        }
+      ]
+    },
+    {
+      "name": "Manufactures_Building_Demolition_South_Wing_1894",
+      "type": "location",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The south wing of the Manufactures and Liberal Arts Building in the process of demolition. Winter 1894. The roof section above has been removed — flat grey Chicago winter sky visible overhead through the open top of the structure. The exterior wall of the south wing is the last major standing section. Interior is gutted — structural frame exposed where wall sections have been removed, debris on the floor. The remaining wall sections show the cross-section of staff construction: plaster finish layer, wire lath, wooden framing behind. The smell of plaster dust and cold air and the ghost of the fair's six months of occupation. Flat winter light without warmth or direction.",
+      "notes": "Where Elias Coburn found the anomalous material. South colonnade zone, near the second pier from the east.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Jackson_Park_Site_Soil_Survey_1904",
+      "type": "location",
+      "era": "1904",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The Jackson Park exposition footprint eleven years after the fair. Former fairground now returned to parkland — grass growing over the disturbed soil of the demolished buildings, some foundation traces visible as slight depressions or grade anomalies. October: cold lakeside air, the specific mineral smell of turned Chicago clay-heavy soil. R.T. Alcott's survey equipment positioned over a boring site in the area that was the south wing of the Manufactures Building — a field with no visible architectural remnants above grade.",
+      "notes": "Where Alcott's boring equipment encountered material described as consistent with cut limestone aggregate at foundation pier depth.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Museum_of_Science_and_Industry_1933",
+      "type": "location",
+      "era": "1933",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "The one surviving principal structure from the fair's Jackson Park buildings, rebuilt in Indiana limestone in the late 1920s over the brick core of the original Palace of Fine Arts. Opened in current form 1933. The limestone is real and permanent. What is below grade — what Alcott found in 1904 — was not excavated in the rebuilding.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Chicago_Below_Grade_First_Floor_1870s",
+      "type": "location",
+      "era": "1870",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A first floor room in a Chicago building from the 1850s that was not raised during the street grade raise project of the 1850s-1860s. The room is now below grade — the window that once faced the street now faces the fill material deposited against the building's exterior wall. Compacted earth visible through the glass where pedestrians used to be visible. Reduced light — the angle of incoming light has changed, the ceiling feeling lower than it was even though it has not moved. Street noise now arriving from overhead. The proportions of the room unchanged. The room's relationship to the world outside has been inverted.",
+      "notes": "Not a specific building — the general condition of below-grade Chicago first floors after the Chesbrough street raise.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Field_Notes_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A small lined notebook, the kind a working man carries in a coat pocket. Worn cover in dark blue cloth, the corners rounded from pocket use. Pages filled with dense, practical handwriting — not neat, functional, the writing of a man recording facts at the end of a long physical day. Daily entries noting assignments, materials encountered, problems noted, hours worked. The final filled page ends mid-schedule, the facing page blank. The notebook is a photocopy of the original — slightly washed out, the margins showing the curve where the original pages were held flat against the copy plate.",
+      "attire": "",
+      "notes": "Coburn's working field notes from the Manufactures and Liberal Arts Building demolition. The originals' current location is not established. Photocopies survive in private hands.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Letter_to_Mr_H_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Three pages of period letter paper, thicker than modern paper, slightly rough at the edges where the fiber has raised with age. The fold lines worn almost through — the paper wants to open along them without being told. Faded ink: not illegible, but the sepia of genuine age, the iron gall ink of the period having oxidized over a century. Water stain in the upper right corner of the first page, oval-shaped, the ink blurred but not destroyed beneath it. The handwriting is careful but not educated — the handwriting of a man who learned letters for function rather than art, each character formed deliberately. Being held in both hands cupped around it, forearms parallel, the grip of someone who has handled this too many times to hold it carelessly.",
+      "attire": "",
+      "notes": "The primary evidence. February 1894. Addressed to 'Mr. H.' (foreman, identity not established). Contains the passage: 'It gave back more than it should have. Like ringing a pan and hearing a bell.' Also contains the description of stone near the south colonnade pier. Final lines describe plan to document the northwest section. The follow-up letter does not exist.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Halsted_Briggs_Incident_Report_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Standard municipal incident report form, typed on a period typewriter on heavyweight institutional paper. The main body is typed text in a form layout with ruled lines separating fields. In the Material Conditions field, the text breaks from typed to handwritten — the superintendent's own hand, in darker ink with slightly different character formation than the typed portions. The form is slightly yellowed at the margins, the paper beginning to acidify. Filed in a folder with other contractor correspondence from the same period, the folder worn at the edges.",
+      "attire": "",
+      "notes": "Filed by Halsted and Briggs Wrecking with the City of Chicago Bureau of Public Works, March 7, 1894. Two workers injured. The handwritten notation in the Material Conditions field: 'Wall section in Grid 14 unexpectedly resistant. Material not consistent with expected staff construction.'",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Halsted_Negatives_Glass_Plates_1891",
+      "type": "object",
+      "era": "1891",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Six glass-plate photographic negatives, each approximately 8x10 inches. The glass is thick by modern standards, slightly greenish in transmitted light. The emulsion side shows the reversed tonal values of the original scenes: light areas dark, dark areas clear. The date codes are pressed into the edge of the glass — small numerals barely visible without magnification. When held to light, the images show completed neoclassical facade details of the Manufactures and Liberal Arts Building — column capitals, entablature sections, pilaster details — at a state of completion inconsistent with the documented construction timeline for early 1891.",
+      "attire": "",
+      "notes": "Six glass-plate negatives in the Halsted Photographic Collection, Oak Park, Illinois. Donated in 1937 by unnamed estate. The date codes are consistent with early 1891 manufacture. The facades shown are complete or nearly complete. One of them is wrong — either the date codes or the completion stage — and neither the donor nor the collection can say which.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Alcott_Boring_Equipment_1904",
+      "type": "object",
+      "era": "1904",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Early twentieth-century soil boring equipment: a hand-operated drill rig with a steel frame mounted on a wheeled base, the boring mechanism driven by a hand crank through a reduction gear. Long steel boring rods that thread together for depth, with a core barrel at the end that captures cylindrical soil samples as it penetrates the ground. The core samples emerge as cylinders approximately 2 inches in diameter, laid out on a canvas tarpaulin beside the boring position for examination. Field log notebook open beside the equipment, pencil marking depth and material notation for each sample.",
+      "attire": "",
+      "notes": "The equipment that produced the anomalous boring in the south colonnade zone. The anomalous sample: denser than surrounding material, lighter gray, the crystalline structure of the cut limestone visible in cross section.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Staff_Construction_Cross_Section_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A cross-section of White City wall construction visible where a wall section has been opened for demolition. From exterior inward: calcium sulfate finish layer approximately 1 inch thick, slightly gritty and off-white, crystalline structure visible at the break edge. Wire lath beneath — hexagonal wire mesh, galvanized, the mesh holding the plaster. Wooden furring strips behind the lath, approximately 2x4 inches, attached to the primary wooden or steel frame. The whole assembly is 4 to 6 inches thick. The section that does not match this profile is absent from this illustration — it is what Coburn found, and it is not here.",
+      "attire": "",
+      "notes": "The standard construction that staff material was supposed to be. What Coburn's hands found in the south colonnade was not this.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Egg_of_Columbus_Demonstration_Apparatus_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A polished copper egg approximately 6 inches tall, placed in a circular bowl with a flat inner surface. Beneath the bowl: a round platform housing four copper wire coils wound around iron cores, connected by cloth-insulated leads to a polyphase AC supply. When energized, the invisible rotating magnetic field produced by the sequentially powered coils induces currents in the copper egg, creating a torque that causes the egg to begin spinning — faster and faster until it achieves enough gyroscopic stability to stand upright on its pointed end in the bowl. The effect appears impossible: an egg standing on its end, rotating, apparently without visible cause.",
+      "attire": "",
+      "notes": "Tesla's demonstration at the 1893 World's Columbian Exposition Electricity Building. The demonstration that proved the utility of polyphase AC for producing rotating mechanical motion — the basis of every AC induction motor.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
