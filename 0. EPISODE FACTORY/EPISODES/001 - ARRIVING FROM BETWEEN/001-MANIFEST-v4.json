@@ -1,0 +1,409 @@
+{
+  "episode": "001",
+  "title": "Arriving From Between",
+  "assets": [
+    {
+      "name": "Alice_Monaghan_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1905,
+      "physique": "Irish-American woman, late 30s, medium build, dark hair pinned under a white maid's cap, practical posture, composed expression trained by years of hotel service",
+      "attire": "Hotel New Yorker maid uniform — white blouse, black dress, white apron, white cap, black leather shoes",
+      "notes": "Housekeeping staff. Found Tesla's body on the morning of January 8, 1943. Smelled the ozone before she crossed the threshold. Told no one officially except her sister, once.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 86. Final day. Found dead in Room 3327, Hotel New Yorker. Sheets pulled to military tightness. Three gray-tipped feathers on the windowsill. Hotel napkins covered in equations on the desk.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1856,
+      "physique": "Newborn infant, pale skin, dark hair, eyes open at the moment of birth",
+      "attire": "Swaddled in white linen",
+      "notes": "Born at stroke of midnight during a violent lightning storm in Smiljan. FLUX cannot render infant Tesla from training data — needs description.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1859",
+      "type": "character",
+      "era": "1859",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1856,
+      "physique": "Serbian boy, approximately 3 years old, slight frame, dark hair, large dark eyes, small hands spread flat on the cat's back",
+      "attire": "Simple linen shirt, loose trousers, bare feet",
+      "notes": "The cat scene. Pulled a sheet of sparks from Macak's back in a dark room. Responded with a question, not fear. FLUX needs description for child-age Tesla.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1862",
+      "type": "character",
+      "era": "1862",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1856,
+      "physique": "Serbian boy, approximately 6 years old, thin build, dark hair, intense focused eyes, holding a tin fork at the dinner table",
+      "attire": "Simple linen shirt, braces, dark trousers",
+      "notes": "The geometry vision scene. Fork in hand at dinner table when the visual field was replaced by luminous squares. FLUX needs description for child-age Tesla.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1884",
+      "type": "character",
+      "era": "1884",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 28. Arrived at Port of New York with four cents and a letter of introduction to Thomas Edison.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Duka_Tesla_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1822,
+      "physique": "Serbian woman, mid-30s, strong peasant build, dark hair pulled back tightly, weathered hands, intense dark eyes, high cheekbones, broad shoulders from farm work",
+      "attire": "Simple white linen dress for childbirth, wool blanket over shoulders",
+      "notes": "Tesla's mother, née Mandic. Known for exceptional memory — could recite Serbian epic poetry at length. Built her own household tools. Gripped the wooden headboard rail during labor with the focus of someone doing something with all of themselves.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Milutin_Tesla_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1819,
+      "physique": "Serbian Orthodox priest, late 30s, tall, lean build, full dark beard, deep-set eyes, high forehead, scholarly bearing",
+      "attire": "Black Orthodox clerical robe with silver cross pendant",
+      "notes": "Tesla's father. Parish priest of Smiljan. Spoke four languages. Could parse Greek and Latin scripture. Named what his son pulled from the cat's back: electricity. The same thing as lightning.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "The_Midwife_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1795,
+      "physique": "Croatian village woman, approximately 61 years old, stout and sturdy build, grey hair beneath a white kerchief, calloused hands, practical weathered face, expression of someone who has seen the work of birth and death without flinching",
+      "attire": "Simple brown wool dress, white apron, leather shoes",
+      "notes": "Unnamed village midwife who delivered Tesla. Had lived on the Lika plateau for 61 years. Hair on her forearms stood straight up crossing the threshold. Sparks jumped from her skirts with every step. Described to her daughter that the smell in the house was the smell of lightning that had already struck — while the lightning was still in the sky.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Zdravko_Blazic_1856",
+      "type": "character",
+      "era": "1856",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1820,
+      "physique": "Croatian schoolteacher, mid-30s, lean build, neat dark hair, ink-stained fingers, observant eyes behind a practical expression, the look of a man trained to write down what he sees",
+      "attire": "Simple wool coat, white shirt, dark trousers, leather boots",
+      "notes": "Schoolteacher in Gospic valley, 15 kilometers below Smiljan. Kept a meticulous diary of weather, road conditions, and livestock. His July 1856 entry described livestock standing in open fields facing the same direction, the well water tasting different, and the morning light looking like an examination being conducted. The exact date is water-damaged in the surviving page.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Subject_K_1974",
+      "type": "character",
+      "era": "1974",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1894,
+      "physique": "Croatian woman, approximately 80 years old, small and thin, white hair, careful deliberate speech, the bearing of someone carrying something she has been deciding whether to pass on for decades",
+      "attire": "Simple dark dress, wool shawl, practical shoes",
+      "notes": "Identified only as Subject K. in a 1974 cassette interview with a graduate student from the University of Zagreb. Third-generation memory carrier. Her grandmother was a young woman from Gospic in 1856 who described the sky looking clean in a way it hadn't been before the morning after Tesla's birth. Died before 1990. No family named.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Dane_Tesla_1863",
+      "type": "character",
+      "era": "1863",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1851,
+      "physique": "Serbian boy, approximately 12 years old, taller and heavier than Nikola, dark hair, confident bearing of the celebrated eldest son",
+      "attire": "Simple linen shirt, dark trousers, worn leather shoes that had been broken in precisely to his foot's shape",
+      "notes": "Tesla's older brother. Died in a horse accident in Smiljan, approximately 1863-1865 (sources disagree). His coat remained on the hook by the door. His shoes held the shape of a foot that would not return. After his death, Tesla's visions intensified in frequency and vividness.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Walter_Simmons_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1900,
+      "physique": "American man, early 40s, medium build, practical work-worn face, steady observant eyes, the unhurried bearing of someone who has walked the same building corridors for years",
+      "attire": "Hotel maintenance uniform — grey coveralls or work trousers and jacket, heavy leather work boots",
+      "notes": "Maintenance worker at the Hotel New Yorker from approximately 1935 to 1950. Kept a diary of the building's physical life. In January 1943, during routine rounds on the 33rd floor, smelled ozone in the corridor near Room 3327 despite it being January with no storm. Noted it in his diary and walked on. His diary ends with that January 1943 entry. His initials and partial diary survive in a typescript provided to a researcher in the 1960s; the researcher died before the book was published. The foundation holding the estate papers does not maintain a public finding aid.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "PE_Foxworth_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1906,
+      "physique": "American man, late 30s, clean-shaven, sharp jaw, close-cropped dark hair, military bearing in a civilian suit, alert eyes that do not settle",
+      "attire": "Dark grey wool suit, white shirt, narrow tie, fedora, leather briefcase",
+      "notes": "FBI Assistant Director. Head of the Special Intelligence Service. Was involved from early on January 7, 1943 — before Tesla's body was publicly reported. His timeline of involvement precedes the publicly established discovery timeline.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "John_G_Trump_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1907,
+      "physique": "American man, mid-30s, round face, receding hairline, wire-rimmed glasses, academic softness, mild expression that does not match the weight of what he was asked to evaluate",
+      "attire": "Tweed suit jacket, bow tie, white shirt, leather oxfords",
+      "notes": "MIT physicist assigned to review Tesla's seized papers. Reviewed 60 years of work in three weeks. Concluded the material did not include new workable principles for scientific or military application and would not constitute a hazard in unfriendly hands. The material was then classified for decades.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Hotel_New_Yorker_1943",
+      "type": "location",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Art deco hotel, 43 stories, corner of 34th Street and 8th Avenue, Manhattan. Tesla's home for his final decade, given to him at a nominal or free rate in exchange for the distinction of his residence.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Room_3327_1943",
+          "era": "1943",
+          "physique": "Corner room on the 33rd floor. Heavy curtains, still against the cold winter light. Dark wood desk positioned near the window. Single bed against the north wall, sheets pulled to military tightness. Hotel napkins stacked on desk and bedside table and scattered on the floor, covered in dense mathematical notation that crosses the paper edges without registering them as limits. Radiator ticking beneath the window. Three gray-tipped feathers on the windowsill, arranged as if placed. The room colder than the corridor — the cold of a space that has not had a living body moving through it. The air carries the smell of a summer storm in January.",
+          "notes": "Room number divisible by 3. Tesla's requirement. The window was left open for the white pigeon. The Do Not Disturb sign had been on the door for three days before Monaghan opened it."
+        },
+        {
+          "name": "Hotel_Corridor_33rd_Floor_1943",
+          "era": "1943",
+          "physique": "Long narrow hallway, repeating pattern of dark wood doors. Geometric carpet in muted burgundy and gold. Flat institutional lighting from wall sconces. Brass room numbers on each door. Quiet. Still. The smell of ozone detectable near Room 3327 — the kind of smell that arrives after a summer storm — in a building with sealed windows in January.",
+          "notes": "Where Walter Simmons noticed the smell during his regular maintenance rounds."
+        },
+        {
+          "name": "Hotel_New_Yorker_Exterior_1943",
+          "era": "1943",
+          "physique": "43-story art deco tower at the corner of 34th Street and 8th Avenue. Brick and limestone facade with strong vertical emphasis. Hotel New Yorker signage near the crown. Street-level awnings. January snow on sidewalks. Yellow taxicabs on 8th Avenue. Pedestrians in winter overcoats and hats.",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Smiljan_Village_1856",
+      "type": "location",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Small village on a high limestone plateau in the Lika region of the Austrian Empire's Military Frontier. Rocky karst landscape, cold even in summer. Stone farmhouses with dark timber roofs and whitewashed walls. A single road through the village. A Serbian Orthodox parish church at the center. Wild thyme growing between the stones. Summer night — dense warm air, limestone dust smell, distant thunder.",
+      "attire": "",
+      "notes": "Modern-day Croatia. Population under 400 in 1856. The Tesla family farmhouse was adjacent to the parish church where Milutin Tesla served as priest.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Tesla_Farmhouse_Smiljan_1856",
+          "era": "1856",
+          "physique": "Simple stone farmhouse with whitewashed walls and dark timber roof. Small windows with wooden shutters. Bare earth yard. Oil lamp light visible through the window. The smell of the storm outside penetrating the walls — sharp, clean, electric. Interior: rough stone walls, low timber ceilings, oil lamp casting uneven light.",
+          "notes": "Where Tesla was born at the stroke of midnight, July 10, 1856, during a violent lightning storm."
+        },
+        {
+          "name": "Tesla_Birthing_Room_1856",
+          "era": "1856",
+          "physique": "Small interior room lit by a single oil lamp. Rough stone walls, low timber ceiling. A bed with linen sheets. A washing basin on a wooden stand. Hair on arms standing up from atmospheric charge. Sparks jumping from fabric to floorboard. The air thick with the smell of lightning — metallic, copper-edged, sharp — despite the storm being outside.",
+          "notes": "The smell in the room was the smell of lightning that had already struck, while the lightning was still in the sky."
+        },
+        {
+          "name": "Tesla_Dark_Room_1859",
+          "era": "1859",
+          "physique": "A dark interior room in the Tesla farmhouse. No lamp lit. Night. A three-year-old boy sitting with a large family cat on his lap, hands spread flat on the animal's back. The fur warm under small palms. Complete darkness until the sheet of sparks erupts — blue-white, continuous, fanning from tail to neck, illuminating the child's own finger bones from beneath.",
+          "notes": "The cat Macak scene. Approximately 1859 when Nikola was age 3."
+        },
+        {
+          "name": "Tesla_Dining_Room_1862",
+          "era": "1862",
+          "physique": "Family dining room in the Tesla farmhouse. A table set for a meal. The ordinary sonic texture of family dinner — conversation, the clatter of tin utensils. A boy of approximately 6 holding a tin fork, the seam where handle meets tines detectable under his thumb. The room as it appears before the vision: warm, occupied, ordinary. Then the visual field replaced entirely by perfect luminous squares tessellated across every surface.",
+          "notes": "Where Tesla first experienced the geometry vision at approximately age 6, circa 1862."
+        }
+      ]
+    },
+    {
+      "name": "Gospic_Valley_1856",
+      "type": "location",
+      "era": "1856",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Valley town 15 kilometers below Smiljan on the limestone karst road. The valley floor visible from the plateau above. Open fields surrounding the town. Livestock normally pressed against fences and enclosures during storms. The morning after the birth storm: open fields with livestock standing in the open, all facing the same direction. The light that morning described as an examination being conducted — very white and particular, not the ordinary summer light of the Lika region.",
+      "attire": "",
+      "notes": "Where Zdravko Blazic kept his diary and the Austrian Imperial Meteorological Institute maintained an observation station.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Blazic_Schoolhouse_1856",
+          "era": "1856",
+          "physique": "A modest schoolteacher's quarters or private room in Gospic. A writing desk by a window. Ink and quill. A diary open to a freshly written entry. The window facing the valley fields where the livestock stood. Predawn light becoming the strange examination-quality morning light of July 11, 1856.",
+          "notes": "Where Blazic recorded his observations of the livestock, the well water, and the light quality the morning after Tesla's birth."
+        },
+        {
+          "name": "Austrian_Meteorological_Station_1856",
+          "era": "1856",
+          "physique": "Small observation station — a stone or timber outbuilding with a barometer, thermometer, and early atmospheric instruments mounted on stands. A log book open on a writing surface. A margin notation in a hand different from the standard observer's — different pen, different pressure. The instrument showing an anomalous reading that was checked and re-checked and could not be explained.",
+          "notes": "The Austrian Imperial Meteorological Institute maintained a station in Gospic as part of its network. The margin note reads: atmospheric ionization reading anomalous this morning. Instrument rechecked. No instrument fault found. There is no follow-up entry."
+        }
+      ]
+    },
+    {
+      "name": "Hotel_St_Regis_1922",
+      "type": "location",
+      "era": "1922",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Where Tesla was living in 1922 when the white pigeon died in his hands. He was at the St. Regis before further financial unraveling brought him eventually to the Hotel New Yorker.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Tesla_Hotel_Room_St_Regis_1922",
+          "era": "1922",
+          "physique": "Hotel room interior, 1920s. A man in his mid-60s holding a dying white bird with gray-tipped wings. The bird's weight shifting from held to carried. The room ordinary in every respect except for the light that came from the pigeon's eyes in the moment of her death — described as more powerful and blinding than anything Tesla had produced in his laboratory.",
+          "notes": "The moment the white pigeon died. O'Neill recorded Tesla's account of a real light, powerful and blinding, more intense than the most powerful lamps in his laboratory."
+        }
+      ]
+    },
+    {
+      "name": "Macak_The_Cat_1859",
+      "type": "object",
+      "era": "1859",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Large Serbian farm tomcat. Dark-striped fur, heavy body. Back broad enough for a three-year-old to press both hands flat against. In darkness, the fur erupts with a continuous sheet of blue-white sparks fanning from the base of the tail to the neck when stroked — illuminating the child's finger bones from beneath for one instant before returning to darkness.",
+      "attire": "",
+      "notes": "The family cat. Mačak is the Serbian word for tomcat. The discharge from his fur is what prompted Milutin Tesla to name electricity for his son for the first time.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "White_Pigeon_1922",
+      "type": "object",
+      "era": "1922",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A white pigeon, pure white with light grey tips on her wings. Small body — lighter than appearance suggests, the feathers making the size while the body beneath is much smaller. She made a habit of Tesla's window and returned daily. When dying: held in two large aged hands, the small body still warm, the grey-tipped wings spread slightly, the eyes producing a light more intense than any lamp in Tesla's laboratory.",
+      "attire": "",
+      "notes": "Tesla described her to biographer O'Neill: a beautiful bird, pure white with light grey tips on her wings. He described finding recognition in her gaze — the only recognition in 86 years of looking. He loved her as a man loves a woman, and she loved him. When she died, something went out of my life. And then: Up to that time I knew with a certainty that I would complete my work.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Three_Gray_Tipped_Feathers_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Three feathers on the windowsill of Room 3327. Each feather primarily white with gray tips. They do not lie as if drifted there or shed casually. They lie at angles relative to each other that suggest placement — deliberate, considered arrangement.",
+      "attire": "",
+      "notes": "Found by Alice Monaghan when she entered Room 3327 on January 8, 1943. The white pigeon had been dead for approximately 20 years. The feathers were on the windowsill despite the window being closed and undisturbed.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tesla_Hotel_Napkin_Equations_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Dozens of white hotel napkins covered in dense mathematical notation in pencil — equations in a handwriting that crosses the printed borders of the napkins without adjusting, that treats the paper's edge as a limit the mind declined to recognize. Found on the desk, the bedside table, and the floor beside the bed. The equations are real mathematics — active scientific work, not scribbling.",
+      "attire": "",
+      "notes": "Tesla used hotel napkins as his primary writing surface in his final years. The work showed no mental deterioration. The equations crossed the paper's edges as if the physical limits of the surface were irrelevant to the thinking being recorded.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tesla_Seized_Trunks_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Twenty trunks — worn leather steamer trunks with brass clasps, reinforced wooden crates bound with wire, cardboard filing boxes. Mixed sizes. Labels in mixed English and Serbian handwriting in Tesla's personal shorthand, dates spanning six decades. The accumulated output of a working mind that had not stopped until it stopped entirely: notes, designs, private correspondence, objects of investigation.",
+      "attire": "",
+      "notes": "Seized by the Office of Alien Property Custodian within approximately two days of Tesla's death. Reviewed by John G. Trump in three weeks. Declared harmless. Then classified for decades.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "OAPC_Pre_Labeled_Crates_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "New wooden shipping crates of raw unfinished pine slats, splintery. Stamped with official government markings in black ink: OFFICE OF ALIEN PROPERTY. Serial numbers. Pre-labeled before Tesla's death — the dimensions calibrated for what they intended to take, as if the inventory had been measured in advance.",
+      "attire": "",
+      "notes": "The agents arrived with these crates already prepared and labeled. Empty. Already fitted for transport. Pre-labeling crates is not a response to death — it is preparation for an expected event.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Blazic_Diary_1856",
+      "type": "object",
+      "era": "1856",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A handwritten diary, leather-bound, pages filled with a schoolteacher's careful script. The writing has the patient texture of a man recording the observable world for its own sake — weather, road conditions, livestock counts. One page water-damaged, the date partially illegible. A July 1856 entry describing livestock behavior, well water taste, and the examination-quality light of the morning of July 11. Transcribed in a 1931 regional folklore pamphlet that exists in no national archive.",
+      "attire": "",
+      "notes": "Zdravko Blazic's diary. The July 1856 entry was written quickly, before the mind's need for explanation could smooth the image into comfort. He wrote it and moved to the next day's entry: road conditions.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Atmospheric_Ionization_Log_1856",
+      "type": "object",
+      "era": "1856",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A formal observation log from the Austrian Imperial Meteorological Institute's Gospic station. Standard printed columns for atmospheric pressure, temperature, and precipitation filled in with careful bureaucratic handwriting. In the margin of the July 11, 1856 entry: a notation in a different hand, different pen, different pressure on the nib — written by someone who did not sign. The margin notation is the only anomaly in an otherwise standard record.",
+      "attire": "",
+      "notes": "The margin note reads: Atmospheric ionization reading anomalous this morning. Instrument rechecked. No instrument fault found. Will report if anomaly continues. There is no follow-up entry. The note was written by a second observer who did not sign and never followed up.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
