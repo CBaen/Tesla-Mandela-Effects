@@ -295,7 +295,7 @@ He gave George Westinghouse his Niagara patents for far less than their value be
 
 Then Wardenclyffe. A tower on Long Island, designed to transmit electrical power wirelessly across the planet. Not through wires — through the Earth itself. The planet was a conductor, which it is, and if you could induce the right resonant frequency in it, you could make energy as ubiquitous as air: present everywhere, available to anyone, billable to no one. His primary investor was J.P. Morgan. When Morgan understood what Tesla was actually building — a system with no mechanism for charging customers per unit, energy as free as the atmosphere — he pulled the funding. The tower stopped. Wardenclyffe was demolished for scrap during the First World War. The scrap did not cover what Tesla owed.
 
-From there: hotels. A sequence of them, moving as the debts became impossible. The Hotel New Yorker offered him a room in exchange for the distinction of having Nikola Tesla as a resident. Some accounts say the rate was nominal. Some say it was free. He accepted. He had no other option. He was eighty-three years old and the century he had powered was not paying him back.
+From there: hotels. A sequence of them, moving as the debts became impossible. The Hotel New Yorker offered him a room in exchange for the distinction of having Nikola Tesla as a resident. Some accounts say the rate was nominal. Some say it was free. He accepted. He had no other option. He was seventy-seven years old and the century he had powered was not paying him back.
 
 And in that room — in the room that had been assigned to him in exchange for his name — he could not find his kind.
 
