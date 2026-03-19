@@ -102,7 +102,7 @@ Completed neoclassical facades on the Manufactures and Liberal Arts Building —
 
 Not handwriting. Not a label applied later, open to questions of attribution. The date code is part of the manufacturing process of the glass itself — pressed into the edge of the plate at the point of manufacture, indicating the period in which the plate was produced. The six glass plates carry date codes consistent with early eighteen ninety-one.
 
-Groundbreaking at Jackson Park was in the fall of eighteen ninety.
+Physical construction at Jackson Park began in January of eighteen ninety-one.
 
 The official construction timeline for the Manufactures and Liberal Arts Building places the completion of the facade in late eighteen ninety-two, approximately two years after groundbreaking. For the facades shown in the Halsted negatives to be as complete as they appear, the construction would have had to progress at a rate significantly faster than the documented timeline — or the photographs are showing something that does not correspond to the documented timeline.
 
