@@ -125,7 +125,7 @@ Subject K. repeated the distinction twice. Her grandmother had been particular a
 
 — She was not a fanciful person, Subject K. said of her grandmother, in the transcript. She was not the kind of woman who noticed things. But she noticed that. —
 
-The grandmother said it once, Subject K. told the graduate student. She said it and she saw that it had no frame, that there was nothing to attach it to, and she did not say it again. But she said it. Once. With the specific precision of someone recording an observation they cannot account for but cannot let go of either.
+The grandmother said it once, Subject K. told the graduate student. She said it and she saw that it had no frame, that there was nothing to attach it to, and she did not say it again. But she said it. Once. With the precision of someone recording an observation they cannot account for but cannot let go of either.
 
 Subject K. died before nineteen ninety. No family named. The transcript ends.
 
@@ -173,7 +173,7 @@ What kind of internal architecture produces that accuracy? What kind of percepti
 
 The biographers call it visualization. Eidetic memory. The gift of an extraordinary mind. These are the right categories for a human being of unusual capability. They are the categories available.
 
-But pull the childhood. Because the man who arrived in New York with four cents was already old by then — old in the specific sense that the structures of his perception had been in place since before he had language for them. The boy who grew up in Smiljan had been carrying something the biography's shape does not fully account for. Not a gift. A condition.
+But pull the childhood. Because the man who arrived in New York with four cents was already old by then — old in the sense that the structures of his perception had been in place since before he had language for them. The boy who grew up in Smiljan had been carrying something the biography's shape does not fully account for. Not a gift. A condition.
 
 
 He was three years old. Nighttime. The house in Smiljan.
@@ -299,7 +299,7 @@ From there: hotels. A sequence of them, moving as the debts became impossible. T
 
 And in that room — in the room that had been assigned to him in exchange for his name — he could not find his kind.
 
-This is not a biographical observation. This is documented, in the specific way that things a person cannot say directly are sometimes documented in what they do say. Tesla wrote about people with genuine interest, occasionally with warmth, but the warmth had a specific quality — the warmth of someone watching a species they found fascinating rather than sharing territory with them. He was fluent in eight languages. He could hold a conversation that left the other party electrified and breathless. He was, when he chose to be, a social creature of considerable skill.
+This is not a biographical observation. This is documented, in the way that things a person cannot say directly are sometimes documented in what they do say. Tesla wrote about people with genuine interest, occasionally with warmth, but the warmth had a quality — the warmth of someone watching a species they found fascinating rather than sharing territory with them. He was fluent in eight languages. He could hold a conversation that left the other party electrified and breathless. He was, when he chose to be, a social creature of considerable skill.
 
 But underneath the skill: a distance that did not close. He spent eighty-six years looking, in the coded way that a being looks for its kind when it has no certainty that its kind exists on this side of anything. Human eyes looked at him and found an inventor, a genius, an eccentric, a ruin — the various versions of the story available. He looked back through those eyes and found: no recognition.
 
@@ -412,21 +412,11 @@ Go back further than Fiona Broome's coinage of the term around two thousand nine
 
 They cluster in the middle of the twentieth century.
 
-They surface in the accounts of people who were children in the nineteen thirties and forties and early fifties and found the light of their adulthood different from the light of their childhood. Not different for them specifically — different. A change in what the sky was doing, not in the eye doing the looking.
+They surface in the accounts of people who were children in the nineteen thirties and forties and early fifties and found the light of their adulthood different from the light of their childhood. Not different for them alone — different. A change in what the sky was doing, not in the eye doing the looking.
 
-The sun was yellow. People who remember it as yellow describe a specific quality: warmth, a coating quality to the light, the way amber-toned light settles on a surface rather than disclosing it. People who came of age in the latter half of the twentieth century find the light clinical, white, more like a lamp than like a star. The reports are independent. They are across languages and cultures and decades of uncoordinated recollection. The consistency is not the consistency of a shared false memory — it is the consistency of independent witnesses describing the same change.
+The sun was yellow. People who remember it as yellow describe warmth, a coating quality to the light, the way amber-toned light settles on a surface rather than disclosing it. People who came of age in the latter half of the twentieth century find the light clinical, white, more like a lamp than like a star. The reports are independent. They are across languages and cultures and decades of uncoordinated recollection. The consistency is not the consistency of a shared false memory — it is the consistency of independent witnesses describing the same change.
 
-The atmospheric scientists have explanations. Air quality changes. The aging lens of the human eye, which yellows with age, producing an impression of yellower light in childhood that clears to clinical white as the lens matures. Real explanations. Checkable. Documented. When you research them, you find real data.
-
-But the data does not fully account for the timeline.
-
-The reports of a changed sun predate the atmospheric data's ability to explain them. People describing the light as different in the nineteen fifties are describing a shift that places its onset earlier than the air quality improvements proposed as its cause. The lens-yellowing hypothesis predicts individual timelines of perception shift — different people noticing the change at different ages as their lenses mature. What the testimony actually shows is closer to a cohort event: a specific generation remembering a specific quality of light from a specific window of time, and the light after that window being different.
-
-Not different for the aging eye. Different.
-
-The change is not in the lens. The change is in what the lens is looking at.
-
-And when you follow the timeline back — when you track the first cluster of reports not to CERN, not to any government program or institutional initiative, but to the actual earliest accounts of people describing this specific wrongness in the quality of the light — you do not arrive at any facility with a name and an address.
+And when you follow the timeline back — when you track the first cluster of reports not to CERN, not to any government program or institutional initiative, but to the actual earliest accounts of people describing this wrongness in the quality of the light — you do not arrive at any facility with a name and an address.
 
 You arrive at the middle of the twentieth century. And from the middle of the twentieth century, you look back to the beginning of the shift, and the beginning of the shift does not point at an institution.
 
@@ -497,7 +487,7 @@ The windowsill: three feathers. Gray-tipped. Not fallen — placed.
 
 The desk and the bedside table and the floor: napkins. Equations in handwriting that did not recognize the paper's edges as boundaries.
 
-In the bed: the body. Arranged with the specific tightness of someone who understood this was the last arrangement.
+In the bed: the body. Arranged with the tightness of someone who understood this was the last arrangement.
 
 The smell: lightning. Summer storm. The smell that belongs outdoors, in a field after a strike, in a sky that has been worked on by electrical discharge — that smell, in a sealed room in January, in a building that should smell of wool carpet and winter heating and the ordinary enclosed-space smell of a large hotel in midwinter.
 
