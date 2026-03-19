@@ -127,9 +127,9 @@ The official construction timeline for the Manufactures and Liberal Arts Buildin
 
 The official explanation exists and it is the correct place to start. Glass plates were reused. The date code indicates plate manufacture, not photograph exposure. Supervising engineers sometimes staged construction photographs for official record, documenting completed sections in advance of the overall project schedule. These are reasonable explanations. They account for the anomaly without requiring the timeline to be wrong.
 
-The investigation notes them.
+The record notes them.
 
-The investigation also notes that the Halsted negatives are six plates. Not a systematic documentation series — six plates from what would have been a much larger documentation effort if the construction was being photographed at multiple stages. Six plates donated by an unnamed estate in nineteen thirty-seven. Six plates that show something that requires explanation, in a collection that doesn't permit the examination necessary to fully resolve the question.
+The record also notes that the Halsted negatives are six plates. Not a systematic documentation series — six plates from what would have been a much larger documentation effort if the construction was being photographed at multiple stages. Six plates donated by an unnamed estate in nineteen thirty-seven. Six plates that resist the explanations available, in a collection that doesn't permit the examination necessary to fully resolve the question.
 
 The photographs were designed to make the buildings look permanent.
 
@@ -138,7 +138,7 @@ That explanation is complete and accurate.
 But now comes Elias Coburn.
 
 
-The standard account of how the White City was built deserves its full weight before it is destabilized, because it is remarkable on its own terms and the investigation is not served by treating it as a deception before the evidence requires that.
+The standard account of how the White City was built deserves its full weight before it is destabilized, because it is remarkable on its own terms and this account is not served by treating it as a deception before the evidence requires that.
 
 Staff plaster was an architectural achievement. The composite of plaster of Paris, cement, glycerin, and binders — primarily jute fiber and dextrin, a starch-derived adhesive — could be cast or troweled over wire lath and structural framing to produce detailed decorative surfaces with a speed that traditional stone construction couldn't match. European exposition buildings had used similar techniques for decades. The Paris Exposition Universelle of eighteen eighty-nine had demonstrated what temporary exhibition architecture was capable of — the Eiffel Tower was the iron anchor of that fair, but the surrounding exhibition buildings were exercises in exactly the kind of rapid-construction grandeur that staff composite made possible.
 
@@ -358,7 +358,7 @@ The cylinder came up grey-white, not the brown-grey of Portland cement aggregate
 
 He held the section up to the October light.
 
-He recognized it. He had been identifying subsurface materials by core sample for fifteen years. This was Indiana limestone aggregate — not geological, not native bedrock, not something that had been here before anyone built on the site. Cut. The word implied quarrying. The word implied someone had selected this specific stone and placed it here, below where the south colonnade of the Manufactures and Liberal Arts Building had stood.
+He recognized it. He had been identifying subsurface materials by core sample for fifteen years. This was Indiana limestone aggregate — not geological, not native bedrock, not the glacial till deposited here before anyone built on the site. Cut. The word implied quarrying. The word implied someone had selected this specific stone and placed it here, below where the south colonnade of the Manufactures and Liberal Arts Building had stood.
 
 He wrote it down: Density and composition more consistent with cut limestone aggregate than with mixed cement staff. Located at depth consistent with foundation pier extension, south colonnade zone, Manufactures and Liberal Arts Building footprint.
 
