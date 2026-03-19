@@ -215,17 +215,17 @@ Fork in his hand. Tin. Heavy for a child's hand — heavier than it looks, sligh
 
 Then the fork was gone.
 
-Not: and then the fork fell. Not: and then his attention wandered. The fork was in his hand and then his hand was holding nothing and the table was gone and his mother's face was gone and the room was gone and in their place — squares.
+Not: and then the fork fell. Not: and then his attention wandered. The fork was in his hand and then his hand was holding nothing and the table was gone and his mother's face was gone and the room was gone — and in their place, a flash of blinding light so complete it erased the dining room entirely.
 
-Perfect. Luminous. Tessellated across every surface his eyes could reach, replacing the visible world completely, the way a projection replaces whatever is behind the screen — not covering it, replacing it. The geometry was absolute. It had not arrived gradually. It had arrived the way weather arrives: present, total, requiring no permission.
+Then: a place.
 
-Every surface in the geometry was documented. Not experienced — documented. The squares mapped each plane they covered with a quality of light that illuminated by cataloguing rather than by warming. Whatever the squares were, they were not looking at the room. They were recording it.
+Not the Tesla household. Not anywhere near Smiljan. A scene he had been before, or seen, or carried somewhere in the back of the mind the way a child carries images they cannot account for — the exact texture of a wall, the quality of afternoon light against stone, the particular geometry of a space he had no business knowing at six years old. It was as real as the dinner table had been. More real, in the way that something seen in full daylight is more real than something glimpsed in shadow. The visual field had not dimmed. It had been replaced. And what it was replaced with was not dream-logic or approximation — it was the high-resolution particularity of a place, arriving with no explanation and no exit.
 
-He could not have said this at six. He had no language for it at six. He could only be inside it — inside the replacement of the visual world with something that had arrived without his choosing it, that covered everything he could see with a system of perfect squares, that was as real as the dinner table had been, and more ordered, and utterly indifferent to whether he was comfortable with its arrival.
+He documented this in his memoir with the matter-of-fact precision of a technical specification. The flashes of light: blinding, involuntary, total. The images that followed: vivid scenes from places he had been or things he had seen, arriving without warning, so complete they displaced the actual surroundings. He described learning to interrupt the episodes — developing techniques for shortening them, finding ways to return to the ordinary world faster. The language in the memoir is the language of an engineer writing about a system he had to learn to manage: here is a phenomenon I experience, here are the methods I applied.
 
 The fork was still in his hand.
 
-He could feel it. The weight of it, the seam under his thumb — the tactile world had not gone anywhere. Only the visual field had been replaced. And so he held a fork in a world of light-geometry, and the world of light-geometry did not care that he was holding a fork, and he could not turn it off any more than he could turn off the sound of his own name.
+He could feel it. The weight of it, the seam under his thumb — the tactile world had not gone anywhere. Only the visual field had been replaced. And so he held a fork somewhere that was not the dinner table, and the somewhere did not care that he was holding a fork, and he could not turn it off any more than he could turn off the sound of his own name.
 
 Then it receded. Not suddenly — gradually, the way a heavy fog doesn't lift all at once but thins, and the shapes behind it become visible as shadows first, then as outlines, then as the full resolution of the familiar world. The table. The smell of whatever was being cooked. His mother's face.
 
@@ -235,21 +235,19 @@ Her expression: she had seen his eyes go somewhere. This was not the first time.
 
 He could not tell her where he had gone. He did not have the words for where he had gone. He had the fork in his hand and the seam still under his thumb and the smell of dinner and his mother's face returning the specific quality of attention of a woman who has already decided not to say anything.
 
-The biographers note the visual phenomena: flashes of blinding light, involuntary images that replaced the visual field, documented in Tesla's own memoir in nineteen nineteen. They note the lifelong geometric compulsion: counting steps, dividing objects into groups of three, calculating the cubic volume of food before eating it, the need to arrange the world in patterns divisible by three. W. Bernard Carlson's biography — "Tesla: Inventor of the Electrical Age," Princeton University Press, twenty thirteen — documents this compulsion as consistent across Tesla's entire life. Not a phase. Not a preference. A need. Its absence produced distress. Its satisfaction produced something the record reads as relief.
+The visual episodes were not the only phenomenon. There was a second, separate behavior running alongside them throughout Tesla's entire life: the need to count. The need to divide. Steps counted as he walked them. Objects arranged in groups of three. The cubic volume of food calculated before eating. Patterns built from multiples of three — in his movements, his habits, the number of times he circled a building before entering. W. Bernard Carlson's biography — "Tesla: Inventor of the Electrical Age," Princeton University Press, twenty thirteen — documents this compulsion as consistent from childhood through old age. Not a phase. Not a preference. A need. Its absence produced distress. Its satisfaction produced something the record reads as relief.
 
 The biographers call it obsessive-compulsive disorder. The neurological texture of an extraordinary mind.
 
 Maybe. That category exists for good reasons and fits a great deal of what the record shows.
 
-But there is something the category does not quite account for. The OCD framework describes a mind that imposes a system on the world because the world's disorder produces distress. It describes an internal compulsion meeting an external reality. What Tesla's own account describes is slightly different: a system he perceived overlying the world, a geometric order that was already there, that he was not imposing but recognizing. The compulsion to divide objects into groups of three, to arrange the world in geometric units — what if that was not a symptom of a mind creating a system the world didn't have?
+But pull the two phenomena apart and look at them separately. The flashes and vivid images: something arriving from outside, imposing itself on the visual field, replacing the world with scenes he had not chosen to see. The counting and dividing: a need to organize the world into geometric units, groups of three, cubic measures — an internal compulsion moving outward to impose structure on what was around him.
 
-What if it was the attempt to make the visible world match what he was already seeing?
+What if they were not the same phenomenon? What if the counting was not the origin of the geometry but the response to it — the attempt to make the visible world match something the visual episodes were already showing him?
 
-The six-year-old at the dinner table had not looked for the geometry. It had found him.
+The six-year-old at the dinner table had not looked for the replacement. It had found him.
 
-And it would not stop finding him. From that dinner table through every year that followed, the geometry returned, uninvited, replacing the visual world with its squares, departing on its own schedule without explanation or apology. He learned to manage it. He developed techniques for shortening the episodes, for interrupting them, for returning to the ordinary world faster. He documented this in his memoir with the matter-of-fact precision of someone writing a technical specification: here is a phenomenon I experience, here are the methods I developed to manage it.
-
-He did not write about it as an affliction. He wrote about it as data from a source he had not identified.
+And it would not stop finding him. The episodes returned, uninvited, departing on their own schedule without explanation or apology. He learned to manage them. He did not write about them as an affliction. He wrote about them as data from a source he had not identified.
 
 
 Dane Tesla died when Nikola was approximately seven years old — the biographies place it variously between eighteen sixty-three and eighteen sixty-five, the exact year disagreed upon across sources. A horse accident in Smiljan. The details of the accident are thin in the record. Tesla's own memoir gives only: "I witnessed the tragic scene." That is all. A single sentence. The physical details: absent.
@@ -375,23 +373,23 @@ The pre-labeled crates. This detail resists comfortable explanation. You do not 
 
 Approximately eighty trunks and crates, along with barrels and packages — six decades of work: the notes, the designs, the private correspondence, the objects of investigation accumulated by a mind that had not stopped working until it stopped entirely. The government assigned Dr. John G. Trump, an electrical engineer from MIT with appropriate security clearances, to review what Tesla had spent sixty years producing.
 
-Three weeks.
+Three days.
 
-Trump reviewed sixty years of work in three weeks. His conclusion, in the language the declassified record actually contains — not the paraphrase that has entered popular circulation: Tesla's work did not include new sound workable principles or methods for scientific or military application, and would not constitute a hazard in unfriendly hands.
+Trump reviewed sixty years of work in three days. His conclusion, as the declassified record shows — summarized here from his assessment across multiple sections of the report: Tesla's work did not include new sound workable principles or methods for scientific or military application, and would not constitute a hazard in unfriendly hands.
 
 Harmless.
 
 The FBI's declassified Tesla file runs more than three hundred pages. Publicly available through the FBI's online FOIA reading room. Anyone can read it.
 
-The individual contents of the twenty trunks remained classified for decades.
+The individual contents of those approximately eighty trunks and crates remained classified for decades.
 
-A physicist reviewed twenty trunks of material, declared that material harmless, and the harmless material was classified.
+An electrical engineer reviewed eighty trunks of material in three days, declared that material harmless, and the harmless material was classified.
 
-Harmless things are not classified. Harmless things are catalogued, archived, and eventually made available to researchers who fill out the appropriate forms. Harmless things do not require pre-labeled crates prepared before the death they are supposedly responding to. Harmless things do not require the head of the Special Intelligence Service to be involved before the public record has caught up.
+Harmless things are not classified. Harmless things are catalogued, archived, and eventually made available to researchers who fill out the appropriate forms. Harmless things do not require crates that arrived within approximately two days of Tesla's death. Harmless things do not require the head of the Special Intelligence Service to be involved before the public record has caught up.
 
-Twenty trunks. Pre-labeled. Classified. The individual contents: unavailable for decades.
+Approximately eighty trunks. Classified. The individual contents: unavailable for decades.
 
-The institutional story is clean. It is well-documented. The enemy has a name — the Office of Alien Property Custodian, P.E. Foxworth, John G. Trump's three-week review — and an address and a filing number and three hundred pages of declassified documentation available to anyone who looks.
+The institutional story is clean. It is well-documented. The enemy has a name — the Office of Alien Property Custodian, P.E. Foxworth, John G. Trump's three-day review — and an address and a filing number and three hundred pages of declassified documentation available to anyone who looks.
 
 That is the answer.
 
@@ -421,7 +419,7 @@ It points at a birth.
 
 What arrived in Smiljan on July tenth, eighteen fifty-six?
 
-The institutional investigation — the FBI's three hundred pages, the pre-labeled crates, John G. Trump's three-week review — is organized around what Tesla left behind in his work. What did he know? What had he built? What required seizing?
+The institutional investigation — the FBI's three hundred pages, the crates that arrived within approximately two days of Tesla's death, John G. Trump's three-day review — is organized around what Tesla left behind in his work. What did he know? What had he built? What required seizing?
 
 That question deserves the investigation it has received. It is a real question and the investigation is real.
 
