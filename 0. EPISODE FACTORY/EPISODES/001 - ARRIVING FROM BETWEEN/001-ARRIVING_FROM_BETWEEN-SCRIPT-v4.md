@@ -59,9 +59,7 @@ The contraction arrived with the next crack of lightning outside, and Đuka's gr
 
 The storm outside built. Then it broke.
 
-At midnight — exactly, the family would say later, passing this detail down through the chain of oral tradition that became the documented account — Đuka Tesla said: "He is a child of darkness, this child born in a storm."
-
-No. The midwife said this. The midwife said it first: the lightning is an omen. This child will be a child of darkness.
+At midnight — exactly, the family would say later, passing this detail down through the chain of oral tradition that became the documented account — the midwife said it first: the lightning is an omen. This child will be a child of darkness. This exchange enters the record through O'Neill's biography and the biographical tradition, not through Tesla's own memoir.
 
 Đuka Tesla replied without hesitation: "No. He will be a child of light."
 
@@ -287,13 +285,13 @@ And in that wrongly proportioned house, with those shoes, with that coat, the ge
 
 Now. The shape of the life.
 
-The immigrant crossing, the Edison rivalry, the War of Currents — all of this is known, documented, verifiable. The short version: Tesla won. His alternating current system now powers every home in the industrialized world. The long version is the shape of how he won and what it cost.
+The immigrant crossing, the Edison rivalry, the War of Currents — all of this is known, documented, verifiable. The short version: Tesla won. His alternating current system became the dominant standard for electrical power distribution worldwide. The long version is the shape of how he won and what it cost.
 
-He gave George Westinghouse his Niagara patents for far less than their value because Westinghouse told him the company could not survive otherwise. Tesla handed over the basis of the electrical century. He was trying to give something to the world. The world received it. The world did not reciprocate.
+He gave George Westinghouse his Niagara patents for far less than their value because Westinghouse told him the company could not survive otherwise. The traditional account says Tesla voluntarily tore up the royalty contract — that he handed over the basis of the electrical century as an act of will, not of necessity. Modern historians debate that framing. What is not in dispute: Tesla received far less than those patents were worth, and the century they powered did not reciprocate.
 
-Then Wardenclyffe. A tower on Long Island, designed to transmit electrical power wirelessly across the planet. Not through wires — through the Earth itself. The planet was a conductor, which it is, and if you could induce the right resonant frequency in it, you could make energy as ubiquitous as air: present everywhere, available to anyone, billable to no one. His primary investor was J.P. Morgan. When Morgan understood what Tesla was actually building — a system with no mechanism for charging customers per unit, energy as free as the atmosphere — he pulled the funding. The tower stopped. Wardenclyffe was demolished for scrap during the First World War. The scrap did not cover what Tesla owed.
+Then Wardenclyffe. A tower on Long Island, designed to transmit electrical power wirelessly across the planet. Not through wires — through the Earth itself. The planet was a conductor, which it is, and if you could induce the right resonant frequency in it, you could make energy as ubiquitous as air: present everywhere, available to anyone. His primary investor was J.P. Morgan. When Morgan understood that Tesla had expanded the project far beyond their original agreement — from a wireless communication station to something vastly more ambitious — he refused to provide additional funds. The tower stopped. Wardenclyffe was demolished for scrap during the First World War. The scrap did not cover what Tesla owed.
 
-From there: hotels. A sequence of them, moving as the debts became impossible. The Hotel New Yorker offered him a room in exchange for the distinction of having Nikola Tesla as a resident. Some accounts say the rate was nominal. Some say it was free. He accepted. He had no other option. He was seventy-seven years old and the century he had powered was not paying him back.
+From there: hotels. A sequence of them, moving as the debts became impossible. The Hotel New Yorker, with assistance from Westinghouse Electric Company, arranged him a room — part nominal rate, part the prestige of having Nikola Tesla as a resident on the thirty-third floor. He accepted. He had no other option. He was seventy-seven years old and the century he had powered was not paying him back.
 
 And in that room — in the room that had been assigned to him in exchange for his name — he could not find his kind.
 
@@ -312,7 +310,7 @@ The napkins: hotel napkins. The only surface available in quantity. The equation
 
 And the window open, for her.
 
-White. O'Neill's biography records Tesla's description: a beautiful bird, pure white with light grey tips on her wings. She had come to him in the years before this one, had found his window and returned, had made a habit of his window in the way that animals make habits of the places where they are known. He had fed her daily. He had arranged his schedule around her visits. When she was injured, he had brought her inside.
+White. O'Neill's biography records Tesla's description: a beautiful bird, pure white with light grey tips on its wings. She had come to him in the years before this one, had found his window and returned, had made a habit of his window in the way that animals make habits of the places where they are known. He had fed her daily. He had arranged his schedule around her visits. When she was injured, he had brought her inside.
 
 She had looked at him.
 
@@ -375,7 +373,7 @@ FBI Assistant Director P.E. Foxworth — head of the Special Intelligence Servic
 
 The pre-labeled crates. This detail resists comfortable explanation. You do not pre-label crates in response to a death. You pre-label crates when you are preparing for an event you are expecting. The labeling happened before the crates needed labels.
 
-Twenty trunks. Six decades of work — the notes, the designs, the private correspondence, the objects of investigation accumulated by a mind that had not stopped working until it stopped entirely. The government assigned Dr. John G. Trump, a physicist from MIT with appropriate security clearances, to review what Tesla had spent sixty years producing.
+Approximately eighty trunks and crates, along with barrels and packages — six decades of work: the notes, the designs, the private correspondence, the objects of investigation accumulated by a mind that had not stopped working until it stopped entirely. The government assigned Dr. John G. Trump, an electrical engineer from MIT with appropriate security clearances, to review what Tesla had spent sixty years producing.
 
 Three weeks.
 
@@ -489,7 +487,7 @@ In the bed: the body. Arranged with the tightness of someone who understood this
 
 The smell: lightning. Summer storm. The smell that belongs outdoors, in a field after a strike, in a sky that has been worked on by electrical discharge — in a sealed room in January, in a building that should carry only wool carpet and winter heating and the ordinary warmth of a large hotel in midwinter.
 
-What does ozone require? The word comes from the Greek verb meaning "to smell" — the Greeks named it for its distinctive quality. Ozone forms when electrical discharge splits oxygen molecules in the atmosphere and reassembles them into three-atom compounds. Lightning produces it. High-voltage electrical equipment produces it. A field after a storm carries it because the lightning has been working through the air.
+What does ozone require? The word comes from the Greek ozein, meaning "to smell" — coined by German chemist Christian Friedrich Schönbein in eighteen forty, who first isolated the compound and named it for its distinctive quality. Ozone forms when electrical discharge splits oxygen molecules in the atmosphere and reassembles them into three-atom compounds. Lightning produces it. High-voltage electrical equipment produces it. A field after a storm carries it because the lightning has been working through the air.
 
 Tesla's laboratories had always carried the smell. Decades of high-voltage work, of electrical discharge at scales that made laboratory assistants keep their distance, of arc lamps and Tesla coils and the machinery of an electrical century being invented in real time — his laboratories smelled of ozone because ozone was a byproduct of the work.
 
