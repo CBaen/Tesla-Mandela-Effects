@@ -369,9 +369,9 @@ And yet: within approximately two days of Tesla's death, the OAPC had taken cust
 
 FBI Assistant Director P.E. Foxworth — head of the Special Intelligence Service — was involved from early in the day of January seventh. Before the body was publicly reported. Before Alice Monaghan had used her passkey. The timeline of his involvement precedes the timeline of the publicly established discovery.
 
-The pre-labeled crates. This detail resists comfortable explanation. You do not pre-label crates in response to a death. You pre-label crates when you are preparing for an event you are expecting. The labeling happened before the crates needed labels.
+The crates that arrived within approximately two days of Tesla's death. This detail resists comfortable explanation. The standard response to a death is to wait for the legal process, for next of kin, for the appropriate forms to travel through the appropriate channels. The crates did not wait.
 
-Approximately eighty trunks and crates, along with barrels and packages — six decades of work: the notes, the designs, the private correspondence, the objects of investigation accumulated by a mind that had not stopped working until it stopped entirely. The government assigned Dr. John G. Trump, an electrical engineer from MIT with appropriate security clearances, to review what Tesla had spent sixty years producing.
+Approximately eighty trunks and crates, along with barrels and packages — six decades of work: the notes, the designs, the private correspondence, the objects of investigation accumulated by a mind that had not stopped working until it stopped entirely. The government assigned Dr. John G. Trump, a professor of electrical engineering at the Massachusetts Institute of Technology, to review what Tesla had spent sixty years producing.
 
 Three days.
 
