@@ -192,7 +192,7 @@ The sensation against his palms in the instant before the light: something betwe
 
 He asked his father: what is this?
 
-His father, Milutin Tesla, was a Serbian Orthodox priest who spoke four languages and could parse the Greek of the apostles and the Latin of the church fathers. He was a man of logic and scripture and the ordered universe that God had organized into comprehensible laws. He looked at his son's hands. He looked at the cat.
+His father, Milutin Tesla, was a Serbian Orthodox priest who spoke several languages and could parse the Greek of the apostles and the Latin of the church fathers. He was a man of logic and scripture and the ordered universe that God had organized into comprehensible laws. He looked at his son's hands. He looked at the cat.
 
 He said: electricity. The same thing as lightning.
 
