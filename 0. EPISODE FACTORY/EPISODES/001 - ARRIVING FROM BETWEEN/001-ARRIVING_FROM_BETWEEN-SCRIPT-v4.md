@@ -450,7 +450,7 @@ There was a man named Walter Simmons who worked in the maintenance department of
 
 His initials and partial diary survive in a typescript his family provided to a researcher in the nineteen sixties, a researcher who was compiling a popular history of New York hotels and who died before the book was published. The researcher's estate papers were donated to a private foundation in New Jersey. The foundation does not maintain a public finding aid.
 
-R.V. was a practical man. His diary records the physical life of a large building: which radiator ticked, which carpet section had been laid slightly wrong, the way the light changed at the turn of the hallway. The attention of someone trained to notice the building's vital signs.
+Simmons was a practical man. His diary records the physical life of a large building: which radiator ticked, which carpet section had been laid slightly wrong, the way the light changed at the turn of the hallway. The attention of someone trained to notice the building's vital signs.
 
 His diary entry for January of nineteen forty-three — he does not record the specific date — concerns the thirty-third floor corridor.
 
@@ -524,7 +524,7 @@ Through the same kind of door it arrived through.
 And the door smelled like lightning for three days.
 
 
-R.V.'s diary. The final entry. January, nineteen forty-three:
+Simmons's diary. The final entry. January, nineteen forty-three:
 
 — It was January. There was no storm. —
 
