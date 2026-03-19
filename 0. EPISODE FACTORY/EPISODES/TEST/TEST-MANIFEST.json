@@ -1,0 +1,143 @@
+{
+  "episode": "TEST",
+  "title": "Room 3327",
+  "assets": [
+    {
+      "name": "Nikola_Tesla_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "Dark wool suit, white dress shirt, no tie. Lying on his back in bed, hands folded at chest.",
+      "notes": "Age 86. Found dead January 7, 1943, 10:47 a.m. by hotel maid. Weighed 89 pounds. White hair combed. Expression composed — no sign of distress.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Alice_Monaghan_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1900,
+      "physique": "Irish-American woman, early 40s, medium build, fair skin, dark auburn hair pinned back under a white maid's cap, hands reddened from cleaning work, composed bearing despite the circumstances",
+      "attire": "Hotel New Yorker maid uniform: black dress, white apron, white cap, black oxford shoes",
+      "notes": "Worked the 33rd floor for 11 years. Discovered Tesla's body at 10:45 a.m. Interviewed for radio program in 1957. Said the light in the room struck her more than the body.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Sava_Kosanovic_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1894,
+      "physique": "Yugoslav man, late 40s, dignified bearing, dark hair with grey at temples, thin mustache, diplomat's posture — formal without stiffness",
+      "attire": "Dark wool overcoat over a charcoal suit, white shirt, silk tie, leather gloves, fedora",
+      "notes": "Tesla's nephew. Yugoslav diplomat in New York. Arrived at 12:30 p.m. without official notification. Reported items missing from the room. Did not specify which items.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Edwin_Park_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1910,
+      "physique": "American man, early 30s, Korean-American, lean build, close-cropped black hair, alert eyes, end-of-shift fatigue around the eyes",
+      "attire": "Hotel New Yorker front desk uniform: dark jacket with brass buttons, white shirt, dark tie",
+      "notes": "Night shift desk clerk. Received Alice Monaghan's call at 10:47 a.m., twenty minutes before the end of his shift. Noted the time precisely.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Hotel_New_Yorker_1943",
+      "type": "location",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Art deco hotel, 43 stories, corner of 34th Street and 8th Avenue, Manhattan. Tesla's residence for his final decade. January 1943 — cold, grey winter.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Room_3327_1943",
+          "era": "1943",
+          "physique": "Corner room on the 33rd floor. Two walls of curtained windows, both open to winter light. South-facing window overlooks Bryant Park. Cramped. Dark wood desk positioned at the south window — bare except for a small stack of hotel napkins covered in pencil equations, and two pencil stubs. Single iron bed against the north wall, sheets pulled with military precision. Sixty to seventy steamer trunks, wooden crates, and filing boxes stacked floor to ceiling against the far wall, labeled in mixed English and Serbian handwriting spanning decades. Steam radiator beneath the south window. Art deco brass hardware on door and window frames. Bakelite desk lamp, unlit. 1940s rotary telephone on the nightstand. Dried white pigeon droppings and three grey feathers on the south windowsill. The air has a faint electrical charge.",
+          "notes": "Room number is divisible by 3 — Tesla's requirement. The trunks are organized, not random — an archive arranged by a precise memory. The napkin behind the radiator was found after the trunks were removed."
+        },
+        {
+          "name": "Hotel_Corridor_33rd_Floor_1943",
+          "era": "1943",
+          "physique": "Long narrow hallway, pale institutional light from wall sconces. Repeating pattern of dark wood doors with brass room numbers. Geometric carpet in muted burgundy and gold, slightly worn at the center of the walking path. Silent. Room 3327 is at the far end, a corner door.",
+          "notes": "The corridor Alice Monaghan walked before and after discovering the body. Where she found the house telephone."
+        },
+        {
+          "name": "Hotel_New_Yorker_Exterior_1943",
+          "era": "1943",
+          "physique": "43-story art deco tower at the corner of 34th Street and 8th Avenue. Brick and limestone facade with strong vertical lines. Hotel New Yorker signage near the crown. January morning: sidewalks salted, thin snow at the curb. Yellow cabs on 8th Avenue. Pedestrians in heavy coats and hats. The building's height dominates the block.",
+          "notes": "Where government vehicles loaded Tesla's trunks the morning after discovery."
+        },
+        {
+          "name": "Hotel_Front_Desk_1943",
+          "era": "1943",
+          "physique": "Art deco hotel lobby front desk. Dark polished wood counter with brass fittings. A telephone switchboard behind the desk, operator's headset resting on the edge. Brass key hooks on the wall behind. Marble floors visible beyond the counter. Early morning light from the 8th Avenue entrance.",
+          "notes": "Where Edwin Park took the call from Alice Monaghan at 10:47 a.m."
+        }
+      ]
+    },
+    {
+      "name": "Hotel_Napkins_With_Equations_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Small stack of white hotel napkins, cotton weave, each covered edge to edge in dense pencil notation: wave frequency equations, electromagnetic field diagrams, circuit schematics with handwritten variable labels. The handwriting is small, confident, and precise — no hesitations, no crossed-out lines. Two pencil stubs rest between the napkins. One napkin at the bottom of the stack is slightly yellowed; the top ones are fresh. The desk surface beneath them is faintly abraded from years of similar writing sessions.",
+      "attire": "",
+      "notes": "Found on Tesla's desk the morning his body was discovered. Indicated no mental deterioration. One napkin had slipped behind the radiator and was recovered during cleaning — claimed three days later by an unidentified visitor who signed only with initials.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tesla_Trunks_And_Archive_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Sixty to eighty containers of mixed types: worn brown leather steamer trunks with brass clasps and leather straps, reinforced wooden crates bound with wire, battered cardboard filing boxes. Sizes range from small document boxes to large steamer trunks. All labeled — mixed English and Serbian, some in a personal shorthand, dates spanning the 1890s through the 1930s. Stacked floor to ceiling against the far wall of room 3327. The arrangement is organized, not accumulated — the closest containers to the desk hold the most recent work.",
+      "attire": "",
+      "notes": "Eighty-two containers catalogued and removed by Office of Alien Property the morning after Tesla's death. The complete archive of six decades of work. Sava Kosanović reported certain items missing before the agents arrived.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Office_Of_Alien_Property_Crates_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "New wooden shipping crates of raw, unfinished pine — slightly splintery at the edges, smelling of fresh sawdust. Stenciled in black ink: OFFICE OF ALIEN PROPERTY, with a serial number beneath. Each crate has a pre-printed paper label already affixed, with dimensions and content category fields already filled in. The labels were prepared before the agents arrived at the hotel.",
+      "attire": "",
+      "notes": "Agents confirmed in a later deposition (subsequently sealed) that the labels were prepared in advance. The crates arrived empty and pre-fitted for transport.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Window_Pigeons_1943",
+      "type": "object",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Three common rock pigeons, grey with iridescent neck feathers, perched on the exterior stone ledge of a hotel window. Feathers slightly ruffled against January cold. Their posture is attentive, facing inward toward the room. They do not startle when the door opens. Dried white droppings and a scatter of grey feathers on the window ledge beside them.",
+      "attire": "",
+      "notes": "Tesla fed pigeons daily in Bryant Park for decades and maintained several as what he called friends. These three were at the window when Alice Monaghan entered at 10:45 a.m. They had not moved by the time she returned to the door. They were gone by the time government agents arrived the following morning.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
