@@ -489,7 +489,7 @@ In the bed: the body. Arranged with the tightness of someone who understood this
 
 The smell: lightning. Summer storm. The smell that belongs outdoors, in a field after a strike, in a sky that has been worked on by electrical discharge — in a sealed room in January, in a building that should carry only wool carpet and winter heating and the ordinary warmth of a large hotel in midwinter.
 
-What does ozone require? The word comes from the Greek verb meaning "to smell" — the Greeks named it for its distinctive quality. Ozone forms when electrical discharge splits oxygen molecules in the atmosphere and reassembles them into three-atom compounds. Lightning produces it. High-voltage electrical equipment produces it. A field after a storm smells of it because the lightning has been working through the air. The smell is the residue of electrical discharge.
+What does ozone require? The word comes from the Greek verb meaning "to smell" — the Greeks named it for its distinctive quality. Ozone forms when electrical discharge splits oxygen molecules in the atmosphere and reassembles them into three-atom compounds. Lightning produces it. High-voltage electrical equipment produces it. A field after a storm carries it because the lightning has been working through the air.
 
 Tesla's laboratories had always carried the smell. Decades of high-voltage work, of electrical discharge at scales that made laboratory assistants keep their distance, of arc lamps and Tesla coils and the machinery of an electrical century being invented in real time — his laboratories smelled of ozone because ozone was a byproduct of the work.
 
@@ -503,13 +503,13 @@ In Gospić, that same morning: a schoolteacher described the light as an examina
 
 In the same valley, passed through three generations of family memory: the sky looked clean in a way it hadn't been before.
 
-And in Room three-three-two-seven, in January of nineteen forty-three: the air smelled the way the air smells when lightning has been through — when something has split the sky open and the world it opened onto has not yet closed.
+And in Room three-three-two-seven, in January of nineteen forty-three: the air carried what lightning leaves behind — when something has split the sky open and the world it opened onto has not yet closed.
 
-The same smell. The same signature. The same atmospheric response to the same kind of event.
+The same signature. The same atmospheric response to the same kind of event.
 
 Birth and death are the same event.
 
-Not in the metaphorical sense that all arrivals and departures share a grammar. In the forensic sense — the sense that matters to an investigation. The same environmental signature at the point of arrival and the point of departure. The atmospheric instruments could not account for the ionization in July of eighteen fifty-six. The maintenance worker could not account for the storm smell in January of nineteen forty-three. The schoolteacher could not account for the examination-light of the birth morning. Alice Monaghan could not account for the storm smell in the sealed room.
+Not in the metaphorical sense that all arrivals and departures share a grammar. In the forensic sense — the sense that matters to an investigation. The same environmental signature at the point of arrival and the point of departure. The atmospheric instruments could not account for the ionization in July of eighteen fifty-six. The maintenance worker could not account for what he recorded in January of nineteen forty-three. The schoolteacher could not account for the examination-light of the birth morning. Alice Monaghan could not account for the storm smell in the sealed room.
 
 None of them could account for it because none of them had the investigation.
 
@@ -524,11 +524,9 @@ Through the same kind of door it arrived through.
 And the door smelled like lightning for three days.
 
 
-R.V.'s diary. The final entry. January, nineteen forty-three. His words, as close as the typescript preserves them:
+R.V.'s diary. The final entry. January, nineteen forty-three:
 
-— I noticed the smell in the corridor near the room. I have been in this building for years and I know its smells. This was not one of them. The kind of smell you get after a summer storm. The clean kind. The kind that tells you the lightning has been through. It was January. There was no storm. I remember thinking the window must have been left open, but if the window was open in that cold, someone inside would have woken. —
-
-He did not stop.
+— It was January. There was no storm. —
 
 He walked on.
 
