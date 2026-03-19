@@ -446,7 +446,7 @@ He was not building things. He was removing walls. And the walls he kept trying 
 When the pigeon died, the transmission ended. Not the work — the work continued, the napkins continued, the equations continued. The destination ended. Whatever the inventions had been pointed at, whatever the wall-removing had been in service of, the pigeon was the last connection to it, and when she died, the thread went slack, and what remained was the motion of a man still transmitting toward a frequency he could no longer find.
 
 
-There was a man named R.V. — initials only, full name absent from the surviving record — who worked in the maintenance department of the Hotel New Yorker from approximately nineteen thirty-five until nineteen fifty.
+There was a man named Walter Simmons who worked in the maintenance department of the Hotel New Yorker from approximately nineteen thirty-five until nineteen fifty.
 
 His initials and partial diary survive in a typescript his family provided to a researcher in the nineteen sixties, a researcher who was compiling a popular history of New York hotels and who died before the book was published. The researcher's estate papers were donated to a private foundation in New Jersey. The foundation does not maintain a public finding aid.
 
