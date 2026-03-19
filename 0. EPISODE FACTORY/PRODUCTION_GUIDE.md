@@ -433,6 +433,8 @@ No word counts per section. No rigid act boundaries. Each pass writes until the 
 **INTERNAL CONSISTENCY** — Any fact stated in two or more places in the episode must match exactly. Check the opening against the closing. Check timeline summaries against detailed passages. Check the Brief against the Script.
 
 **STRUCTURAL INTEGRITY** — Are all 7 narrative points present and felt? Does the episode open with a macro loop question in paragraph one? Is there a false floor at approximately the midpoint? Does the planted detail from minutes zero through fifteen pay off at the climax, and does it read completely differently in hindsight than it did on first encounter? Do fabricated sources remain ignorant of each other? Does the closing shift from analytical narration to primary source voice? If you cannot trace all seven points and the plant-payoff arc, the structure is incomplete.
+
+**NARRATOR KNOWLEDGE POSITION** — Does the narrator at any point appear to already know the answer? Scan the full script for: (1) narrator crutches ("We will come back to this," "Hold that number," any promise of future content), (2) source provenance used as word-stretching before the actual content of a source is given, (3) post-impact explanation — paragraphs following a detonating line that explain why it matters. Flag and remove all three patterns. Also scan "we" usage: "we" is permitted for partnership ("we are looking at this together") and forbidden for management ("we will return to this"). Scan "you" usage: permitted for immersion, forbidden for condescension toward the listener.
 </pre_delivery_checklist>
 
 **Production Artifacts.** Every completed episode produces four files:

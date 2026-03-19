@@ -1,16 +1,20 @@
 # Tesla Mandela Effects — Active Queue
 
 ## Ready
-- [ ] **Production Guide rewrite** — Encode all narrative structure research, genre reframing, twist architecture, 7-point hybrid structure, two-layer stakes, three-tier mythology, manifest generation, caption key separation, quality-over-word-count, multi-auditor fact validation
-- [ ] **Episode Factory skill update** — 1M context (no condensed prompts), 4 artifacts per episode (Script, Caption Key, Manifest JSON, Series Bible update), new narrative structure requirements
-- [ ] **Series Bible update** — Add structural shape dimension to anti-cloning system (7-point beats, not just opening/closing types), update episode status to reflect rewrite-pending
-- [ ] **Episode 001 full rewrite** — First test case of new Production Guide. Must grab attention from the first minute.
-- [ ] **Episodes 002-010 full rewrite** — All approved for rewrite after Episode 001 proves the new system
-- [ ] **ElevenLabs prompt testing** — 3 prompt options drafted for period instrumentation background bed (piano, piano+cello, chamber ensemble). GL testing now.
-- [ ] **Release Strategy update** — Batch drop plan needs revision given full rewrite timeline
+- [ ] **Episode 001 v4 rewrite** — Apply narrator rules (no crutches, no provenance stretching, no post-impact explanation, narrator discovers with listener). Fix R.V. name. Fix dead zones. Increase booster density to every 400 words.
+- [ ] **Episodes 002-004 narrator audit** — Check all three completed episodes for the same forbidden patterns found in Ep 001. Surgical fixes, not full rewrites.
+- [ ] **Episode 005 narrator audit** — Same check on The White Signal
+- [ ] **Release Strategy update** — Batch drop plan needs revision; add episodes 006-010; update Ep 002 title from "The Buried Floor" to "The White City"
+- [ ] **ElevenLabs prompt testing** — GL switched to 1880s-1920s period piano. Background music production in progress.
 
 ## Pending Decision
 - [ ] Archive or remove the 27 superseded instruction files in `2. WRITER AND EDITOR INSTRUCTIONS\` (prevents future AI instances from reading outdated rules)
+
+## Completed (2026-03-19)
+- [x] **Narrator rules encoded across all production documents** — Production Guide, writer-prompt, surgeon-prompt, reviewer-prompt all updated with: narrator doesn't know the answer, three forbidden patterns (crutches, provenance stretching, post-impact explanation), "we"/"you" usage rules, intelligent audience principle. Lessons-learned updated. Memory saved.
+- [x] **Episode 001 v3 written** — 10,195 words, rocket opening ("The body hadn't even grown cold yet"), Surgeon-polished, all deliverables (.md, .txt, Caption Key, Manifest). Editorial review identified narrator crutches and dead zones — v4 fix pending.
+- [x] **Episodes 002-005 written** — All four episodes complete with scripts, Caption Keys, Manifests, and .txt copies. All fact-checked via Claude browser. All Surgeon-polished.
+- [x] **Test story and manifest** — Created for image pipeline testing (TEST folder)
 
 ## Completed (2026-03-17)
 - [x] Full audit of all 10 episodes against core thesis (5 audit teams, all scored)
@@ -19,20 +23,26 @@
 - [x] 7-point hybrid structure with 5 twist beats + 4 integration beats decided
 - [x] Two-layer stakes system decided (per-episode humans + series mythology)
 - [x] Three-tier mythology decided (60% background, 30% threshold, 10% direct)
-- [x] Narrator = voice of the archive (Option A) decided
+- [x] Narrator = voice of the archive (Option A) decided — refined: narrator discovers WITH listener, does not already know the answer
 - [x] Recontextualization detail varies per episode (Option C) decided
 - [x] Full rewrite of all 10 episodes approved (Option C)
-- [x] Quality over word count — 10-13K is guideline not ceiling
+- [x] Quality over word count — 10,000-16,000 words, governed by 400-paragraph limit
 - [x] Caption Key as separate file decided
 - [x] 4 artifacts per episode decided (Script, Caption Key, Manifest JSON, Series Bible)
 - [x] Multi-auditor fact validation decided
 - [x] Background audio standards researched — period instrumentation, -18 to -20 dB, Paulstretch workflow
 - [x] Manifest spec reviewed — simultaneous generation, 2-level hierarchy, fluxKnows stable
 - [x] Pipeline engineer cleared to build manifest import path
-- [x] Project-level lessons-learned.md created
+- [x] Project-level lessons-learned.md created (12 entries)
 - [x] All decisions logged to tesla-mandela-decisions.md
 - [x] Session memory updated with narrative structure expedition findings
-- [x] ElevenLabs prompt options drafted (3 variations)
+- [x] ElevenLabs prompt options drafted (3 variations — period piano)
+- [x] Production Guide rewrite — narrative architecture, genre identity, Grid mythology, fabricated source rules, two-layer stakes, 4 artifacts, word count update
+- [x] Episode Factory skill update — all 6 files (SKILL.md, writer-prompt, architect-prompt, surgeon-prompt, reviewer-prompt) updated for 1M context, new narrative structure, 4 artifacts
+- [x] Cross-file consistency review — 2 issues found and fixed (name collision, word count)
+- [x] Series Bible update — structural shape as 8th dimension with 3-episode window
+- [x] 5 episode briefs written and fact-checked (001 Arriving from Between, 002 The White City, 003 The God Particle, 004 The Tesla Brothers, 005 The White Signal)
+- [x] Progressive commitment curve decision — never assume listener commitment, boosters every 400 words
 
 ## Completed (2026-02-27)
 - [x] Episodes 001-010 production-ready (pre-rewrite versions)
