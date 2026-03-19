@@ -63,7 +63,11 @@ Blažić was not a fanciful man. His diary is not a record of feelings or specul
 
 The entry from July of that year — the exact date water-damaged in the surviving photocopy — records the following.
 
-During the night of the storm, the livestock in the Smiljan valley did not behave the way livestock behave during storms. Blažić had expected them to take shelter. To crowd into their enclosures. To press against fences and walls the way animals press when the sky is doing something they do not understand. Instead: the livestock were still. They had moved into the open. They were standing in the open, all of them, facing the same direction. He noticed this in the early morning, walking to assess conditions in the valley. He noted it because the sight of it stayed with him in a way he could not fully articulate.
+During the night of the storm, the livestock in the Smiljan valley did not behave the way livestock behave during storms. Blažić had expected them to take shelter. To crowd into their enclosures. To press against fences and walls the way animals press when the sky is doing something they do not understand. Instead: the livestock were still. They had moved into the open. They were standing in the open, all of them, facing the same direction.
+
+All of them. Facing the same direction.
+
+He recorded this in the early morning, walking out to assess conditions in the valley — the language of a man trained to write down what he saw before the mind's need for explanation could smooth it into something manageable. He wrote it because the image had seated itself in him and would not be moved.
 
 He notes the well water. The following morning, the well water tasted different. Not bad. Different in the specific way of water that has acquired something where it had nothing before. He describes it as sharper.
 
@@ -244,11 +248,9 @@ Not the species. The individual. In his later years, resident at the Hotel New Y
 
 O'Neill records Tesla saying, in the aftermath: that when the pigeon died, something went out of his life.
 
-The man who had powered the industrial century. The man who had run machines without error for twenty years. The man who had given away a fortune and spent his final decades in a single room covering hotel napkins with equations. The man who could not find his kind among the eight billion who shared his planet.
+The man who had powered the industrial century. The man who had run machines without error for twenty years. The man who had given away a fortune and spent his final decades in a single room covering hotel napkins with equations. The man who could not find his kind among every other human being alive on the planet.
 
 He found something in the pigeon that he could not find anywhere else. And when it died, something went out of his life.
-
-The man who had powered the industrial century. The man who had given eight languages to thought. The man who had given away a fortune and spent his final decades in a single room covering hotel napkins with equations and looking out at the sky. He could not find his kind among the billions who shared his planet. But he found it once, briefly, in a bird.
 
 That absence — that specific vacancy left by the pigeon's death — is the beginning of the question we are actually investigating.
 
