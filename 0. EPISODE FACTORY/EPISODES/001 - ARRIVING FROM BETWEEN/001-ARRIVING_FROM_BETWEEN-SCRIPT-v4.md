@@ -487,15 +487,13 @@ The desk and the bedside table and the floor: napkins. Equations in handwriting 
 
 In the bed: the body. Arranged with the tightness of someone who understood this was the last arrangement.
 
-The smell: lightning. Summer storm. The smell that belongs outdoors, in a field after a strike, in a sky that has been worked on by electrical discharge — that smell, in a sealed room in January, in a building that should smell of wool carpet and winter heating and the ordinary enclosed-space smell of a large hotel in midwinter.
-
-That smell.
+The smell: lightning. Summer storm. The smell that belongs outdoors, in a field after a strike, in a sky that has been worked on by electrical discharge — in a sealed room in January, in a building that should carry only wool carpet and winter heating and the ordinary warmth of a large hotel in midwinter.
 
 What does ozone require? The word comes from the Greek verb meaning "to smell" — the Greeks named it for its distinctive quality. Ozone forms when electrical discharge splits oxygen molecules in the atmosphere and reassembles them into three-atom compounds. Lightning produces it. High-voltage electrical equipment produces it. A field after a storm smells of it because the lightning has been working through the air. The smell is the residue of electrical discharge.
 
 Tesla's laboratories had always carried the smell. Decades of high-voltage work, of electrical discharge at scales that made laboratory assistants keep their distance, of arc lamps and Tesla coils and the machinery of an electrical century being invented in real time — his laboratories smelled of ozone because ozone was a byproduct of the work.
 
-But Tesla had not been running electrical experiments in Room three-three-two-seven. Not in those final years. He was an eighty-six-year-old man in declining health covering hotel napkins with equations. The room had no equipment. The room had no power supply capable of producing electrical discharge at the scale required. The room had nothing that could have produced that smell by ordinary means.
+But Tesla had not been running electrical experiments in Room three-three-two-seven. Not in those final years. He was an eighty-six-year-old man in declining health covering hotel napkins with equations. The room had no equipment. The room had no power supply capable of producing electrical discharge at the scale required. Nothing in it could have produced that smell by ordinary means.
 
 The room smelled like a summer storm in January.
 
