@@ -104,7 +104,7 @@ The morning after the storm, the morning of July eleventh, eighteen fifty-six, t
 
 He wrote this and underlined nothing. No exclamation. No note that this was unusual language for a man who wrote about road conditions and livestock. He reached for the nearest available description and wrote it and moved to the next line. The light: like an examination was being conducted on the valley, with a very white and particular quality. Not the ordinary summer light of the Lika region, which he knew as well as anyone who had lived under it for decades. Something with attention in it. Something that was not simply illuminating but assessing.
 
-He did not know a child had been born in the Tesla household during the storm. He had no connection to the Tesla family. He was a schoolteacher in the valley below, and he was recording the observable world, and the observable world on the morning of July eleventh had produced these observations: livestock in the open, facing the same direction. Water with a new taste. Light like an examination.
+He knew nothing of the birth in the Tesla household during the storm. He had no connection to the Tesla family. He was a schoolteacher in the valley below, and he was recording the observable world, and the observable world on the morning of July eleventh had produced these observations: livestock in the open, facing the same direction. Water with a new taste. Light like an examination.
 
 He recorded them.
 
