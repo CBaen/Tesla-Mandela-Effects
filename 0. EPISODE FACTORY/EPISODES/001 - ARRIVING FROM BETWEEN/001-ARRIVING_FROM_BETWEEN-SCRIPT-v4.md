@@ -113,19 +113,19 @@ There is a second account. It arrived not through paper but through three genera
 
 In nineteen seventy-four, a graduate student from the University of Zagreb traveled through the Lika region collecting fieldwork interviews on folk memory. She recorded on cassette. She never completed her thesis. The tape of the interview in question is not in the digitized portion of the faculty archive, if it was ever digitized.
 
-The woman she interviewed is identified in the transcript only as Subject K. She was approximately eighty years old in nineteen seventy-four. Third-generation memory. What she carried was not observation but inheritance — the kind of memory that survives because one person decided it was worth the act of passing on, and then another person made the same decision.
+The woman she interviewed is identified in the transcript only as Katarina She was approximately eighty years old in nineteen seventy-four. Third-generation memory. What she carried was not observation but inheritance — the kind of memory that survives because one person decided it was worth the act of passing on, and then another person made the same decision.
 
 Her grandmother had been a young woman from Gospić in the summer of eighteen fifty-six. What the grandmother told her, and what she passed to the graduate student on a cassette whose location is now unknown, was this:
 
 The morning after the birth night in Smiljan, the sky looked clean in a way it hadn't been before.
 
-Subject K. repeated the distinction twice. Her grandmother had been particular about it. Not cleaner — not an improvement in weather conditions, not the clearing of storm clouds to reveal a better sky. A quality. The sky looked clean in a way it hadn't been before. As if something had been removed from it, or added, and the result was a character the sky had not previously had.
+Katarina repeated the distinction twice. Her grandmother had been particular about it. Not cleaner — not an improvement in weather conditions, not the clearing of storm clouds to reveal a better sky. A quality. The sky looked clean in a way it hadn't been before. As if something had been removed from it, or added, and the result was a character the sky had not previously had.
 
-— She was not a fanciful person, Subject K. said of her grandmother, in the transcript. She was not the kind of woman who noticed things. But she noticed that. —
+— She was not a fanciful person, Katarina said of her grandmother, in the transcript. She was not the kind of woman who noticed things. But she noticed that. —
 
-The grandmother said it once, Subject K. told the graduate student. She said it and she saw that it had no frame, that there was nothing to attach it to, and she didn't say it again. But she said it. Once. With the precision of someone recording an observation they cannot account for but cannot let go of either.
+The grandmother said it once, Katarina told the graduate student. She said it and she saw that it had no frame, that there was nothing to attach it to, and she didn't say it again. But she said it. Once. With the precision of someone recording an observation they cannot account for but cannot let go of either.
 
-Subject K. died before nineteen ninety. No family named. The transcript ends.
+Katarina died before nineteen ninety. No family named. The transcript ends.
 
 
 And then there is the third source, which is institutional.
