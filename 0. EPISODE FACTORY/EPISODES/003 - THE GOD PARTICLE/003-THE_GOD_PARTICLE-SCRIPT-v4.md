@@ -280,10 +280,40 @@ The specific experience of recognizing a pattern that repeats: it does not arriv
 Selassie filed the first formal anomaly report in two thousand ten. The instrumentation leadership reviewed it and closed it as within acceptable operating parameters. The readings fell within tolerance.
 
 
-The second report, filed in two thousand eleven, was returned with a note recommending additional calibration.
+This is what that experience looks like from the inside.
 
 
-The third report, filed in August two thousand twelve — six weeks after the Higgs boson announcement on July fourth — was returned with the notation: no further action required.
+The report form was a standard IM-34 anomaly submission. Five fields: sector, instrument ID, anomaly type, observed value, recommended action. Selassie filled in each field with the precision that eight months of calibration work had trained into that motion — not rushed, not dramatic. Both hands on the keyboard. Eyes on the screen. The recommended action field read: recalibrate and monitor for recurrence. The submission timestamp logged at fourteen thirty-seven on a Tuesday in March, two thousand ten.
+
+
+The response arrived eleven days later. A single paragraph. The instrumentation leadership had reviewed the logged values. The deviation fell within the acceptable operating range for ambient field calibration in Sector three-four. The readings were within tolerance. No further action required at this time.
+
+
+Selassie read the paragraph twice. Printed it. Filed it in the physical folder that sat to the left of the keyboard tray. The fluorescent light was the same light it had been at fourteen thirty-seven eleven days ago. The folder was thin. The paragraph was one of those professional communications that closes without closing anything — the kind of response that means the institution has heard you and does not plan to move.
+
+
+The reading persisted through the next three high-energy runs. Higher energy, more deviation. Selassie began keeping a secondary log in a spiral notebook purchased from the stationery cabinet in the main corridor. Blue cover. The kind of notebook that disappears in any office. The entries were dated, times included, the frequency value written in the left margin and the run schedule written beside it. The column was filling in.
+
+
+The second report was filed in the spring of two thousand eleven. More data this time — a table of readings across eight runs, with the run schedule sourced from the official LHC operations calendar. The correlation was not ambiguous in the table. Higher collision energy, higher deviation from the seven point eight three floor. The recommended action field read: formal recalibration of Sector three-four instrument array, full procedure, with pre-run and post-run comparative readings.
+
+
+The response arrived nine days later. The instrumentation leadership appreciated the additional data. The deviation pattern fell within the acceptable range for background field variance in Sector three-four. The table was noted. A recalibration was recommended before the next run cycle. The recalibration was assigned to the standard maintenance schedule.
+
+
+Selassie printed this response too. Filed it behind the first one. The folder was thicker now.
+
+
+The recalibration ran on schedule. The full procedure. Forty minutes. Both hands on the keyboard tray, moving through each instrument in the sector's array methodically, the way the procedure was written. The readings came back clean. The instruments were functioning within specification. Selassie initialed the procedure log, submitted the completion form, and returned to the monitoring station.
+
+
+The next high-energy run began fourteen days later. The deviation returned. Seven point nine hertz. Same frequency. Same duration. The instruments were not the problem.
+
+
+The third report was filed in August two thousand twelve — six weeks after the Higgs boson announcement on July fourth. The spiral notebook was half-filled by this point. The table in the report had grown. The deviation had appeared in every high-energy run since two thousand ten, without exception. The frequency was consistent to two decimal places across more than twenty separate observations spanning two years of operations. The recommended action field, this time, read: escalation to department director, external peer review of anomalous baseline pattern, cross-reference with Sector three-four historical pre-LHC electromagnetic baseline data.
+
+
+The response arrived six days later. The notation read: no further action required.
 
 
 Not dismissed maliciously. The instrumentation leadership was not suppressing anything. The readings fell within tolerance. There was no framework for interpreting a seven point nine hertz anomaly as anything other than instrument noise. The professional context had no category for what Selassie was finding. The reports were dismissed the way anomalies are always dismissed when they cannot be placed into an existing explanatory framework: carefully, procedurally, without malice.
