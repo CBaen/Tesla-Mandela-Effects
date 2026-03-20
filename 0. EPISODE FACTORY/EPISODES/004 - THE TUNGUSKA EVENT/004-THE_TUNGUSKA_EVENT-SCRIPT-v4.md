@@ -1,10 +1,10 @@
 On the morning of June thirtieth, nineteen oh eight, something struck the Earth with the force of fifteen megatons of TNT — and nothing hit the ground.
 
-No crater. No fragments. No debris field. The energy equivalent of a thousand Hiroshima bombs arrived in central Siberia, flattened eighty million trees across two thousand square kilometers, sent an atmospheric pressure wave traveling around the planet twice, lit the skies of Europe for two weeks — and left behind no physical object to account for any of it.
+No crater. No fragments. No debris field. The energy equivalent of a thousand Hiroshima bombs arrived in central Siberia, flattened an estimated eighty million trees across two thousand square kilometers, sent an atmospheric pressure wave traveling around the planet twice, lit the skies of Europe for two weeks — and left behind no physical object to account for any of it.
 
 That is where this investigation begins.
 
-Not with a theory. With a number. Fifteen megatons. The number arrives like all very large numbers arrive — as an abstraction, as a unit the mind can hold without yet understanding. A thousand Hiroshimas. Eighty million trees. Two thousand square kilometers of standing forest reduced to matchsticks in the time it takes to blink. These are the documented figures. They have been confirmed across a century of scientific examination by NASA, by the Russian Academy of Sciences, by peer-reviewed journals on multiple continents.
+Not with a theory. With a number. Fifteen megatons. The number arrives like all very large numbers arrive — as an abstraction, as a unit the mind can hold without yet understanding. A thousand Hiroshimas. An estimated eighty million trees. Two thousand square kilometers of standing forest reduced to matchsticks in the time it takes to blink. These are the documented figures. They have been confirmed across a century of scientific examination by NASA, by the Russian Academy of Sciences, by peer-reviewed journals on multiple continents.
 
 The number is fifteen megatons.
 
@@ -12,7 +12,7 @@ There is no object to put beside it.
 
 This is the fact that, once understood, does not release you.
 
-Every impact event of comparable scale in the geological record left something behind. The Barringer Crater in Arizona is the product of an object estimated at approximately forty to sixty meters in diameter — considerably smaller than what struck Siberia — and it left a hole one kilometer across and one hundred and seventy meters deep, visible from commercial aircraft today. The Chicxulub impactor that marked the end of the Cretaceous period left a crater two hundred kilometers wide still detectable beneath the Yucatán Peninsula. Impact events leave craters. Impact events leave fragments. Impact events leave physical evidence of the thing that impacted, whether that evidence is a bowl carved into the Earth or scattered glass beads of melted rock or shattered metallic microspheres distributed across the debris field.
+Every impact event of comparable scale in the geological record left something behind. The Barringer Crater in Arizona is the product of an object estimated at approximately fifty meters in diameter — comparable in size to what struck Siberia — and it left a hole nearly one and a quarter kilometers across and one hundred and seventy meters deep, visible from commercial aircraft today. The Chicxulub impactor that marked the end of the Cretaceous period left a crater two hundred kilometers wide still detectable beneath the Yucatán Peninsula. Impact events leave craters. Impact events leave fragments. Impact events leave physical evidence of the thing that impacted, whether that evidence is a bowl carved into the Earth or scattered glass beads of melted rock or shattered metallic microspheres distributed across the debris field.
 
 The Tunguska event left none of these things.
 
@@ -92,7 +92,7 @@ A man named Ilya Potapovich, who would later guide researchers through the devas
 
 These are the accounts of people who were there. They were considered highly reliable by the scientists who collected them, their lifelong dependence on precise environmental observation making them calibrated instruments. They lived by the accuracy of their perception of the natural world. What they perceived on June thirtieth, nineteen oh eight, had no category in that world — but the category they placed it in was the god of thunder, and the category was not wrong. Something had come from the sky. It had burned. It had destroyed. The attribution was not ignorance. It was the closest available container for an event that broke every prior container.
 
-A natural disaster. Catastrophic, unprecedented in living memory, but comprehensible within the frame of a violent and indifferent universe. Something fell from the sky. It exploded. Eighty million trees went down. The Evenki community lost its reindeer and some of its people — casualty estimates, from a two thousand nineteen study in Icarus, suggest at least three deaths, and the material destruction was extensive. A disaster. A terrible, documented disaster.
+A natural disaster. Catastrophic, unprecedented in living memory, but comprehensible within the frame of a violent and indifferent universe. Something fell from the sky. It exploded. An estimated eighty million trees went down. The Evenki community lost its reindeer and some of its people — casualty estimates, from a two thousand nineteen study in Icarus, suggest at least three deaths, and the material destruction was extensive. A disaster. A terrible, documented disaster.
 
 And then comes the question that has been attached to the Tunguska event since approximately nineteen ninety.
 
