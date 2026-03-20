@@ -7,6 +7,12 @@ You wrote it in a single motion, the way you write your own address. The way you
 The publisher's records disagree.
 
 
+Not abstractly. Specifically. The cover of The Big Honey Hunt — first printing, nineteen sixty-two, Random House — has a font in the title where each letter sits with a slight upward angle, as though the words are cheerful rather than merely printed. The bear family on the cover is rendered in the warm, slightly unpolished illustration style of early sixties children's publishing: rounded, friendly, clearly drawn by human hands with no clean geometric precision. The name of the series runs across the top in that same slightly-tilted font. B-E-R-E-N-S-T-A-I-N. Every edition. Every reprint. The letters are the same letters they have always been.
+
+
+The specific wrongness of reading a name you have known for your entire life and finding it spelled differently than the way your hand just wrote it is not a small sensation. It is the sensation of the ground being in a place your foot expected and finding it slightly elsewhere. The information arrives in the body before it arrives in the mind. The name on the cover is right. The name you wrote is wrong. The cognitive science explains the mechanism. It does not account for the texture of the experience — the moment between writing and checking when both versions exist simultaneously and the uncertainty has a specific physical weight.
+
+
 The Berenstain Bears. B-E-R-E-N-S-T-A-I-N. The series debuted in nineteen sixty-two with a book called The Big Honey Hunt, published by Random House, authored by Stanley and Janice Berenstain. The name has been spelled that way on every cover, every spine, every television adaptation, every author's byline since the first printing. There is no edition that uses E-I-N. There is no alternate version. There is no other publisher. The record is unambiguous.
 
 
@@ -208,19 +214,28 @@ The cognitive science stops at the encoding. It says nothing about the distribut
 In July of two thousand twelve, in a climate-controlled monitoring station at the Tromsø Geophysical Observatory in northern Norway — operated by the University of Tromsø, used for space weather research and electromagnetic baseline studies — a station operator was running standard monitoring on the Schumann resonance.
 
 
-The log for July fourth, two thousand twelve shows the Schumann resonance fundamental at its standard seven point eight three hertz baseline for the majority of the monitoring period.
+The station sits at seventy degrees north latitude. In July, the sun does not set. It traces a low arc across the horizon and then comes back, and the light through the monitoring station's one exterior-facing window is the same thin gold at two in the afternoon as it is at midnight — a light that arrived sideways, that came in at an angle you would not see at any other latitude, as though the sun were considering the room rather than illuminating it. The contrast between that light and the blue-white glow of the monitoring screens was something you stopped noticing after the first few shifts and then began noticing again in a specific way that was harder to name.
+
+
+The instruments were magnetometers and induction coils monitoring the Earth's natural electromagnetic field — specifically the standing waves propagating in the cavity between the surface and the ionosphere. The readings were logged in fifteen-minute intervals, the paper log updated in a hand that had written these same numbers in these same columns long enough that the handwriting was consistent to a narrow range of variation. Standard entries. Standard format. The log for June looked like the log for May. The log for May looked like the log for April.
+
+
+The log for July fourth, two thousand twelve shows the Schumann resonance fundamental at its standard seven point eight three hertz baseline for the majority of the monitoring period. The entries are regular. The numbers are stable. The hand is the same hand.
 
 
 At fourteen eleven GMT — corresponding to the CERN press conference at which the Higgs boson discovery was announced — the baseline shifted. By approximately zero point three hertz. For eleven minutes. Then returned to baseline.
 
 
-The station operator's handwritten margin note reads: "Second deviation this year. Check solar index — no storm activity. Not CME. Not instrument: recalibrated July second. The baseline moved."
+The operator's hand reached for the pen. Not immediately — the monitoring protocol called for a second reading before noting any deviation, and the second reading confirmed the first. The pen made contact with the paper in the margin to the right of the standard entry column. The handwriting in the margin is visibly different from the standard column entries — tighter, slightly compressed, the kind of handwriting that happens when the hand is following the mind rather than the established routine.
+
+
+The note reads: "Second deviation this year. Check solar index — no storm activity. Not CME. Not instrument: recalibrated July second. The baseline moved."
 
 
 There is no follow-up annotation.
 
 
-The station operator does not know the CERN press conference is occurring at that moment. Space weather monitoring and high-energy physics do not share an operational frame of reference. The CERN announcement is not in their information environment. The deviation is small enough to file as an anomaly and not escalate. The operator's note carries no alarm. It is frustrated — a scientist looking for a cause they cannot find. The baseline moved. They checked every instrument they could check. The cause is not in any data source available to them.
+The station operator does not know the CERN press conference is occurring at that moment. Space weather monitoring and high-energy physics do not share an operational frame of reference. The CERN announcement is not in their information environment. The deviation is small enough to file as an anomaly and not escalate. The operator's note carries no alarm. It is frustrated — a scientist looking for a cause they cannot find. The baseline moved. They checked every instrument they could check. The solar index showed nothing. There was no coronal mass ejection. The instruments had been recalibrated two days prior. The cause was not in any data source available to them.
 
 
 The baseline moved.
@@ -394,13 +409,28 @@ There are men on the structure and men on the ground and people watching from a 
 The dynamite fires on July fourth, nineteen seventeen.
 
 
-The sound arrives before the movement. The blast does not topple the tower cleanly. The tower tilts. Begins to lean. And then the iron root system — three hundred feet of pipe driven into the Long Island bedrock, anchored to the earth — resists. The tower hangs in the attitude of falling without completing it. The roots hold what the dynamite tried to sever.
+The sound arrives before the movement. The foreman's report describes the initial detonation as larger than expected — a percussion that pushed at the chest rather than arriving through the ears first. The men on the ground had been briefed: step back forty feet from the tower base. Two of them stepped back further than that. One of them did not step back far enough and the pressure wave pushed him into a backward stumble he recovered from without falling, which was noted in no report but was seen.
 
 
-There is a moment — a suspension — when the tower is neither standing nor fallen. Leaning at an angle the iron roots refuse to release. The men on the ground are watching something too large to predict, holding a position that physics says it should not be able to hold.
+The blast does not topple the tower cleanly. The tower tilts. Begins to lean. And then the iron root system — three hundred feet of pipe driven into the Long Island bedrock, anchored to the earth — resists. The tower hangs in the attitude of falling without completing it. The roots hold what the dynamite tried to sever.
 
 
-Eventually the roots gave. The full demolition continued through September. The scrap metal was collected. The facility was cleared.
+There is a moment — a suspension — when the tower is neither standing nor fallen. Leaning at an angle the iron roots refuse to release. The men on the ground are watching something too large to predict, holding a position that physics says it should not be able to hold. The foreman, in his report, described this interval without naming how long it lasted. He wrote that the tower "remained in an intermediate position for a period before the roots finally gave." He did not write that the men went quiet during this period. They did.
+
+
+Eventually the roots gave. The sound when the base cleared the ground was not the sound of metal shearing — it was lower, more diffuse, the sound of the earth releasing a grip it had spent seventeen years building. The tower completed its fall. The ground impact arrived as vibration before it arrived as sound — a concussive thud that traveled through the soles of boots before the air carried the noise of it. Dust rose in a shape that was briefly, before the wind dispersed it, the outline of the tower's own shadow.
+
+
+The crater exposed the iron root system. A hundred and twenty feet of central shaft visible from the surface, the iron pipes at the bottom still embedded in bedrock that had accepted them and then refused to give them back without a fight. A man standing at the edge of the crater could see thirty feet down before the light ran out. The pipes went further than that.
+
+
+The foreman's report, filed the following day, documented the detonation, the intermediate suspension, the fall, and the dimensions of the exposed root system. It recommended additional equipment for the pipe extraction. It noted the scrap metal yield. It was thorough and professional.
+
+
+What it did not include: the period of silence while the tower held. The sound of the earth releasing. The way the exposed root system looked, from the rim of the crater, like something that had grown there rather than been placed.
+
+
+The full demolition continued through September. The scrap metal was collected. The facility was cleared.
 
 
 Tesla was not present. He learned of it later.
