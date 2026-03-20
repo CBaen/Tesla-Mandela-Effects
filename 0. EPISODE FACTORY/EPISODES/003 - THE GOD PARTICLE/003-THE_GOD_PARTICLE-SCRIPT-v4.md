@@ -127,7 +127,10 @@ Tesla stood in the dark barn. His ears were still ringing from the pressure of t
 The planet had answered.
 
 
-He held very still. The instruments ticked. Outside, somewhere in the direction of the city, there were voices — the distant human response to sudden darkness, the sounds a population makes when the lights cut and the night becomes immediately and completely real. Tesla did not move toward those sounds. He stayed with the instruments. He watched the reading. He committed the frequency to the notes he would write before morning.
+He held very still. His hands were at his sides, not touching anything — the deliberate stillness of a man who understood that any movement toward the instruments was a movement that might disturb what the instruments were showing. The ozone was still thick in the air, coating the back of the throat with a taste like the inside of a struck match. The battery-powered instruments ticked in the dark. The needles held their positions.
+
+
+Outside, somewhere in the direction of the city, there were voices — the distant human response to sudden darkness, the sounds a population makes when the lights cut and the night becomes immediately and completely real. A dog. A shout. The specific confusion of a grid going down all at once, the sudden silence of every electrical machine in an eight-block radius, the way that silence has a shape because you only perceive it when it stops. Tesla did not move toward those sounds. He stayed with the instruments. He watched the reading. His left hand found the edge of the instrument bench and rested there without gripping it. He committed the frequency to the notes he would write before morning.
 
 
 Approximately eight hertz. The frequency at which the Earth resonates. The frequency Tesla had just discovered by striking the planet like a bell and listening to what it said back.
@@ -172,10 +175,10 @@ The timeline does not care what the memo author knows.
 This is where the Berenstain Bears enter the investigation properly — not as a curiosity, not as an anecdote about false memory, but as a data point in a pattern that begins to look less like coincidence the longer you examine it.
 
 
-The cognitive science explanation for the Berenstain Bears misremembering is accurate. The "-stein" pattern is more common in German-derived surnames. The brain substitutes familiar patterns during encoding. This is not in dispute.
+The cognitive science explanation for the Berenstain Bears misremembering is accurate. The "-stein" pattern is more common in German-derived surnames. The brain substitutes familiar patterns during encoding. The mechanism stands.
 
 
-But the reporting pattern is.
+But the reporting pattern raises a different question.
 
 
 The Mandela Effect as a named phenomenon — the umbrella term for collective memories that diverge from the documented record — began to coalesce as a community around two thousand nine. The specific term was coined by Fiona Broome. The Berenstain Bears was one of the first widely reported examples. The discussion spread rapidly.
@@ -257,6 +260,9 @@ But there is a calibration engineer's letter. And it does not confirm the conclu
 
 
 The letter arrived at the archive of the International Mandela Effect Conference in two thousand nineteen, hand-delivered to a registrant and subsequently donated to the conference records. It was photocopied. The original was on CERN internal stationery, with the CERN logo at the top and the notation PERSONAL — NOT FOR DISTRIBUTION handwritten above the letterhead.
+
+
+The registrant who received it described the physical object afterward: the paper had the specific weight of institutional stationery — heavier than office paper, with a slight texture that holds ink differently. Three sheets, folded once along the center. The fold had been made and unfolded and refolded enough times that the crease had softened into a curve rather than a sharp line. The letter had lived in someone's hands before it arrived in this one.
 
 
 Three pages. Handwritten in English with occasional French technical terms. The first page is clear. The second page has a water stain across the lower third. The third page is partially illegible.
