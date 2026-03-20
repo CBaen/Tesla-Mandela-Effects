@@ -99,7 +99,7 @@ Six feet. The Electra descended to within six feet of the harbor surface before 
 
 Six feet of clearance between the landing gear and the Pacific Ocean, in the first thirty seconds of a twenty-hour flight.
 
-Then it climbed. Slowly. Settling into the altitude that would be its home for the next eighteen hours: one thousand feet above the water, low enough to stay below the high-altitude overcast, high enough to have some margin. Two Pratt and Whitney Wasp radial engines, each delivering four hundred and fifty horsepower, pushing the aircraft at a cruise speed of approximately one hundred and fifty miles per hour across an ocean that offered no reference points and no forgiveness.
+Then it climbed. Slowly. Settling into the altitude that would be its home for the next eighteen hours: one thousand feet above the water, low enough to stay below the high-altitude overcast, high enough to have some margin. Two Pratt and Whitney Wasp radial engines, each delivering six hundred horsepower, pushing the aircraft at a cruise speed of approximately one hundred and fifty miles per hour across an ocean that offered no reference points and no forgiveness.
 
 That is the aircraft. That is the pilot. The man in the back of the aircraft is the one the popular account consistently forgets.
 
@@ -387,7 +387,7 @@ He copied them into his notebook.
 
 He didn't know what they meant.
 
-He died on the island at twenty-seven.
+He died on the island at twenty-nine.
 
 The letter was never sent.
 
@@ -519,7 +519,7 @@ His calculation. In her voice.
 
 He married Mary Beatrice Martinelli on March twenty-seventh, nineteen thirty-seven. Two months and six days before the Electra left Lae. Two months married when the aircraft departed New Guinea at approximately ten in the morning, loaded to maximum, descending to within six feet of the harbor water before the wing found the lift to climb.
 
-He was declared legally dead on June fifth, nineteen thirty-eight, by the Superior Court of Alameda County, California. His wife of two months received the death benefit. The legal proceedings required a finding of death without a body, which the court made, as courts make such findings, because the absence was too complete and too long to interpret otherwise.
+He was declared legally dead on June twentieth, nineteen thirty-eight, by the Superior Court of Alameda County, California. His wife of two months received the death benefit. The legal proceedings required a finding of death without a body, which the court made, as courts make such findings, because the absence was too complete and too long to interpret otherwise.
 
 There is no memorial to Frederick Noonan.
 
