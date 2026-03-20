@@ -289,7 +289,7 @@ They have been filed. They have been assessed. They have been attributed to atmo
 
 They are still there, in the record, in the logs of trained radio operators at stations spread across the Pacific.
 
-A woman's voice on three thousand one hundred and five kilohertz, in the days after the silence.
+A woman's voice on the frequency, in the days after the silence.
 
 Saying something.
 
