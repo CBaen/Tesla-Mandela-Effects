@@ -184,9 +184,6 @@ The timeline of reports has a shape. It spikes. It accelerates in specific windo
 The LHC first circulated a beam: September tenth, two thousand eight. The Mandela Effect community begins forming: two thousand nine. The Higgs boson is confirmed: July fourth, two thousand twelve. Reports accelerate through two thousand twelve. The LHC reaches thirteen trillion electron volts — its full design energy, almost double the energy of Run one — with physics data collection beginning June third, two thousand fifteen. The volume of reported Mandela Effects peaks: two thousand fifteen through two thousand sixteen.
 
 
-The cognitive science explanation accounts for why millions of people misremember "-stein" for "-stain." The encoding mechanism does not account for why the rate of those reports tracks the LHC's operational calendar with the kind of precision that makes a researcher sit very still.
-
-
 The Berenstain Bears were published in nineteen sixty-two. If the false memory mechanism is purely cognitive — pattern substitution during encoding — the rate of reports should be relatively flat over time. Perhaps declining as the series became less culturally prominent. Nineteen ninety. Two thousand. Two thousand eight. Two thousand fifteen. The cognitive mechanism runs continuously. Memory encoding operates independent of particle accelerator run schedules.
 
 
@@ -203,9 +200,6 @@ The spikes aligned. Not approximately. Not directionally. The correlation betwee
 
 
 The report this researcher produced circulated outside peer-reviewed journals. It was posted to a forum and then reproduced across several community sites. But the datasets were public — the CERN calendar is publicly documented, the Mandela Effect archives are preserved on multiple platforms — and in the years since, others who ran the same comparison found the same chart.
-
-
-The cognitive science stops at the encoding. It says nothing about the distribution.
 
 
 In July of two thousand twelve, in a climate-controlled monitoring station at the Tromsø Geophysical Observatory in northern Norway — operated by the University of Tromsø, used for space weather research and electromagnetic field monitoring — a station operator was running standard monitoring on the Schumann resonance.
@@ -338,9 +332,6 @@ The False Floor collapses here. Not because CERN is innocent of involvement — 
 
 
 And the question the episode opened asking — why do millions of people independently remember the name wrong — is no longer the question.
-
-
-The question now is: wrong relative to what?
 
 
 August, nineteen seventy-four. Colorado Springs, Colorado. Seventy-five years after Tesla's experiments concluded. The site of the laboratory on the eastern edge of the city had been repurposed multiple times — industrial storage, a vacant lot, various commercial uses that came and went. A private geological survey firm, operating under contract to a Colorado state environmental assessment program, was conducting an electromagnetic baseline survey of the former industrial sites in the Pikes Peak region.
@@ -523,9 +514,6 @@ Memory is stored in the electromagnetic activity of the brain. The brain is embe
 If the electromagnetic floor moves, the memories stored in the old floor stay where they were laid down. They remain. As residue. As the fossil record of a substrate that has since shifted.
 
 
-The cognitive science explains the why of the encoding error. The substrate in which the encoding occurs is outside its scope.
-
-
 Amara Selassie left CERN in two thousand fourteen. The private log they kept is not reproduced in the letter. Whether they found the framework they were looking for — the conference archive holds a photocopy, not a conversation — is not in the record.
 
 
@@ -541,16 +529,4 @@ You remember how to spell it. The publisher's records disagree. The cognitive sc
 The machine works. Selassie wrote that. Not as a complaint. Not as a warning in the theatrical sense. As a precise technical description of what is worse than the machine being broken. If the machine were broken, the solution would be repair. If the machine works — if it is doing exactly what it was designed to do, operating within a substrate it did not create, running at frequencies that the Earth has been producing since eighteen ninety-nine, finding the particle that decides what has substance in the field that was already there — then the question is not what the machine is doing wrong.
 
 
-The question is what it is doing right.
-
-
-And what that means for the memories stored in a baseline that was there before the machine ran, that shifts when the machine runs, that does not announce its shifting because the shift is in the substrate, not in the surface.
-
-
-The question is not which one of you is right — you or the record.
-
-
 The question is: which version of the baseline made you?
-
-
-And who is running the machine that decides?

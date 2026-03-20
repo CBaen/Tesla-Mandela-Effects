@@ -1,18 +1,25 @@
 # Tesla Mandela Effects — Active Queue
 
 ## Ready
-- [ ] **Episode 001 v4 rewrite** — Apply narrator rules (no crutches, no provenance stretching, no post-impact explanation, narrator discovers with listener). Fix R.V. name. Fix dead zones. Increase booster density to every 400 words.
-- [ ] **Episodes 002-004 narrator audit** — Check all three completed episodes for the same forbidden patterns found in Ep 001. Surgical fixes, not full rewrites.
-- [ ] **Episode 005 narrator audit** — Same check on The White Signal
+- [ ] **Episodes 004-005 v4 rewrites** — Briefs exist. Apply full v4 treatment: embodied scenes, narrator discovers with listener, fact-check with dual browser instances, editor review. (001-003 are the quality bar.)
+- [ ] **Episodes 006-010 v4 rewrites** — Complete rewrites. No briefs yet. Each needs: brief → write → editor review → fact-check → surgical fixes.
 - [ ] **Release Strategy update** — Batch drop plan needs revision; add episodes 006-010; update Ep 002 title from "The Buried Floor" to "The White City"
 - [ ] **ElevenLabs prompt testing** — GL switched to 1880s-1920s period piano. Background music production in progress.
 
 ## Pending Decision
 - [ ] Archive or remove the 27 superseded instruction files in `2. WRITER AND EDITOR INSTRUCTIONS\` (prevents future AI instances from reading outdated rules)
 
+## Completed (2026-03-20)
+- [x] **Episode 001 v4 approved** — GL and editor approved. The quality standard for the series. (~v4 word count TBD)
+- [x] **Episode 002 v4 approved** — Editor approved. "Investigation through hands." The White City.
+- [x] **Episode 003 v4 approved** — Editor approved. Focused 67-minute thesis episode. The God Particle.
+- [x] **v4 process confirmed** — Embodied scenes, narrator discovers with listener, fact-check with dual browser instances + verification, editor review. Episode lengths vary by shape (intentional, not a problem).
+- [x] **Physique descriptions in manifests are load-bearing** — Required for image generation pipeline. Must be specific and consistent.
+- [x] **Wardenclyffe Unified pipeline sibling confirmed** — Nothing changes for the writer. Manifest format unchanged.
+
 ## Completed (2026-03-19)
 - [x] **Narrator rules encoded across all production documents** — Production Guide, writer-prompt, surgeon-prompt, reviewer-prompt all updated with: narrator doesn't know the answer, three forbidden patterns (crutches, provenance stretching, post-impact explanation), "we"/"you" usage rules, intelligent audience principle. Lessons-learned updated. Memory saved.
-- [x] **Episode 001 v3 written** — 10,195 words, rocket opening ("The body hadn't even grown cold yet"), Surgeon-polished, all deliverables (.md, .txt, Caption Key, Manifest). Editorial review identified narrator crutches and dead zones — v4 fix pending.
+- [x] **Episode 001 v3 written** — 10,195 words, rocket opening ("The body hadn't even grown cold yet"), Surgeon-polished, all deliverables (.md, .txt, Caption Key, Manifest). Editorial review identified narrator crutches and dead zones — v4 fix applied.
 - [x] **Episodes 002-005 written** — All four episodes complete with scripts, Caption Keys, Manifests, and .txt copies. All fact-checked via Claude browser. All Surgeon-polished.
 - [x] **Test story and manifest** — Created for image pipeline testing (TEST folder)
 
