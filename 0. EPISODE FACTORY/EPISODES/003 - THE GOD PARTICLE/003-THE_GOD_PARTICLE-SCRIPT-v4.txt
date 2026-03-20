@@ -31,43 +31,43 @@ The cognitive science accounts for the spelling. The press calendar accounts for
 Neither accounts for the pattern underneath both.
 
 
-September twenty-ninth, nineteen fifty-four. Geneva, Switzerland. The European Organization for Nuclear Research — CERN, from its French name, Conseil Européen pour la Recherche Nucléaire — was formally established. Twelve founding nations. A mandate to investigate the fundamental structure of matter. A site in Meyrin, near Geneva, straddling the Franco-Swiss border.
+September twenty-ninth, nineteen fifty-four. Geneva, Switzerland. The European Organization for Nuclear Research — CERN, from its French name, Conseil Europeen pour la Recherche Nucleaire — was formally established. Twelve founding nations. A mandate to investigate the fundamental structure of matter. A site in Meyrin, near Geneva, straddling the Franco-Swiss border.
 
 
 The Large Hadron Collider took ten years and approximately ten billion dollars to build. The ring is twenty-seven kilometers in circumference, buried approximately one hundred meters below ground. The tunnel follows the curvature of the earth, the Franco-Swiss border running through it like a seam. Construction began in nineteen ninety-eight. The last connections were made in two thousand eight.
 
 
-If you were standing inside the LHC tunnel — not above it in a diagram, not outside it behind a barrier — but inside, on the service walkway that runs alongside the beam pipe — what you would feel first is the cold. Not the cold of winter. The superconducting magnets that guide the proton beam operate at one point nine Kelvin. Colder than deep space. That cold radiates outward from the magnet housings on both sides of you. It does not come through the air the way wind does. It comes through materials. It moves through your clothing without consulting you.
+On September tenth, two thousand eight, at ten twenty-eight in the morning, a proton beam was successfully steered around the full twenty-seven-kilometer ring for the first time.
 
 
-The walkway is approximately fifteen degrees Celsius. The cold is something else — a fact radiating from both sides, a reminder that you are standing inside a machine that operates at temperatures the universe only achieves in the void between galaxies.
+Amara Selassie was on shift when it happened.
 
 
-Look down the tunnel in either direction. It curves away from you and disappears. The fluorescent lights follow the curve — blue-white, even, without shadow — and then they are gone, swallowed by the arc. You cannot see the end. You are inside a circle twenty-seven kilometers around, and the circle has no visible terminus. The tunnel simply curves away and keeps going and is still going somewhere you cannot see.
+Not in the main control room, where the room of engineers and physicists had spent a decade building toward this moment, watching a point of light complete its first full circuit on the monitoring screens. Selassie was in the calibration monitoring room — a smaller space, adjacent, three rows of screens showing data that most people in the building had stopped consciously reading years ago. The background. The substrate. The electromagnetic field that all the measurement instruments swam in, which had to remain stable for the measurements to mean anything.
 
 
-The hum is not mechanical in any simple sense. It is sustained and directional and seems to come from everywhere simultaneously. Not the hum of a generator or a transformer. The hum of something that is not separate from you — the hum of something you are standing inside.
+The main room erupted when the beam completed its first circuit. Selassie heard it through the wall — a sound that started as noise and resolved into something more like recognition, six hundred engineers and physicists simultaneously understanding that the decade of work had produced what it was supposed to produce.
 
 
-The beam pipe is the width of a human wrist.
+Selassie looked at the screens.
 
 
-Inside it, protons are moving at more than ninety-nine point nine nine nine nine nine percent of the speed of light. They circle the ring eleven thousand two hundred and forty-five times per second. They are invisible. They are inside a pipe narrower than your arm. You are standing next to something that would cross the distance from New York to London in less time than it takes to blink, and you cannot see it, and the only evidence it exists is the instruments and the hum and the cold radiating from both sides.
+The readings were doing something small. Not alarming — calibration work is a discipline built on the understanding that small is not the same as nothing. The ambient field in Sector three-four was showing a resonance signature that Selassie had not seen in the pre-run baseline data. A frequency. The instruments were reporting it clearly: approximately seven point nine hertz. Duration: zero point eight seconds. Then gone.
 
 
-The smell is cold metal and something faintly like ozone. The way air smells before lightning. Not the smell of danger. The smell of something that has already happened, or is already happening, in a space just adjacent to the one you're occupying.
+The celebrations continued through the wall.
 
 
-On September tenth, two thousand eight, at ten twenty-eight in the morning, a proton beam was successfully steered around the full twenty-seven-kilometer ring for the first time. The room of engineers and physicists who had spent a decade building the machine watched a point of light complete its first full circuit on the monitoring screens. The machine worked.
+Selassie noted the reading in the operational log, tagged it for follow-up, and went back to watching the screens. The beam had run. The machine worked. The seven point nine hertz anomaly was small. It was the kind of small thing a calibration engineer notes and recommends investigating, and then the helium explodes, and the note sits in a batch of pre-incident documentation for eleven years until a partial FOIA request surfaces it, and then it sits in a different place and waits for someone to know why it matters.
+
+
+It matters because of what happened in Colorado Springs in eighteen ninety-nine.
 
 
 Nine days later, September nineteenth, two thousand eight, a faulty electrical connection between two superconducting magnets caused approximately six tonnes of liquid helium to explosively vent into the tunnel. The sound was heard on the surface. Fifty-three magnets were damaged. The LHC went dark. The repairs would take over a year.
 
 
-Nine minutes before the explosion, at eleven forty-seven in the morning, an instrumentation monitoring memo was logged in Sector three-four of the LHC. The memo was stamped RESTRICTED — INTERNAL USE ONLY. It was filed by department code IM-34, one of the standard calibration subgroups responsible for monitoring the LHC's background electromagnetic environment — not the beam, not the particle interactions, but the ambient electromagnetic field that all the instruments swim in, which must be stable for the measurements to mean anything.
-
-
-The memo noted that during the September tenth first-beam run, instruments in Sector three-four had recorded a resonance signature in the background field. Not in the beam. Not in any particle interaction. In the ambient environment surrounding the ring. The signature lasted zero point eight seconds. It corresponded to no known particle interaction pattern. The frequency logged was approximately seven point nine hertz.
+Nine minutes before the explosion, at eleven forty-seven in the morning, an instrumentation monitoring memo was logged in Sector three-four of the LHC. The memo was stamped RESTRICTED — INTERNAL USE ONLY. It was filed by department code IM-34, one of the standard calibration subgroups responsible for monitoring the LHC's background electromagnetic environment — not the beam, not the particle interactions, but the ambient electromagnetic field that all the instruments swim in, which must be stable for the measurements to mean anything. The memo noted that during the September tenth first-beam run, instruments in Sector three-four had recorded a resonance signature in the background field. Not in the beam. Not in any particle interaction. In the ambient environment surrounding the ring. The signature lasted zero point eight seconds. It corresponded to no known particle interaction pattern. The frequency logged was approximately seven point nine hertz.
 
 
 The memo flagged it for follow-up and recommended additional calibration before Run two.
@@ -79,7 +79,7 @@ The follow-up was never filed. The helium explosion made the September tenth dat
 What does seven point nine hertz mean to a CERN calibration engineer in two thousand eight?
 
 
-It means an instrument anomaly. It means something to calibrate before the next run. It is within the range of natural electromagnetic phenomena. It is not alarming. It is procedurally thorough to note it and recommend follow-up.
+It means an instrument anomaly. It means something to calibrate before the next run. The frequency sits within the range of natural electromagnetic phenomena. It is not alarming. It is procedurally thorough to note it and recommend follow-up.
 
 
 What does seven point nine hertz mean if you know what happened in Colorado Springs in eighteen ninety-nine?
@@ -103,19 +103,28 @@ The smell inside the barn was copper wire under load and insulation warming past
 Tesla was not a small man. Six feet two, lean, with the kind of physical economy that suggested nothing was wasted. He understood, from years of experimentation, exactly what would happen when the transmitter reached its operating parameters. He had calculated it. He had modeled it. But calculation and experience are different things, and what happened on the night the magnifying transmitter ran at full power was not available to calculation alone.
 
 
-The lightning bolt arced one hundred and thirty-five feet. Outward and downward simultaneously, branching, the branching following the path of least resistance through air that had been primed for it. The thunder did not arrive after the light. The sound was not sound — it was pressure. The ribs absorbed it. The air displaced faster than the ear could process it. Tesla was standing close enough that his vision distorted at the edges from the shockwave.
+The lightning bolt arced one hundred and thirty-five feet. Outward and downward simultaneously, branching — the branching following the path of least resistance through air that had been primed for it, lit like a road being shown to something enormous. The thunder did not arrive after the light. The sound was not sound — it was pressure. It hit the ribs before the ears processed it. The air displaced faster than the body could brace, and Tesla was standing close enough that the shockwave pushed at the edges of his vision, the periphery going soft and white for half a second before the world reasserted itself.
 
 
-And then the city went dark.
+Then the city went dark.
 
 
-Not a gradual dimming. A cut. The hum of Colorado Springs's electrical infrastructure — background noise he had not consciously registered — stopped. What remained was silence with the shape of the sound that had been there before. The generator at the El Paso Electric Company had burned out. Tesla had drawn more current than the city's entire grid could supply.
+Not a gradual dimming. A cut. The hum of Colorado Springs's electrical infrastructure — the background frequency he had not consciously registered for months, the way you stop hearing a clock — stopped. The silence had the shape of the sound that had been there before. Specific. The generator at the El Paso Electric Company had burned out. Tesla had drawn more current than the city's entire grid could supply.
 
 
-In that silence, before anyone spoke, before any assessment was made of what had just happened — the instruments were still running. They were battery-powered, isolated from the grid he'd just destroyed. And what they showed, in the seconds of silence before the city began to respond to its own darkness, was this: the Earth itself was resonating. The signal had propagated through the ground. The planet was conducting it. The standing wave had formed in the terrestrial electromagnetic substrate — not in the air, not in wires, but in the Earth. The planet was behaving like a bell that had been struck.
+In that silence, before anyone spoke, before any assessment was made of what had just happened — the battery-powered instruments were still running. They were isolated from the grid he'd just destroyed. And what they showed, in the first seconds before the city began to respond to its own darkness, was something the instruments had not been designed to report and could not explain by any prior observation in the literature: the Earth itself was resonating. The signal had propagated through the ground. The planet was conducting it. The standing wave had formed in the terrestrial electromagnetic substrate — not in the air, not in wires, not in anything man-made — but in the Earth. The planet was behaving like a bell that had been struck.
 
 
-Tesla had calculated the resonant frequency of the Earth. Approximately eight hertz.
+Tesla stood in the dark barn. His ears were still ringing from the pressure of the discharge. The smell of ozone was so thick it had texture — the air didn't just carry it, it was made of it, a sharp mineral presence that coated the back of the throat and stayed. The instruments were showing him something that should not have been possible. Not impossible in the scientific sense — he had calculated this result, had designed the experiment to produce exactly this. Impossible in the experiential sense. The gap between a calculation and the moment you stand in the dark and watch the calculation become true in an instrument reading.
+
+
+The planet had answered.
+
+
+He held very still. The instruments ticked. Outside, somewhere in the direction of the city, there were voices — the distant human response to sudden darkness, the sounds a population makes when the lights cut and the night becomes immediately and completely real. Tesla did not move toward those sounds. He stayed with the instruments. He watched the reading. He committed the frequency to the notes he would write before morning.
+
+
+Approximately eight hertz. The frequency at which the Earth resonates. The frequency Tesla had just discovered by striking the planet like a bell and listening to what it said back.
 
 
 He described, in letters and notes from the same period, receiving signals during the Colorado Springs experiments that he could not account for by any terrestrial source. Signals that seemed to arrive from outside the experimental system entirely. In a nineteen oh one interview with Collier's Weekly, Tesla said — these are his words, exactly: ...
@@ -148,7 +157,7 @@ Seven point eight three hertz. Tesla's measurement from Colorado Springs: approx
 Three measurements, across one hundred and nine years. Three instruments that should have nothing to do with each other. The same register. Within a margin that experimental equipment from eighteen ninety-nine, a theoretical derivation from nineteen fifty-two, and a particle accelerator from two thousand eight would all reasonably produce.
 
 
-The CERN memo author does not know about Tesla's Colorado Springs experiments. They are logging an instrument anomaly and recommending calibration. The memo is not alarmed. It is procedurally thorough.
+The CERN memo author does not know about Tesla's Colorado Springs experiments. They are logging an instrument anomaly and recommending calibration. The memo carries no alarm. The memo is procedurally thorough.
 
 
 The timeline does not care what the memo author knows.
@@ -172,16 +181,31 @@ The timeline of reports is not flat. It spikes. It accelerates in specific windo
 The LHC first circulated a beam: September tenth, two thousand eight. The Mandela Effect community begins forming: two thousand nine. The Higgs boson is confirmed: July fourth, two thousand twelve. Reports accelerate through two thousand twelve. The LHC reaches thirteen trillion electron volts — its full design energy, almost double the energy of Run one — with physics data collection beginning June third, two thousand fifteen. The volume of reported Mandela Effects peaks: two thousand fifteen through two thousand sixteen.
 
 
-The cognitive science explanation accounts for why millions of people misremember "-stein" for "-stain." It does not account for why the rate of those reports tracks the LHC's operational calendar with the kind of precision that makes a researcher sit very still.
+The cognitive science explanation accounts for why millions of people misremember "-stein" for "-stain." The encoding mechanism does not account for why the rate of those reports tracks the LHC's operational calendar with the kind of precision that makes a researcher sit very still.
 
 
-The Berenstain Bears were published in nineteen sixty-two. If the false memory mechanism is purely cognitive — pattern substitution during encoding — the rate of reports should be relatively flat over time. Perhaps declining as the series became less culturally prominent. Nineteen ninety. Two thousand. Two thousand eight. Two thousand fifteen. The cognitive mechanism doesn't turn on and off. Memory encoding does not respond to particle accelerator run schedules.
+The Berenstain Bears were published in nineteen sixty-two. If the false memory mechanism is purely cognitive — pattern substitution during encoding — the rate of reports should be relatively flat over time. Perhaps declining as the series became less culturally prominent. Nineteen ninety. Two thousand. Two thousand eight. Two thousand fifteen. The cognitive mechanism does not turn on and off. Memory encoding does not respond to particle accelerator run schedules.
 
 
 And yet.
 
 
-In July of two thousand twelve, in a climate-controlled monitoring station at the Tromsø Geophysical Observatory in northern Norway — operated by the University of Tromsø, used for space weather research and electromagnetic baseline studies — a station operator was running standard monitoring on the Schumann resonance.
+There is a person — a researcher, not a physicist, someone whose professional world was databases and timeline correlation — who found this. Who sat at a laptop in approximately two thousand seventeen with two datasets open side by side. One dataset: a compiled archive of Mandela Effect reports, timestamped, sourced from forum records, search trend data, and survey responses going back to two thousand nine. The other dataset: the LHC operational calendar — run dates, energy levels, downtime periods, published by CERN.
+
+
+The overlay took thirty seconds to generate.
+
+
+The spikes aligned. Not approximately. Not directionally. The correlation between reporting volume and operational intensity was specific enough that a statistician looking at the chart cold — without knowing what the two datasets represented — would classify it as a strong positive correlation. The researcher sat with this for a while. Closed the laptop. Made coffee. Came back. Opened the datasets again. The chart was the same chart. The spikes were the same spikes.
+
+
+The report this researcher produced was not published in a peer-reviewed journal. It was posted to a forum and then reproduced across several community sites. But the datasets were public — the CERN calendar is publicly documented, the Mandela Effect archives are preserved on multiple platforms — and in the years since, others who ran the same comparison found the same chart.
+
+
+The cognitive science stops at the encoding. It says nothing about the distribution.
+
+
+In July of two thousand twelve, in a climate-controlled monitoring station at the Troms Geophysical Observatory in northern Norway — operated by the University of Troms, used for space weather research and electromagnetic baseline studies — a station operator was running standard monitoring on the Schumann resonance.
 
 
 The log for July fourth, two thousand twelve shows the Schumann resonance fundamental at its standard seven point eight three hertz baseline for the majority of the monitoring period.
@@ -196,7 +220,7 @@ The station operator's handwritten margin note reads: "Second deviation this yea
 There is no follow-up annotation.
 
 
-The station operator does not know the CERN press conference is occurring at that moment. Space weather monitoring and high-energy physics do not share an operational frame of reference. The CERN announcement is not in their information environment. The deviation is small enough to file as an anomaly and not escalate. The operator's note is not alarmed. It is frustrated — a scientist looking for a cause they cannot find. The baseline moved. They checked every instrument they could check. The cause is not in any data source available to them.
+The station operator does not know the CERN press conference is occurring at that moment. Space weather monitoring and high-energy physics do not share an operational frame of reference. The CERN announcement is not in their information environment. The deviation is small enough to file as an anomaly and not escalate. The operator's note carries no alarm. It is frustrated — a scientist looking for a cause they cannot find. The baseline moved. They checked every instrument they could check. The cause is not in any data source available to them.
 
 
 The baseline moved.
@@ -232,16 +256,25 @@ Amara Selassie was not a physicist. The physicists work on the particle interact
 Selassie describes the control room. Rows of monitors. Blue-white light, relentless, even — no natural light at this depth of operational focus, no windows, the same temperature year-round, the same fluorescent wash regardless of whether it is noon in July or two in the morning in January. The monitors on Selassie's screens were quieter than the headline screens tracking particle collisions. Calibration data. Background resonance readings. The ambient noise floor of the machine.
 
 
-Approximately six months into Run one — around mid-two thousand ten — Selassie began noting a reading that was slightly wrong. Seven point nine hertz where the baseline should be seven point eight three. A difference of zero point zero seven hertz. In most measurement contexts, within operational tolerance. In calibration work, the kind of small wrongness that means either the instrument needs adjustment or something in the environment has changed.
+Approximately six months into Run one — around mid-two thousand ten — Selassie began noting a reading that was slightly wrong.
 
 
-Selassie recalibrated. The reading persisted. Recalibrated a second time, more carefully. Persisted. Logged it. Went home. Returned the next day. The reading was gone.
+The chair Selassie sat in was standard-issue — adjustable height, gray fabric, the kind of chair that is unremarkable until you have sat in it through enough shifts that you know exactly how it responds when you push back from the desk. Selassie had developed the habit of centering both hands on the edge of the keyboard tray when settling in for a monitoring period. A stabilizing gesture. A way of arriving at the start of several hours of watching numbers that were supposed to stay still.
+
+
+Seven point nine hertz where the electromagnetic floor should be seven point eight three. A difference of zero point zero seven hertz. In most measurement contexts, within operational tolerance. In calibration work, the kind of small wrongness that means either the instrument needs adjustment or something in the environment has changed.
+
+
+Selassie recalibrated. The reading persisted. Recalibrated a second time, more carefully, running through each instrument in the sector's array — not the quick check but the full procedure, the one that took forty minutes and required sign-off. Both hands on the keyboard tray. Eyes on the screens. The reading persisted. Logged it. Went home. Returned the next day. The reading was gone.
 
 
 Two weeks later, during the next high-energy run, the reading returned. When the run ended, it disappeared again.
 
 
-The specific experience of recognizing a pattern that repeats: it does not arrive as a flash of insight. It arrives as a slow, reluctant accumulation — the mind resisting what it is finding because what it is finding cannot be explained in the framework available. The wrongness presents itself. You check. You confirm the wrongness. You look for the explanation. You do not find it. You return the next day hoping it was instrument error. It was not instrument error. You find it again. You hope the pattern breaks. It does not break. At some point the mind stops resisting and begins, unwillingly, to record.
+The chair pushed back from the desk is not a dramatic gesture. Selassie describes it in the letter without naming it — describes standing and walking to the window in the corridor, the one overlooking the car park, the only natural light available in that section of the building. Standing there for what the letter describes as several minutes. A body processing something it does not yet have language for. The reading was wrong. The reading returned when the machine ran and disappeared when it stopped. The reading was not random noise. Random noise does not schedule itself.
+
+
+The specific experience of recognizing a pattern that repeats: it does not arrive as a flash of insight. It arrives as a slow, reluctant accumulation — the mind resisting what it is finding because what it is finding cannot be explained in the framework available. The wrongness presents itself. You check. You confirm the wrongness. You look for the explanation. You do not find it. You return the next day hoping it was instrument error. The electromagnetic floor holds steady at seven point nine hertz during every high-energy run. You find it again. You hope the pattern breaks. It does not break. At some point the mind stops resisting and begins, unwillingly, to record.
 
 
 Selassie filed the first formal anomaly report in two thousand ten. The instrumentation leadership reviewed it and closed it as within acceptable operating parameters. The readings fell within tolerance.
@@ -253,7 +286,7 @@ The second report, filed in two thousand eleven, was returned with a note recomm
 The third report, filed in August two thousand twelve — six weeks after the Higgs boson announcement on July fourth — was returned with the notation: no further action required.
 
 
-Not dismissed maliciously. The instrumentation leadership was not suppressing anything. The readings fell within tolerance. There was no framework for interpreting a seven point nine hertz anomaly as anything other than instrument noise. The professional context did not have a category for what Selassie was finding. The reports were dismissed the way anomalies are always dismissed when they cannot be placed into an existing explanatory framework: carefully, procedurally, without malice.
+Not dismissed maliciously. The instrumentation leadership was not suppressing anything. The readings fell within tolerance. There was no framework for interpreting a seven point nine hertz anomaly as anything other than instrument noise. The professional context had no category for what Selassie was finding. The reports were dismissed the way anomalies are always dismissed when they cannot be placed into an existing explanatory framework: carefully, procedurally, without malice.
 
 
 Selassie continued to log the pattern privately, outside the formal reporting structure, through two thousand fourteen.
@@ -274,7 +307,7 @@ The letter's final paragraph, partially obscured on the third page, reads as cle
 ..."I am not writing this to claim there are portals or parallel dimensions. I am writing this because the machine's own baseline data contains a frequency signature that I cannot explain, that predates any noise source I can identify, and that responds to the machine's energy levels. I am not saying the machine is broken. I am saying the machine works. And that is worse. Because what it is working within is not what we built it to work within."
 
 
-The False Floor collapses here. Not because CERN isn't involved — the correlation is real — but because the explanation shifts. The LHC is not causing the effects by opening portals or thinning a membrane between dimensions. The LHC is operating within something that was already there. The baseline frequency — seven point nine hertz, sitting adjacent to the Schumann resonance like a signal monitoring a station it doesn't run — predates the machine. The machine is working within a substrate it did not create.
+The False Floor collapses here. Not because CERN is innocent of involvement — the correlation is real — but because the explanation shifts. The LHC is not causing the effects by opening portals or thinning a membrane between dimensions. The LHC is operating within something that was already there. The baseline frequency — seven point nine hertz, sitting adjacent to the Schumann resonance like a signal monitoring a station it did not build — predates the machine. The machine is working within a substrate it did not create.
 
 
 And the question the episode opened asking — why do millions of people independently remember the name wrong — is no longer the question.
@@ -292,7 +325,7 @@ The survey was routine. The firm expected to find what they found at every forme
 The geological structure was unremarkable. The soil composition was unremarkable. What the team's instruments found in the electromagnetic baseline was not.
 
 
-A persistent low-frequency oscillation. Approximately seven to nine hertz. Inconsistent with any local power infrastructure — the nearest transmission lines operated at sixty hertz, the standard residential and commercial frequency. Inconsistent with any natural geological phenomenon the team could identify. The oscillation was there when they first measured. It was there the next day. It was there a week later when they returned to double-check their instruments.
+A persistent low-frequency oscillation. Approximately seven to nine hertz. The nearest transmission lines operated at sixty hertz, the standard residential and commercial frequency. Sixty hertz produces nothing in the seven-to-nine range under any ordinary interference condition. The survey team ruled out ground current from adjacent infrastructure, ruled out geological piezoelectric effects from the local limestone, ruled out every natural and artificial source in the reference literature. The oscillation was there when they first measured. It was there the next day. It was there a week later when they returned to double-check the instruments.
 
 
 The geologist noted it in the field notes, reproduced in the typed survey report as a footnote: the oscillation felt, instrumentally, like the ground remembering something that happened to it.
@@ -355,7 +388,7 @@ Tesla's design included direction. Wardenclyffe was built to aim the resonance �
 When the tower was demolished, the architecture was gone. The frequency remained.
 
 
-When CERN built the LHC in the same frequency register — unknowingly, without reference to Colorado Springs, without any awareness that a substrate was already running in the space the machine would occupy — the architecture of the original experiment was absent. The frequency runs. The machine runs within it. And what the frequency does, unguided, unbounded, without direction — is not in the particle physics data.
+When CERN built the LHC in the same frequency register — unknowingly, without reference to Colorado Springs, without any awareness that a substrate was already running in the space the machine would occupy — the architecture of the original experiment was absent. The frequency runs. The machine runs within it. And what the frequency does, unguided, unbounded, without direction — the particle physics data cannot see it.
 
 
 It is in the baseline.
@@ -406,10 +439,7 @@ July fourth, two thousand twelve. The particle confirmed that defines the field 
 The same date. Different machines. The same substrate.
 
 
-This is not presented as a coincidence. It is not called remarkable. The dates are what they are. Both are documented. Both are verifiable. Both are separated by exactly ninety-five years.
-
-
-The narrator did not know, when the opening section placed the July Fourth date — a CERN public relations decision, a date with international resonance, a choice to maximize press attention — that it was the same date as the Wardenclyffe demolition. The opening planted it as institutional color. This is what it actually is.
+Both dates are documented. Both are verifiable. Both are separated by exactly ninety-five years.
 
 
 Nikola Tesla discovered the Earth's resonant frequency in eighteen ninety-nine. He spent seventeen years building the architecture to use it. The architecture was demolished on July fourth, nineteen seventeen.
@@ -424,7 +454,7 @@ Ninety-five years. The same calendar date.
 Not the same machine. The same substrate. The same frequency register. The same underlying field that Tesla found by striking the Earth and CERN found by recreating the conditions of the first instants of the universe.
 
 
-And the memories. The baseline that the Tromsø station operator measured shifting by zero point three hertz for eleven minutes on the day of the announcement. The baseline anomalies in the LHC's own calibration data that Amara Selassie tracked for four years before leaving. The distribution of those anomalies — the shape that is not random, the pattern that repeats at intervals consistent with something taking stock of the machine's operational state.
+And the memories. The baseline that the Troms station operator measured shifting by zero point three hertz for eleven minutes on the day of the announcement. The baseline anomalies in the LHC's own calibration data that Amara Selassie tracked for four years before leaving. The distribution of those anomalies — the shape that is not random, the pattern that repeats at intervals consistent with something taking stock of the machine's operational state.
 
 
 The ground remembering something that happened to it.
@@ -436,7 +466,7 @@ The Berenstain Bears.
 The cognitive science explains the why. Pattern substitution. Familiar endings replacing unfamiliar ones during memory encoding. The mechanism is sound.
 
 
-What the cognitive science does not explain: why the memories that diverge from the record are not distributed randomly across the decades since nineteen sixty-two. Why the reporting does not look the way a purely cognitive false memory would look — flat, or declining as the series aged. Why the pattern of reports tracks the operational calendar of a particle accelerator in Switzerland with the kind of precision that makes a researcher sit very still.
+What the cognitive science leaves unexplained: why the memories that diverge from the record are not distributed randomly across the decades since nineteen sixty-two. Why the reporting pattern does not look the way a purely cognitive false memory would look — flat, or declining as the series aged. Why the pattern of reports tracks the operational calendar of a particle accelerator in Switzerland with the kind of precision that makes a researcher sit very still.
 
 
 What would it mean if the Earth's electromagnetic substrate — the field the Schumann resonance describes, the field Tesla accessed in eighteen ninety-nine, the field that CERN's own calibration instruments detected at the moment of first beam and again at the moment of the Higgs announcement — if that substrate has been moving?
@@ -451,19 +481,19 @@ Memory is stored in the electromagnetic activity of the brain. The brain is embe
 If the baseline moves, the memories stored in the old baseline do not update with it. They remain. As residue. As the fossil record of a substrate that has since shifted.
 
 
-The cognitive science does not say this. The cognitive science explains the why of the encoding error. It does not address the substrate in which the encoding occurs.
+The cognitive science explains the why of the encoding error. The substrate in which the encoding occurs is outside its scope.
 
 
 Amara Selassie left CERN in two thousand fourteen. The private log they kept is not reproduced in the letter. Whether they found the framework they were looking for — the conference archive holds a photocopy, not a conversation — is not in the record.
 
 
-The station operator in Tromsø recalibrated their instruments on July fifth, two thousand twelve, and continued. The July fifth log returns to standard format. Standard entries. Whether they ever found an explanation for the July fourth deviation is not in the record.
+The station operator in Troms recalibrated their instruments on July fifth, two thousand twelve, and continued. The July fifth log returns to standard format. Standard entries. Whether they ever found an explanation for the July fourth deviation is not in the record.
 
 
 The Colorado Springs survey report sits in an uncatalogued collection in the Colorado State Archives. The oscillation continues in the ground. The survey firm is dissolved. The geologist's observation — the ground remembering — remains in a footnote no one is reading.
 
 
-You remember how to spell it. The publisher's records disagree. The cognitive scientists have an explanation for the disagreement. It is a good explanation. It explains the why. It does not explain the when. It does not explain why the baseline under both your memory and the record was laid down in the same electromagnetic environment that a man in Colorado Springs found in eighteen ninety-nine and spent his remaining years trying to tell the world about. It does not explain what happens to the memories stored in one baseline when the baseline moves.
+You remember how to spell it. The publisher's records disagree. The cognitive scientists have an explanation for the disagreement. It is a good explanation. It explains the why. The when is a different question. The electromagnetic environment in which both your memory and the publisher's record were laid down — the substrate that a man in Colorado Springs found in eighteen ninety-nine and spent his remaining years trying to build an architecture for — that question is outside the cognitive explanation's scope. What happens to the memories stored in one baseline when the baseline moves is not in the literature.
 
 
 The machine works. Selassie wrote that. Not as a complaint. Not as a warning in the theatrical sense. As a precise technical description of what is worse than the machine being broken. If the machine were broken, the solution would be repair. If the machine works — if it is doing exactly what it was designed to do, operating within a substrate it did not create, running at frequencies that the Earth has been producing since eighteen ninety-nine, finding the particle that decides what has substance in the field that was already there — then the question is not what the machine is doing wrong.
@@ -475,7 +505,7 @@ The question is what it is doing right.
 And what that means for the memories stored in a baseline that was there before the machine ran, that shifts when the machine ran, that does not announce its shifting because the shift is in the substrate, not in the surface.
 
 
-The question isn't which one of you is right — you or the record.
+The question is not which one of you is right — you or the record.
 
 
 The question is: which version of the baseline made you?
