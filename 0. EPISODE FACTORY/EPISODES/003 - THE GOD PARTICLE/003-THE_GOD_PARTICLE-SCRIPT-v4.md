@@ -7,9 +7,6 @@ You wrote it in a single motion, the way you write your own address. The way you
 The publisher's records disagree.
 
 
-Not abstractly. Specifically. The cover of The Big Honey Hunt — first printing, nineteen sixty-two, Random House — has a font in the title where each letter sits with a slight upward angle, as though the words are cheerful rather than merely printed. The bear family on the cover is rendered in the warm, slightly unpolished illustration style of early sixties children's publishing: rounded, friendly, clearly drawn by human hands with no clean geometric precision. The name of the series runs across the top in that same slightly-tilted font. B-E-R-E-N-S-T-A-I-N. Every edition. Every reprint. The letters are the same letters they have always been.
-
-
 The specific wrongness of reading a name you have known for your entire life and finding it spelled differently than the way your hand just wrote it is not a small sensation. It is the sensation of the ground being in a place your foot expected and finding it slightly elsewhere. The information arrives in the body before it arrives in the mind. The name on the cover is right. The name you wrote is wrong. The cognitive science explains the mechanism. It does not account for the texture of the experience — the moment between writing and checking when both versions exist simultaneously and the uncertainty has a specific physical weight.
 
 
