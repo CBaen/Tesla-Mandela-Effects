@@ -265,12 +265,24 @@ The listener who knows the series mythology will recognize the signature. The li
 ## The Full Architecture — Seven Points
 
 **1. The Wound / Opening (minutes zero to ten)**
-The sensory hook. The Itasca radio room. Static. Headphones. Then the voice. KHAQQ calling Itasca. The listener is in the room before they know whose voice this is. The opening builds the radio room — the equipment, the pencil on the log sheet, the men listening. Then: 0742. "We must be on you but cannot see you but gas is running low." Bellarts runs to the bridge. The sky is empty.
+The sensory hook. The Itasca radio room.
+
+**SENSORY MANDATES for the radio room scene:** The hum of vacuum tube equipment generating heat in an enclosed metal space — the room is warm. The headphones: their weight on the skull, the pressure on the ears, the way they seal out the ship's ambient noise (engine vibration, water against hull) and replace it with the electromagnetic universe — static that has texture, grain, a specific hiss that a trained radioman reads the way a sailor reads water. The pencil: sharpened to a point, the radioman's hand resting on the log sheet, the paper slightly damp in Pacific humidity. The smell: heated electronics, brass, the salt air that gets into everything on a cutter. The blue-white glow of dial faces. Then: a voice through the static. A woman's voice, coordinates, weather. The listener is in the headphones before they know whose voice this is.
+
+Then: 0742. "We must be on you but cannot see you but gas is running low."
+
+**SENSORY MANDATES for the Bellarts bridge scene:** He stands up. The headphones come off — the ship's sounds rush back in (wind, engine, water). He runs. Metal deck under his feet, the specific ring of boot soles on a cutter's companion-way. He reaches the bridge. Wind. The Pacific stretching in every direction. He looks at the sky where an airplane should be arriving from the west-southwest. Cloud. Horizon. Water. The smoke column from the Itasca's stack rising and bending. Empty. The sky is empty. The strongest signal he has ever received is coming from a sky that contains nothing he can see.
+
+The sky is empty.
 
 Plant the post-loss signals: a brief mention that in the days after, stations reported possible transmissions. The Navy dismissed them. Filed.
 
 **2. The Surface (minutes ten to twenty-five)**
-The investigation widens. Who was on this frequency? Earhart and Noonan. The circumnavigation. The Electra. Noonan's background — the Pacific navigator, the Clipper routes, the man who knew these waters better than anyone alive. The final leg from Lae. The near-catastrophe at takeoff — the plane dropping to within six feet of the water. The eighteen to twenty hours of flight over open ocean. Howland Island: two miles long, ten feet high, invisible.
+The investigation widens. Who was on this frequency? Earhart and Noonan. The circumnavigation. The Electra. Noonan's background — the Pacific navigator, the Clipper routes, the man who knew these waters better than anyone alive. The final leg from Lae. The near-catastrophe at takeoff — the plane dropping to within six feet of the water.
+
+**COCKPIT SCENE (mandatory embodied scene, ~500 words):** The listener is inside the Electra. Somewhere over open ocean. Night. The engine drone — two Pratt and Whitney radials, a specific pitch, a vibration the body absorbs after hours until it becomes the baseline and silence would be the shock. The instrument panel: the glow of dials in darkness, the fuel gauges showing numbers that get worse, the artificial horizon that is the only evidence the aircraft is level because the ocean below is black and the sky above is black and between them there is nothing. Noonan behind the bulkhead — the listener cannot see him. A note comes forward, passed through the gap. Numbers. A sun line calculation. The handwriting steady despite eighteen hours of turbulence and fatigue. The moment when Howland should be visible and the horizon is empty — nothing but water, nothing but cloud shadow on water, the specific terror of a destination that should be here and isn't. The fuel gauges. The fuel gauges again. This is where the cortisol fires. She is at risk. The listener must feel the risk from inside the cockpit.
+
+Howland Island: two miles long, ten feet high, invisible.
 
 **3. The Cracks (minutes twenty-five to forty)**
 The radio log entries arrive in sequence. The asymmetry emerges: she transmits at S5, she says she can't hear them. The frequency confusion — 3105 versus 6210. The Itasca can't transmit voice on 6210. She switches at 0843 and never returns. O'Hare's documented question: "Why couldn't she hear me on 3105?" The fabricated diary arrives — the shape of static when you're waiting, the fragment at 0300 on July fourth. The first crack: O'Hare heard something. He was told it was skip. He didn't believe it.
