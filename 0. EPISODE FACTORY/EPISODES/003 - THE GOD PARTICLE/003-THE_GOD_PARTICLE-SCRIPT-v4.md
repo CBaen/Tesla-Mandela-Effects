@@ -166,10 +166,10 @@ Seven point eight three hertz. Tesla's measurement from Colorado Springs: approx
 Three measurements, across one hundred and nine years. Three instruments that should have nothing to do with each other. The same register. Within a margin that experimental equipment from eighteen ninety-nine, a theoretical derivation from nineteen fifty-two, and a particle accelerator from two thousand eight would all reasonably produce.
 
 
-The CERN memo author does not know about Tesla's Colorado Springs experiments. They are logging an instrument anomaly and recommending calibration. The memo carries no alarm. The memo is procedurally thorough.
+The CERN memo author has no knowledge of Tesla's Colorado Springs experiments. They are logging an instrument anomaly and recommending calibration. The memo carries no alarm. The memo is procedurally thorough.
 
 
-The timeline does not care what the memo author knows.
+The timeline runs independent of what the memo author knows.
 
 
 This is where the Berenstain Bears enter the investigation properly — not as a curiosity, not as an anecdote about false memory, but as a data point in a pattern that begins to look less like coincidence the longer you examine it.
@@ -184,7 +184,7 @@ But the reporting pattern raises a different question.
 The Mandela Effect as a named phenomenon — the umbrella term for collective memories that diverge from the documented record — began to coalesce as a community around two thousand nine. The specific term was coined by Fiona Broome. The Berenstain Bears was one of the first widely reported examples. The discussion spread rapidly.
 
 
-The timeline of reports is not flat. It spikes. It accelerates in specific windows.
+The timeline of reports has a shape. It spikes. It accelerates in specific windows.
 
 
 The LHC first circulated a beam: September tenth, two thousand eight. The Mandela Effect community begins forming: two thousand nine. The Higgs boson is confirmed: July fourth, two thousand twelve. Reports accelerate through two thousand twelve. The LHC reaches thirteen trillion electron volts — its full design energy, almost double the energy of Run one — with physics data collection beginning June third, two thousand fifteen. The volume of reported Mandela Effects peaks: two thousand fifteen through two thousand sixteen.
@@ -193,7 +193,7 @@ The LHC first circulated a beam: September tenth, two thousand eight. The Mandel
 The cognitive science explanation accounts for why millions of people misremember "-stein" for "-stain." The encoding mechanism does not account for why the rate of those reports tracks the LHC's operational calendar with the kind of precision that makes a researcher sit very still.
 
 
-The Berenstain Bears were published in nineteen sixty-two. If the false memory mechanism is purely cognitive — pattern substitution during encoding — the rate of reports should be relatively flat over time. Perhaps declining as the series became less culturally prominent. Nineteen ninety. Two thousand. Two thousand eight. Two thousand fifteen. The cognitive mechanism does not turn on and off. Memory encoding does not respond to particle accelerator run schedules.
+The Berenstain Bears were published in nineteen sixty-two. If the false memory mechanism is purely cognitive — pattern substitution during encoding — the rate of reports should be relatively flat over time. Perhaps declining as the series became less culturally prominent. Nineteen ninety. Two thousand. Two thousand eight. Two thousand fifteen. The cognitive mechanism runs continuously. Memory encoding operates independent of particle accelerator run schedules.
 
 
 And yet.
@@ -208,7 +208,7 @@ The overlay took thirty seconds to generate.
 The spikes aligned. Not approximately. Not directionally. The correlation between reporting volume and operational intensity was specific enough that a statistician looking at the chart cold — without knowing what the two datasets represented — would classify it as a strong positive correlation. The researcher sat with this for a while. Closed the laptop. Made coffee. Came back. Opened the datasets again. The chart was the same chart. The spikes were the same spikes.
 
 
-The report this researcher produced was not published in a peer-reviewed journal. It was posted to a forum and then reproduced across several community sites. But the datasets were public — the CERN calendar is publicly documented, the Mandela Effect archives are preserved on multiple platforms — and in the years since, others who ran the same comparison found the same chart.
+The report this researcher produced circulated outside peer-reviewed journals. It was posted to a forum and then reproduced across several community sites. But the datasets were public — the CERN calendar is publicly documented, the Mandela Effect archives are preserved on multiple platforms — and in the years since, others who ran the same comparison found the same chart.
 
 
 The cognitive science stops at the encoding. It says nothing about the distribution.
@@ -253,10 +253,10 @@ The False Floor arrives now, and it is a real one.
 The correlation is real. Two thousand eight, two thousand twelve, two thousand fifteen — the LHC's three major operational milestones map onto the three major spikes in Mandela Effect reporting with enough precision to feel causal. The machine is running at energies that recreate the conditions in the fractions of a second after the Big Bang — conditions at which the Higgs field was still organizing what would have mass and what would not. Running that experiment continuously, at increasing energies, is doing something to the substrate. The Berenstain Bears memory is a relic from before the most recent baseline shift. CERN is the mechanism. The collider is the cause. The villain has an address, a funding structure, and a governing council of twelve founding nations.
 
 
-The explanation is satisfying. It has a mechanism. The listener who reaches this conclusion is not wrong to reach it.
+The explanation is satisfying. It has a mechanism. The listener who reaches this conclusion is following the evidence correctly.
 
 
-But there is a calibration engineer's letter. And it does not confirm the conclusion. It complicates it.
+But there is a calibration engineer's letter. And it leaves the conclusion incomplete. It complicates it.
 
 
 The letter arrived at the archive of the International Mandela Effect Conference in two thousand nineteen, hand-delivered to a registrant and subsequently donated to the conference records. It was photocopied. The original was on CERN internal stationery, with the CERN logo at the top and the notation PERSONAL — NOT FOR DISTRIBUTION handwritten above the letterhead.
@@ -373,7 +373,7 @@ August, nineteen seventy-four. Colorado Springs, Colorado. Seventy-five years af
 The survey was routine. The firm expected to find what they found at every former industrial site: baseline electromagnetic readings consistent with the local power grid, some soil contamination from earlier industrial use, nothing anomalous in the geological structure.
 
 
-The geological structure was unremarkable. The soil composition was unremarkable. What the team's instruments found in the electromagnetic baseline was not.
+The geological structure was unremarkable. The soil composition was unremarkable. What the team's instruments found in the electromagnetic substrate was another matter entirely.
 
 
 A persistent low-frequency oscillation. Approximately seven to nine hertz. The nearest transmission lines operated at sixty hertz, the standard residential and commercial frequency. Sixty hertz produces nothing in the seven-to-nine range under any ordinary interference condition. The survey team ruled out ground current from adjacent infrastructure, ruled out geological piezoelectric effects from the local limestone, ruled out every natural and artificial source in the reference literature. The oscillation was there when they first measured. It was there the next day. It was there a week later when they returned to double-check the instruments.
@@ -394,7 +394,7 @@ What does it mean that the Earth still resonates at approximately eight hertz in
 And what does it mean that the machine CERN built — without knowing about Colorado Springs, without designing for it, without Tesla's original architecture to channel what happens when that frequency runs — is operating within that same resonant substrate?
 
 
-Because Wardenclyffe was not built to discover the frequency. Wardenclyffe was built to use it.
+Wardenclyffe came after the discovery. Wardenclyffe was built to use the frequency.
 
 
 Shoreham, Long Island. July, nineteen seventeen. The air is humid and salt-heavy — the Long Island Sound less than a mile north. The ground is warm through the soles of boots. It has been warm for days. The kind of July heat that settles into the earth and stays.
@@ -532,7 +532,7 @@ The Berenstain Bears.
 The cognitive science explains the why. Pattern substitution. Familiar endings replacing unfamiliar ones during memory encoding. The mechanism is sound.
 
 
-What the cognitive science leaves unexplained: why the memories that diverge from the record are not distributed randomly across the decades since nineteen sixty-two. Why the reporting pattern does not look the way a purely cognitive false memory would look — flat, or declining as the series aged. Why the pattern of reports tracks the operational calendar of a particle accelerator in Switzerland with the kind of precision that makes a researcher sit very still.
+What the cognitive science leaves unexplained: why the memories that diverge from the record cluster rather than distribute evenly across the decades since nineteen sixty-two. Why the reporting pattern carries a shape a purely cognitive false memory mechanism would produce flat — or declining as the series aged. Why the pattern of reports tracks the operational calendar of a particle accelerator in Switzerland with the kind of precision that makes a researcher sit very still.
 
 
 What would it mean if the Earth's electromagnetic substrate — the field the Schumann resonance describes, the field Tesla accessed in eighteen ninety-nine, the field that CERN's own calibration instruments detected at the moment of first beam and again at the moment of the Higgs announcement — if that substrate has been moving?
@@ -544,7 +544,7 @@ Not catastrophically. Not visibly. But incrementally, in the way that baselines 
 Memory is stored in the electromagnetic activity of the brain. The brain is embedded in an electromagnetic environment — the same environment the Schumann resonance describes, the same environment that runs through the ground in Colorado Springs seventy-five years after Tesla's experiments ended.
 
 
-If the baseline moves, the memories stored in the old baseline do not update with it. They remain. As residue. As the fossil record of a substrate that has since shifted.
+If the electromagnetic floor moves, the memories stored in the old floor stay where they were laid down. They remain. As residue. As the fossil record of a substrate that has since shifted.
 
 
 The cognitive science explains the why of the encoding error. The substrate in which the encoding occurs is outside its scope.
