@@ -1,0 +1,177 @@
+{
+  "episode": "003",
+  "title": "The God Particle",
+  "version": "v4",
+  "status": "PRODUCTION-READY",
+  "written": "2026-03-19",
+  "word_count_approximate": 10800,
+  "mythology_tier": 2,
+
+  "anti_cloning_selections": {
+    "opening_type": "Direct address question — listener's own memory is the first instrument",
+    "structural_shape": "Chronological spiral — 1899 to 2008 to 2012 to 2015, each loop returning to same question with new evidence layer",
+    "closing_type": "The Mirror — calibration engineer's final words turn the listener into the subject",
+    "emotional_endpoint": "Existential dread — which version of the baseline made you",
+    "tesla_connection_type": "Experiment consequence — Colorado Springs frequency discovered; CERN found same substrate from the other direction",
+    "fabricated_source_formats": [
+      "Classified internal memo (CERN Frequency Discrepancy Report)",
+      "Geological/environmental survey (Colorado Springs electromagnetic baseline study)",
+      "Monitoring station log with handwritten annotation (Tromsø Schumann Deviation Log)",
+      "Anonymous letter from insider/whistleblower (Selassie's final communication)"
+    ]
+  },
+
+  "seven_point_structure": {
+    "point_1_wound": "Close your eyes. Write the name. — listener's own memory activated before narrator speaks. Recontextualizing detail planted: July Fourth as CERN PR decision.",
+    "point_2_surface": "LHC tunnel embodied scene. CERN history, first beam September 10 2008, helium explosion, Higgs announcement, 13 TeV. Machine established.",
+    "point_3_cracks": "Colorado Springs 1899. Tesla's magnifying transmitter. Lightning arc. Earth resonance at ~8 Hz. Schumann resonance confirmation. CERN frequency memo: 7.9 Hz on first-beam day. Tromsø log: baseline moved July 4 2012.",
+    "point_4_false_floor": "CERN is the cause. LHC operational milestones map to Mandela Effect spike timeline. Selassie letter arrives — complicates, not confirms. False floor collapses: LHC is operating within a substrate it did not create.",
+    "point_5_real_wound": "Colorado Springs 1974 soil survey. Ground still resonating ~7-9 Hz with no current source. The substrate predates the machine. Wardenclyffe was the architecture that would have directed what the frequency does.",
+    "point_6_implication": "Wardenclyffe demolition July 4 1917. Tower hangs in the attitude of falling without completing it. Architecture gone. Frequency unguided. The question: what does the frequency do without direction.",
+    "point_7_open_question": "July 4 date recontextualized. 1917 demolition and 2012 announcement. Same date, 95 years apart. Direct narrator statement earned. Selassie final line read. Closing question turns on listener."
+  },
+
+  "recontextualizing_detail": {
+    "planted": "July Fourth as CERN public relations decision — a date chosen for press attention",
+    "payoff": "July Fourth is the date Wardenclyffe was demolished in 1917 — 95 years before the Higgs announcement. Same date marking end of one Earth-frequency experiment and confirmation of another operating in the same substrate."
+  },
+
+  "question_pivot": {
+    "opening_question": "Why do millions of people independently remember the name wrong?",
+    "closing_question": "Wrong relative to which baseline — and which version of the baseline made you?"
+  },
+
+  "fabricated_sources": [
+    {
+      "id": "source_1",
+      "name": "CERN Frequency Discrepancy Report",
+      "type": "Classified internal memo",
+      "author": "Department code IM-34, instrumentation monitoring subgroup Sector 3-4",
+      "date": "September 19, 2008, logged 11:47 AM",
+      "key_content": "7.9 Hz resonance signature in background field during first-beam run September 10. Zero point eight seconds. No known particle interaction pattern. Follow-up recommended.",
+      "what_it_does_not_know": "Nothing about Tesla's Colorado Springs frequency or Schumann resonance context",
+      "uncheckable_because": "FOIA batch 7-B index not publicly searchable; CERN does not publish pre-incident operational memos"
+    },
+    {
+      "id": "source_2",
+      "name": "Colorado Springs Electromagnetic Baseline Study",
+      "type": "Geological/environmental field survey",
+      "author": "Private geological survey firm (dissolved 1981), Colorado state contract",
+      "date": "August 1974",
+      "key_content": "Persistent low-frequency oscillation approximately 7-9 Hz at former Tesla laboratory site. No identifiable current source. Geologist's margin note: 'the ground remembering something that happened to it.'",
+      "what_it_does_not_know": "Tesla's calculated frequency; Schumann resonance; CERN",
+      "uncheckable_because": "Colorado State Archives uncatalogued engineering collection; firm dissolved; not digitized"
+    },
+    {
+      "id": "source_3",
+      "name": "Tromsø Schumann Deviation Log",
+      "type": "Electromagnetic monitoring station log with handwritten annotation",
+      "author": "Station operator, Tromsø Geophysical Observatory, University of Tromsø",
+      "date": "July 4, 2012",
+      "key_content": "Schumann resonance baseline shifted 0.3 Hz for 11 minutes beginning 14:11 GMT (CERN Higgs press conference). Operator note: 'Not CME. Not instrument: recalibrated July 2. The baseline moved.'",
+      "what_it_does_not_know": "CERN press conference was occurring at that moment",
+      "uncheckable_because": "2016 data-sharing arrangement lapsed; private archive holds photocopy; operator unnamed in annotation"
+    },
+    {
+      "id": "source_4",
+      "name": "Selassie Letter",
+      "type": "Anonymous personal letter, handwritten",
+      "author": "A. Selassie, former CERN calibration engineer, ATLAS detector, 2006-2014",
+      "date": "2019 (submitted to IMEC conference archive)",
+      "key_content": "7.9 Hz baseline anomaly in LHC calibration data during high-energy runs. Three formal reports dismissed. Private log: distribution has a shape. Final line: 'I am not saying the machine is broken. I am saying the machine works. And that is worse.'",
+      "what_it_does_not_know": "Tesla's Colorado Springs experiments; Colorado Springs survey; Wardenclyffe demolition date",
+      "uncheckable_because": "IMEC archive informal; CERN does not publish staff rosters; formal anomaly report system not publicly accessible"
+    }
+  ],
+
+  "affective_stakes": {
+    "primary": {
+      "character": "Amara Selassie",
+      "arc": "Scientist finds anomaly, files three reports, dismissed three times, keeps private log two years, resigns, writes letter to Mandela Effect conference as last available audience for the question",
+      "presence_ends": "Letter's final line. No follow-up in the record. Conference archive holds a photocopy, not a conversation."
+    },
+    "secondary": {
+      "character": "Tromsø station operator (unnamed)",
+      "arc": "Notices baseline shift July 4 2012 with no identifiable cause, writes 'the baseline moved' in a margin no one else reads",
+      "presence_ends": "July 5 log returns to standard format. No follow-up annotation."
+    }
+  },
+
+  "key_images": [
+    "Close your eyes. Write the name. — the listener's own memory as the episode's opening instrument",
+    "The baseline moved — the Tromsø station operator's margin note; the phrase that is the episode's real subject",
+    "A frequency sitting adjacent to the baseline — Selassie's description of the 7.9 Hz pattern",
+    "The ground remembering something that happened to it — Colorado Springs geologist, 75 years after Tesla",
+    "Zero point eight seconds, filed and not followed up — CERN memo anomaly swallowed by helium explosion",
+    "The same date, different machines — July 4 1917 and July 4 2012; 95 years between termination and confirmation",
+    "The distribution has a shape — Selassie's private log; unnamed geometry of something systematic",
+    "Three reports dismissed — the institutional rhythm of Selassie's attempt to make data legible",
+    "Which version of the baseline made you — the closing question; memory as geological sediment",
+    "The machine works. And that is worse. — the line the episode builds toward"
+  ],
+
+  "layer_1_facts": [
+    "CERN founded September 29, 1954, Meyrin near Geneva",
+    "LHC: 27km ring, ~100m underground, Franco-Swiss border",
+    "First beam: September 10, 2008, 10:28 AM",
+    "Helium explosion: September 19, 2008, 53 magnets damaged",
+    "Higgs boson announced: July 4, 2012, Gianotti and Incandela presenting",
+    "Higgs predicted 1964: Peter Higgs, François Englert, Robert Brout",
+    "Nobel Prize 2013: Englert and Higgs",
+    "13 TeV energy first achieved: April 10, 2015",
+    "Run 2 physics data begins: June 3, 2015",
+    "Tesla Colorado Springs: May 1899 - January 1900",
+    "Magnifying transmitter primary coil: 9 meters diameter",
+    "Lightning arc: 135 feet",
+    "Tesla's calculated Earth resonant frequency: approximately 8 Hz",
+    "Schumann predicted same frequency mathematically: 1952",
+    "Schumann resonance fundamental: approximately 7.83 Hz",
+    "Schumann confirmed experimentally: early 1960s, Balser and Wagner",
+    "Wardenclyffe tower: 187 feet tall, 68-foot diameter copper hemisphere",
+    "Wardenclyffe root system: 120-foot shaft plus 300 feet of iron pipe from bottom",
+    "Wardenclyffe demolished: July 4, 1917, Smiley Steel Company, dynamite",
+    "Scrap value realized: approximately $1,750",
+    "Berenstain Bears first book: The Big Honey Hunt, 1962, Random House",
+    "Authors: Stanley and Janice Berenstain",
+    "Spelling has always been -STAIN, never -STEIN in any official edition",
+    "Mandela Effect term coined by Fiona Broome, approximately 2009",
+    "Tesla Collier's Weekly quote (1901): exact words used, verified"
+  ],
+
+  "characters_visual": [
+    {"name": "Nikola Tesla", "period": "1899", "notes": "Colorado Springs period, approximately 43 years old, 6'2\", lean"},
+    {"name": "Amara Selassie", "type": "fabricated", "notes": "CERN calibration engineer, 2006-2014, gender deliberately unspecified in letter"},
+    {"name": "Fabiola Gianotti", "period": "2012", "notes": "ATLAS spokesperson, at podium during Higgs announcement press conference"},
+    {"name": "Peter Higgs", "period": "2012", "notes": "Age 83, in audience at Higgs announcement, predicted particle in 1964"},
+    {"name": "Tromsø station operator", "type": "fabricated", "notes": "Unnamed, working Arctic monitoring station July 4 2012"}
+  ],
+
+  "locations_visual": [
+    "Colorado Springs experimental station, 1899 (exterior barn, interior with magnifying transmitter)",
+    "Colorado Springs at night: artificial lightning arc 135 feet, city going dark",
+    "LHC tunnel interior: service walkway, beam pipe, fluorescent curve vanishing into distance",
+    "CERN main auditorium July 4 2012: 600 people, Gianotti at podium, 5-sigma curve on screen",
+    "Wardenclyffe Tower standing, Shoreham Long Island (187 feet, copper hemisphere)",
+    "Wardenclyffe demolition July 4 1917: dynamite, tower tilting, not completing the fall",
+    "Tromsø Geophysical Observatory exterior (Arctic, July, monitoring station)",
+    "Colorado Springs former laboratory site, 1974 (survey team, abandoned lot, Pikes Peak region)"
+  ],
+
+  "objects_visual": [
+    "Tesla's magnifying transmitter (large Tesla coil, 9-meter primary, interior of station)",
+    "CERN Frequency Discrepancy Report memo (two pages CERN internal format, photocopy of photocopy)",
+    "Colorado Springs electromagnetic baseline survey (field notes with margin annotation, 1974)",
+    "Tromsø monitoring log July 4 2012 (printed output with handwritten margin annotation)",
+    "Selassie letter (three handwritten pages on CERN stationery, water stain on page two, page three partially illegible)"
+  ],
+
+  "tts_notes": {
+    "voice": "Single male narrator",
+    "system": "ElevenLabs Eleven Turbo v2",
+    "paragraph_count_approximate": 135,
+    "paragraphs_under_400_limit": true,
+    "numbers_written_out": true,
+    "no_markdown_in_script": true,
+    "ellipsis_used_before_tesla_quote": true
+  }
+}
