@@ -1,7 +1,5 @@
 # Term Violations — Definition and Application
 
-## Addition to the Production Guide (insert after "The Process — Writing Toward Meaning" section)
-
 ---
 
 ## What Is a Term Violation?
