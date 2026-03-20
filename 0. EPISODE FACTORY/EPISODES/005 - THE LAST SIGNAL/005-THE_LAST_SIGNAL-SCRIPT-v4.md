@@ -66,7 +66,7 @@ There is nothing in the sky.
 
 He will carry this moment for the rest of his life. Not the disappearance — the moment before it. The sound of a voice at maximum strength. The empty sky. The forty-year gap between those two facts.
 
-In the days after July second, there were other reports. Stations across the Pacific — and farther, along the American coasts — filed reception reports on or near three thousand one hundred and five kilohertz. Broken transmissions. Voice fragments. Possible signals bearing toward the central Pacific. The Navy had assumed control of the search. The reports came in. They were assessed. They were filed.
+In the days after July second, there were other reports. Stations across the Pacific — and farther, along the American coasts — filed reception reports on or near the frequency. Broken transmissions. Voice fragments. Possible signals bearing toward the central Pacific. The Navy had assumed control of the search. The reports came in. They were assessed. They were filed.
 
 Atmospheric interference. Ionospheric skip. Unconfirmed.
 
@@ -81,7 +81,7 @@ It requires a moment — not commentary, but context — to understand what that
 
 The first solo nonstop transatlantic flight had occurred ten years earlier. Commercial passenger aviation was a decade old and still a luxury. The Pacific crossing by air was a technical achievement of recent vintage — Pan American Airways had inaugurated its transpacific Clipper service only two years prior. The routes existed. The distances had been crossed. But they had been crossed with every possible advantage: with full ground crews, with relay stations, with navigational aids along the route, with the ability to land at intermediate points.
 
-Earhart was crossing the Pacific with one navigator, one aircraft, and the radio on three thousand one hundred and five kilohertz.
+Earhart was crossing the Pacific with one navigator, one aircraft, and the radio on three one oh five.
 
 She had tried this once before. In March of nineteen thirty-seven, the same aircraft, the same route, a ground loop on takeoff in Honolulu had ended the attempt before it began — the plane damaged, the crew unhurt, but the plan reset. The second attempt began June first, nineteen thirty-seven, from Oakland, heading east: Miami, Puerto Rico, South America, Africa, India, Southeast Asia, Australia, New Guinea.
 
@@ -178,7 +178,7 @@ The pencil moves.
 
 She cannot hear them.
 
-The Itasca has been transmitting on three thousand one hundred and five kilohertz. The Itasca has been transmitting on schedule, on the agreed frequency, at full power. The signal is going out. There is no equipment failure in the log. The transmitters are operating. The frequency is clear.
+The Itasca has been transmitting on the frequency. The Itasca has been transmitting on schedule, on the agreed frequency, at full power. The signal is going out. There is no equipment failure in the log. The transmitters are operating. The frequency is clear.
 
 She is transmitting at S-five — the maximum signal strength the equipment registers. She is close enough that the signal is pinning the needle. She is transmitting from somewhere that cannot be more than a hundred miles away.
 
@@ -192,7 +192,7 @@ At 0800, a third transmission: ...KHAQQ calling Itasca. We received your signals
 
 She received their signals. That is the first confirmation from her end that the Itasca's transmissions are reaching the aircraft — some of them, some of the time. But she cannot get a minimum, which means she tried to take a directional bearing on the Itasca's signal and could not determine the direction. The signal was present but too inconsistent for the direction-finding equipment to lock. She is asking the Itasca to answer her on three thousand one hundred and five kilohertz, voice, so she can take a bearing on their voice transmission.
 
-The Itasca answers. On three thousand one hundred and five kilohertz. Voice. Full power.
+The Itasca answers. On three one oh five. Voice. Full power.
 
 No response.
 
@@ -220,13 +220,13 @@ She moved to a frequency they could not follow.
 
 She has been gone for six hours already when O'Hare asks his question. She is not going to answer it.
 
-The static on three thousand one hundred and five kilohertz has the quality that O'Hare will try, later, in a private account that no official record will contain, to describe. Not the absence of a signal. The presence of a channel that should have a signal in it and doesn't. He will write, in the July second entry of a diary kept in his seabag during the operation: The static sounds different when you're waiting for someone. It has a shape. The shape of the voice that should be in it.
+The static on the frequency has the quality that O'Hare will try, later, in a private account that no official record will contain, to describe. Not the absence of a signal. The presence of a channel that should have a signal in it and doesn't. He will write, in the July second entry of a diary kept in his seabag during the operation: The static sounds different when you're waiting for someone. It has a shape. The shape of the voice that should be in it.
 
 He is a twenty-three-year-old radioman on a Coast Guard cutter in the central Pacific. He has been listening to radio static for four years. He knows the difference between a dead channel and a live one. He knows the difference between atmospheric noise and signal-shaped absence.
 
 The frequency has the shape of the voice that should be in it.
 
-He will monitor three thousand one hundred and five kilohertz off-shift, on his personal equipment, for the next two days. On the early morning of July fourth — 0300, the dead watch, the hours when ionospheric conditions favor long-distance propagation — he will hear something that does not resolve into words but has the quality of a word trying to form. He will file a report. The duty officer will log it as atmospheric skip. O'Hare writes in the July fourth entry: It was not skip. I have been listening to skip for four years. Skip does not say words.
+He will monitor three one oh five off-shift, on his personal equipment, for the next two days. On the early morning of July fourth — 0300, the dead watch, the hours when ionospheric conditions favor long-distance propagation — he will hear something that does not resolve into words but has the quality of a word trying to form. He will file a report. The duty officer will log it as atmospheric skip. O'Hare writes in the July fourth entry: It was not skip. I have been listening to skip for four years. Skip does not say words.
 
 The duty officer's log will categorize the report. The search will go on.
 
@@ -259,9 +259,9 @@ The crash-and-sink theory is not a theory, in the pejorative sense. It is an ass
 
 And it cannot account for the signals.
 
-In the days following July second, nineteen thirty-seven, monitoring stations across the Pacific filed reception reports on three thousand one hundred and five kilohertz. Pan American Airways maintained radio listening stations across the Pacific as part of the infrastructure for its Clipper service — Midway, Wake Island, Honolulu, and others. These stations were staffed by trained radio operators who knew the difference between atmospheric interference and voice. They filed reports. Their logs indicate possible voice transmissions on or near three thousand one hundred and five kilohertz in the days after the disappearance.
+In the days following July second, nineteen thirty-seven, monitoring stations across the Pacific filed reception reports on the frequency. Pan American Airways maintained radio listening stations across the Pacific as part of the infrastructure for its Clipper service — Midway, Wake Island, Honolulu, and others. These stations were staffed by trained radio operators who knew the difference between atmospheric interference and voice. They filed reports. Their logs indicate possible voice transmissions on or near the frequency in the days after the disappearance.
 
-A fifteen-year-old girl in Saint Petersburg, Florida, named Betty Klenck, was listening to her family's shortwave radio. She had the dial on three thousand one hundred and five kilohertz. She heard a woman's voice, and she wrote in her notebook what she believed she heard. The notebook was not publicized for decades. It is now held by a research organization that has been investigating the disappearance for forty years. The notebook is legible. The entries are dated. The content of what she wrote has been examined by researchers who note that details she recorded — details she would have had no knowledge of in nineteen thirty-seven — are consistent with the known circumstances of the flight.
+A fifteen-year-old girl in Saint Petersburg, Florida, named Betty Klenck, was listening to her family's shortwave radio. She had the dial on three one oh five. She heard a woman's voice, and she wrote in her notebook what she believed she heard. The notebook was not publicized for decades. It is now held by a research organization that has been investigating the disappearance for forty years. The notebook is legible. The entries are dated. The content of what she wrote has been examined by researchers who note that details she recorded — details she would have had no knowledge of in nineteen thirty-seven — are consistent with the known circumstances of the flight.
 
 The Navy assessed the reports that came in during the search. Atmospheric interference. Ionospheric skip. Unconfirmed.
 
@@ -269,7 +269,7 @@ If the aircraft had gone down in deep water and sunk, those assessments are corr
 
 The physics are also clear in the other direction.
 
-If the aircraft was not on the ocean floor — if it was on land, on a reef, on a beach — a functional radio could transmit for days. The Electra's radio drew power from the aircraft's batteries. The batteries would last while the batteries lasted. The fuel in the tanks was not the fuel in the batteries. A landed aircraft, intact, with a functional radio and a pilot who knew how to operate it, could put a signal on three thousand one hundred and five kilohertz for days.
+If the aircraft was not on the ocean floor — if it was on land, on a reef, on a beach — a functional radio could transmit for days. The Electra's radio drew power from the aircraft's batteries. The batteries would last while the batteries lasted. The fuel in the tanks was not the fuel in the batteries. A landed aircraft, intact, with a functional radio and a pilot who knew how to operate it, could put a signal on three one oh five for days.
 
 Fifty-seven credible reception reports were logged in the days after July second. Credible in the sense that they came from trained operators, at stations with equipment capable of distinguishing voice from interference, in some cases with directional bearings pointing toward the central Pacific.
 
