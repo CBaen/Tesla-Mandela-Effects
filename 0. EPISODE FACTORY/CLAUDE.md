@@ -16,7 +16,7 @@ You are writing episodes for the Tesla Mandela Effects audio series. Each episod
 An episode must be completed in a single session. Brief → writing passes → verification → commit. No handoffs to future instances. No expansion passes. No multi-round editor review cycles. If context dies mid-episode, the process failed.
 
 ### Why This Rule Exists
-Episodes 001-004 each took 2-4 sessions because instances burned context on editing prose in main context, ran multiple editor review rounds, and did expansion passes after the first draft. The memory and handoff files explicitly warn against this. Follow the workflow below.
+Episodes 001-003 each took 2-4 sessions because instances burned context on editing prose in main context, ran multiple editor review rounds, and did expansion passes after the first draft. The memory and handoff files explicitly warn against this. Follow the workflow below.
 
 ### Context Protection Rules
 - **NEVER write or edit prose in main context.** Main context is for coordination, verification, and commits only.
