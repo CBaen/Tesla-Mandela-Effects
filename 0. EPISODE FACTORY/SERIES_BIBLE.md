@@ -219,36 +219,38 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 
 ## Window Rules — Available for Episode 005
 
-Based on the three v4 approved episodes (001, 002, 003):
+Based on the four v4 episodes (001, 002, 003, 004):
 
-**Closing types (3-episode window — cannot repeat if used in 001, 002, or 003):**
-- The Open Wound (001) — blocked
+**Closing types (3-episode window — cannot repeat if used in 002, 003, or 004):**
 - The Invitation (002) — blocked
 - The Mirror (003) — blocked
+- The Inversion (004) — blocked
 
-**Available:** The Callback, The Witness, The Inversion, The Silence
+**Available:** The Open Wound, The Callback, The Witness, The Silence
 
-**Opening types (2-episode window — cannot repeat if used in 002 or 003):**
-- The artifact (002) — blocked
+**Opening types (2-episode window — cannot repeat if used in 003 or 004):**
 - Direct address question (003) — blocked
+- Fact that becomes horrifying (004) — blocked
 
-**Available:** Sensory hook, Witness cold open, Fact that becomes horrifying, The negation, Declarative impossibility
+**Available:** Sensory hook, Witness cold open, The negation, Declarative impossibility, The artifact
 
-**Structural shapes (3-episode window — cannot repeat if used in 001, 002, or 003):**
-- Crime scene investigation (001) — blocked
+**Structural shapes (3-episode window — cannot repeat if used in 002, 003, or 004):**
 - The descent (002) — blocked
 - Chronological spiral (003) — blocked
+- The trial (004) — blocked
 
-**Available:** Dual timeline, Single witness, The collection, The trial, The letter
+**Available:** Crime scene investigation, Dual timeline, Single witness, The collection, The letter
 
-**Tesla connection types (2-episode window — cannot repeat if used in 002 or 003):**
-- Experiment consequence (002, 003) — blocked
+**Tesla connection types (2-episode window — cannot repeat if used in 003 or 004):**
+- Experiment consequence (003) — blocked
+- Absence (004) — blocked
 
-**Available:** Direct appearance, Technology descendant, Philosophical parallel, Absence, Opposition
+**Available:** Direct appearance, Technology descendant, Philosophical parallel, Opposition
 
-**Emotional endpoints (5-episode window — cannot repeat if used in 001, 002, or 003):**
+**Emotional endpoints (5-episode window — cannot repeat if used in 001, 002, 003, or 004):**
 - Paranoia (001) — blocked
 - Quiet acceptance (002) — blocked
 - Existential dread (003) — blocked
+- Vertigo (004) — blocked
 
-**Available:** Wonder/awe, Grief, Defiance, Loneliness, Vertigo
+**Available:** Wonder/awe, Grief, Defiance, Loneliness

@@ -1,0 +1,476 @@
+{
+  "episode": "004",
+  "title": "The Tunguska Event",
+  "assets": [
+    {
+      "name": "SB_Semenov_1908",
+      "type": "character",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1858,
+      "physique": "Russian peasant man, approximately 50 years old, stocky and weathered build, broad face with a thick dark beard, calloused hands, deep-set eyes accustomed to reading a horizon, the posture of a man who has spent his life outdoors in extreme cold",
+      "attire": "Heavy linen shirt, dark wool trousers held with a leather belt, knee-high leather boots, a padded cotton vest — summer working clothes for a Siberian trading post morning",
+      "notes": "Operator or resident at the Vanavara Trading Post. Sixty-five kilometers south of the Tunguska epicenter. Witnessed the sky split in two, felt the thermal pulse on his shirt, was thrown seven feet from his porch by the shockwave more than three minutes later. His account is the primary eyewitness record of the Tunguska event.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Leonid_Kulik_1927",
+      "type": "character",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1883,
+      "physique": "Russian man, mid-40s, lean and fit from fieldwork, weathered face with a short beard beginning to show grey, sharp observant eyes behind wire-rimmed spectacles, the upright bearing of a trained scientist who is also physically capable",
+      "attire": "Practical Soviet expedition gear — heavy canvas trousers, thick wool shirt, leather field boots, a canvas jacket with multiple pockets, a flat-brimmed field hat",
+      "notes": "Soviet mineralogist. Led the first scientific expedition to the Tunguska epicenter in 1927. Made four total expeditions: 1927, 1928, 1929-30, and organized the 1938 aerial survey. Found the telegraph-pole forest and the absent crater. Kept both official expedition reports and personal field notes. Captured by Germans in WWII and died at Spas-Demensk POW camp in April 1942, age 58.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Leonid_Kulik_1938",
+      "type": "character",
+      "era": "1938",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1883,
+      "physique": "Russian man, mid-50s, lean build, greying beard, wire-rimmed spectacles, the weathered face of someone who has spent fifteen years returning to the same wilderness. Expression of someone who has been looking for something for a very long time.",
+      "attire": "Soviet expedition gear appropriate to aerial survey work — wool trousers, heavy shirt, leather jacket, field cap",
+      "notes": "Kulik in his final expedition phase — the 1938 aerial survey over the Tunguska devastation zone. First time he saw the butterfly pattern from above after years of walking inside it.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1908",
+      "type": "character",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 52. Wardenclyffe project dormant, funding gone since 1903-04. AC patents expired May 1905. Took a second mortgage on Wardenclyffe from George Boldt in 1908 to cover hotel debts. Published 'Mr. Tesla's Vision' in the New York Times on April 21, 1908 — two months before Tunguska. He is referenced throughout but never appears in a scene. His silence about Tunguska across 35 subsequent years of public life is the episode's central absence.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Luchetkan_1927",
+      "type": "character",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1875,
+      "physique": "Evenki man, approximately 50s, lean and wiry from a lifetime of reindeer herding across taiga, dark complexion, high cheekbones, black hair with some grey, deep observant eyes, the economical posture of someone who moves efficiently in wilderness",
+      "attire": "Traditional Evenki clothing — leather and fur kaftan-style coat (rovduga), trousers of worked hide, high fur-lined boots (unty), practical for taiga summer fieldwork",
+      "notes": "Evenki man whose relative was camped closer to the blast zone with a reindeer herd. Relayed the account of that relative's experience — the burned camp, the destroyed utensils, the 1,500 reindeer lost. His testimony was collected by Kulik's expedition team in the late 1920s or 1930s.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Ilya_Potapovich_1927",
+      "type": "character",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1880,
+      "physique": "Evenki man, late 40s, powerfully built from decades of taiga work, broad-shouldered, weathered dark face, steady hands, the confident unhurried movement of a man who knows the land he walks",
+      "attire": "Traditional Evenki summer working clothes — hide kaftan, worked leather trousers, high boots, practical for guiding through devastated taiga terrain",
+      "notes": "Evenki guide who led Soviet researchers through the devastation zone. Stood at the epicenter and said: 'This is where the thunder and lightning fell down.' His testimony was collected during the 1920s-1930s Soviet expeditions.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Akulina_1908",
+      "type": "character",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1870,
+      "physique": "Evenki woman, late 30s, lean build, dark hair, high cheekbones, the practical bearing of a woman who manages a semi-nomadic household in extreme conditions",
+      "attire": "Traditional Evenki women's clothing — worked hide dress with decorative edge stitching, high boots, practical headcovering",
+      "notes": "Evenki woman near the Chambe River. Her account describes blinding light and heat arriving together, consistent with the thermal physics of a high-altitude airburst, then shockwave, then destruction. Her testimony was collected by Soviet ethnographers in the 1920s-1930s.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Semyon_Dzhenkoul_1962",
+      "type": "character",
+      "era": "1962",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1882,
+      "physique": "Evenki man, approximately 80 years old, slight build reduced further by age, deeply lined face, white hair, dark eyes still sharp, the deliberate careful speech of someone presenting something carried for a long time",
+      "attire": "Soviet-era civilian clothing appropriate for an elderly Evenki man in 1962 — simple dark jacket, trousers, worn leather boots, possibly a flat cap",
+      "notes": "Approximately 80 years old in 1962. Was a child in the Tunguska basin at the time of the 1908 event — not close enough for direct memory. Relayed his father's account to Soviet ethnographer Grigory Vasiliev. His father had been camped 40km northwest of the epicenter with a reindeer herd. The key testimony: the sky 'opened' rather than 'broke'; the reindeer turned toward the source before any human instrument registered the approach; the 'opening' was before the sound.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Grigory_Vasiliev_1962",
+      "type": "character",
+      "era": "1962",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1920,
+      "physique": "Soviet Russian man, early 40s, medium build, neat dark hair, the methodical careful appearance of a fieldwork ethnographer — practical without being rough, with the slightly distracted attentiveness of someone whose mind is always partly on the notebook",
+      "attire": "Soviet professional casual dress for fieldwork — plain dark trousers, white or grey shirt, wool jacket, leather shoes",
+      "notes": "Soviet ethnographer attached to the Krasnoyarsk Regional Museum. Three years into an indigenous oral history survey of Evenki communities of central Siberia in 1962. Conducted the interview with Semyon Dzhenkoul. His handwritten transcripts (made in parallel with reel-to-reel recordings) survived the 1988 Yeniseysk annex flood that destroyed the tapes. The transcripts were transferred to the Krasnoyarsk Regional Archive in 1991.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Soviet_Soil_Chemist_1963",
+      "type": "character",
+      "era": "1963",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1925,
+      "physique": "Soviet Russian man, late 30s, lean build, the indoor pallor of someone who works more in labs and at field stations than in sunlight, wire-rimmed spectacles, careful precise hands",
+      "attire": "Soviet field station working clothes — plain dark trousers, thick wool shirt, canvas work jacket, rubber-soled boots",
+      "notes": "Unnamed soil chemist at the Soviet Academy of Sciences research station near the Tunguska epicenter (established 1958 by the Committee on Meteorites). Filed an internal memo in 1963 reporting crystalline material at the root-soil interface of the telegraph-pole trees — three millimeters deep, rapid formation, no match in the Academy meteorite database or Tunguska geological survey. Recommended expanded sampling. Received no funding or follow-up. The memo was classified at administrative level, released in 1994 partial declassification, and has not been followed up.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Pyotr_Suslov_1927",
+      "type": "character",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1890,
+      "physique": "Soviet Russian man, late 30s, sturdy field-capable build, practical weathered face of a working geologist, careful hands from years of specimen work, the slightly distracted intensity of a scientist who notices things he cannot explain",
+      "attire": "Soviet expedition field gear — canvas trousers, wool shirt, leather boots, canvas jacket with pockets, field cap",
+      "notes": "Geologist on the 1927 Kulik expedition. His official contributions are standard geological survey data. Among his effects after his 1953 death, his daughter found 47 pages of personal field notes separate from the official record — donated to the Irkutsk Regional Museum, catalogued in paper inventory, not yet transcribed, in closed stacks. His personal notes record a larch tree cross-section at the epicenter whose inner rings had been 'summarized' — present but with differentiation compressed in a way he had no framework for. The word 'summarized' appears in his personal notes; it does not appear in the official expedition report.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Kew_Barograph_Operator_1908",
+      "type": "character",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1865,
+      "physique": "British man, early 40s, lean precise build, clean-shaven, careful eyes trained to read instrument needles, the unhurried composure of someone whose professional value is the accuracy of what he records",
+      "attire": "Edwardian professional working dress — dark wool trousers, white shirt with collar, waistcoat, leather shoes. A leather-bound personal diary carried in his jacket.",
+      "notes": "Barograph station operator at Kew Observatory, Richmond, Surrey. On duty June 30, 1908 when the primary pressure wave from Tunguska arrived. Recorded the wave's arrival and its return from the other direction (circumnavigation). In his personal diary — kept in a leather notebook carried home each shift — he recorded a secondary vertical oscillation beginning July 1 and persisting for two weeks, which he distinguished from the horizontal primary wave as suggesting something entering or exiting the upper atmosphere above the Tunguska coordinates. His superintendent instructed him to record it as instrument drift. He complied but recorded his disagreement in the diary. The diary was found in a Surrey estate sale in 2003 and acquired by a private collector; it has not been deposited in any institutional archive.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Robert_Peary_1908",
+      "type": "character",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Arctic explorer. The Tesla-Tunguska conspiracy theory claims Tesla was aiming a wireless energy demonstration at Peary's Arctic position. The conspiracy collapses on the fact that Peary departed New York on July 6, 1908 — six days AFTER the Tunguska event. On June 30, 1908, Peary was in or near New York City. He did not reach Ellesmere Island until September 1908. He never appears in a scene; he is referenced only as the factual demolition of one of the three conspiracy pillars.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Oliver_Nichelson_1990",
+      "type": "character",
+      "era": "1990",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1945,
+      "physique": "American man, approximately mid-40s, the unremarkable appearance of a speculative magazine writer — medium build, ordinary professional dress, neither distinguished nor notable",
+      "attire": "Standard 1990 American casual professional — dark trousers, shirt, perhaps a sport coat",
+      "notes": "Writer who published an article in Fate magazine in January 1990 proposing the Tesla-Tunguska connection as a hypothesis. The article presented the connection speculatively, not as documented fact. The fictional Peary letter — which became treated as established fact in subsequent popular accounts — originated in Nichelson's article as a proposed element of a theory, not a citation from a primary source. He never appears in a scene; he is referenced as the origin point of the conspiracy's fabricated evidence.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Vanavara_Trading_Post_1908",
+      "type": "location",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Small Russian trading post clearing in central Siberian taiga, above the Podkamennaya Tunguska River basin. A main timber building with a covered porch facing north. Several outbuildings. Surrounded on all sides by dense standing forest — spruce and pine, the treeline a dark continuous wall. Sixty-five kilometers south of the Tunguska epicenter. Summer morning air: cool and clear, carrying pine, spruce, and the mineral coldness of an unpolluted river system.",
+      "attire": "",
+      "notes": "The trading post where S.B. Semenov was standing on his porch at 7:17 AM on June 30, 1908 when the Tunguska event occurred. The porch was intact after the shockwave — what passed through was compressed air, not debris or fire.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Vanavara_Porch_1908",
+          "era": "1908",
+          "physique": "A wooden porch on the north-facing side of the main trading post building. Timber construction, posts and floorboards. The northern treeline visible beyond the clearing — standing dark forest wall with open sky above. The direction from which the split sky and white fire appeared. Early morning summer light, the sky clear, air cool before the event.",
+          "notes": "Semenov was standing on this porch when the sky split in two. He was thrown approximately seven feet from this position by the shockwave more than three minutes after the thermal pulse. The porch itself was undamaged."
+        }
+      ]
+    },
+    {
+      "name": "Tunguska_Taiga_1908",
+      "type": "location",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Dense central Siberian taiga — Siberian larch, spruce, and pine covering an elevated river basin above the Podkamennaya Tunguska River. Rolling terrain, permafrost beneath a thin active layer, ground mossy and cold even in summer. No roads, no settlements at scale. Pre-event: standing forest in every direction, canopy unbroken, the specific quiet of wilderness that has not been touched by industry.",
+      "attire": "",
+      "notes": "The forest before the event. The Evenki population of approximately 1,500 were distributed across this territory as semi-nomadic reindeer herders.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Tunguska_Epicenter_1908",
+          "era": "1908",
+          "physique": "The air above the Podkamennaya Tunguska River basin at 5-10 kilometers altitude: the detonation point of the airburst. Ground level directly beneath: forest floor that will show no crater, no depression — the force was vertical, pressing down, the ground absorbing the shock without excavation. Coordinates: 60°55'N, 101°57'E.",
+          "notes": "The point above which the stony asteroid detonated. The trees directly below received vertical force and remained standing but stripped. No crater formed because no mass arrived at the surface."
+        },
+        {
+          "name": "Tunguska_Devastation_Zone_1908",
+          "era": "1908",
+          "physique": "Two thousand square kilometers of felled forest extending radially outward from the epicenter. Eighty million trees laid down pointing outward — away from the center — like the spokes of a vast wheel flattened against the ground. At the outer edge, standing trees undamaged. Moving inward: increasing destruction, trunks snapped or uprooted. At the innermost zone: the standing dead stripped poles, still upright, bark completely removed, wood bleached pale, all branches gone.",
+          "notes": "The butterfly-shaped destruction pattern — two asymmetric wings extending from the epicenter whose axis aligns with the object's southeast-to-northwest trajectory. The pattern was only readable from above; Kulik walked inside it for years before the 1938 aerial survey revealed the shape."
+        }
+      ]
+    },
+    {
+      "name": "Tunguska_Taiga_1927",
+      "type": "location",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Central Siberian taiga nineteen years after the event. No roads, no track, no prior scientific expedition route. Rail access only to Taishet, then horse and sleigh along the Angara and Tunguska river systems, then on foot. Summer: the specific cold of altitude and standing water — not winter cold but the cold that persists where sun reaches canopy before ground, where soil stays frozen months past calendar prediction. Mineral dampness released by snowmelt pools.",
+      "attire": "",
+      "notes": "The terrain Kulik navigated on his first expedition. The forest had been regrowing for nineteen years — young trees three to four meters high filling gaps where old trees had fallen. The telegraph-pole forest remained.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Telegraph_Pole_Forest_1927",
+          "era": "1927",
+          "physique": "The epicenter zone: hundreds of standing dead larch trunks, all stripped completely of bark and branches. Surfaces not rough but smooth — not the smoothness of decay but of something removed all at once. The wood beneath bleached to pale grey, almost white, catching low June light at angles that make individual trunks luminous. Between the standing poles: young new-growth trees three to four meters high pushing up through the opened canopy, the fallen old trunks half-dissolved into the soil serving as nurse logs. The dead poles rising above the new growth, pointing at the same empty sky.",
+          "notes": "The 'telegraph-pole forest' — the scientific shorthand for this place that appears in Kulik's expedition reports. The trees directly beneath the airburst received vertical force and remained standing while being completely stripped by the thermal pulse. The poles pointed at the exact location where the asteroid had detonated."
+        },
+        {
+          "name": "Tunguska_Epicenter_Ground_1927",
+          "era": "1927",
+          "physique": "Forest floor at the center of fifteen megatons. Moss and permafrost-pale soil, same texture as the surrounding terrain. No depression. No excavation. Nineteen years of new growth has softened the surface but a crater of the expected scale would not have disappeared — the Barringer Crater in Arizona is 50,000 years old and still a kilometer across. The ground is unremarkable. Around it: the standing dead poles in their densest concentration.",
+          "notes": "Kulik's personal notes from this evening read: 'The place does not remember what struck it. Only the trees remember.'"
+        },
+        {
+          "name": "Tunguska_Drained_Bog_1927",
+          "era": "1927",
+          "physique": "A natural geological depression in the taiga, drained by the expedition crew by hand. Wet dark soil exposed, the smell of decomposing organic matter, sediment layers revealed. At the bottom: the same permafrost-pale ground as the surrounding terrain. No fragment of an impacting object. No compressed soil signature of a crater. A natural depression that had carried in it the assumption of an impact.",
+          "notes": "Kulik drained bogs by hand hoping to find the crater or object fragments at the bottom. The crater had been carried in the assumptions. The ground never contained it."
+        }
+      ]
+    },
+    {
+      "name": "Wardenclyffe_Tower_Exterior_1908",
+      "type": "location",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Shoreham, Long Island. The tower that J.P. Morgan funded and then did not fund. By 1908, the project had been dormant for two to three years — most site activity ceased by 1905-06 as funding dried up after Morgan's withdrawal in 1903-04 and Tesla's AC patent expiration in May 1905. The tower stands but is not operational. Tesla took a second mortgage on the property from George Boldt in 1908 to cover hotel debts. The tower was demolished for scrap in 1917.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Wardenclyffe_Site_Abandoned_1908",
+          "era": "1908",
+          "physique": "The Wardenclyffe property in a state of dormancy — the tower structure standing on the Long Island shoreline but without power, without active equipment, without workers. The outbuildings quiet. Vegetation beginning to reclaim the cleared ground around the base. The tower's mushroom-shaped copper dome at the top intact but unlit. Long Island summer — humid, green, the sound of the ocean faintly present.",
+          "notes": "The tower was not operational on June 30, 1908. This is the visual that accompanies the demolition of the conspiracy's first pillar: the tower was there, it was not running."
+        }
+      ]
+    },
+    {
+      "name": "Kew_Observatory_1908",
+      "type": "location",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Richmond, Surrey. One of England's premier meteorological and geophysical instrument stations. Where the barograph operator recorded the primary Tunguska pressure wave and the anomalous secondary vertical oscillation.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Kew_Barograph_Room_1908",
+          "era": "1908",
+          "physique": "Interior instrument room at Kew Observatory. Stone-floored, the temperature regulated by the thermal mass of the walls rather than any mechanical system — a specific stone-and-plaster coolness. Barograph equipment at center: a rotating paper drum driven by clockwork, a sensitive aneroid capsule connected by a fine mechanical linkage to a recording needle that traces a continuous ink line on the paper. The needle's record visible as a slow-moving line of ink. Shelves of previous paper drum records. The smell of machinery oil, paper, and ink.",
+          "notes": "Where the operator watched the barograph needle record the primary horizontal wave on June 30, then monitored through the following days as the secondary vertical oscillation appeared and persisted. The room where a careful man recorded his disagreement with his superintendent's instrument-drift explanation."
+        }
+      ]
+    },
+    {
+      "name": "Krasnoyarsk_Regional_Archive_1962",
+      "type": "location",
+      "era": "1962",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Soviet regional archive building in Krasnoyarsk, Siberia. Institutional interior — concrete floors, metal shelving units holding boxes of documents organized by Soviet administrative category. Fluorescent overhead lighting. The specific atmosphere of a Soviet bureaucratic storage facility: functional, under-resourced, organized by systems that made sense at creation and have partially drifted since. The Yeniseysk annex materials transferred here in 1991 after the flood — among thousands of other uncatalogued Soviet-period scientific and administrative materials.",
+      "attire": "",
+      "notes": "Where Vasiliev's handwritten transcripts of Evenki oral history interviews (including the Dzhenkoul interview) ended up after the 1988 Yeniseysk flood destroyed the original reel-to-reel tapes. The transcripts joined thousands of other uncatalogued materials waiting for a future that has not yet arrived with enough staffing to catalogue them.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Krasnoyarsk_Archive_Uncatalogued_Stacks_1962",
+          "era": "1962",
+          "physique": "A section of metal shelving holding cardboard boxes of handwritten documents from Soviet-era fieldwork. The boxes unlabeled or labeled in faded ink with administrative codes. The Vasiliev transcripts — spiral-bound notebooks with handwritten pages, interview dates, location notes, phonetic transliterations from Evenki to Russian — sitting among hundreds of similar notebooks in one of these boxes. Accessed by pulling down a box and leafing through paper.",
+          "notes": "The physical location of the Dzhenkoul interview transcript. Not yet transcribed into any digital system. Present in the physical collection."
+        }
+      ]
+    },
+    {
+      "name": "Irkutsk_Regional_Museum_Closed_Stacks_1927",
+      "type": "location",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A Soviet-era regional museum in Irkutsk, Siberia. Closed-stack storage section: rows of archival shelving holding paper collections, bound documents, and filing boxes from regional historical and scientific collections. Pre-digital paper inventory. The Suslov personal field notes catalogued as: 'Suslov, P.K. — personal field notes, Tunguska expedition, 1927-28, 47 pages, handwritten.' Present but not yet transcribed, accessible only by physical retrieval.",
+      "attire": "",
+      "notes": "Where Pyotr Suslov's personal field notes were donated by his daughter after his 1953 death. The notes contain his description of the 'summarized' inner rings of a larch cross-section at the epicenter — an observation that did not appear in his official expedition report.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Soviet_Tunguska_Research_Station_1963",
+      "type": "location",
+      "era": "1963",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Remote Soviet research station near the Tunguska epicenter, central Siberia. Established 1958 by the Soviet Academy of Sciences Committee on Meteorites. A cluster of utilitarian timber or prefabricated outbuildings in a cleared area of taiga — laboratory space, living quarters, storage. Generators providing power. The nearest town hundreds of kilometers distant. Summer: the taiga surrounding the station recovering vegetation, the standing dead telegraph-pole trunks visible at the epicenter nearby.",
+      "attire": "",
+      "notes": "Where the soil chemist was working in 1963 when he filed his internal memo about the unidentified crystalline material at the root-soil interface of the telegraph-pole trees.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tunguska_Devastation_Zone_Aerial_1938",
+      "type": "location",
+      "era": "1938",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The Tunguska devastation zone seen from above, during Kulik's 1938 aerial survey. Aerial view at altitude — the butterfly pattern visible from outside the destruction for the first time. Thirty years of regrowth has softened the surface but the radial fall-line structure is still legible: the outward-pointing fallen trunks visible in the texture of the new growth, the cleared zones distinguishable from established forest, the epicenter readable as a different kind of place. Two asymmetric wings extending from a central point, their axis running southeast to northwest — the record of the object's trajectory written in the shape of trees.",
+      "attire": "",
+      "notes": "The view Kulik had never had before. After years of walking inside the pattern, the 1938 aerial survey revealed its shape. He had spent fifteen years trying to find what struck Siberia — from above, he finally saw the shape of how it fell.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tunguska_Airburst_1908",
+      "type": "object",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A stony asteroid approximately 50-60 meters in diameter — smaller than a city block — traveling at high velocity from the east-southeast. The object itself never reaches the ground. At 5-10 kilometers altitude above the Podkamennaya Tunguska River basin, aerodynamic compression and heating causes structural failure. The detonation: an instantaneous release of fifteen megatons of TNT-equivalent energy as heat and pressure. A blinding flash visible from hundreds of kilometers. A thermal pulse traveling at the speed of light. A pressure wave radiating outward and downward simultaneously. The stone itself disintegrates completely — no fragments, no crater, only energy.",
+      "attire": "",
+      "notes": "The actual cause of the Tunguska event. Confirmed by 21st century analysis: shock-metamorphosed grains subjected to approximately 2 gigapascals of pressure and temperatures exceeding 1,710 degrees Celsius; nickel and iridium microspheres in ratios consistent with stony asteroid composition. The asteroid was real. It also came through something.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Telegraph_Pole_Trunks_1927",
+      "type": "object",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Standing dead Siberian larch trunks at the Tunguska epicenter. Each trunk stripped completely of bark — not the striations and ghost-patterns of bark that peeled gradually over time, but a surface smooth as if the bark was removed all at once. Wood beneath bleached pale grey, almost white, catching available light at angles that make each surface luminous. All branches gone. Each trunk standing upright and pointing at the sky. Hundreds of them concentrated toward the epicenter, their density increasing as the center approaches. Some up to 200 years old at the time of the 1908 event.",
+      "attire": "",
+      "notes": "The scientific shorthand 'telegraph-pole forest' comes from Kulik's expedition reports. The trunks received a vertical force component — straight down — from the airburst directly above, which kept them standing while the surrounding forest fell outward. The thermal pulse stripped the bark before the shockwave arrived. They pointed at the exact coordinates where the asteroid had detonated.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Larch_Cross_Section_1927",
+      "type": "object",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A cross-section cut through a standing dead Siberian larch trunk at the Tunguska epicenter, made by Pyotr Suslov in 1927. The cut face exposed: concentric growth rings in alternating light and dark pairs — each year one earlywood ring (light, wide-celled) and one latewood ring (dark, dense-celled). The outer 30 rings showing normal differentiation, clear seasonal boundaries, the ledger readable. The inner rings — the tree's older history — present but reduced: the sharp boundary between earlywood and latewood softened, the seasonal variation flattened, the record still there but compressed to a simpler notation. Not absent. Summarized.",
+      "attire": "",
+      "notes": "Suslov's personal notes describe the inner rings as 'summarized' — the word he reached for in his field notes, not in the official report. 'I do not know what produced this. The pattern suggests the tree was still the same tree but had been — the word I reach for is summarized.' The detail does not appear in the official Kulik expedition record.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Kew_Barograph_Record_1908",
+      "type": "object",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A rotating paper drum from a Kew Observatory barograph, approximately 25 centimeters wide. The drum surface covered in a continuous ink trace recording atmospheric pressure over time. The trace for June 30-July 15, 1908: a visible sharp departure from the baseline — the primary horizontal pressure wave arriving from the east and then returning from the west. Then, beginning July 1: a secondary oscillation with a different character — a regular, rhythmic vertical deflection superimposed on the baseline, too regular for instrument drift, continuing for two weeks. Ink on paper. The record of something the superintendent explained away.",
+      "attire": "",
+      "notes": "The physical instrument record supporting the barograph operator's diary entries. The primary wave is documented in scientific literature. The secondary 'vertical' oscillation exists only in the operator's personal diary — he was instructed to record it as instrument drift in the official log.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Kew_Barograph_Operator_Diary_1908",
+      "type": "object",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A small leather-bound personal diary, worn at the corners from being carried in a jacket pocket daily. Pages filled with a careful, economical hand — most entries brief, the handwriting of someone who has developed a professional economy of observation. The June 30 entry longer than most. The July 1 entry noting the night sky brightness and the secondary barograph oscillation. The July 3 entry recording the vertical reading, the report to the superintendent, and the instruction to attribute it to instrument drift. The final entry on this subject containing a single line of recorded disagreement: 'I do not believe it is instrument drift.' Purchased at a Surrey estate sale in 2003 by a private collector.",
+      "attire": "",
+      "notes": "Found at an estate sale in Surrey in 2003 as part of a collection of scientific and personal ephemera from a house being cleared after two generations of occupation. Not deposited in any institutional archive.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Soviet_Academy_Soil_Memo_1963",
+      "type": "object",
+      "era": "1963",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A typed internal memo on Soviet Academy of Sciences letterhead. Single-spaced, official format. A few paragraphs describing the sample location (root-soil interface of telegraph-pole trees, approximately three millimeters depth), the finding (crystalline material, structure suggesting rapid formation, no match in the Academy meteorite database or Tunguska geological survey), and the recommendation (expanded sampling). The concluding line: 'No funding allocated.' Filed, stamped with an administrative classification marking, placed in a folder among dozens of similar research memos.",
+      "attire": "",
+      "notes": "Classified at administrative level in 1963 — standard Soviet practice for unreviewed findings. Released in 1994 as part of a partial declassification of Soviet Academy of Sciences documents. One document among thousands in a release too large to comprehensively catalogue. No follow-up memo exists in the declassified batch.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Suslov_Personal_Field_Notes_1927",
+      "type": "object",
+      "era": "1927",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Forty-seven handwritten pages, loose or lightly bound, in a field scientist's notebook. The handwriting of someone writing quickly in the field — condensed, abbreviated, the script of a man recording what he sees before the moment passes. Interspersed with quick pencil sketches of geological formations and cross-sections. The larch cross-section sketch shows concentric rings with the inner rings marked differently — a notation and a question mark. On the page with the cross-section: the word 'summarized' circled, with no further explanation.",
+      "attire": "",
+      "notes": "Kept separate from the official expedition record. Found by Suslov's daughter among his effects after his 1953 death. Donated to the Irkutsk Regional Museum. Catalogued in paper inventory under 'Suslov, P.K. — personal field notes, Tunguska expedition, 1927-28, 47 pages, handwritten.' Not yet transcribed. In closed stacks.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Vasiliev_Interview_Transcripts_1962",
+      "type": "object",
+      "era": "1962",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A spiral-bound fieldwork notebook, pages covered in handwritten Russian with interspersed Evenki phonetic transcriptions. The Dzhenkoul interview pages: date, location, subject identification, age. The account recorded in present tense as if transcribing speech directly. A marginal note in a slightly different pen pressure: 'Subject distinguishes between breaking and opening. Insists on the distinction. Father's account consistent across three tellings during interview.'",
+      "attire": "",
+      "notes": "Vasiliev's handwritten transcripts made in parallel with reel-to-reel recordings. The recordings were destroyed in the 1988 Yeniseysk annex flood. The transcripts survived and were transferred to the Krasnoyarsk Regional Archive in 1991. They are among approximately 120 recorded interviews from the first two years of the fieldwork project. The Dzhenkoul transcript is one of these — present, uncatalogued, waiting.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Butterfly_Destruction_Pattern_Aerial_1938",
+      "type": "object",
+      "era": "1938",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The Tunguska devastation zone seen from directly above as an aerial photograph or schematic: two asymmetric wings of felled forest extending from a central point, their combined shape resembling a butterfly with slightly unequal wings. The axis of the butterfly runs southeast to northwest — the direction of the object's travel. The northwest wing is slightly larger (downtrack direction). The epicenter at the butterfly's body center is the telegraph-pole forest. Moving outward from center along each wing: the radial fall pattern — fallen trunks all pointing outward, away from the epicenter. The outer edges of both wings: standing undamaged trees.",
+      "attire": "",
+      "notes": "The shape confirmed by aerodynamic modeling as the signature of an oblique airburst — an object entering at angle, depositing energy in a corridor that fans outward in both the downtrack and uptrack directions. The pattern is a record of the object's path written in the shape of the fallen trees. The forest had been reading the sky. Kulik first saw this shape from above in 1938 after years of walking inside it.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Noctilucent_Clouds_1908",
+      "type": "object",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "High-altitude ice crystal formations in the mesosphere, visible after sunset as a pale luminescent layer near the horizon — a blue-silver or blue-white glow that persists after the sky has darkened around it. In the weeks following the Tunguska event, visible from Britain to central Russia at midnight, bright enough to read newspaper text by. Not the residual orange of sunset or the gradual darkening of long summer twilight — a different quality of light, milky and lateral, coming from above the horizon rather than from it.",
+      "attire": "",
+      "notes": "The scientific explanation for the 'bright nights' of July 1908: water vapor lofted into the mesosphere by the Tunguska explosion seeded noctilucent clouds on an extraordinary scale. The explanation is documented in a 2009 Geophysical Research Letters study. The bright nights lasted approximately 15 days across western Russia and northern Europe — at the outer edge of what the estimated material loading should produce, but within range.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
