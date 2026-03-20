@@ -88,13 +88,13 @@ What does seven point nine hertz mean to a CERN calibration engineer in two thou
 It means an instrument anomaly. It means a calibration task before the next run. The frequency sits within the range of natural electromagnetic phenomena. It is not alarming. It is procedurally thorough to note it and recommend follow-up.
 
 
-What does seven point nine hertz mean if you know what happened in Colorado Springs in eighteen ninety-nine?
+What does seven point nine hertz mean to someone who knows what happened in Colorado Springs in eighteen ninety-nine?
 
 
 Something else entirely.
 
 
-May, eighteen ninety-nine. Colorado Springs, Colorado. Altitude six thousand feet. The air thinner than it should be, the kind of thinness the body knows without being told — a slight compression at the top of each breath, as though the atmosphere has been diluted, as though you have to breathe just slightly more deliberately than you normally would.
+May, eighteen ninety-nine. Colorado Springs, Colorado. Altitude six thousand feet. The air thinner than it should be, the kind of thinness the body knows without being told — a slight compression at the top of each breath, as though the atmosphere has been diluted, requiring a slightly more deliberate breath than lower ground demands.
 
 
 Nikola Tesla arrived in May of eighteen ninety-nine with a specific purpose. He had leased a large plot on the eastern edge of the city, distant enough from the existing electrical infrastructure that the experiments he planned would not be constrained by it — and would not, he hoped, destroy it.
@@ -172,7 +172,7 @@ The CERN memo author has no knowledge of Tesla's Colorado Springs experiments. T
 The timeline runs independent of what the memo author knows.
 
 
-This is where the Berenstain Bears enter the investigation properly — not as a curiosity, not as an anecdote about false memory, but as a data point in a pattern that begins to look less like coincidence the longer you examine it.
+This is where the Berenstain Bears enter the investigation properly — not as a curiosity, not as an anecdote about false memory, but as a data point in a pattern that begins to look less like coincidence the longer the examination runs.
 
 
 The cognitive science explanation for the Berenstain Bears misremembering is accurate. The "-stein" pattern is more common in German-derived surnames. The brain substitutes familiar patterns during encoding. The mechanism stands.
@@ -403,7 +403,7 @@ Shoreham, Long Island. July, nineteen seventeen. The air is humid and salt-heavy
 The tower is one hundred and eighty-seven feet tall. The copper hemisphere at its top is sixty-eight feet in diameter. From the base, looking up, the structure does not look like a transmission tower. It looks like something that grew here rather than something that was built — as though it arrived at this shape through some process of accumulation over a long period, the way geological formations arrive at their shapes.
 
 
-Below the surface, invisible, the iron root system extends downward. A hundred-and-twenty-foot shaft, with iron pipes driven a further three hundred feet into the bedrock from the bottom. The root system goes further into the earth than the tower goes into the sky. The thing you are standing next to reaches down into the rock in a way the rock does not let you see.
+Below the surface, invisible, the iron root system extends downward. A hundred-and-twenty-foot shaft, with iron pipes driven a further three hundred feet into the bedrock from the bottom. The root system goes further into the earth than the tower goes into the sky. The structure reaches down into the rock in a way the rock refuses to show.
 
 
 The Smiley Steel Company of New York has been contracted to demolish the structure. The Waldorf-Astoria hotel holds the mortgage. Tesla has not paid his hotel bills. The scrap metal value of everything visible above the ground — the tower, the copper hemisphere, the machinery of the facility — has been appraised at approximately one thousand seven hundred and fifty dollars.
@@ -559,7 +559,7 @@ The station operator in Tromsø recalibrated their instruments on July fifth, tw
 The Colorado Springs survey report sits in an uncatalogued collection in the Colorado State Archives. The oscillation continues in the ground. The survey firm is dissolved. The geologist's observation — the ground remembering — remains in a footnote no one is reading.
 
 
-You remember how to spell it. The publisher's records disagree. The cognitive scientists have an explanation for the disagreement. It is a good explanation. It explains the why. The when is a different question. The electromagnetic environment in which both your memory and the publisher's record were laid down — the substrate that a man in Colorado Springs found in eighteen ninety-nine and spent his remaining years trying to build an architecture for — that question is outside the cognitive explanation's scope. What happens to the memories stored in one baseline when the baseline moves is not in the literature.
+You remember how to spell it. The publisher's records disagree. The cognitive scientists have an explanation for the disagreement. It is a good explanation. It explains the why. The when is a different question. The electromagnetic environment in which both your memory and the publisher's record were laid down — the substrate that a man in Colorado Springs found in eighteen ninety-nine and spent his remaining years trying to build an architecture for — that question is outside the cognitive explanation's scope. What happens to the memories stored in one frequency register when that register shifts — that question remains outside the literature.
 
 
 The machine works. Selassie wrote that. Not as a complaint. Not as a warning in the theatrical sense. As a precise technical description of what is worse than the machine being broken. If the machine were broken, the solution would be repair. If the machine works — if it is doing exactly what it was designed to do, operating within a substrate it did not create, running at frequencies that the Earth has been producing since eighteen ninety-nine, finding the particle that decides what has substance in the field that was already there — then the question is not what the machine is doing wrong.
