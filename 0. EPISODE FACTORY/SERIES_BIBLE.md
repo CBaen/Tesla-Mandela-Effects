@@ -183,9 +183,41 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 - **002:** Personal correspondence (Coburn letter), Personal diary/journal entry (Wren diary), Insurance claim/incident report (Bureau of Public Works), Unpublished academic paper (Alcott analysis), Photographic evidence with provenance gaps (Halsted negatives)
 - **003:** Anonymous letter from insider/whistleblower (Selassie letter), Classified internal memo (CERN IM-34 memo), Monitoring station log with handwritten annotation (Tromso log), Geological/environmental survey (Colorado Springs survey)
 
+### 004 — THE TUNGUSKA EVENT (v4 — pending editor approval)
+- **Wound:** Something struck Siberia with the force of fifteen megatons and nothing hit the ground — the popular Tesla conspiracy is demolished, the scientific answer is incomplete, and what remains is stranger than both
+- **Opening type:** Fact that becomes horrifying (fifteen megatons, no crater)
+- **Structural shape:** The trial (prosecution: natural asteroid vs. defense: Tesla conspiracy — verdict goes to neither; the Inversion reveals the safe answer is more disturbing)
+- **Twist beats:** 3 (The Cracks — Tesla conspiracy built and demolished with three verified facts), 5 (The Real Wound — four fabricated instruments converging on "opening, not breaking"), 6 (The Implication — bright nights recontextualized from debris to aperture)
+- **Integration beats:** 2 (The Surface — Evenki accounts, seismic data, atmospheric effects), 4 (The False Floor — scientific consensus at full weight: stony asteroid, airburst, microspheres)
+- **False floor:** Two false floors. First: the Tesla conspiracy (demolished — tower was dark, letter was fabricated, Peary was in New York). Second: the asteroid (real, verified, but slightly larger than the object — the bright nights persisted longer than models predict, the pressure wave was at the edge of estimates)
+- **Closing type:** The Inversion — the safe answer (asteroid) is more disturbing than the conspiracy (Tesla). The asteroid was real. It was also the vehicle. The sky stayed open for two weeks.
+- **Emotional endpoint:** Vertigo — neither floor holds. The conspiracy is fabricated. The science is incomplete. Tesla's silence is real. The sky was bright for two weeks.
+- **Tesla connection type:** Absence — Tesla is present through silence. He never mentioned Tunguska. The man who never stopped announcing his capabilities said nothing about the most dramatic explosion of his era. The silence is the evidence.
+- **Key locations:** Vanavara Trading Post (1908), Tunguska epicenter/devastation zone (1908, 1927), Wardenclyffe Tower (abandoned, 1908), Kew Observatory Surrey (1908), Krasnoyarsk Region (1962)
+- **Mandela Effects (primary):** None directly named — the episode expands the series premise by showing a dimensional transit event, not a memory anomaly
+- **Fabricated sources:** Evenki oral history (Dzhenkoul transcript, 1962 — "the sky opened, not broke"), Soviet Academy classified memo (1963 — crystalline material at root interface), Suslov's unpublished field notes (1927 — "summarized" tree rings), Kew barograph operator's personal diary (July 1908 — vertical atmospheric component, "I do not believe it is instrument drift")
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "the sky split in two" — Semenov's documented words
+  - "eighty million trees and no crater" — the central impossibility
+  - "the telegraph-pole forest" — standing dead trees stripped of everything, pointing at the sky
+  - "the shirt that felt like it was on fire" — Semenov at sixty-five kilometers
+  - "the sky opened, not broke" — Dzhenkoul's father's distinction
+  - "summarized" — Suslov's word for the simplified tree rings
+  - "a story someone invented in nineteen ninety" — the demolition of the Tesla conspiracy
+  - "the sky stayed bright for two weeks" — atmospheric debris at first, aperture at the climax
+  - "the vertical component" — the barograph operator's reading from above
+  - "he found everything except what struck Siberia" — Kulik's epitaph
+- **Names spent:** Nikola Tesla, S.B. Semenov, Leonid Kulik, Luchetkan (Evenki witness), Akulina (Evenki witness), Ilya Potapovich (Evenki guide), Semyon Dzhenkoul (fabricated), Grigory Vasiliev (fabricated), Pyotr Suslov (fabricated — name borrowed from real expedition member), Oliver Nichelson, Robert Peary, George Boldt, J.P. Morgan
+
 ---
 
-## Window Rules — Available for Episode 004
+## Fabricated Source Format — Usage Log (continued)
+
+- **004:** Oral history/recorded interview transcript (Dzhenkoul/Vasiliev), Classified internal memo (Soviet Academy soil chemist), Unpublished field notes (Suslov personal notes), Personal diary/journal entry (Kew barograph operator)
+
+---
+
+## Window Rules — Available for Episode 005
 
 Based on the three v4 approved episodes (001, 002, 003):
 

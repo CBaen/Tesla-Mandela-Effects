@@ -107,7 +107,7 @@ The claim has appeared in documentaries. In books. In YouTube videos with millio
 
 The claim has everything a good story needs.
 
-This investigation does not dismiss it immediately. It gives the claim its proper weight. Because two months before the Tunguska event — on April twenty-first, nineteen oh eight — Nikola Tesla published a piece in the New York Times in which he described the idea of transmitting electrical energy without wires and producing, in his own words, destructive effects at a distance.
+This investigation does not dismiss it immediately. It gives the claim its proper weight. Because two months before the Tunguska event — on April twenty-first, nineteen oh eight — Nikola Tesla published a piece in the New York Times titled "Mr. Tesla's Vision," in which he described the global wireless transmission of electrical energy and images — a system that, if built to the specifications he outlined, would have been capable of delivering energy to any point on the planet.
 
 April twenty-first, nineteen oh eight.
 
@@ -198,7 +198,7 @@ Not a theory. Not a mechanism. Not a letter that doesn't exist.
 
 A silence.
 
-The man who wrote about destructive wireless energy in April of nineteen oh eight — who published that statement in the most widely circulated newspaper in New York City, who never missed an opportunity to announce his capabilities, who would hold birthday press conferences in later decades to announce weapons that didn't yet exist, who described his death ray to the press as late as nineteen thirty-four as a weapon capable of bringing down ten thousand aircraft at two hundred and fifty miles — this man never mentioned the Tunguska event.
+The man who wrote about global wireless energy transmission in April of nineteen oh eight — who published his vision for delivering power to any point on Earth in the most widely circulated newspaper in New York City, who never missed an opportunity to announce his capabilities, who would hold birthday press conferences in later decades to announce weapons that didn't yet exist, who described his death ray to the press as late as nineteen thirty-four as a weapon capable of bringing down ten thousand aircraft at two hundred and fifty miles — this man never mentioned the Tunguska event.
 
 Not once.
 
