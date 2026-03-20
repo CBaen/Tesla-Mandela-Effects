@@ -198,7 +198,7 @@ Not a theory. Not a mechanism. Not a letter that doesn't exist.
 
 A silence.
 
-The man who wrote about destructive wireless energy in April of nineteen oh eight — who published that statement in the most widely circulated newspaper in New York City, who never missed an opportunity to announce his capabilities, who would hold birthday press conferences in later decades to announce weapons that didn't yet exist, who described his death ray to the press as late as nineteen thirty-four as a weapon capable of bringing down ten thousand aircraft at two hundred miles — this man never mentioned the Tunguska event.
+The man who wrote about destructive wireless energy in April of nineteen oh eight — who published that statement in the most widely circulated newspaper in New York City, who never missed an opportunity to announce his capabilities, who would hold birthday press conferences in later decades to announce weapons that didn't yet exist, who described his death ray to the press as late as nineteen thirty-four as a weapon capable of bringing down ten thousand aircraft at two hundred and fifty miles — this man never mentioned the Tunguska event.
 
 Not once.
 
@@ -243,7 +243,7 @@ He had known it since before he had language.
 
 ---
 
-The asteroid arrived from the southeast.
+The asteroid arrived from the east-southeast.
 
 That detail matters, so it bears stating plainly before proceeding. Airburst events have a direction. The object enters the atmosphere at an angle, traveling along a trajectory, and the destruction it produces beneath the explosion is shaped by that angle. The butterfly pattern — the two asymmetric wings of felled forest that extend outward from the Tunguska epicenter when viewed from above — is not a coincidence of geography. It is a record of the object's path through the air above it. Southeast entry, northwest travel, detonation above the Podkamennaya Tunguska River basin at an altitude between five and ten kilometers. The pattern is the proof. The shape of the fallen trees is the shape of the force that felled them, and the shape of the force is the shape of the object's passage.
 
@@ -323,9 +323,9 @@ Finding those microscopic traces required patience, precision, and several decad
 
 The answer arrived in pieces, over a century. It arrived most recently in twenty twenty-four and twenty twenty-five, when analysis of soil samples from the Tunguska epicenter confirmed the presence of shock-metamorphosed and melted grains — material that had experienced approximately two gigapascals of pressure and temperatures exceeding one thousand seven hundred and ten degrees Celsius. Conditions achievable in a high-velocity atmospheric entry. Nickel and iridium microspheres in ratios consistent with a stony asteroid composition. Not iron. Not cometary ice. Stone.
 
-A stony asteroid approximately fifty to eighty meters in diameter.
+A stony asteroid approximately fifty to sixty meters in diameter.
 
-It entered the atmosphere from the southeast at high velocity. The aerodynamic forces compressed and heated it beyond what the stone could structurally survive. At five to ten kilometers altitude, it detonated. The energy of its entire kinetic mass, converted to heat and pressure in an instant, released in an airburst that delivered fifteen megatons of TNT equivalent to the air above the Podkamennaya Tunguska River basin.
+It entered the atmosphere from the east-southeast at high velocity. The aerodynamic forces compressed and heated it beyond what the stone could structurally survive. At five to ten kilometers altitude, it detonated. The energy of its entire kinetic mass, converted to heat and pressure in an instant, released in an airburst that delivered fifteen megatons of TNT equivalent to the air above the Podkamennaya Tunguska River basin.
 
 The stone was gone. The energy remained. The forest recorded it.
 
@@ -595,7 +595,7 @@ The barograph operator's secondary reading was not decreasing gradually. It was 
 
 Something arrived at sixty degrees fifty-five minutes North, one hundred and one degrees fifty-seven minutes East, on the morning of June thirtieth, nineteen oh eight.
 
-The physical evidence says it arrived from outside. The asteroid — real, verified, confirmed by the shock-metamorphosed grains and the microspheres — came through the atmosphere from the southeast.
+The physical evidence says it arrived from outside. The asteroid — real, verified, confirmed by the shock-metamorphosed grains and the microspheres — came through the atmosphere from the east-southeast.
 
 Four independent instruments, from four independent positions, each describe the arrival as something other than a standard impact event.
 
@@ -614,7 +614,7 @@ The silence remains.
 
 The man who described destructive wireless energy in the most widely read newspaper in New York City, two months before the most destructive explosion of his era — this man said nothing.
 
-Thirty-five years of subsequent public life. Birthday press conferences attended by journalists from every major American paper. Interviews in which he described, with specific numerical confidence, the destructive capacity of weapons that had not yet been built. A nineteen thirty-four press conference in which he told journalists that his death ray — a weapon he was prepared to sell to any nation willing to fund it — could bring down ten thousand aircraft at a range of two hundred miles.
+Thirty-five years of subsequent public life. Birthday press conferences attended by journalists from every major American paper. Interviews in which he described, with specific numerical confidence, the destructive capacity of weapons that had not yet been built. A nineteen thirty-four press conference in which he told journalists that his death ray — a weapon he was prepared to sell to any nation willing to fund it — could bring down ten thousand aircraft at a range of two hundred and fifty miles.
 
 He could put a number on ten thousand aircraft.
 
@@ -655,7 +655,7 @@ Here is where this investigation finds itself.
 
 The comfortable explanation — the conspiracy, Tesla's death ray, the weapon test gone wrong — was a story someone invented in nineteen ninety. It was a satisfying story. It had a villain and a mechanism and a narrative resolution: Tesla caused this, Tesla regretted it, Tesla covered it up. The comfortable story gave the listener a protagonist.
 
-The rock is the real answer. The stony asteroid, fifty to eighty meters, airburst at five to ten kilometers. The shock-metamorphosed grains confirm it. The microspheres confirm it. The butterfly-shaped destruction pattern confirms it. This is not speculation. This is a century of accumulating physical evidence, confirmed by the best analytical tools available to twenty-first century science.
+The rock is the real answer. The stony asteroid, fifty to sixty meters, airburst at five to ten kilometers. The shock-metamorphosed grains confirm it. The microspheres confirm it. The butterfly-shaped destruction pattern confirms it. This is not speculation. This is a century of accumulating physical evidence, confirmed by the best analytical tools available to twenty-first century science.
 
 The asteroid is real.
 
@@ -714,7 +714,7 @@ Then: the war. Germany invaded the Soviet Union in June of nineteen forty-one. K
 
 He died in April of nineteen forty-two in a German prisoner-of-war camp at Spas-Demensk.
 
-He was sixty-one years old.
+He was fifty-eight years old.
 
 He had spent fifteen years trying to find what struck Siberia.
 
@@ -731,7 +731,7 @@ The sky above you is not the same sky.
 
 Not different in any way that your instruments would confirm. The pressure readings are within normal range. The vertical component is absent. The needle is not moving with the regularity that a careful barograph operator in Surrey would have noticed and recorded in his personal diary and been told to attribute to instrument drift.
 
-The aperture that opened above sixty degrees fifty-five minutes North, one hundred and one degrees fifty-seven minutes East on June thirtieth, nineteen oh eight — whatever it was, wherever it led, whatever came through it moving southeast through the upper atmosphere as a stony object fifty to eighty meters in diameter, arriving with two gigapascals of pressure and temperatures that turned stone to glass — that aperture closed.
+The aperture that opened above sixty degrees fifty-five minutes North, one hundred and one degrees fifty-seven minutes East on June thirtieth, nineteen oh eight — whatever it was, wherever it led, whatever came through it moving southeast through the upper atmosphere as a stony object fifty to sixty meters in diameter, arriving with two gigapascals of pressure and temperatures that turned stone to glass — that aperture closed.
 
 The bright nights ended on approximately July fifteenth.
 
