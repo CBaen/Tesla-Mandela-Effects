@@ -85,7 +85,7 @@ The follow-up was never filed. The helium explosion made the September tenth dat
 What does seven point nine hertz mean to a CERN calibration engineer in two thousand eight?
 
 
-It means an instrument anomaly. It means something to calibrate before the next run. The frequency sits within the range of natural electromagnetic phenomena. It is not alarming. It is procedurally thorough to note it and recommend follow-up.
+It means an instrument anomaly. It means a calibration task before the next run. The frequency sits within the range of natural electromagnetic phenomena. It is not alarming. It is procedurally thorough to note it and recommend follow-up.
 
 
 What does seven point nine hertz mean if you know what happened in Colorado Springs in eighteen ninety-nine?
@@ -214,7 +214,7 @@ The report this researcher produced circulated outside peer-reviewed journals. I
 The cognitive science stops at the encoding. It says nothing about the distribution.
 
 
-In July of two thousand twelve, in a climate-controlled monitoring station at the Tromsø Geophysical Observatory in northern Norway — operated by the University of Tromsø, used for space weather research and electromagnetic baseline studies — a station operator was running standard monitoring on the Schumann resonance.
+In July of two thousand twelve, in a climate-controlled monitoring station at the Tromsø Geophysical Observatory in northern Norway — operated by the University of Tromsø, used for space weather research and electromagnetic field monitoring — a station operator was running standard monitoring on the Schumann resonance.
 
 
 The station sits at seventy degrees north latitude. In July, the sun does not set. It traces a low arc across the horizon and then comes back, and the light through the monitoring station's one exterior-facing window is the same thin gold at two in the afternoon as it is at midnight — a light that arrived sideways, that came in at an angle you would not see at any other latitude, as though the sun were considering the room rather than illuminating it. The contrast between that light and the blue-white glow of the monitoring screens was something you stopped noticing after the first few shifts and then began noticing again in a specific way that was harder to name.
@@ -223,7 +223,7 @@ The station sits at seventy degrees north latitude. In July, the sun does not se
 The instruments were magnetometers and induction coils monitoring the Earth's natural electromagnetic field — specifically the standing waves propagating in the cavity between the surface and the ionosphere. The readings were logged in fifteen-minute intervals, the paper log updated in a hand that had written these same numbers in these same columns long enough that the handwriting was consistent to a narrow range of variation. Standard entries. Standard format. The log for June looked like the log for May. The log for May looked like the log for April.
 
 
-The log for July fourth, two thousand twelve shows the Schumann resonance fundamental at its standard seven point eight three hertz baseline for the majority of the monitoring period. The entries are regular. The numbers are stable. The hand is the same hand.
+The log for July fourth, two thousand twelve shows the Schumann resonance fundamental holding at its standard seven point eight three hertz for the majority of the monitoring period. The entries are regular. The numbers are stable. The hand is the same hand.
 
 
 At fourteen eleven GMT — corresponding to the CERN press conference at which the Higgs boson discovery was announced — the baseline shifted. By approximately zero point three hertz. For eleven minutes. Then returned to baseline.
@@ -283,7 +283,7 @@ Approximately six months into Run one — around mid-two thousand ten — Selass
 The chair Selassie sat in was standard-issue — adjustable height, gray fabric, the kind of chair that is unremarkable until you have sat in it through enough shifts that you know exactly how it responds when you push back from the desk. Selassie had developed the habit of centering both hands on the edge of the keyboard tray when settling in for a monitoring period. A stabilizing gesture. A way of arriving at the start of several hours of watching numbers that were supposed to stay still.
 
 
-Seven point nine hertz where the electromagnetic floor should be seven point eight three. A difference of zero point zero seven hertz. In most measurement contexts, within operational tolerance. In calibration work, the kind of small wrongness that means either the instrument needs adjustment or something in the environment has changed.
+Seven point nine hertz where the electromagnetic floor should be seven point eight three. A difference of zero point zero seven hertz. In most measurement contexts, within operational tolerance. In calibration work, the kind of small wrongness that means either the instrument needs adjustment or the environment itself has shifted.
 
 
 Selassie recalibrated. The reading persisted. Recalibrated a second time, more carefully, running through each instrument in the sector's array — not the quick check but the full procedure, the one that took forty minutes and required sign-off. Both hands on the keyboard tray. Eyes on the screens. The reading persisted. Logged it. Went home. Returned the next day. The reading was gone.
@@ -370,7 +370,7 @@ The question now is: wrong relative to what?
 August, nineteen seventy-four. Colorado Springs, Colorado. Seventy-five years after Tesla's experiments concluded. The site of the laboratory on the eastern edge of the city had been repurposed multiple times — industrial storage, a vacant lot, various commercial uses that came and went. A private geological survey firm, operating under contract to a Colorado state environmental assessment program, was conducting an electromagnetic baseline survey of the former industrial sites in the Pikes Peak region.
 
 
-The survey was routine. The firm expected to find what they found at every former industrial site: baseline electromagnetic readings consistent with the local power grid, some soil contamination from earlier industrial use, nothing anomalous in the geological structure.
+The survey was routine. The firm expected to find what they found at every former industrial site: electromagnetic readings at the standard residential frequency, some soil contamination from earlier industrial use, nothing anomalous in the geological structure.
 
 
 The geological structure was unremarkable. The soil composition was unremarkable. What the team's instruments found in the electromagnetic substrate was another matter entirely.
@@ -520,7 +520,7 @@ Ninety-five years. The same calendar date.
 Not the same machine. The same substrate. The same frequency register. The same underlying field that Tesla found by striking the Earth and CERN found by recreating the conditions of the first instants of the universe.
 
 
-And the memories. The baseline that the Tromsø station operator measured shifting by zero point three hertz for eleven minutes on the day of the announcement. The baseline anomalies in the LHC's own calibration data that Amara Selassie tracked for four years before leaving. The distribution of those anomalies — the shape that is not random, the pattern that repeats at intervals consistent with something taking stock of the machine's operational state.
+And the memories. The frequency floor that the Tromsø station operator measured shifting by zero point three hertz for eleven minutes on the day of the announcement. The substrate anomalies in the LHC's own calibration data that Amara Selassie tracked for four years before leaving. The distribution of those anomalies — the shape that is not random, the pattern that repeats at intervals consistent with something taking stock of the machine's operational state.
 
 
 The ground remembering something that happened to it.
