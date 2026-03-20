@@ -175,6 +175,8 @@ Then: the identification. "KHAQQ calling Itasca." And the investigation opens.
 
 **What it does NOT know:** It does not know about O'Hare's diary. It does not know about the bones on Nikumaroro. It does not know about the 157-337 line's southeastern extension. It is a corporate memo instructing employees to stop listening.
 
+**NOTE: No handwritten annotation on this memo.** The editor flagged that "filed as instructed" is too close to Episode 004's barograph operator's "recorded as instructed." The memo delivers its payload through the typed corporate language alone: "Discontinue monitoring. File as unconfirmed atmospheric phenomena." That's already devastating. No margin note needed.
+
 **Why it is uncheckable:** Pan Am's operational archives from this period are dispersed across multiple institutions. The University of Miami holds portions. Other portions are in private collections. The specific internal memo format and the routing structure are plausible for the era but the document itself is fabricated. A listener who researches will find that Pan Am stations did log signals (confirmed by TIGHAR) but will not find this specific memo.
 
 ---
