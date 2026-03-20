@@ -2,7 +2,15 @@
 ## Fact-Check Request v4
 
 **For:** External verification via Claude browser / independent research
-**Purpose:** Every verifiable claim in this brief must survive a listener Googling it. Paste this document into a browser session with web access. Verify each item independently. Return: CONFIRMED / WRONG / UNVERIFIABLE for each item, with correction if wrong.
+**Purpose:** Every verifiable claim in this brief must survive a listener Googling it. Paste this document into a browser session with web access. Verify each item independently.
+
+**INSTRUCTIONS:**
+1. For each item, return: CONFIRMED / WRONG / UNVERIFIABLE / PARTIALLY CONFIRMED
+2. If WRONG, provide the correct information
+3. **FOR EVERY VERDICT, PROVIDE THE URL(S) you used as sources.** Not just "Wikipedia says" — the actual link. Example: https://en.wikipedia.org/wiki/Large_Hadron_Collider
+4. Cross-reference at least 2 sources per claim where possible
+5. Your sources will be reviewed by a second independent fact-checker who will challenge your findings using your own links
+
 **Legal exposure items are marked LEGAL.**
 
 ---
