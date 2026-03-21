@@ -87,7 +87,7 @@ She had tried this once before. In March of nineteen thirty-seven, the same airc
 
 Lae, New Guinea. The last stop before Howland Island.
 
-The leg from Lae to Howland is two thousand two hundred and forty-three nautical miles of open ocean. There is nothing between Lae and Howland. Not a landing strip, not an airfield, not a stretch of land large enough to set a twin-engine aircraft down. The Pacific, and then Howland Island, two miles long, half a mile wide, at its highest point ten feet above sea level. The target for a navigation shot from two thousand miles out.
+The leg from Lae to Howland is two thousand two hundred and forty-three nautical miles of open ocean. There is nothing between Lae and Howland. Not a landing strip, not an airfield, not a stretch of land large enough to set a twin-engine aircraft down. The Pacific, and then Howland Island, less than a mile and a half long, half a mile wide, at its highest point ten feet above sea level. The target for a navigation shot from two thousand miles out.
 
 On July second, nineteen thirty-seven, at approximately ten in the morning local time, the Electra took off from Lae.
 
@@ -155,7 +155,7 @@ The fuel gauges.
 
 The fuel gauges are the clocks in this aircraft. They are measuring the same passage of time as the clock on the instrument panel, but in different units — not hours and minutes, but the irreversible mathematics of how long a Pratt and Whitney Wasp radial can run on what remains in the tanks. The calculation does not get better. It runs in one direction. It has been running in that direction for seventeen hours.
 
-Howland Island is two miles long.
+Howland Island is less than a mile and a half long.
 
 Ten feet high.
 
