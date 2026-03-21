@@ -158,8 +158,6 @@ It sits in a file at the institution, a single page among hundreds of unfunded p
 No one went back to look.
 
 
-The investigation notes this absence the way you note the shape of what is not there.
-
 No return expedition. No verification. No collection of the object, no in-situ observation, no submersible deployment to the coordinates. The object was photographed once, in a fraction of a second, in nineteen sixty-four. It was identified from a book in nineteen seventy-one. And then the case was closed, and the ship went on, and the ship made a discovery that was larger than any unexplained photograph, and the photograph became a footnote.
 
 This is the Eltanin's real legacy. This is what the ship is remembered for. Not frame 1032.
@@ -203,10 +201,6 @@ Bruce Heezen, who named the Eltanin Antenna a sponge in nineteen seventy-one, an
 The man who named the sponge also named the faults.
 
 The antenna becomes a footnote. The plate tectonics discovery is the story. The Eltanin is the instrument that showed us the Earth moves — that the planet breathes, that new rock forms continuously at the ridges and old rock is consumed at the trenches, that the continents have been traveling across a moving surface for hundreds of millions of years and are traveling still. Frame 1032 is a curiosity photographed by a ship that went on to make one of the largest geological discoveries in the history of science.
-
-The investigation understands this.
-
-The investigation files frame 1032 accordingly.
 
 And then: the annotation.
 
@@ -308,17 +302,13 @@ One vertical protrusion, documented once, in nineteen sixty-four, identified fro
 
 A second vertical protrusion, documented once, by sonar, in two thousand and eleven, noted for completeness and not investigated.
 
-The investigation does not connect them.
-
-The investigation lays them side by side and moves on.
+Side by side. Two objects. Same vertical profile. Two hundred and twelve kilometers apart.
 
 If there are two — two separate objects, in the same region of the same abyssal plain, with the same vertical profile, separated by less than two hundred and fifty kilometers — then the question that the nineteen sixty-four photograph was allowed to close is not closed.
 
 And if there are two, there may be more. The Southern Ocean is the least surveyed body of water on Earth. The Eltanin surveyed approximately eighty percent of it over ten years — eighty percent, which means twenty percent was not surveyed. The cable route covered a corridor. The multibeam sonar mapped a strip. Everything else, in every direction from both survey tracks, is seafloor that no instrument has photographed, no sonar has imaged, no camera has illuminated.
 
-The investigation does not say what this means.
-
-The investigation notes the arithmetic.
+Eighty percent surveyed. Twenty percent not. In an ocean this size, twenty percent is larger than the Mediterranean.
 
 
 Now: the photograph itself.
