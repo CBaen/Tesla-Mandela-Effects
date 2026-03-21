@@ -142,13 +142,21 @@ The wonder is not about aliens. The wonder is about the planet itself — that t
 
 ## Opening Hook Concept
 
-**Opening type: The artifact.**
+**Opening type: The artifact — arriving through the body that first saw it.**
 
-The episode begins with the photograph. Not the ship, not the ocean, not the expedition. The photograph itself. A black-and-white image. The listener is looking at it before they know what it is or where it came from or how deep. Description: soft sediment, featureless, grey. A vertical shaft. Crossbars at right angles. Symmetrical. Alone. The strobe light casting a hard shadow. The darkness beyond the illuminated circle absolute.
+The episode begins in a darkroom. The listener is in someone's hands before they know whose hands these are. Red safelight. The smell of developer chemistry — acetic acid and silver halide. Hands lifting a strip of film from the bath. The specific routine of deep-sea film processing: retrieve housing, extract cartridge, develop in the ship's darkroom, examine frame by frame under the safelight.
 
-The macro loop opens: "What is in this photograph?"
+Frame 1031: mud. Grey sediment. Featureless. The expected image from four thousand meters depth.
 
-Then: where the photograph was taken. How deep. How dark. How cold. How much pressure. The listener recalibrates their understanding of what they're looking at. This isn't a photograph from a construction site or a laboratory. This is a photograph from a place where no human has been, taken by a camera that no human was operating, in permanent darkness at three hundred and ninety atmospheres of pressure.
+Frame 1033: mud.
+
+Frame 1032: something standing in the mud where nothing should stand.
+
+The photograph arrives through the body of the person who first saw it — through Kovac's hands, through the chemistry, through the moment of seeing something wrong emerge from the developing solution. The listener experiences the discovery before they understand what was discovered. THEN: describe what the photograph shows. The vertical shaft. The crossbars at right angles. The symmetry. The darkness beyond. THEN: where it was taken. How deep. How cold. How much pressure.
+
+This plants Kovac from the first paragraph, strengthening his role as affective anchor throughout the episode. The artifact arrives through the person, not before the person.
+
+The macro loop opens: "What is in frame 1032?"
 
 ---
 
