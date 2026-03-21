@@ -253,11 +253,6 @@ The plate tectonics story is not an answer.
 It is a larger question wearing the shape of an answer, standing where the answer should be, symmetrical enough to be mistaken for a resolution from a single angle in black and white.
 
 
-The plate tectonics story is not an answer.
-
-It is a larger question wearing the shape of an answer, standing where the answer should be, symmetrical enough to be mistaken for a resolution from a single angle in black and white.
-
-
 The central absence is not a mystery. The central absence is a fact.
 
 Frame 1032 was photographed on August twenty-ninth, nineteen sixty-four. The object in frame 1032 was given a name in nineteen seventy-one — seven years later, in a book, by a scientist who never went to those coordinates, who never deployed an instrument to the seafloor at fifty-nine degrees, seven minutes south, who never sent a camera or a submersible or a sampling device down through three thousand nine hundred and four meters of dark water to look at the thing in person. Heezen and Hollister looked at the photograph. They recognized the morphology. They named what they saw.
