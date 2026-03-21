@@ -211,46 +211,103 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 
 ---
 
-## Fabricated Source Format — Usage Log (continued)
+### 005 — THE LAST SIGNAL (v4 APPROVED — editor approved, fact-checked)
+- **Wound:** A woman's voice on the radio getting stronger — S5, maximum — while she says she can't hear the response. The gap between hearing and reaching.
+- **Opening type:** Sensory hook (the Itasca radio room — static with texture, headphones, then the voice)
+- **Structural shape:** The letter (framed around the Itasca radio log — each transmission is a timestamp, everything else hangs off the log)
+- **Twist beats:** 3 (The Cracks — the frequency mismatch revealed, asymmetry established), 5 (The Real Wound — the 157-337 line pointing at Nikumaroro, Gallagher's bones, the numbers scratched into a tree), 6 (The Implication — Jantz vs Cross/Wright, bones gone, Taraia Object waiting)
+- **Integration beats:** 2 (The Surface — Earhart, Noonan, the circumnavigation, the cockpit scene), 4 (The False Floor — crash-and-sink at full weight, Bellarts' lifelong belief)
+- **False floor:** The crash-and-sink theory. She ran out of fuel. She's on the ocean floor. Bellarts believed this his whole life. It explains the fuel math, the signal loss, the failure to find wreckage. Collapses when the post-loss signals surface: if she's underwater, there are no signals. But there were fifty-seven credible reports.
+- **Closing type:** The Silence — the investigation reaches the moment the voice stops. 3105 kilohertz still exists. She is not on it.
+- **Emotional endpoint:** Grief — someone was speaking and then was not. The gap between hearing and reaching.
+- **Tesla connection type:** Philosophical parallel — Tesla's ideas about frequency vs distance. The asymmetry of a one-directional channel.
+- **Key locations:** USCGC Itasca radio room and bridge (1937), Lockheed Electra cockpit (1937), Howland Island, Nikumaroro (1940 bone site, lagoon 2020), Lae airfield (1937)
+- **Mandela Effects (primary):** None directly — the episode expands the series through the asymmetry of a one-directional signal
+- **Fabricated sources:** Thomas O'Hare's personal diary (July 2-4, 1937 — "the static sounds different when you're waiting for someone"), Pan American Airways internal routing memo (July 5, 1937 — "discontinue monitoring, file as unconfirmed atmospheric phenomena"), Gerald Gallagher's unsent letter to his sister (October 1940 — the shoe shaped to a foot, 157-337 scratched into a tree), Naval Research Laboratory unpublished propagation study (1952 — "Then what was it?")
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "the static sounds different when you're waiting for someone — it has a shape"
+  - "she was so loud that I ran up to the bridge" — Bellarts' documented moment
+  - "his calculation, in her voice" — Noonan rendered through Earhart's transmissions
+  - "a shoe that had been worn for a very long time by someone who had no other shoe"
+  - "been unable to reach you by radio" — the asymmetry
+  - "filed as unconfirmed atmospheric phenomena" — the order to stop listening
+  - "then what was it?" — the NRL researcher's marginal note
+  - "157 337 scratched into a tree" — numbers no one could read
+  - "he also kept the log" — Bellarts preserving the last record of her voice
+  - "the frequency is there — she is not on it"
+- **Names spent:** Amelia Earhart, Frederick Joseph Noonan, Leo G. Bellarts, Thomas J. O'Hare, William Galten, Warner K. Thompson, Gerald Gallagher, Richard Jantz, D.W. Hoodless, Betty Klenck, Almon Gray, Mary Beatrice Martinelli, Nikola Tesla
 
-- **004:** Oral history/recorded interview transcript (Dzhenkoul/Vasiliev), Classified internal memo (Soviet Academy soil chemist), Unpublished field notes (Suslov personal notes), Personal diary/journal entry (Kew barograph operator)
+### 006 — THE ELTANIN ANTENNA (v4 APPROVED — editor approved, fact-checked)
+- **Wound:** A photograph taken in a fraction of a second at four thousand meters depth by a camera no human was operating, of something two feet tall standing in sediment where nothing should stand — identified as a sponge seven years later from a book, never verified in person
+- **Opening type:** The artifact (arriving through Kovac's hands in the darkroom — the film emerging from chemistry, frame 1032)
+- **Structural shape:** The collection (three anomalies converging: the photograph, the plate tectonics connection, the cable company sonar)
+- **Twist beats:** 3 (The Cracks — sponge identification accepted but visual mismatch with living specimens), 5 (The Real Wound — no one went back, cable company sonar finds second object 212 km away), 6 (The Implication — Wardenclyffe underground as architecture copy)
+- **Integration beats:** 2 (The Surface — the ship, the camera system, the NZ Herald), 4 (The False Floor — plate tectonics discovery relegates the antenna to footnote)
+- **False floor:** The plate tectonics discovery. The Eltanin's real legacy — the magic profile, the smoking gun of plate tectonics. Frame 1032 becomes a curiosity next to the century's biggest geological evidence. Collapses when the magnetic annotation from the same cruise shows a localized anomaly near the photograph coordinates — flagged, follow-up blank.
+- **Closing type:** The Witness — Kovac's notebook returned, the fold in the page
+- **Emotional endpoint:** Wonder/awe — the strangeness of a planet that contains things photographed once and never verified
+- **Tesla connection type:** Technology descendant — Wardenclyffe's underground architecture mirrors the Eltanin object. If the architecture was already there, Tesla didn't invent it. He recognized it.
+- **Key locations:** USNS Eltanin darkroom and deck (1964), ocean floor at 3,904m (59°07'S, 105°03'W), Auckland harbor (1964), Lamont-Doherty Earth Observatory
+- **Mandela Effects (primary):** None directly — the episode expands the series mythology by revealing the Grid's infrastructure predates Tesla
+- **Fabricated sources:** Harold Kovac's personal notebook (1964 — "Frame 1031 is mud. Frame 1033 is mud. Frame 1032 has something standing in the mud"), geological survey annotation from ELT-19 cruise (1966 — magnetometer anomaly, follow-up blank), marine biologist conference note (2004 — "geometric regularity exceeds documented morphological parameters," not funded), submarine cable engineer's report (2011 — second object 212 km away, "noted for completeness")
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "frame 1031 is mud, frame 1033 is mud, frame 1032 has something standing"
+  - "he did not sound convinced"
+  - "the man who named the sponge also named the faults"
+  - "Wardenclyffe was not primarily a tower — Wardenclyffe was primarily a hole"
+  - "the fold in the page"
+  - "noted for completeness"
+  - "the shadow-ladder proving the crossbars are real"
+  - "a larger question wearing the shape of an answer"
+  - "no one went back"
+  - "the wonder is not knowing"
+- **Names spent:** Harold Kovac (fabricated), Bruce Heezen, Charles Hollister, Walter Pitman, Marie Tharp, Thomas Hopkins, Otto Schmidt, Brad Steiger, Joan Whritenour, Bruce Cathie, Tom DeMary, A.F. Amos, Nikola Tesla
 
 ---
 
-## Window Rules — Available for Episode 005
+## Fabricated Source Format — Usage Log (continued)
 
-Based on the four v4 episodes (001, 002, 003, 004):
+- **004:** Oral history/recorded interview transcript (Dzhenkoul/Vasiliev), Classified internal memo (Soviet Academy soil chemist), Unpublished field notes (Suslov personal notes), Personal diary/journal entry (Kew barograph operator)
+- **005:** Personal diary/journal entry (O'Hare diary), Institutional correspondence (Pan Am routing memo), Personal correspondence (Gallagher unsent letter), Unpublished academic paper (NRL propagation study)
+- **006:** Personal diary/journal entry (Kovac notebook), Monitoring log with handwritten annotation (ELT-19 survey annotation), Unpublished academic paper (MBARI conference note), Institutional correspondence (cable company route survey)
 
-**Closing types (3-episode window — cannot repeat if used in 002, 003, or 004):**
-- The Invitation (002) — blocked
-- The Mirror (003) — blocked
+---
+
+## Window Rules — Available for Episode 007
+
+Based on the six v4 episodes (001-006):
+
+**Closing types (3-episode window — cannot repeat if used in 004, 005, or 006):**
 - The Inversion (004) — blocked
+- The Silence (005) — blocked
+- The Witness (006) — blocked
 
-**Available:** The Open Wound, The Callback, The Witness, The Silence
+**Available:** The Open Wound, The Callback, The Mirror, The Invitation
 
-**Opening types (2-episode window — cannot repeat if used in 003 or 004):**
-- Direct address question (003) — blocked
-- Fact that becomes horrifying (004) — blocked
+**Opening types (2-episode window — cannot repeat if used in 005 or 006):**
+- Sensory hook (005) — blocked
+- The artifact (006) — blocked
 
-**Available:** Sensory hook, Witness cold open, The negation, Declarative impossibility, The artifact
+**Available:** Direct address question, Witness cold open, Declarative impossibility, Fact that becomes horrifying, The negation
 
-**Structural shapes (3-episode window — cannot repeat if used in 002, 003, or 004):**
-- The descent (002) — blocked
-- Chronological spiral (003) — blocked
+**Structural shapes (3-episode window — cannot repeat if used in 004, 005, or 006):**
 - The trial (004) — blocked
+- The letter (005) — blocked
+- The collection (006) — blocked
 
-**Available:** Crime scene investigation, Dual timeline, Single witness, The collection, The letter
+**Available:** Crime scene investigation, Chronological spiral, Dual timeline, Single witness, The descent
 
-**Tesla connection types (2-episode window — cannot repeat if used in 003 or 004):**
-- Experiment consequence (003) — blocked
-- Absence (004) — blocked
+**Tesla connection types (2-episode window — cannot repeat if used in 005 or 006):**
+- Philosophical parallel (005) — blocked
+- Technology descendant (006) — blocked
 
-**Available:** Direct appearance, Technology descendant, Philosophical parallel, Opposition
+**Available:** Direct appearance, Experiment consequence, Absence, Opposition
 
-**Emotional endpoints (5-episode window — cannot repeat if used in 001, 002, 003, or 004):**
-- Paranoia (001) — blocked
+**Emotional endpoints (5-episode window — cannot repeat if used in 002, 003, 004, 005, or 006):**
 - Quiet acceptance (002) — blocked
 - Existential dread (003) — blocked
 - Vertigo (004) — blocked
+- Grief (005) — blocked
+- Wonder/awe (006) — blocked
 
-**Available:** Wonder/awe, Grief, Defiance, Loneliness
+**Available:** Paranoia, Defiance, Loneliness
