@@ -1,0 +1,365 @@
+{
+  "episode": "005",
+  "title": "The Last Signal",
+  "assets": [
+    {
+      "name": "Amelia_Earhart_1937",
+      "type": "character",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1897,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 39. World circumnavigation attempt. Pilot of the Lockheed Electra NR16020. Her voice is heard at S-five signal strength — maximum — in the Itasca radio log. She is transmitting but cannot hear the Itasca. Last known transmission at 0843 on July 2, 1937.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Frederick_Noonan_1937",
+      "type": "character",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1893,
+      "physique": "American man, mid-40s, lean build, clean-shaven with a broad jaw, steady unhurried hands trained by decades of precision instrument work, sharp navigational eyes that assess distance habitually, the composed bearing of a man who has spent his career finding small islands in large oceans",
+      "attire": "Aviation working clothes for a long Pacific crossing — cotton shirt, lightweight trousers, leather belt, practical lace-up shoes; possibly a light jacket for altitude cold",
+      "notes": "The most experienced Pacific aerial navigator alive in 1937. Charted the Pan American transpacific Clipper routes. Sat behind the bulkhead for the entire 20-hour Lae-to-Howland flight. Communicated with Earhart by handwritten note through the partition gap. Married Mary Beatrice Martinelli on March 27, 1937 — two months before the flight. His final calculation: sun line 157/337 degrees. Never appears in the radio transmissions; his voice is not in the Itasca log. He is in the numbers.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Leo_Bellarts_1937",
+      "type": "character",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1912,
+      "physique": "American man, mid-20s, lean and alert with the keyed-up posture of a man who has been wearing headphones for eight hours straight, dark circles under watchful eyes, the economical movement of someone who has worked ships long enough to navigate tight spaces without thinking about it",
+      "attire": "United States Coast Guard enlisted working uniform — dark wool dress uniform or working khakis appropriate to 1937 shipboard duty, rank insignia of Radioman First Class",
+      "notes": "Chief radioman aboard the USCGC Itasca. On watch July 2, 1937. Logged Earhart's transmissions. Ran from the radio room to the bridge when the S-five signal arrived. Kept the original radio log for decades — not because required to, but because he understood what it contained. Donated it to the National Archives as the Leo G. Bellarts Papers, 1937-1971. Believed until death that Earhart was peacefully on the bottom of the sea, no farther than 100 miles from Howland.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Thomas_OHare_1937",
+      "type": "character",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1914,
+      "physique": "American man, early 20s, the slightly raw unfinished quality of a young enlisted man not yet fully settled into his body, alert dark eyes behind a face trained to reveal nothing while the mind behind it races, the unconscious posture of someone who has been listening hard for hours",
+      "attire": "United States Coast Guard enlisted working uniform — khakis or dark wool appropriate to 1937 shipboard duty, rank insignia of Radioman Third Class",
+      "notes": "Radioman Third Class on the Itasca's secondary receiver. Asked the question no official record answered: 'Why couldn't she hear me on three one oh five?' Monitored the frequency off-shift on personal equipment for two days after the disappearance. Filed a report on a possible voice transmission at 0300 on July 4. The duty officer logged it as atmospheric skip. O'Hare's diary, July 4: 'It was not skip. I have been listening to skip for four years. Skip does not say words.'",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Gerald_Gallagher_1940",
+      "type": "character",
+      "era": "1940",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1912,
+      "physique": "Irish man, 26-27 years old, lean build appropriate to a colonial posting in a tropical climate, an administrative bearing that reads as younger than his authority — the earnest precision of a man who does his job thoroughly because he believes it matters, not because he is watched",
+      "attire": "British colonial administrative dress — lightweight cotton trousers and shirt appropriate to tropical Pacific posting, leather belt and shoes, possibly a light canvas jacket",
+      "notes": "British colonial administrator assigned to Nikumaroro (Gardner Island) to oversee Gilbertese resettlement scheme. Found partial human remains on the southeastern shore in September 1940, with a woman's shoe, a man's shoe, a sextant box, and a Benedictine bottle. His official report named Earhart explicitly. Died on the island in September 1941, age 29, of illness. His personal letter to his sister describes numbers scratched into a tree trunk — 157 and 337 — which he copied without knowing what a sun line was.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "DW_Hoodless_1940",
+      "type": "character",
+      "era": "1940",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1895,
+      "physique": "British colonial physician, mid-40s, professional bearing with the careful neutral expression of a medical examiner, methodical precise hands, the slight formality of a man operating within an institutional system that prizes accurate record-keeping above all else",
+      "attire": "Colonial British professional dress — light linen suit or cotton trousers with a collared shirt, appropriate to Fiji's tropical climate",
+      "notes": "Physician in Fiji who examined the skeletal remains sent from Nikumaroro. His conclusion: stocky, middle-aged male. Not Earhart. The bones were subsequently lost. His written measurements — bone lengths, widths, ratios — survived and became the only physical evidence the case retains. Two 21st-century forensic analyses of his numbers reached opposite conclusions.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Richard_Jantz_2018",
+      "type": "character",
+      "era": "2018",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1940,
+      "physique": "American man, late 70s, the lean slightly stooped build of a senior academic, wire-rimmed reading glasses, the unhurried deliberate movement of someone whose professional authority is earned and does not need to be announced",
+      "attire": "Academic casual dress — khaki trousers, collared shirt, perhaps a blazer",
+      "notes": "Forensic anthropologist at the University of Tennessee. Applied the FORDISC method to Hoodless's 1940 bone measurements in 2018. Conclusion: the measurements were more consistent with a woman of Earhart's proportions than 99% of individuals in the reference sample. Not a match — a probability. His analysis and the 2015 Cross/Wright analysis point in opposite directions from the same set of numbers. The bones are gone. There is no third measurement possible.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Betty_Klenck_1937",
+      "type": "character",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1922,
+      "physique": "American girl, 15 years old, the alert curiosity of a teenager who spends time with a shortwave radio — a focused practical expression when listening, a hand moving steadily across notebook paper",
+      "attire": "1930s American casual dress for a teenager at home — cotton dress or blouse and skirt, appropriate to Florida summer",
+      "notes": "Fifteen-year-old in Saint Petersburg, Florida. Was listening to her family's shortwave radio on 3105 kHz in the days after the disappearance. Heard a woman's voice and wrote what she believed she heard in a notebook. The notebook was not publicized for decades. Now held by a research organization investigating the disappearance. The content includes details she would have had no knowledge of in 1937 that researchers note are consistent with the known circumstances of the flight.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "NRL_Researcher_1953",
+      "type": "character",
+      "era": "1953",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1915,
+      "physique": "American man, late 30s to early 40s, the indoor academic pallor of a government research scientist, methodical careful hands trained by precision instrument work, wire-rimmed glasses, the particular slightly distracted expression of someone whose professional attention is always partly on a problem",
+      "attire": "1950s American professional dress — dark trousers, white shirt with tie, possibly a lab or office coat",
+      "notes": "Unnamed radio propagation researcher at the Naval Research Laboratory in Washington. Was working on a retrospective analysis of high-frequency radio propagation anomalies in the Pacific theater during WWII. His appendix analyzed the Earhart case as a documented asymmetric propagation event. Finding: atmospheric conditions on July 2-5, 1937 were normal. The asymmetry was not atmospheric in origin. His marginal note in pencil: 'Then what was it?' The study was never published. The appendix was excluded from partial declassification.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "USCGC_Itasca_1937",
+      "type": "location",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A United States Coast Guard Cutter — a 250-foot steam-powered ocean-going vessel, steel hull painted grey-white with Coast Guard markings, single stack amidships emitting a column of black-grey smoke used as a visual marker. The ship is anchored off the western shore of Howland Island in the central Pacific. Low Pacific swells. Morning cumulus. The smoke column bending southeast in the wind.",
+      "attire": "",
+      "notes": "Assigned to serve as radio communications ship and visual landmark for Earhart's arrival at Howland Island. Operating on 3105 kHz. Radiomen Bellarts and O'Hare both on duty. The ship transmitted at full power; the aircraft heard it only intermittently. The ship heard the aircraft at maximum signal strength but the sky above Howland Island remained empty.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Itasca_Radio_Room_1937",
+          "era": "1937",
+          "physique": "A sealed compartment below the bridge level. Heated by the equipment itself — warm, close air smelling of electronics, brass fittings, and the accumulated exhalations of men awake for hours. A receiver desk with Bakelite headphones on a hook. A log sheet on the desk surface, slightly damp from Pacific humidity. A pencil resting beside it. The marks in the log slightly softer than dry paper — more decisive. Dial set to 3105 kHz. The needle of the signal strength meter visible. Brass hardware, painted steel walls, a single overhead lamp.",
+          "notes": "Where Bellarts was sitting when the S-five signal arrived at 0742. He stood up, took the headphones off in one motion, and ran."
+        },
+        {
+          "name": "Itasca_Bridge_1937",
+          "era": "1937",
+          "physique": "The open bridge of a Coast Guard cutter. Steel deck underfoot, the ring of hard soles on painted metal. The Pacific directly present — salt air, heat, thin chemical smell of stack smoke bending in the wind. The smoke column visible from here, rising and bending southeast. Howland Island visible to the east as a low profile barely distinguishable from the sea surface. Morning cumulus clouds, scattered, with open sky between them. The horizon in every direction: water.",
+          "notes": "Where Bellarts ran after hearing the S-five transmission. He looked at the sky. The sky was empty. He will carry this moment for the rest of his life."
+        }
+      ]
+    },
+    {
+      "name": "Lockheed_Electra_Cockpit_1937",
+      "type": "location",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The forward compartment of a Lockheed Model 10-E Electra, registration NR16020. Twin-engine aluminum aircraft, cockpit built for a single pilot. The instrument panel glowing in darkness: altimeter reading 1000 feet, airspeed indicator at approximately 145 mph, fuel gauges with needles drifted far left after 17 hours of flight. An artificial horizon gyroscope — the substitute for the absent real horizon below. The control column under the hands. The rudder pedals. Every surface vibrating with the chord of two Pratt and Whitney Wasp radials at cruise power. A wooden partition directly behind the pilot's seat with a narrow gap at the bottom — the gap through which handwritten notes are passed forward from the navigation space aft. The air smells of avgas, hydraulic fluid, and altitude cold.",
+      "attire": "",
+      "notes": "Earhart's position for 20 hours. The fuel gauges are the clocks in this aircraft — measuring time in the irreversible mathematics of how long two engines can run on what remains. The window shows darkness and ocean, horizon indistinguishable from sky.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Lockheed_Electra_Navigation_Space_1937",
+      "type": "location",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The aft fuselage compartment of the Lockheed Electra, separated from the cockpit by a wooden bulkhead. A small navigation table with charts spread and weighted against vibration. A bubble sextant — a precision instrument for taking star and sun shots when no true horizon exists. A chronometer for precise time measurement. A drift meter. Charts of the central Pacific. Noonan's handwriting on the charts: celestial calculation lines, position estimates, the sun line marked as two numbers — 157 and 337 degrees. The space is cold at altitude, vibrating continuously, close quarters. Communication with the pilot forward happens only by note through the gap in the partition.",
+      "attire": "",
+      "notes": "Noonan's workspace for 20 hours. His steady hand — trained because unsteady hands produce numbers that end flights — produced the sun line that became the last coordinates Earhart reported on the radio.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Howland_Island_1937",
+      "type": "location",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A Pacific coral island less than a mile and a half long, half a mile wide, at its highest point ten feet above sea level. The terrain is flat, low — barely distinguishable from the ocean surface from altitude. Sparse vegetation of low coastal scrub, the color of bleached coral and salt-weathered green. A sandy beach along portions of the shoreline. The island sits at the equator, the morning light coming in at an angle that throws the flat terrain into shadow, making the coral hard to distinguish against the surface of the Pacific.",
+      "attire": "",
+      "notes": "The target for the most difficult navigation shot in aviation history — finding a 1.5-mile strip of land at sea level in the central Pacific after a 2,243-nautical-mile overwater crossing. The USCGC Itasca is anchored off the western shore. The Electra never found it.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikumaroro_Island_1937",
+      "type": "location",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A coral atoll in the southern Phoenix Islands group, approximately 4.5 degrees south latitude, 174 degrees west longitude. A ring of reef enclosing a central lagoon. Land area approximately 4.5 square miles. Terrain low and flat. The interior dense with buka scrub and ren trees (Tournefortia argentea) — low, salt-tolerant, spreading canopy. The reef flat extending several hundred meters at low tide, surface of exposed coral and shallow pools. The southeastern shore faces the open Pacific. July 1937: uninhabited.",
+      "attire": "",
+      "notes": "Lies approximately 400 miles southeast of Howland Island, along the 157-degree bearing of Noonan's sun line. The Nikumaroro hypothesis: if Earhart flew the sun line south-southeast after missing Howland, the aircraft's remaining fuel at 150 mph was sufficient to reach this island. The USS Colorado search aircraft noted signs of recent habitation here on July 9, 1937.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Nikumaroro_Southeast_Shore_1940",
+          "era": "1940",
+          "physique": "The southeastern shore of Nikumaroro, where the land meets the reef flat. Ren trees providing shade at the interior edge — a single-tree shade that moves through the day with the sun, marking time like a sundial. At the boundary where the ren trees thin toward the reef flat: exposed coral, the sun unmediated, the terrain rough and difficult. The reef flat beyond, extending toward the open Pacific. This is the area Gallagher's resettlement colonists avoided — coral too rough, shade too thin.",
+          "notes": "Where Gallagher found the partial human remains, woman's shoe, man's shoe, sextant box, and Benedictine bottle in September 1940. Three years after the disappearance."
+        },
+        {
+          "name": "Nikumaroro_Ren_Tree_Site_1940",
+          "era": "1940",
+          "physique": "A single ren tree (Tournefortia argentea) standing in open ground on the southeastern shore — a low, spreading, salt-tolerant tree with gnarled branches and a canopy of oval leaves. The shade beneath it is a moving circle that shifts as the sun moves. The trunk of a second tree approximately 40 meters closer to the shore: numbers scratched into the bark with a fingernail or piece of shell, not carved — scratched. The numbers: 157, 337. Not letters. Numbers.",
+          "notes": "The ren tree where Gallagher sat after finding the bones and watched the shade move. The second tree where he found the scratched numbers he copied into his notebook without knowing they were a sun line. His letter describes sitting beneath the tree long enough to watch the shade move."
+        },
+        {
+          "name": "Nikumaroro_Seven_Site_1980s",
+          "era": "1980",
+          "physique": "The northeastern part of Nikumaroro, in an area the resettlement colonists called the Seven Site. A remnant campfire site visible as a dark soil discoloration. Nearby: a glass jar of a size consistent with 1930s commercial cosmetics packaging, partially buried in soil and leaf litter, the glass weathered but intact. Laboratory analysis of residue inside: mercuric chloride consistent with 1930s freckle cream preparations.",
+          "notes": "Found by a researcher in the 1980s. Mercuric chloride was a commercial freckle treatment sold in the United States in the 1930s. Amelia Earhart was documented to have had freckles and used a freckle preparation. The island had not been permanently inhabited since the early 20th century."
+        },
+        {
+          "name": "Nikumaroro_Lagoon_2020",
+          "era": "2020",
+          "physique": "The enclosed lagoon at the center of Nikumaroro atoll. Shallow water — clear above the sediment layer, the bottom visible from above. The Taraia Peninsula juts into the lagoon from the southern end. Near the Taraia Peninsula: a sediment-covered anomaly visible in satellite imagery analysis. The object's dimensions consistent with the fuselage of a Lockheed Model 10-E Electra. The surface reflective in the spectral analysis — consistent with aluminum. Covered by sediment. Waiting.",
+          "notes": "Identified in satellite imagery analysis in 2020. Approximately the right size for the Electra fuselage. A research expedition was planned for November 2025 but permit difficulties and cyclone season pushed departure to July 2026. The object has not been examined. It is there."
+        }
+      ]
+    },
+    {
+      "name": "Lae_Airfield_1937",
+      "type": "location",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A grass airstrip on the coast of Lae, New Guinea. A slight downhill grade toward the harbor edge at the runway's end — the harbor, and then the Pacific beyond it. The runway surface: grass on packed earth, the width of a single aircraft, with the tropical vegetation of New Guinea on either side. At the harbor end: nothing — the grade drops away to water, and beyond the harbor, the open Pacific begins. July morning air: warm, humid, the specific tropical heaviness of coastal New Guinea.",
+      "attire": "",
+      "notes": "The last stop before Howland Island. 2,243 nautical miles of open ocean between here and the target. The Electra took off July 2, 1937, loaded to maximum — 1,100 gallons of fuel. At the runway's end it descended to within 6 feet of the harbor surface before the airspeed built enough for the wing to assert itself against the weight.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "NRL_Washington_1953",
+      "type": "location",
+      "era": "1953",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A research office at the Naval Research Laboratory in Washington, DC. A government scientist's workspace in the early 1950s — a metal desk with papers organized into working stacks, a typewriter, mechanical pencils and pencil sharpeners, graph paper with propagation curves plotted by hand. Filing cabinets. A wall of bookshelves holding technical reports bound in government grey. Fluorescent overhead lighting. The specific atmosphere of a classified government research facility: institutional, unhurried, the quiet of work that proceeds on its own internal schedule.",
+      "attire": "",
+      "notes": "Where the unnamed NRL researcher produced his retrospective analysis of Pacific radio propagation anomalies. His appendix on the Earhart case — the one that asked 'Then what was it?' in a marginal pencil note — was excluded from partial declassification and never published.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Lockheed_Electra_NR16020_1937",
+      "type": "object",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A Lockheed Model 10-E Electra twin-engine aluminum aircraft, registration NR16020. Approximately 55 feet wingspan, 38 feet length. Polished aluminum skin with rounded fuselage — the streamlined form of 1930s American aviation design. Two Pratt and Whitney Wasp radial engines, each mounted in a nacelle on the leading edge of the low wing, each rated at 600 horsepower, each driving a variable-pitch propeller. Extended-range fuel tanks filling the fuselage interior behind the firewall and in the wing — 1,100 gallons total at Lae departure. A wooden partition dividing the fuselage: cockpit forward, navigation space aft. The aircraft's silver surface catching equatorial morning light.",
+      "attire": "",
+      "notes": "The aircraft Earhart flew on the world circumnavigation attempt. Call sign KHAQQ. Loaded to near maximum certification weight at Lae departure — 1,100 gallons of fuel. At departure it descended to within 6 feet of the harbor water. At cruise: approximately 145 mph, burning 12-14 gallons per engine per hour. Last known position: somewhere on the 157/337 sun line, near Howland Island, at 0843 on July 2, 1937.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Itasca_Radio_Log_1937",
+      "type": "object",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A paper log sheet on a radio room desk, slightly damp from Pacific humidity — the pencil marks slightly softer than dry paper, more decisive. Timestamped entries in the abbreviated functional shorthand of a working radioman, written as transmissions arrive. The critical entries: 0742 — signal strength S-five, the needle pinned at maximum, the transmission partial: 'KHAQQ calling Itasca. We must be on you but cannot see you but gas is running low. Been unable to reach you by radio. We are flying at one thousand feet.' Then 0758. Then 0800. Then 0843 — the last entry. After 0843: silence.",
+      "attire": "",
+      "notes": "Kept by Leo Bellarts not because the Navy required it but because he recognized immediately what it contained. He preserved it for decades. Donated to the National Archives as part of the Leo G. Bellarts Papers, 1937-1971. Anyone who wants to read the last thing Amelia Earhart said to another human being can read it there.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Noonan_Sun_Line_Chart_1937",
+      "type": "object",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A navigation chart of the central Pacific — paper, spread on the navigation table in the aft fuselage of the Electra, weighted at corners against vibration. On the chart: a line drawn through or near the position of Howland Island at two bearings — 157 degrees running southeast toward the Phoenix Islands, and 337 degrees running northwest toward the Marshall Islands. The line represents the sun line: the aircraft is somewhere on this thread. The handwriting marking the line is steady — trained by years of work to remain steady because unsteady hands produce numbers that end flights. Two numbers in that hand: 157. 337.",
+      "attire": "",
+      "notes": "Noonan's last reliable celestial calculation. Passed forward through the gap in the partition as a handwritten note. Earhart reported the numbers on the radio at 0843 — they became the last position data in the Itasca's log. Extended 400 miles southeast, the 157-degree bearing passes through or near Nikumaroro.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Bubble_Sextant_1937",
+      "type": "object",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A bubble sextant — a precision navigation instrument designed for aerial use. Brass and steel construction in a fitted leather case. A small artificial bubble replaces the natural sea horizon, allowing celestial shots when the real horizon is obscured by cloud, darkness, or haze. An eyepiece for sighting the sun or stars. Graduated arc for measuring the angle of the celestial body above the artificial horizon. The instrument that substitutes for the absent real world when the Pacific has no edges and no markers and the horizon does not exist in any practical sense.",
+      "attire": "",
+      "notes": "Noonan's primary navigation instrument. Used to produce the sun line. The sky has not been entirely clear. The sun line is all he has.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Sextant_Box_Gardner_Island_1940",
+      "type": "object",
+      "era": "1940",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A wooden instrument case of the type used to store a marine sextant — wooden construction with brass fittings and a hinged lid, interior lined with fitted velvet or felt molded to hold the instrument. The case shows weathering from exposure and time — the wood bleached and cracked by sun and salt air, the brass fittings oxidized to dull green, the lining compressed and stained. No instrument inside it. The case alone, on the southeastern shore of Nikumaroro.",
+      "attire": "",
+      "notes": "Found by Gallagher in September 1940 near the partial human remains on the southeastern shore. A sextant box on an uninhabited island, with a woman's shoe, a man's shoe, and a Benedictine bottle. Gallagher sent the bones and artifacts to Fiji for examination. The bones were subsequently lost. The sextant box's provenance was never formally established.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Benedictine_Bottle_1940",
+      "type": "object",
+      "era": "1940",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A glass bottle of the shape and size associated with Benedictine liqueur — a distinctive bottle with a slightly irregular shape compared to common bottles of the era, green glass with an embossed label area, weathered by years of exposure on a tropical island. Empty. The glass salt-etched on the exterior, the interior surface still faintly colored from its original contents.",
+      "attire": "",
+      "notes": "Found with the remains and sextant box on the southeastern shore of Nikumaroro. Noted in Gallagher's official report. The bottle's presence on an island with no permanent habitation since the early 20th century is unexplained by any alternative hypothesis.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Worn_Womans_Shoe_1940",
+      "type": "object",
+      "era": "1940",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A single leather shoe of a style consistent with 1930s American women's practical footwear — low-heeled, lace-up, leather upper and leather sole. The shoe has been worn for a very long time by someone who had no other shoe. The leather has shaped itself to the foot — the sole worn unevenly in the pattern of someone's particular gait, the upper creased in the specific geography of someone's foot. It has walked on coral. The leather is bleached and cracked from sun and salt exposure, but the shape of the foot that wore it is still present in the leather.",
+      "attire": "",
+      "notes": "Gallagher's letter to his sister describes it precisely: 'It was a shoe that had been worn for a very long time by someone who had no other shoe. The leather had shaped itself to the foot. It had walked on coral.' Found with the partial remains, man's shoe, sextant box, and Benedictine bottle.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Freckle_Cream_Jar_1980s",
+      "type": "object",
+      "era": "1980",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A small glass cosmetics jar of the type common to 1930s American commercial packaging — cylindrical, approximately 2-3 inches diameter, clear or pale green glass, a threaded neck for a screw-top lid, the lid absent or separate. The glass weathered from decades of exposure on the island — exterior surface salt-etched, interior showing residue of the original preparation. Laboratory analysis: the residue is mercuric chloride, consistent with commercial freckle cream formulations of the 1930s United States market.",
+      "attire": "",
+      "notes": "Found by a researcher in the 1980s near a remnant campfire site in the northeastern part of Nikumaroro (Seven Site area). Amelia Earhart was documented to have had freckles and to have used a freckle preparation. The island had no permanent habitation since the early 20th century.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "OHare_Diary_1937",
+      "type": "object",
+      "era": "1937",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A small personal diary kept in a seabag during a Coast Guard posting. Standard sailor's personal notebook — small enough to fit in a jacket pocket, covers worn from the seabag, pages slightly damp from Pacific shipboard humidity. The handwriting of a 23-year-old man writing quickly, off-shift, not for publication. July 2 entry: 'The static sounds different when you're waiting for someone. It has a shape. The shape of the voice that should be in it.' July 4 entry: 'It was not skip. I have been listening to skip for four years. Skip does not say words.'",
+      "attire": "",
+      "notes": "Not an official document. A private record of a young radioman who knew the difference between a dead channel and a live one, and between atmospheric skip and signal-shaped absence. His off-shift monitoring of 3105 kHz produced a possible transmission at 0300 on July 4. The duty officer logged it as skip. O'Hare did not.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "NRL_Propagation_Study_1953",
+      "type": "object",
+      "era": "1953",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A bound government technical report on Naval Research Laboratory letterhead — the main document running to dozens of pages with graphs of propagation curves, atmospheric data tables, and statistical analysis. Appended to the main report: a secondary analysis of the Earhart case, typed single-spaced with technical terminology. In the margin of the appendix, in pencil, in a private hand not part of the official text: four words — 'Then what was it?' The appendix pages separated from the main report by a paperclip. The main report released in partial declassification. The appendix excluded.",
+      "attire": "",
+      "notes": "The appendix finding: atmospheric conditions on July 2-5, 1937 in the central Pacific were normal. The Itasca's transmissions should have been receivable by any properly functioning receiver within 500 miles. The asymmetry documented in the Itasca log was not atmospheric in origin. If the radio worked and the atmosphere was clear — and both are established — then the failure was somewhere in the channel itself. The study was never published.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
