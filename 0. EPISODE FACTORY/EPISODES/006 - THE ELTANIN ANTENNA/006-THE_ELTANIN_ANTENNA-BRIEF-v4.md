@@ -304,9 +304,12 @@ The central absence. The photograph was taken in 1964. The identification was ma
 The cable company report arrives. 2011. A different location, 200 kilometers away. A vertical protrusion, 60 centimeters, reflective sonar signature inconsistent with biological material. A second object. Same profile. Noted for completeness. Not investigated.
 
 **6. The Implication — The Architecture (minutes sixty-five to seventy-five)**
+
+**PHYSICAL ANCHOR REQUIRED:** This section is conceptual — the Wardenclyffe parallel, the architectural similarity, the mythology expansion. It MUST be grounded in a body or a physical object to prevent essay mode. Anchor options: return to the photograph itself (the grain of the film, the strobe shadow, the specific quality of what the strobe illuminated for a fraction of a second), or return to Kovac's notebook (his hands on the page, the fold mark, what the image looked like held up to light). The conceptual connection should arrive THROUGH a physical experience, not through exposition.
+
 Wardenclyffe's underground system. The 120-foot shaft. The 300 feet of iron pipe driven into bedrock. Tesla described the underground portion as the essential component — the connection to the planet's substrate.
 
-The narrator presents the parallel. Both structures: vertical shafts penetrating the substrate. Both with perpendicular elements. One built in 1901 by a man who said the underground portion was essential. One (or two) photographed or detected at depths where no human has been.
+The narrator presents the parallel through Kovac's photograph — held up, examined, the vertical shaft in frame 1032 compared to the vertical shaft in the Wardenclyffe engineering documents. Both structures: vertical shafts penetrating the substrate. Both with perpendicular elements. One built in 1901 by a man who said the underground portion was essential. One (or two) photographed or detected at depths where no human has been.
 
 The mythology expansion: if the architecture was already there, Tesla didn't invent the design. He recognized it.
 
