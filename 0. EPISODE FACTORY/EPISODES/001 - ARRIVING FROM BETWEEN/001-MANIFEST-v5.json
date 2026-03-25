@@ -2,7 +2,7 @@
   "episode": "001",
   "title": "Arriving From Between",
   "manifestVersion": "v5",
-  "notes": "Expanded from v4 by scene generator. Added sub-locations for Room 3327, missing locations (Tesla household after Dane, Gospic valley fields, Port of New York 1884, Wardenclyffe evidence), and script-weighted props (Dane's coat, shoes, tin fork, Do Not Disturb sign, letter of introduction, headboard rail). All existing v4 entries preserved.",
+  "notes": "DP-expanded version. All parent locations now carry DP-level sub-locations — specific camera positions, surfaces, and objects visible in frame. Hotel_New_Yorker_1943 expanded to 7 sub-locations (5 new, 2 existing). Smiljan_Village_1856 expanded to 12 sub-locations (9 new, 3 existing). Gospic_Valley_1856 expanded to 4 sub-locations (2 new, 2 existing). Hotel_St_Regis_1922 expanded to 3 sub-locations (all new). Port_Of_New_York_1884 expanded to 2 sub-locations. Wardenclyffe_Evidence_1943 expanded to 3 sub-locations. All 15 characters and 15 objects preserved exactly from prior version.",
   "assets": [
     {
       "name": "Alice_Monaghan_1943",
@@ -206,39 +206,39 @@
       "era": "1943",
       "isHistorical": true,
       "fluxKnows": true,
-      "physique": "",
+      "physique": "Art deco hotel, 43 stories, corner of 34th Street and 8th Avenue, Manhattan. Tesla's home for his final decade, given to him at a nominal or free rate in exchange for the distinction of his residence.",
       "attire": "",
-      "notes": "Art deco hotel, 43 stories, corner of 34th Street and 8th Avenue, Manhattan. Tesla's home for his final decade, given to him at a nominal or free rate in exchange for the distinction of his residence.",
+      "notes": "Parent location — use sub-locations for all scene-level shots.",
       "parentName": null,
       "children": [
         {
           "name": "Room_3327_1943",
           "era": "1943",
-          "physique": "Corner room on the 33rd floor. Heavy curtains, still against the cold winter light. Dark wood desk positioned near the window. Single bed against the north wall, sheets pulled to military tightness. Hotel napkins stacked on desk and bedside table and scattered on the floor, covered in dense mathematical notation that crosses the paper edges without registering them as limits. Radiator ticking beneath the window. Three gray-tipped feathers on the windowsill, arranged as if placed. The room colder than the corridor — the cold of a space that has not had a living body moving through it. The air carries the smell of a summer storm in January.",
-          "notes": "Wide establishing shot of the full room. Room number divisible by 3. Tesla's requirement. The window was left open for the white pigeon. The Do Not Disturb sign had been on the door for three days before Monaghan opened it."
+          "physique": "Corner room on the 33rd floor. Wide establishing shot from the doorway takes in the full room: heavy curtains still against cold winter light, dark wood desk positioned near the window, single bed against the north wall, sheets pulled to military tightness. Hotel napkins stacked on desk and bedside table and scattered on the floor, covered in dense mathematical notation that crosses the paper edges without registering them as limits. Radiator ticking beneath the window. Three gray-tipped feathers on the windowsill, arranged as if placed. The room colder than the corridor — the cold of a space that has not had a living body moving through it. The air carries the smell of a summer storm in January.",
+          "notes": "Wide establishing shot of the full room from doorway. Room number divisible by 3 — Tesla's requirement. The window was left open for the white pigeon. The Do Not Disturb sign had been on the door for three days before Monaghan opened it."
         },
         {
           "name": "Room_3327_Desk_Area_1943",
           "era": "1943",
-          "physique": "Dark wood writing desk positioned near the window of Room 3327. The desk surface completely obscured by dozens of white hotel napkins covered in dense mathematical notation in pencil — a handwriting that crosses the printed borders of the napkins without adjusting, treating the paper's edges as limits the mind declined to recognize. A draft from the window left open in January stirs the napkins slightly. Pencil stubs, a magnifying lens, a water glass with a residue ring. The desk lamp unlit. Natural winter light from the window falling across the equations. The windowsill with three gray-tipped feathers visible at the periphery.",
+          "physique": "Dark wood writing desk positioned near the window of Room 3327. Camera framed on the desk surface and the window behind it. The desk surface completely obscured by dozens of white hotel napkins covered in dense mathematical notation in pencil — a handwriting that crosses the printed borders of the napkins without adjusting, treating the paper's edges as limits the mind declined to recognize. A draft from the window left open in January stirs the napkins slightly. Pencil stubs, a magnifying lens, a water glass with a residue ring. The desk lamp unlit. Natural winter light from the window falling across the equations. The windowsill with three gray-tipped feathers visible at the periphery of frame.",
           "notes": "The desk is where Tesla did his final work. The napkins are the only writing surface available in quantity. The equations are real mathematics — active scientific work, not scribbling. The desk appears in close-ups AND in wider room shots — must be visually consistent in both."
         },
         {
           "name": "Room_3327_Windowsill_1943",
           "era": "1943",
-          "physique": "The windowsill of Room 3327, wide enough to hold objects. Three gray-tipped feathers lying at angles that suggest placement — deliberate, considered arrangement, not the casual landing of shed feathers. The window itself slightly ajar despite January cold, heavy curtains hanging still on either side. Through the gap: the grey winter light of Manhattan morning, the geometry of buildings across 8th Avenue. Condensation on the glass where warm room air meets cold window. The radiator ticking beneath, its iron surface patinated with decades of repainting.",
+          "physique": "Camera pointed directly at the windowsill of Room 3327, wide enough to hold objects. Three gray-tipped feathers lying at angles that suggest placement — deliberate, considered arrangement, not the casual landing of shed feathers. The window itself slightly ajar despite January cold, heavy curtains hanging still on either side. Through the gap: the grey winter light of Manhattan morning, the geometry of buildings across 8th Avenue. Condensation on the glass where warm room air meets cold window. The radiator ticking beneath, its iron surface patinated with decades of repainting.",
           "notes": "The window was left open for the white pigeon. She was not coming back. He knew she was not coming back. The feathers were on the windowsill despite the window being closed and undisturbed when Monaghan entered — but Tesla had been keeping the window open for years. The feathers are from a pigeon dead for approximately 20 years."
         },
         {
           "name": "Room_3327_Bed_1943",
           "era": "1943",
-          "physique": "Single bed against the north wall of Room 3327. Sheets pulled to a specific tightness — not hotel housekeeping tightness but the precision of someone who understood this would be the last arrangement and made it accordingly. White linens, thin wool blanket folded with geometric exactness. A bedside table with more hotel napkins covered in equations. On the floor beside the bed: additional napkins, some crumpled, some laid flat as if referenced during the night. The pillow showing the slight depression of a head that rested with intention.",
+          "physique": "Camera framed on the single bed against the north wall of Room 3327. Sheets pulled to a specific tightness — not hotel housekeeping tightness but the precision of someone who understood this would be the last arrangement and made it accordingly. White linens, thin wool blanket folded with geometric exactness. A bedside table with more hotel napkins covered in equations. On the floor beside the bed: additional napkins, some crumpled, some laid flat as if referenced during the night. The pillow showing the slight depression of a head that rested with intention.",
           "notes": "The body was arranged with a precision that did not suggest rest. Alice Monaghan's professional composure broke here — not dramatically, not with sound, but in a breath."
         },
         {
           "name": "Room_3327_Door_Threshold_1943",
           "era": "1943",
-          "physique": "The interior of Room 3327 as seen from the doorway — the view Alice Monaghan had when the door swung inward. The Do Not Disturb sign hanging from the interior handle. The corridor light spilling in behind, mixing with the cold winter light from the window ahead. The full depth of the room visible: desk to the left near the window, bed against the far wall, the shape under sheets barely registering at this distance. The smell — sharp, clean, metallic — moving outward through the open door into the corridor as if concentrated air finding an opening.",
+          "physique": "Camera positioned just inside the doorway of Room 3327, looking inward — the view Alice Monaghan had when the door swung open. The Do Not Disturb sign hanging from the interior brass handle. Corridor light spilling in behind the camera position, mixing with the cold winter light from the window ahead. The full depth of the room visible in a single shot: desk to the left near the window, bed against the far wall. The smell — sharp, clean, metallic — moving outward through the open door into the corridor as if concentrated air finding an opening.",
           "notes": "This is the threshold moment — the boundary between the ordinary hotel corridor and whatever was in that room. The smell did not wait for her to step into it. It stepped into her."
         },
         {
@@ -263,38 +263,74 @@
       "fluxKnows": false,
       "physique": "Small village on a high limestone plateau in the Lika region of the Austrian Empire's Military Frontier. Rocky karst landscape, cold even in summer. Stone farmhouses with dark timber roofs and whitewashed walls. A single road through the village. A Serbian Orthodox parish church at the center. Wild thyme growing between the stones. Summer night — dense warm air, limestone dust smell, distant thunder.",
       "attire": "",
-      "notes": "Modern-day Croatia. Population under 400 in 1856. The Tesla family farmhouse was adjacent to the parish church where Milutin Tesla served as priest.",
+      "notes": "Modern-day Croatia. Population under 400 in 1856. The Tesla family farmhouse was adjacent to the parish church where Milutin Tesla served as priest. Parent location — use sub-locations for all scene-level shots.",
       "parentName": null,
       "children": [
         {
           "name": "Tesla_Farmhouse_Smiljan_1856",
           "era": "1856",
           "physique": "Simple stone farmhouse with whitewashed walls and dark timber roof. Small windows with wooden shutters. Bare earth yard. Oil lamp light visible through the window. The smell of the storm outside penetrating the walls — sharp, clean, electric. Interior: rough stone walls, low timber ceilings, oil lamp casting uneven light.",
-          "notes": "Where Tesla was born at the stroke of midnight, July 10, 1856, during a violent lightning storm."
+          "notes": "Exterior establishing shot of the farmhouse where Tesla was born at the stroke of midnight, July 10, 1856, during a violent lightning storm."
         },
         {
-          "name": "Tesla_Birthing_Room_1856",
+          "name": "Birthing_Room_Headboard_Corner_1856",
           "era": "1856",
-          "physique": "Small interior room lit by a single oil lamp. Rough stone walls, low timber ceiling. A bed with linen sheets. A washing basin on a wooden stand. Hair on arms standing up from atmospheric charge. Sparks jumping from fabric to floorboard. The air thick with the smell of lightning — metallic, copper-edged, sharp — despite the storm being outside.",
-          "notes": "The smell in the room was the smell of lightning that had already struck, while the lightning was still in the sky."
+          "physique": "Camera framed on the corner of the birthing room dominated by the wooden headboard of the bed. Duka Tesla's hands gripping the rail — not the grip of a frightened woman but of someone doing something with all of themselves. The wood worn smooth where hands have gripped before, the grain polished by contact. Sparks jumping from nearby fabric to the wood surface — small bright arcs in the charged air. The single oil lamp casting shadows on the rough stone wall behind the headboard. The midwife's form partially visible at the edge of frame, hands in position.",
+          "notes": "Close-to-medium shot. The headboard rail is the primary visual anchor. Camera is intimate, not observational — inside the room, inside the event."
         },
         {
-          "name": "Tesla_Dark_Room_1859",
+          "name": "Birthing_Room_Threshold_1856",
+          "era": "1856",
+          "physique": "Camera pointed at the stone doorway of the birthing room — the threshold the midwife crossed when the hair on her forearms stood up. The stone doorframe, rough-hewn and thick. Wooden floorboards at the threshold showing burn-marks where sparks jumped from her skirts with every step she took across it. The transition from the dark corridor behind the camera position to the lamp-lit room ahead. The air in the doorway visible as something thick — charged, pressurized, resisting breath. Through the doorway: the bed, the lamp, the occupied room. The smell of lightning that has already struck while the storm is still outside.",
+          "notes": "The threshold is a camera position, not just a physical feature. The corridor is dark, the birthing room is lit. The doorway is the frame within the frame."
+        },
+        {
+          "name": "Birthing_Room_Oil_Lamp_Corner_1856",
+          "era": "1856",
+          "physique": "Camera framed on the single oil lamp on a wooden stand near the washing basin in the corner of the birthing room. The lamp flame steady despite the charged air — it does not gutter or flicker. Rough stone walls catching uneven amber light, the shadows long and warm against cold stone. The washing basin beside the stand: water, clean linens folded in the practical arrangement of a woman who has done this work before. Shadows cast long across the floor toward the bed. The practical tools of birth arranged within arm's reach of where they are needed.",
+          "notes": "This is the calm-within-the-storm shot. The lamp is steady. The arrangement is practical. The work knows what it is doing even when the room does not."
+        },
+        {
+          "name": "Tesla_Dark_Room_Before_Sparks_1859",
           "era": "1859",
-          "physique": "A dark interior room in the Tesla farmhouse. No lamp lit. Night. A three-year-old boy sitting with a large family cat on his lap, hands spread flat on the animal's back. The fur warm under small palms. Complete darkness until the sheet of sparks erupts — blue-white, continuous, fanning from tail to neck, illuminating the child's own finger bones from beneath.",
-          "notes": "The cat Macak scene. Approximately 1859 when Nikola was age 3."
+          "physique": "Complete interior darkness. Camera close on the tactile: a three-year-old's small hands spread flat on a large cat's back. The fur warm under small palms, parting slightly under the pressure of small fingers. The body warmth of a living animal rising through the fur into the hands. No light source visible. Only the surface under the hands, the warmth, and the darkness that has not yet changed.",
+          "notes": "The moment before the discharge. No visible room details — this is pre-event darkness. The cat's fur and the child's hands are the only visible elements. Shot is intimate and still."
         },
         {
-          "name": "Tesla_Dining_Room_1862",
+          "name": "Tesla_Dark_Room_Discharge_1859",
+          "era": "1859",
+          "physique": "The same dark room in the instant of the discharge. A continuous sheet of blue-white sparks fanning across the entire back of the cat from the base of the tail to the neck — not a single spark but a sustained sheet of light. The room lit from beneath, from the interface between fur and palm. The child's own small hands visible from the inside — small finger bones silhouetted in the blue-white light rising from the animal under his hands. The room revealed for one instant in the discharge light: stone walls, timber ceiling, the ordinary room now extraordinary from its floor up. Then darkness again.",
+          "notes": "The moment of discharge. The light source is from below — from the contact surface. This is the shot that inverts normal illumination. Must be visually distinct from any standard scene lighting."
+        },
+        {
+          "name": "Tesla_Dining_Table_1862",
           "era": "1862",
-          "physique": "Family dining room in the Tesla farmhouse. A table set for a meal. The ordinary sonic texture of family dinner — conversation, the clatter of tin utensils. A boy of approximately 6 holding a tin fork, the seam where handle meets tines detectable under his thumb. The room as it appears before the vision: warm, occupied, ordinary. Then the visual field replaced entirely by perfect luminous squares tessellated across every surface.",
-          "notes": "Where Tesla first experienced the geometry vision at approximately age 6, circa 1862."
+          "physique": "Camera framed on the family dining room table set for a meal. Tin utensils, plates, the clutter of a family in active use of a surface. A boy of approximately 6 years old holding a tin fork — thumb resting on the seam where handle meets tines. The room warm from lamp and bodies, occupied, ordinary. Duka's face visible across the table with the expression of a woman who has already watched her son's eyes go somewhere before and knows what she is about to watch happen again.",
+          "notes": "The moment before the geometry vision. The fork is in hand. The table is real. The room is real. This is the last ordinary moment before the visual field is replaced entirely."
         },
         {
-          "name": "Tesla_Household_After_Dane_1863",
+          "name": "Tesla_Fork_Vision_1862",
+          "era": "1862",
+          "physique": "The dining room replaced entirely. The visual field not interrupted but overwritten — perfect luminous squares tessellated across every visible surface, arriving without transition, so geometrically complete they displace the actual surroundings without remainder. Blinding white-gold light, organized into geometry, the squares fitting against each other without gaps across the entire field of view. The fork still present — held in a hand that is somewhere that is not the dinner table — but the table itself gone, the family gone, replaced by the geometry that has arrived to show itself.",
+          "notes": "Atmosphere scene — no physical location reference, pure geometry. The fork may be implied by a small hand shape at the edge of frame holding something, but the primary visual field is the luminous squares. The geometry is the event."
+        },
+        {
+          "name": "Tesla_Household_Coat_Hook_1863",
           "era": "1863",
-          "physique": "The interior of the Tesla farmhouse after Dane's death. The same rough stone walls, the same low timber ceilings — but every room the wrong size. Not smaller. Wrongly proportioned. Too large. The walls in the same positions, the ceiling the same height, the furniture unmoved — but something that filled them is no longer filling them. By the door: a coat on a hook, hanging slightly differently because the person who will take it down is no longer coming. Worn leather shoes beside the door, broken in to the exact shape of one boy's foot. The absence has gotten into the objects. It has affected their relationship with gravity.",
-          "notes": "After Dane Tesla died (~1863-1865, sources disagree), the house changed. Not physically — proportionally. The coat and the shoes are the script's central images for grief as a spatial phenomenon. Tesla's visions intensified after this loss — the aperture through which the geometry arrived seemed to have widened."
+          "physique": "Camera close on the wooden hook mounted by the door of the Tesla farmhouse. Dane's coat hanging from it — simple dark wool, worn at the elbows where the fabric has thinned from daily contact. The coat hangs slightly differently now — not because the hook has changed or the coat has changed, but because the person who will take it down is no longer coming. The wood of the hook, the rough whitewashed wall behind it, the edge of the door frame visible at one side. Nothing else in frame. The coat and the absence that is now inside it.",
+          "notes": "Close shot — the hook is the full composition. No other objects compete. The coat must read as waiting for something that will not come."
+        },
+        {
+          "name": "Tesla_Household_Shoes_By_Door_1863",
+          "era": "1863",
+          "physique": "Camera close on worn leather shoes placed beside the door of the Tesla farmhouse. The slight asymmetry of how Dane stood pressed permanently into the leather — heel worn more on the outside edge, the arch shaped by years of a specific body's weight distribution, the toe box holding the impression of toes that will not return. The stone floor around them cold and plain. The bottom edge of the door visible above. Other family shoes nearby at the edge of frame, for scale — but the camera is on Dane's shoes, and the difference between shoes that are still being used and shoes that are waiting is visible.",
+          "notes": "Companion shot to the coat hook. Shoes at floor level — camera may angle slightly down. The specificity of one person's wear pattern in the leather is the image."
+        },
+        {
+          "name": "Tesla_Household_Wrong_Room_1863",
+          "era": "1863",
+          "physique": "A room in the Tesla farmhouse after Dane's death. The same rough stone walls, low timber ceiling, familiar furniture in familiar positions — but the proportions are wrong. Not smaller. Wrong. Too large in a way that has nothing to do with measurement. Nikola, age 7 to 8, standing in the room — slight build, dark hair, still, not looking at anything in particular. The coat hook visible through an open doorway in the background. Light falling through a window with the quality of a room that has been emptied of something it cannot name. The wrongness is spatial — the room announces it.",
+          "notes": "The most abstract of the Smiljan sub-locations. The wrongness must be achieved through composition and light, not distortion. The room is physically unchanged. The proportions feel wrong because something that filled them is no longer filling them."
         }
       ]
     },
@@ -306,26 +342,32 @@
       "fluxKnows": false,
       "physique": "Valley town 15 kilometers below Smiljan on the limestone karst road. The valley floor visible from the plateau above. Open fields surrounding the town. Livestock normally pressed against fences and enclosures during storms. The morning after the birth storm: open fields with livestock standing in the open, all facing the same direction. The light that morning described as an examination being conducted — very white and particular, not the ordinary summer light of the Lika region.",
       "attire": "",
-      "notes": "Where Zdravko Blazic kept his diary and the Austrian Imperial Meteorological Institute maintained an observation station.",
+      "notes": "Where Zdravko Blazic kept his diary and the Austrian Imperial Meteorological Institute maintained an observation station. Parent location — use sub-locations for all scene-level shots.",
       "parentName": null,
       "children": [
         {
           "name": "Blazic_Schoolhouse_1856",
           "era": "1856",
-          "physique": "A modest schoolteacher's quarters or private room in Gospic. A writing desk by a window. Ink and quill. A diary open to a freshly written entry. The window facing the valley fields where the livestock stood. Predawn light becoming the strange examination-quality morning light of July 11, 1856.",
+          "physique": "Camera framed on a writing desk by a window in Blazic's quarters — a schoolteacher's private room in Gospic. The desk surface: ink, quill, a diary open to a freshly written entry. The handwriting patient, meticulous, the script of a man who records the observable world for its own sake. The window facing the valley fields where the livestock stood. The predawn light outside the window becoming the strange examination-quality morning light of July 11, 1856 — very white and particular, visible through the glass.",
           "notes": "Where Blazic recorded his observations of the livestock, the well water, and the light quality the morning after Tesla's birth."
         },
         {
           "name": "Austrian_Meteorological_Station_1856",
           "era": "1856",
-          "physique": "Small observation station — a stone or timber outbuilding with a barometer, thermometer, and early atmospheric instruments mounted on stands. A log book open on a writing surface. A margin notation in a hand different from the standard observer's — different pen, different pressure. The instrument showing an anomalous reading that was checked and re-checked and could not be explained.",
-          "notes": "The Austrian Imperial Meteorological Institute maintained a station in Gospic as part of its network. The margin note reads: atmospheric ionization reading anomalous this morning. Instrument rechecked. No instrument fault found. There is no follow-up entry."
+          "physique": "Camera framed on the open log book lying on the writing surface of the observation station. Standard printed columns filled with careful bureaucratic handwriting — atmospheric pressure, temperature, precipitation, all recorded in the standard observer's hand and pen. In the margin of the July 11 entry: a notation in a visibly different hand, different pen, different pressure on the nib. The anomalous reading, written by someone who did not sign and never followed up. The instruments on stands visible in the background — barometer, thermometer mounted on the wall — and through the small window, the Gospic valley with the morning light that is the subject of the notation.",
+          "notes": "The margin note reads: atmospheric ionization reading anomalous this morning. Instrument rechecked. No instrument fault found. Will report if anomaly continues. There is no follow-up entry."
         },
         {
-          "name": "Gospic_Valley_Fields_1856",
+          "name": "Gospic_Valley_Fields_Dawn_1856",
           "era": "1856",
-          "physique": "Open fields on the valley floor below Smiljan at dawn on July 11, 1856. The storm has passed. The sky carries a quality described as an examination — very white and particular, not the ordinary summer light of the Lika region. Livestock standing in the open fields, all facing the same direction. Not east, not toward town, not toward shelter. Every animal oriented the same way, as if addressed by something that had arrived or was arriving. Fences and enclosures visible but unused — the animals have moved into the open voluntarily. Morning mist on the karst limestone. The examination-light falling on everything with equal, assessing weight.",
-          "notes": "Blazic recorded this at dawn. The livestock did not shelter during the storm — they moved into the open. Every animal facing the same direction. He wrote it with the sentence structure of a man writing quickly, before the mind's need for explanation could smooth the image into comfort."
+          "physique": "Wide establishing shot: open fields on the valley floor below Smiljan at dawn on July 11, 1856. The storm has passed completely — the sky clear, the air still. The light carries a quality described as an examination — very white and particular, not the warm amber of ordinary Lika summer mornings. Livestock standing in the open fields, every animal oriented the same direction — not east, not toward shelter, not toward town. Facing the same way, as if addressed. Fences and enclosures visible at the field edges but unused — the animals have moved into the open voluntarily. Morning mist low on the karst limestone. The examination-light falling on every surface with equal, assessing weight.",
+          "notes": "Blazic recorded this at dawn. Wide shot — the scale of the livestock behavior needs space to read. The direction every animal faces is the detail that must be compositionally clear."
+        },
+        {
+          "name": "Gospic_Well_1856",
+          "era": "1856",
+          "physique": "Camera framed on a stone-walled well in the valley below Smiljan, the morning of July 11, 1856. Blazic drawing water — the rope, the wooden bucket descending and returning. The water in the bucket has a taste that was not there yesterday: sharper, more present, as if the water had acquired something overnight or shed something that had been buffering it. Dawn light falling on the well stones, the karst plateau visible in the background across the valley. The fields visible beyond — the livestock still in the open, still facing the same direction, visible at distance.",
+          "notes": "The well water tasting different is one of Blazic's three observations. This shot grounds the abstract (examination light, directional livestock) in the physical and intimate — the taste of water drawn from a specific well on a specific morning."
         }
       ]
     },
@@ -335,16 +377,28 @@
       "era": "1922",
       "isHistorical": true,
       "fluxKnows": true,
-      "physique": "",
+      "physique": "Where Tesla was living in 1922 when the white pigeon died in his hands. He was at the St. Regis before further financial unraveling brought him eventually to the Hotel New Yorker.",
       "attire": "",
-      "notes": "Where Tesla was living in 1922 when the white pigeon died in his hands. He was at the St. Regis before further financial unraveling brought him eventually to the Hotel New Yorker.",
+      "notes": "Parent location — use sub-locations for all scene-level shots.",
       "parentName": null,
       "children": [
         {
-          "name": "Tesla_Hotel_Room_St_Regis_1922",
+          "name": "St_Regis_Tesla_Holding_Pigeon_1922",
           "era": "1922",
-          "physique": "Hotel room interior, 1920s. A man in his mid-60s holding a dying white bird with gray-tipped wings. The bird's weight shifting from held to carried. The room ordinary in every respect except for the light that came from the pigeon's eyes in the moment of her death — described as more powerful and blinding than anything Tesla had produced in his laboratory.",
-          "notes": "The moment the white pigeon died. O'Neill recorded Tesla's account of a real light, powerful and blinding, more intense than the most powerful lamps in his laboratory."
+          "physique": "Camera framed on Tesla in his mid-60s, seated or standing in his hotel room, holding the dying white pigeon. Large aged hands cradling a small white body with grey-tipped wings — the grip careful, both palms making a cup. The bird's weight still warm, still the weight of a living thing making the small continuous adjustments of being held. The room behind him ordinary: hotel furniture, window light from a 1920s New York afternoon. The moment is still. The light in the room is normal. The light has not yet happened.",
+          "notes": "The before-the-light shot. The pigeon is still alive and being held. The room is ordinary. Nothing in frame indicates what is about to occur."
+        },
+        {
+          "name": "St_Regis_Pigeon_Light_1922",
+          "era": "1922",
+          "physique": "The same room in the moment the light comes from the pigeon's eyes. More powerful and blinding than anything Tesla had produced in his laboratory — the room is transformed by a light source that should not exist in an ordinary hotel room. Tesla's face illuminated from below and ahead by the light from his cupped hands. The walls, the ceiling, the furniture — all lit by a source that is the size of a small bird. His hands holding what is in the process of changing from held to carried. The light so intense it overwhelms the ordinary illumination of the room entirely.",
+          "notes": "The light is the event. This may require treating as a near-atmosphere scene — the light is the primary subject, not the room or the bird as object. Tesla's face lit from below by the impossible light source."
+        },
+        {
+          "name": "St_Regis_Window_1922",
+          "era": "1922",
+          "physique": "Camera framed on the window of Tesla's room at the St. Regis. The windowsill where the white pigeon made a habit of arriving. The view through the glass: 1920s New York, the street below, the geometry of the city. The window slightly open — kept open as a habit, for the bird who has not yet stopped coming. Perhaps breadcrumbs or small traces of seed on the outer sill. The glass and the frame and the curtain pulled aside with the specific arrangement of a window that has been opened and closed daily for a bird. The quality of a space maintained in readiness for a visitor.",
+          "notes": "After the pigeon's death, this window would have remained, the habit of opening it perhaps continuing for some time. For the 1922 scene, the window is still in the period when the pigeon still came."
         }
       ]
     },
@@ -354,11 +408,24 @@
       "era": "1884",
       "isHistorical": true,
       "fluxKnows": true,
-      "physique": "The immigration arrival area at Castle Garden (later Ellis Island), New York Harbor, June 1884. Wooden docks, iron railings, the bustle of immigrant processing. A tall young man of 28 with sharp features stepping onto American soil. Four cents in his pocket. A letter of introduction folded in his coat. The harbor behind him — tall-masted ships, steam vessels, the skyline of lower Manhattan. The specific weight of arriving somewhere with nothing but the contents of your own mind.",
+      "physique": "The immigration arrival area at Castle Garden, New York Harbor, June 1884. Wooden docks, iron railings, the bustle of immigrant processing. A tall young man of 28 with sharp features stepping onto American soil. Four cents in his pocket. A letter of introduction folded in his coat. The harbor behind him — tall-masted ships, steam vessels, the skyline of lower Manhattan. The specific weight of arriving somewhere with nothing but the contents of your own mind.",
       "attire": "",
-      "notes": "Tesla arrived June 6, 1884. He had been running machines in his mind for years before this crossing — complete, functional, mechanical systems operated entirely behind his eyes. He carried almost nothing physical. The letter was to Thomas Edison.",
+      "notes": "Tesla arrived June 6, 1884. He had been running machines in his mind for years before this crossing — complete, functional, mechanical systems operated entirely behind his eyes. He carried almost nothing physical. The letter was to Thomas Edison. Parent location — use sub-locations for scene-level shots.",
       "parentName": null,
-      "children": []
+      "children": [
+        {
+          "name": "Castle_Garden_Dock_1884",
+          "era": "1884",
+          "physique": "Camera framed on the immigration dock at Castle Garden, June 1884. Wooden planks underfoot, iron railings along the dock edge, the organized press of immigrant processing — officials, queues, the noise of a processing facility handling the scale of 1884 immigration. A tall young man of 28 with sharp angular features stepping from gangplank to American soil — the specific moment of foot touching the dock. Four cents. A folded letter in his coat. The harbor behind him: tall-masted ships, steam vessels, the specific maritime density of New York Harbor in 1884. The weight of arriving with nothing physical except internal architecture.",
+          "notes": "The arrival moment. Castle Garden was the immigration processing center before Ellis Island opened in 1892. In 1884, arrivals came through Castle Garden at the southern tip of Manhattan."
+        },
+        {
+          "name": "Port_Manhattan_Skyline_1884",
+          "era": "1884",
+          "physique": "Wide establishing shot from the dock looking toward lower Manhattan across the harbor. The 1884 skyline: church spires dominating, the Brooklyn Bridge completed just one year prior in 1883 visible across the East River, no skyscrapers — the tallest structures still masonry, still vertical by weight of stone rather than steel frame. The harbor busy with maritime traffic in every direction. Morning light on the water. The city that Tesla's alternating current would eventually wire — here still gas-lit, still waiting, the infrastructure not yet built that his mind was already building behind his eyes.",
+          "notes": "The 1884 skyline is specific and verifiable. The Brooklyn Bridge opened May 24, 1883 — it would be the most dramatic structure visible from the harbor one year after opening. No skyscrapers yet — the Home Insurance Building in Chicago was under construction, but New York's steel-frame era had not yet arrived."
+        }
+      ]
     },
     {
       "name": "Wardenclyffe_Evidence_1943",
@@ -366,8 +433,30 @@
       "era": "1943",
       "isHistorical": true,
       "fluxKnows": true,
-      "physique": "Not Wardenclyffe Tower itself — but the EVIDENCE of Wardenclyffe found in Room 3327 and seized materials. Architectural drawings on yellowed paper showing a tower designed to transmit power wirelessly. Correspondence with J.P. Morgan on faded letterhead. Financial records showing the gap between what was promised and what was funded. Photographs of the tower before demolition — the distinctive mushroom-shaped copper dome atop the skeletal wooden framework. All found among Tesla's papers, all part of what was seized.",
-      "notes": "MANIFEST-ONLY RULE: Wardenclyffe Tower is not a visitable location in this episode. It is referenced through documents, drawings, and photographs found in manifest locations (Room 3327, seized trunks). Show the evidence of Wardenclyffe, not Wardenclyffe itself."
+      "physique": "Not Wardenclyffe Tower itself — but the evidence of Wardenclyffe found in Room 3327 and among the seized materials. Architectural drawings on yellowed paper. Correspondence with J.P. Morgan. Financial records. Photographs. All found among Tesla's papers, all part of what was seized and reviewed.",
+      "attire": "",
+      "notes": "MANIFEST-ONLY RULE: Wardenclyffe Tower is not a visitable location in this episode. It is referenced only through documents, drawings, and photographs found in manifest locations — Room 3327 and the seized trunks. Show the evidence of Wardenclyffe, not Wardenclyffe itself. Parent location — use sub-locations for scene-level shots.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Wardenclyffe_Architectural_Drawings_1943",
+          "era": "1943",
+          "physique": "Camera framed on large yellowed paper sheets laid out on a surface — part of Tesla's seized materials. Architectural plans for a tower designed to transmit power wirelessly across the planet. The distinctive mushroom-shaped copper dome sketched in precise engineering detail atop the skeletal wooden framework — the shape immediately recognizable. Measurements in Tesla's own handwriting in the margins. Fold lines showing the paper was stored rolled for decades. The drawings laid partially flat, partially still curling at the edges. The surface beneath them — a government examination table, or still partially rolled in a wooden crate beside an open trunk.",
+          "notes": "The architectural drawings are the physical evidence of the concept. The mushroom dome is the distinctive shape. The handwriting in the margins is Tesla's — specific, not printed."
+        },
+        {
+          "name": "Morgan_Correspondence_1943",
+          "era": "1943",
+          "physique": "Camera framed on letters on J.P. Morgan letterhead found among Tesla's papers. Heavy cream stock, engraved letterhead, the formal typeface of financial power in the early 1900s. The handwriting of someone whose correspondence was an institutional act. The pages aged and faded, the ink darkened to brown at the edges where light has touched it for forty years. The correspondence showing — across multiple letters laid out together — the gap between what was agreed (wireless communication) and what Tesla actually built (wireless power transmission for the planet). The tone visible even in the formality: early letters of investment, later letters of refusal.",
+          "notes": "The Morgan correspondence is the paper record of the deal that was made and the deal that was not kept — or depending on interpretation, the deal Tesla expanded beyond without informing his investor."
+        },
+        {
+          "name": "Trump_Review_Documents_1943",
+          "era": "1943",
+          "physique": "Camera framed on assessment papers from John G. Trump's review — the official government evaluation of Tesla's sixty years of work. Typed government forms on standard federal paper stock, classification stamps in red ink, the language of institutional judgment visible in partial: the phrase 'did not include new sound workable principles' readable on one page. Three days — or three weeks — to review sixty years of work. The documents carry the weight of a conclusion reached by a process and an institution, not by one man alone. Filed, stamped, classified.",
+          "notes": "Trump reviewed the material over approximately three weeks, not three days (three days was the initial examination period). The conclusion — harmless, no new workable principles — was then followed by decades of classification. The documents are the record of that judgment."
+        }
+      ]
     },
 
     {
