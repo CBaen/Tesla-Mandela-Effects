@@ -1,0 +1,826 @@
+{
+  "episode": "003",
+  "title": "The God Particle",
+  "version": "v5",
+  "manifestVersion": "v5",
+  "status": "PRODUCTION-READY",
+  "written": "2026-03-19",
+  "expanded": "2026-03-25",
+  "notes": "v5 expansion: DP-level sub-locations added to every location. Missing props added with script sourcing. All v4 entries preserved. New entries marked with 'added_v5: true'.",
+  "word_count_approximate": 10800,
+  "mythology_tier": 2,
+
+  "anti_cloning_selections": {
+    "opening_type": "Direct address question — listener's own memory is the first instrument",
+    "structural_shape": "Chronological spiral — 1899 to 2008 to 2012 to 2015, each loop returning to same question with new evidence layer",
+    "closing_type": "The Mirror — calibration engineer's final words turn the listener into the subject",
+    "emotional_endpoint": "Existential dread — which version of the baseline made you",
+    "tesla_connection_type": "Experiment consequence — Colorado Springs frequency discovered; CERN found same substrate from the other direction",
+    "fabricated_source_formats": [
+      "Classified internal memo (CERN Frequency Discrepancy Report)",
+      "Geological/environmental survey (Colorado Springs electromagnetic baseline study)",
+      "Monitoring station log with handwritten annotation (Tromsø Schumann Deviation Log)",
+      "Anonymous letter from insider/whistleblower (Selassie's final communication)"
+    ]
+  },
+
+  "seven_point_structure": {
+    "point_1_wound": "Close your eyes. Write the name. — listener's own memory activated before narrator speaks. Recontextualizing detail planted: July Fourth as CERN PR decision.",
+    "point_2_surface": "LHC tunnel embodied scene. CERN history, first beam September 10 2008, helium explosion, Higgs announcement, 13 TeV. Machine established.",
+    "point_3_cracks": "Colorado Springs 1899. Tesla's magnifying transmitter. Lightning arc. Earth resonance at ~8 Hz. Schumann resonance confirmation. CERN frequency memo: 7.9 Hz on first-beam day. Tromsø log: baseline moved July 4 2012.",
+    "point_4_false_floor": "CERN is the cause. LHC operational milestones map to Mandela Effect spike timeline. Selassie letter arrives — complicates, not confirms. False floor collapses: LHC is operating within a substrate it did not create.",
+    "point_5_real_wound": "Colorado Springs 1974 soil survey. Ground still resonating ~7-9 Hz with no current source. The substrate predates the machine. Wardenclyffe was the architecture that would have directed what the frequency does.",
+    "point_6_implication": "Wardenclyffe demolition July 4 1917. Tower hangs in the attitude of falling without completing it. Architecture gone. Frequency unguided. The question: what does the frequency do without direction.",
+    "point_7_open_question": "July 4 date recontextualized. 1917 demolition and 2012 announcement. Same date, 95 years apart. Direct narrator statement earned. Selassie final line read. Closing question turns on listener."
+  },
+
+  "recontextualizing_detail": {
+    "planted": "July Fourth as CERN public relations decision — a date chosen for press attention",
+    "payoff": "July Fourth is the date Wardenclyffe was demolished in 1917 — 95 years before the Higgs announcement. Same date marking end of one Earth-frequency experiment and confirmation of another operating in the same substrate."
+  },
+
+  "question_pivot": {
+    "opening_question": "Why do millions of people independently remember the name wrong?",
+    "closing_question": "Wrong relative to which baseline — and which version of the baseline made you?"
+  },
+
+  "fabricated_sources": [
+    {
+      "id": "source_1",
+      "name": "CERN Frequency Discrepancy Report",
+      "type": "Classified internal memo",
+      "author": "Department code IM-34, instrumentation monitoring subgroup Sector 3-4",
+      "date": "September 19, 2008, logged 11:47 AM",
+      "key_content": "7.9 Hz resonance signature in background field during first-beam run September 10. Zero point eight seconds. No known particle interaction pattern. Follow-up recommended.",
+      "what_it_does_not_know": "Nothing about Tesla's Colorado Springs frequency or Schumann resonance context",
+      "uncheckable_because": "FOIA batch 7-B index not publicly searchable; CERN does not publish pre-incident operational memos"
+    },
+    {
+      "id": "source_2",
+      "name": "Colorado Springs Electromagnetic Baseline Study",
+      "type": "Geological/environmental field survey",
+      "author": "Private geological survey firm (dissolved 1981), Colorado state contract",
+      "date": "August 1974",
+      "key_content": "Persistent low-frequency oscillation approximately 7-9 Hz at former Tesla laboratory site. No identifiable current source. Geologist's margin note: 'the ground remembering something that happened to it.'",
+      "what_it_does_not_know": "Tesla's calculated frequency; Schumann resonance; CERN",
+      "uncheckable_because": "Colorado State Archives uncatalogued engineering collection; firm dissolved; not digitized"
+    },
+    {
+      "id": "source_3",
+      "name": "Tromsø Schumann Deviation Log",
+      "type": "Electromagnetic monitoring station log with handwritten annotation",
+      "author": "Station operator, Tromsø Geophysical Observatory, University of Tromsø",
+      "date": "July 4, 2012",
+      "key_content": "Schumann resonance baseline shifted 0.3 Hz for 11 minutes beginning 14:11 GMT (CERN Higgs press conference). Operator note: 'Not CME. Not instrument: recalibrated July 2. The baseline moved.'",
+      "what_it_does_not_know": "CERN press conference was occurring at that moment",
+      "uncheckable_because": "2016 data-sharing arrangement lapsed; private archive holds photocopy; operator unnamed in annotation"
+    },
+    {
+      "id": "source_4",
+      "name": "Selassie Letter",
+      "type": "Anonymous personal letter, handwritten",
+      "author": "A. Selassie, former CERN calibration engineer, ATLAS detector, 2006-2014",
+      "date": "2019 (submitted to IMEC conference archive)",
+      "key_content": "7.9 Hz baseline anomaly in LHC calibration data during high-energy runs. Three formal reports dismissed. Private log: distribution has a shape. Final line: 'I am not saying the machine is broken. I am saying the machine works. And that is worse.'",
+      "what_it_does_not_know": "Tesla's Colorado Springs experiments; Colorado Springs survey; Wardenclyffe demolition date",
+      "uncheckable_because": "IMEC archive informal; CERN does not publish staff rosters; formal anomaly report system not publicly accessible"
+    }
+  ],
+
+  "affective_stakes": {
+    "primary": {
+      "character": "Amara Selassie",
+      "arc": "Scientist finds anomaly, files three reports, dismissed three times, keeps private log two years, resigns, writes letter to Mandela Effect conference as last available audience for the question",
+      "presence_ends": "Letter's final line. No follow-up in the record. Conference archive holds a photocopy, not a conversation."
+    },
+    "secondary": {
+      "character": "Tromsø station operator (unnamed)",
+      "arc": "Notices baseline shift July 4 2012 with no identifiable cause, writes 'the baseline moved' in a margin no one else reads",
+      "presence_ends": "July 5 log returns to standard format. No follow-up annotation."
+    }
+  },
+
+  "key_images": [
+    "Close your eyes. Write the name. — the listener's own memory as the episode's opening instrument",
+    "The baseline moved — the Tromsø station operator's margin note; the phrase that is the episode's real subject",
+    "A frequency sitting adjacent to the baseline — Selassie's description of the 7.9 Hz pattern",
+    "The ground remembering something that happened to it — Colorado Springs geologist, 75 years after Tesla",
+    "Zero point eight seconds, filed and not followed up — CERN memo anomaly swallowed by helium explosion",
+    "The same date, different machines — July 4 1917 and July 4 2012; 95 years between termination and confirmation",
+    "The distribution has a shape — Selassie's private log; unnamed geometry of something systematic",
+    "Three reports dismissed — the institutional rhythm of Selassie's attempt to make data legible",
+    "Which version of the baseline made you — the closing question; memory as geological sediment",
+    "The machine works. And that is worse. — the line the episode builds toward"
+  ],
+
+  "layer_1_facts": [
+    "CERN founded September 29, 1954, Meyrin near Geneva",
+    "LHC: 27km ring, ~100m underground, Franco-Swiss border",
+    "First beam: September 10, 2008, 10:28 AM",
+    "Helium explosion: September 19, 2008, 53 magnets damaged",
+    "Higgs boson announced: July 4, 2012, Gianotti and Incandela presenting",
+    "Higgs predicted 1964: Peter Higgs, François Englert, Robert Brout",
+    "Nobel Prize 2013: Englert and Higgs",
+    "13 TeV energy first achieved: April 10, 2015",
+    "Run 2 physics data begins: June 3, 2015",
+    "Tesla Colorado Springs: May 1899 - January 1900",
+    "Magnifying transmitter primary coil: 9 meters diameter",
+    "Lightning arc: 135 feet",
+    "Tesla's calculated Earth resonant frequency: approximately 8 Hz",
+    "Schumann predicted same frequency mathematically: 1952",
+    "Schumann resonance fundamental: approximately 7.83 Hz",
+    "Schumann confirmed experimentally: early 1960s, Balser and Wagner",
+    "Wardenclyffe tower: 187 feet tall, 68-foot diameter copper hemisphere",
+    "Wardenclyffe root system: 120-foot shaft plus 300 feet of iron pipe from bottom",
+    "Wardenclyffe demolished: July 4, 1917, Smiley Steel Company, dynamite",
+    "Scrap value realized: approximately $1,750",
+    "Berenstain Bears first book: The Big Honey Hunt, 1962, Random House",
+    "Authors: Stanley and Janice Berenstain",
+    "Spelling has always been -STAIN, never -STEIN in any official edition",
+    "Mandela Effect term coined by Fiona Broome, approximately 2009",
+    "Tesla Collier's Weekly quote (1901): exact words used, verified"
+  ],
+
+  "characters_visual": [
+    {"name": "Nikola Tesla", "period": "1899", "notes": "Colorado Springs period, approximately 43 years old, 6'2\", lean"},
+    {"name": "Amara Selassie", "type": "fabricated", "notes": "CERN calibration engineer, 2006-2014, gender deliberately unspecified in letter"},
+    {"name": "Fabiola Gianotti", "period": "2012", "notes": "ATLAS spokesperson, at podium during Higgs announcement press conference"},
+    {"name": "Peter Higgs", "period": "2012", "notes": "Age 83, in audience at Higgs announcement, predicted particle in 1964"},
+    {"name": "Tromsø station operator", "type": "fabricated", "notes": "Unnamed, working Arctic monitoring station July 4 2012"}
+  ],
+
+  "locations": [
+
+    {
+      "id": "loc_01",
+      "name": "Colorado Springs Experimental Station — Interior",
+      "period": "1899",
+      "script_reference": "May 1899 scenes, Tesla inside the barn with the magnifying transmitter running",
+      "description": "Large purpose-built barn on the eastern edge of Colorado Springs. Interior entirely consumed by the magnifying transmitter apparatus. The space is not a laboratory in the refined sense — it is a working structure built around a machine that fills it. Altitude 6,000 feet. Air is charged, pressurized in the seconds before discharge. The atmosphere inside the barn is qualitatively different from outside: copper wire under load, warming insulation, ozone so thick it has texture.",
+      "sub_locations": [
+        {
+          "id": "loc_01a",
+          "name": "Transmitter floor — base of primary coil",
+          "camera_position": "Low angle looking up at the 9-meter primary coil. Coil winds rise steeply, the scale dwarfing a standing person. Wooden floor planks around the coil base are darkened from long electrical use. View captures the vertical mass of the apparatus — secondary coil rising beyond the primary, ceiling lost in the height above.",
+          "surfaces_in_frame": "Raw wood plank floor with scorch marks near coil base, heavy copper winding of primary coil, insulation wrapping where wire transitions to terminal, iron structural supports bolted to floor"
+        },
+        {
+          "id": "loc_01b",
+          "name": "Instrument bench — east wall",
+          "camera_position": "Eye-level looking along the bench surface. Battery-powered instruments in a row: galvanometers, frequency meters, hand-wound measurement coils. The instruments are isolated from the main electrical system — they run on separate batteries to remain unaffected by the transmitter's output. Selassie's CERN monitoring station echoes this setup across 109 years.",
+          "surfaces_in_frame": "Wooden bench surface, glass-faced instrument dials with needle indicators, india-ink notation labels on each instrument face, a bound journal open to a page of handwritten frequency measurements, an ink-stained pen lying uncapped, wax-sealed battery cells in a wooden rack below the bench"
+        },
+        {
+          "id": "loc_01c",
+          "name": "Interior — moment of discharge aftermath",
+          "camera_position": "Wide view of the barn interior immediately after the 135-foot arc. The air itself is the subject: ozone haze visible as a faint mineral shimmer in the upper portions of the barn. Instruments on the east-wall bench still active, needles indicating. Tesla standing motionless at the instrument bench, left hand resting on the bench edge, not gripping. The transmitter has gone silent. The only light is from battery-powered lamps.",
+          "surfaces_in_frame": "Ionized air, copper transmission terminal still faintly luminous with residual charge, instrument bench and tools, Tesla's coat (dark, formal even in the field), the barn's single interior door standing open to show the darkness of Colorado Springs outside"
+        },
+        {
+          "id": "loc_01d",
+          "name": "Exterior barn face — night",
+          "camera_position": "Exterior wide shot. The barn sits in darkness on flat ground. The city of Colorado Springs visible as a pattern of gas-lit windows in the middle distance — and then all of it cuts to black simultaneously. The barn's interior throws faint instrument-lamp light through gaps in the siding. Pikes Peak as a silhouette on the horizon against the star field.",
+          "surfaces_in_frame": "Weathered vertical plank siding, a single exterior lamp (now dark — grid went down), flat Colorado high-altitude ground, gravel access track, Pikes Peak horizon"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_01_01",
+          "name": "Magnifying transmitter — primary coil",
+          "description": "9-meter diameter primary coil, copper wire winding, suspended on a wooden frame that spans the width of the barn. The coil is the horizontal element of the apparatus.",
+          "script_source": "Primary coil nine meters in diameter — direct script measurement"
+        },
+        {
+          "id": "prop_01_02",
+          "name": "Magnifying transmitter — secondary coil and mast",
+          "description": "Secondary coil wound to resonate at Tesla's calculated frequency, rising vertically inside the primary. The mast extends through the barn roof. The top terminal — a sphere or toroid — sits above the roofline.",
+          "script_source": "Explicit in scene description; coil 'filled the barn'"
+        },
+        {
+          "id": "prop_01_03",
+          "name": "Battery-powered instrument array",
+          "description": "Row of galvanometers, hand-wound measurement coils, and frequency-indicating devices. Isolated from the grid Tesla was about to destroy. These are the instruments that continue running after the city goes dark and show the Earth resonating.",
+          "script_source": "The battery-powered instruments were still running. They were isolated from the grid he'd just destroyed."
+        },
+        {
+          "id": "prop_01_04",
+          "name": "Colorado Springs field notebook — 1899",
+          "description": "Bound journal, ink pen notations. Tesla commits the frequency reading to notes before morning. Handwritten: approximately 8 Hz. The notebook is the first record of the Earth's resonant frequency.",
+          "script_source": "He committed the frequency to the notes he would write before morning."
+        },
+        {
+          "id": "prop_01_05",
+          "name": "Ozone haze — atmospheric element",
+          "description": "Not a physical prop but a visual constant in all interior-during-discharge shots. The air is thick enough with ozone discharge byproduct that it has visual texture. The smell is described as coating the back of the throat. Should register as a faint bluish-mineral shimmer in the upper barn air.",
+          "script_source": "The smell of ozone was so thick it had texture — the air didn't just carry it, it was made of it."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_02",
+      "name": "Colorado Springs — City Goes Dark",
+      "period": "1899",
+      "script_reference": "Immediately after the 135-foot lightning arc; the El Paso Electric Company generator burns out",
+      "description": "The town of Colorado Springs as seen from the eastern edge — the direction of the experimental station. Gas-lit windows and street lamps that cut to black all at once. Not a gradual dimming. A cut. Eight blocks of electrical infrastructure silenced simultaneously.",
+      "sub_locations": [
+        {
+          "id": "loc_02a",
+          "name": "Colorado Springs street — moment of cutoff",
+          "camera_position": "Street-level looking toward the lit town. A short human figure or two visible in the middle distance. Then — the simultaneous extinguishing of every lamp in frame. The afterimage of the lit street hanging for a moment before the eye adjusts to full dark.",
+          "surfaces_in_frame": "Dirt street, wooden storefronts, suspended electrical wire strung between poles, gas lamp fixtures (now dark), the faint glow of the experimental station in the far distance"
+        },
+        {
+          "id": "loc_02b",
+          "name": "El Paso Electric Company — burned generator",
+          "camera_position": "Close on the generator that burned out. Industrial electrical equipment, circa 1899: large dynamo, copper bus bars, scorched insulation. The machine that fed Colorado Springs is silent and dark. No people in frame — this is examined after the fact, not during.",
+          "surfaces_in_frame": "Cast iron generator housing, copper terminal blocks, scorched wiring insulation, oil-stained floor planks, a handwritten work log on a wall hook"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_02_01",
+          "name": "El Paso Electric Company generator — burned out",
+          "description": "The city's central dynamo. Tesla's transmitter drew more current than it could supply. The burned-out generator is the physical record of the scale of discharge.",
+          "script_source": "The generator at the El Paso Electric Company had burned out. Tesla had drawn more current than the city's entire grid could supply."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_03",
+      "name": "LHC Tunnel — Interior",
+      "period": "2008–2015",
+      "script_reference": "Established in the CERN history section; returned to throughout. Selassie's sector 3-4 is a sub-location of the same underground complex.",
+      "description": "The Large Hadron Collider tunnel: 27km in circumference, buried approximately 100 meters below ground, straddling the Franco-Swiss border. Service walkway runs along one side of the circular tunnel. The beam pipe occupies the center on magnetic mounts. Fluorescent lighting on the ceiling. The curve of the tunnel is visible — the ring's geometry apparent from any stationary position. The scale is institutional and austere.",
+      "sub_locations": [
+        {
+          "id": "loc_03a",
+          "name": "LHC service walkway — Sector 3-4",
+          "camera_position": "Standing on the walkway looking along the tunnel curve. Beam pipe at center of frame, mounted in superconducting magnets — blue cryostat housings, evenly spaced, vanishing around the ring's curve. Fluorescent ceiling lights follow the same arc, diminishing to a vanishing point. The Franco-Swiss border runs through this section.",
+          "surfaces_in_frame": "Concrete tunnel floor and walls (off-white, industrial), blue-painted superconducting magnet cryostats, brushed aluminum beam pipe housing, yellow safety markings on the walkway, emergency telephone boxes mounted at intervals, overhead cable trays"
+        },
+        {
+          "id": "loc_03b",
+          "name": "LHC tunnel — aftermath of helium explosion, September 19 2008",
+          "camera_position": "Mid-tunnel view of the explosion damage. 53 magnets affected. Several cryostat housings are visibly buckled or displaced. Frost forming on surfaces where the liquid helium vented — white rime coating metal surfaces, floor, nearby cable trays. Emergency lighting only — normal fluorescents off.",
+          "surfaces_in_frame": "Frost-coated magnet cryostats, displaced cable runs, emergency lighting (amber), frost patterns on tunnel floor, a maintenance tag attached to a damaged magnet housing"
+        },
+        {
+          "id": "loc_03c",
+          "name": "LHC — beam pipe close detail",
+          "camera_position": "Macro-close on the beam pipe housing. The pipe carries proton beams traveling at 99.9999991% the speed of light in opposite directions. At rest it looks like any precision tube — brushed metal, vacuum seals, instrumentation ports. The gap between its ordinary appearance and its function is the visual subject.",
+          "surfaces_in_frame": "Vacuum-sealed beam pipe housing, instrumentation connection ports, temperature sensor leads, magnetic field monitoring coils wrapped at intervals"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_03_01",
+          "name": "Superconducting magnet cryostats — blue housings",
+          "description": "The 1,232 dipole magnets that steer the proton beam around the ring. Blue-painted cryostat housings, each approximately 15 meters long. The color and scale are characteristic of LHC tunnel photography.",
+          "script_source": "The LHC tunnel interior: service walkway, beam pipe, fluorescent curve vanishing into distance — from locations_visual in v4"
+        },
+        {
+          "id": "prop_03_02",
+          "name": "Frost from helium explosion",
+          "description": "Six tonnes of liquid helium vented explosively on September 19, 2008. The resulting frost coating on metal surfaces is a visual record of the explosion's scale. White rime on blue cryostat housings, tunnel floor, cable trays.",
+          "script_source": "A faulty electrical connection caused approximately six tonnes of liquid helium to explosively vent into the tunnel."
+        },
+        {
+          "id": "prop_03_03",
+          "name": "CERN Frequency Discrepancy Report memo — original context",
+          "description": "The IM-34 memo, filed 11:47 AM on September 19, 2008 — nine minutes before the helium explosion. The physical memo exists somewhere in the Sector 3-4 filing system, then in a batch of pre-incident documentation. Two pages, CERN internal format, stamped RESTRICTED — INTERNAL USE ONLY. This is the document Selassie later found referenced in the 2019 FOIA release.",
+          "script_source": "Nine minutes before the explosion, at eleven forty-seven in the morning, an instrumentation monitoring memo was logged in Sector three-four."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_04",
+      "name": "CERN Calibration Monitoring Room — Sector 3-4",
+      "period": "2008–2014",
+      "script_reference": "Selassie's workspace throughout. Introduced on first-beam day September 10 2008; returned to through 2014.",
+      "description": "A smaller room adjacent to the main LHC control room. Three rows of monitoring screens. Blue-white fluorescent light, relentless and even — no windows, no natural light, same temperature year-round. The screens show quieter data than the main control room's headline particle interaction feeds: calibration data, background resonance readings, the ambient electromagnetic noise floor of the machine. The room is defined by its sameness — the same light at noon in July as at two in the morning in January.",
+      "sub_locations": [
+        {
+          "id": "loc_04a",
+          "name": "Selassie's monitoring station — three rows of screens",
+          "camera_position": "Overhead or from behind, looking at the screen array. Three rows, each screen showing calibration data: frequency plots, baseline readings, time-stamped logs. The central screen of the middle row is where the 7.9 Hz anomaly appears. The chair is standard-issue, adjustable height, gray fabric. Selassie's hands on the edge of the keyboard tray — the stabilizing gesture the letter describes.",
+          "surfaces_in_frame": "Desk surface with keyboard tray, gray fabric chair, three rows of monitoring screens (blue-white glow), a physical folder sitting to the left of the keyboard tray, a coffee cup or water bottle (institutional — nothing personal), a clock on the wall showing operational time"
+        },
+        {
+          "id": "loc_04b",
+          "name": "Calibration room — during first-beam celebration heard through the wall",
+          "camera_position": "The camera is on Selassie's screens. The screen data is doing something small. In the background — softly — the muffled sound from the adjacent main control room: six hundred people understanding the beam completed its first circuit. Selassie does not turn toward the sound. The camera does not move to the wall. The story is on the screens.",
+          "surfaces_in_frame": "Monitoring screens (anomaly visible: 7.9 Hz logged), the folder to the left of the keyboard, the wall separating this room from the main control room"
+        },
+        {
+          "id": "loc_04c",
+          "name": "Corridor window overlooking the car park",
+          "camera_position": "The only natural light in this section of the building. A standard institutional corridor window, looking out at a car park. This is where Selassie stands for several minutes after the pattern becomes undeniable — a body that needs to be somewhere other than in front of the screens. Mid-distance shot: the window, the corridor, the gray car park beyond. No drama. The ordinary geography of a person absorbing something that has no category.",
+          "surfaces_in_frame": "Institutional corridor wall (cream or pale gray), aluminum window frame, car park below (standard institutional vehicle mix — practical cars, no executive vehicles), fluorescent corridor light reflecting in the glass"
+        },
+        {
+          "id": "loc_04d",
+          "name": "Anomaly report form — close detail",
+          "camera_position": "Macro on the IM-34 anomaly submission form. Five fields visible: sector, instrument ID, anomaly type, observed value, recommended action. The recommended action field reads 'recalibrate and monitor for recurrence.' Submission timestamp: 14:37, a Tuesday in March 2010. The handwriting is precise and consistent — calibration-trained.",
+          "surfaces_in_frame": "Standard form paper, institutional typeface headers for each field, handwritten entries in the value fields, a faint CERN logo watermark in the form background"
+        },
+        {
+          "id": "loc_04e",
+          "name": "Selassie's spiral notebook — private log",
+          "camera_position": "Close on the open spiral notebook purchased from the stationery cabinet. Blue cover (visible at the page margin). Entries dated, times included. Frequency value in the left margin, run schedule beside it. The column is filling. The notebook represents what the formal reporting system could not hold.",
+          "surfaces_in_frame": "Spiral binding, lined notebook pages, blue-ink handwritten entries, left-margin frequency column (7.9 Hz repeated across multiple dates), the faint printed lines of a standard laboratory notebook"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_04_01",
+          "name": "Selassie's gray fabric monitoring chair",
+          "description": "Standard-issue adjustable-height chair, gray fabric. Selassie has sat in it long enough to know exactly how it responds when pushed back from the desk. The chair being pushed back is the body's signal that the pattern has become undeniable.",
+          "script_source": "The chair Selassie sat in was standard-issue — adjustable height, gray fabric, the kind of chair that is unremarkable until you have sat in it through enough shifts that you know exactly how it responds when you push back from the desk."
+        },
+        {
+          "id": "prop_04_02",
+          "name": "Physical folder — to the left of the keyboard tray",
+          "description": "The folder that holds Selassie's printed copies of responses to anomaly reports. Initially thin. The response paragraph from instrumentation leadership — closing without closing anything — is filed here after being printed and read twice.",
+          "script_source": "Printed it. Filed it in the physical folder that sat to the left of the keyboard tray. The folder was thin."
+        },
+        {
+          "id": "prop_04_03",
+          "name": "Blue-cover spiral notebook — private log",
+          "description": "Purchased from the stationery cabinet in the main corridor. Blue cover. The kind of notebook that disappears in any office. Dates, times, frequency values, run schedule. The column fills across two years outside the formal reporting structure.",
+          "script_source": "Selassie began keeping a secondary log in a spiral notebook purchased from the stationery cabinet in the main corridor. Blue cover."
+        },
+        {
+          "id": "prop_04_04",
+          "name": "IM-34 anomaly report form — first filing, March 2010",
+          "description": "Standard five-field form: sector, instrument ID, anomaly type, observed value, recommended action. Filed at 14:37 on a Tuesday in March 2010. This is the first of three formal reports, all ultimately dismissed.",
+          "script_source": "The report form was a standard IM-34 anomaly submission. Five fields. Selassie filled in each field with precision. The recommended action field read: recalibrate and monitor for recurrence. The submission timestamp logged at fourteen thirty-seven on a Tuesday in March, two thousand ten."
+        },
+        {
+          "id": "prop_04_05",
+          "name": "Response paragraph from instrumentation leadership",
+          "description": "A single paragraph. Standard institutional communication. The deviation falls within acceptable operating range for ambient field calibration in Sector 3-4. The readings are within tolerance. No further action required at this time. Selassie reads it twice. Prints it. Files it. The folder is thin.",
+          "script_source": "The response arrived eleven days later. A single paragraph."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_05",
+      "name": "CERN Main Auditorium — Higgs Announcement",
+      "period": "July 4, 2012",
+      "script_reference": "The announcement scene: six hundred people, Gianotti at podium, 5-sigma curve, Peter Higgs in the audience",
+      "description": "CERN's main auditorium at the Geneva campus. Six hundred seats, all occupied. People standing along the walls. The room is not quiet — it has the charged density of six hundred people who spent their careers on one question, about to hear the answer in the same room at the same moment.",
+      "sub_locations": [
+        {
+          "id": "loc_05a",
+          "name": "Podium — Fabiola Gianotti presenting",
+          "camera_position": "Mid-shot from the floor, looking up at the podium. Gianotti at the microphone. Behind her on the projection screen: the statistical curve, peak at five sigma. The five-sigma threshold line is visible. The ATLAS logo or CERN logo in the corner of the slide. The curve is the visual anchor of this entire episode — the objective confirmation of the God Particle.",
+          "surfaces_in_frame": "Podium with CERN branding, projection screen (the 5-sigma curve centered, bright on dark background), ATLAS detector schematic imagery in adjacent slides, a water glass on the podium surface"
+        },
+        {
+          "id": "loc_05b",
+          "name": "Audience — the moment before applause",
+          "camera_position": "Wide shot of the audience from the podium perspective, at the precise moment between the curve appearing and the applause beginning. Six hundred faces. The room is holding a breath. Peter Higgs visible in the front or near-front rows — 83 years old, watching the screen tell him the thing he calculated in 1964 is real.",
+          "surfaces_in_frame": "Auditorium seating (full), institutional carpet, faces in various states of held reaction, Peter Higgs visible — white hair, age-appropriate posture, eyes on the screen"
+        },
+        {
+          "id": "loc_05c",
+          "name": "Auditorium — media overflow area",
+          "camera_position": "The room beyond the primary seating: people standing against the walls, journalists with cameras, the satellite feed equipment that will carry the announcement globally. The press attention was one of the reasons July Fourth was chosen. The machinery of the announcement is visible in this angle.",
+          "surfaces_in_frame": "Camera equipment on tripods, press credentials, live-feed monitors showing the feed being broadcast, people standing three-deep at the back walls"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_05_01",
+          "name": "5-sigma statistical curve — projection slide",
+          "description": "The defining visual of the Higgs confirmation. A particle mass plot with a clear peak at 125 GeV, the peak sitting five standard deviations above the null hypothesis baseline. The chance of a false positive at five sigma is 1 in 3.5 million. This slide is a public record — it can be rendered from real ATLAS/CMS presentation materials.",
+          "script_source": "Behind her, a statistical curve. The peak of the curve sat at five sigma."
+        },
+        {
+          "id": "prop_05_02",
+          "name": "Peter Higgs — physical presence in the audience",
+          "description": "83 years old at the announcement. Predicted this particle in 1964, when he was 35. He is watching a screen tell him the thing he calculated is real. The gap between 1964 and 2012 — 48 years — is in his face and posture.",
+          "script_source": "Peter Higgs was in the room. Eighty-three years old. He had predicted this particle in nineteen sixty-four, forty-eight years earlier, when he was thirty-five."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_06",
+      "name": "Tromsø Geophysical Observatory — Interior",
+      "period": "July 4, 2012",
+      "script_reference": "The station operator's monitoring shift during the Higgs announcement; the Schumann baseline shifts 0.3 Hz for 11 minutes",
+      "description": "A climate-controlled monitoring station at 70 degrees north latitude. The University of Tromsø operates it for space weather research and electromagnetic field monitoring. The one exterior-facing window shows July Arctic light — the sun does not set, it traces a low arc and returns. The light through that window is thin gold at any hour, arriving sideways, as though the sun is considering the room rather than illuminating it. The monitoring screens are blue-white, in contrast. The handwriting in the log is consistent across months — the same numbers in the same columns.",
+      "sub_locations": [
+        {
+          "id": "loc_06a",
+          "name": "Monitoring station — the exterior-facing window",
+          "camera_position": "From inside the station looking toward the window. The Arctic July light comes in at a low angle — not illuminating the room, but considering it. The blue-white glow of monitoring screens is the dominant light source inside. The contrast between the sideways gold at the window and the relentless blue-white of the screens is the visual identity of this location.",
+          "surfaces_in_frame": "Institutional interior wall, single aluminum-framed window, Arctic summer light outside (low angle, diffuse gold), monitoring screens reflecting in the glass when the camera shifts"
+        },
+        {
+          "id": "loc_06b",
+          "name": "Monitoring station — the instrument array and paper log",
+          "camera_position": "The operator's desk. Magnetometers and induction coils running on the screens. The paper log open to the July 4 page — 15-minute interval entries, the hand consistent and narrow. The margin to the right of the standard entry column is where the anomaly annotation goes. The pen is visible before the annotation is written.",
+          "surfaces_in_frame": "Paper monitoring log (open, July 4 page), a pen resting on the log surface, screen displays showing the Schumann resonance plot (the baseline visible, the deviation point visible), institutional desk surface, coffee cup (half full)"
+        },
+        {
+          "id": "loc_06c",
+          "name": "Monitoring station — the margin annotation, close detail",
+          "camera_position": "Macro on the handwritten margin note. The standard column entries are the baseline — consistent, narrow, interval-logged. The margin annotation is visibly different: tighter, slightly compressed, the hand following the mind rather than the routine. The specific text: 'Second deviation this year. Check solar index — no storm activity. Not CME. Not instrument: recalibrated July 2. The baseline moved.'",
+          "surfaces_in_frame": "Log paper surface, the standard left-column entries (baseline values), the right-margin annotation in tighter script, the date header showing July 4, 2012, the time notation 14:11 GMT visible in the entry immediately before the annotation"
+        },
+        {
+          "id": "loc_06d",
+          "name": "Exterior — Tromsø monitoring station building",
+          "camera_position": "Outside the building in July Arctic conditions. The building is functional, not dramatic — an outpost structure designed for operational reliability in extreme weather. The sun at a low arc. The landscape is open tundra with the observatory infrastructure visible. No trees at this latitude. The isolation of the station is its visual meaning: no one near enough to interrupt the operator's question about the baseline.",
+          "surfaces_in_frame": "Instrument mast and antenna arrays on the building exterior, tundra landscape, low-angle Arctic sun, the single exterior-facing window visible from outside"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_06_01",
+          "name": "Tromsø Schumann deviation log — July 4 2012 page",
+          "description": "Paper log in 15-minute interval format. Standard entries for the majority of the monitoring period. The 14:11 GMT entry shows the deviation: baseline shifted 0.3 Hz for 11 minutes. The margin annotation to the right of the standard column is the episode's central image: 'The baseline moved.'",
+          "script_source": "The log for July fourth, two thousand twelve shows the Schumann resonance fundamental holding at its standard seven point eight three hertz for the majority of the monitoring period. At fourteen eleven GMT — the baseline shifted. By approximately zero point three hertz. For eleven minutes."
+        },
+        {
+          "id": "prop_06_02",
+          "name": "Magnetometers and induction coil array",
+          "description": "The instruments monitoring the Earth's natural electromagnetic field — specifically the standing waves propagating in the cavity between the surface and the ionosphere. These are the instruments that catch the baseline shift. Recalibrated July 2, two days before the event — they are known-good. The anomaly is not instrument error.",
+          "script_source": "The instruments were magnetometers and induction coils monitoring the Earth's natural electromagnetic field. Not CME. Not instrument: recalibrated July 2."
+        },
+        {
+          "id": "prop_06_03",
+          "name": "Solar index reference materials",
+          "description": "Space weather monitoring data that the operator checks first when the deviation appears. The solar index shows no storm activity. No coronal mass ejection. This is the operator eliminating every known cause before writing 'the baseline moved' — the note is the record of an elimination process.",
+          "script_source": "Check solar index — no storm activity. Not CME."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_07",
+      "name": "Colorado Springs Former Laboratory Site — 1974 Survey",
+      "period": "1974",
+      "script_reference": "August 1974 electromagnetic baseline survey. 75 years after Tesla's experiments. The ground still resonates at 7-9 Hz with no current source.",
+      "description": "The eastern edge of Colorado Springs where Tesla's experimental station stood. The site has been repurposed multiple times — industrial storage, vacant lot, various commercial uses. August 1974: a private geological survey team conducting an electromagnetic baseline survey of former industrial sites in the Pikes Peak region. The lab building is long gone. The ground is unremarkable to the eye. The instruments tell a different story.",
+      "sub_locations": [
+        {
+          "id": "loc_07a",
+          "name": "Survey site — ground level with instruments",
+          "camera_position": "Low angle, looking across the flat ground of the former laboratory site. A survey team member holds a ground-contact electromagnetic sensor pressed to the earth. The Pikes Peak range is visible in the distance — the same horizon Tesla would have seen. The equipment is 1974 field survey standard: rugged, portable, analog readouts. The city of Colorado Springs is visible in the middle distance.",
+          "surfaces_in_frame": "Flat Colorado ground (disturbed, former industrial), survey equipment stake and sensor housing, a survey crew member's boots and lower body, the Pikes Peak skyline, a field vehicle parked nearby"
+        },
+        {
+          "id": "loc_07b",
+          "name": "Field notes — the anomaly recorded",
+          "camera_position": "Close on the field notes page. Standard survey notation: grid reference, instrument ID, reading value, time. Then the footnote — outside the standard format, written in a different cadence. The geologist's margin note: 'the ground remembering something that happened to it.' The handwriting slows here. This is not a standard entry.",
+          "surfaces_in_frame": "Field notebook paper, handwritten grid values, the anomalous frequency reading (7-9 Hz), the footnote text in slightly different ink pressure, a red pen underlining used elsewhere on the page but not under the footnote"
+        },
+        {
+          "id": "loc_07c",
+          "name": "Survey site — where the barn stood",
+          "camera_position": "The exact plot where the experimental station barn stood. Nothing marks it. The ground looks like ground. A 1974 survey flag stakes a measurement point nearby. The absence is the subject — the barn is gone, the transmitter is gone, the roots are gone, and yet the frequency runs in the earth here.",
+          "surfaces_in_frame": "Undifferentiated Colorado ground, a single orange survey flag, a concrete foundation remnant at the edge of frame (from a later industrial use, not Tesla's), the flat expanse of the former site"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_07_01",
+          "name": "1974 geological electromagnetic survey instruments",
+          "description": "Field survey equipment for measuring ground-level electromagnetic baseline. Analog readout, portable. The instruments detect the 7-9 Hz oscillation and find no source for it among all testable natural and artificial causes in the reference literature.",
+          "script_source": "A private geological survey firm conducting an electromagnetic baseline survey of the former industrial sites in the Pikes Peak region."
+        },
+        {
+          "id": "prop_07_02",
+          "name": "Field survey notes — with the geologist's footnote",
+          "description": "The field notes reproduced in the typed survey report. The footnote is: 'the oscillation felt, instrumentally, like the ground remembering something that happened to it.' The geologist is not a physicist. She notes it without further analysis. It is outside the scope of the assessment criteria.",
+          "script_source": "The geologist noted it in the field notes, reproduced in the typed survey report as a footnote: the oscillation felt, instrumentally, like the ground remembering something that happened to it."
+        },
+        {
+          "id": "prop_07_03",
+          "name": "Colorado State Archives survey report",
+          "description": "The typed survey report, the firm's final deliverable. The anomalous reading appears as a footnote — not highlighted, not flagged. The firm dissolved in 1981 after the principal's death. The records went to the Colorado State Archives, uncatalogued, in a collection of engineering assessments from the period. The report sits there. Not digitized.",
+          "script_source": "The survey firm dissolved in nineteen eighty-one following the death of its principal. The records went to the Colorado State Archives, uncatalogued, in a collection of engineering assessments from the period."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_08",
+      "name": "Wardenclyffe Tower — Standing, Shoreham Long Island",
+      "period": "Pre-demolition; July 1917",
+      "script_reference": "Established as the architecture built to use the frequency Tesla discovered. The tower is 187 feet, the copper hemisphere 68 feet in diameter. The root system goes deeper than the tower goes tall.",
+      "description": "Shoreham, Long Island. The salt-heavy air of the Long Island Sound, less than a mile north. July heat that has settled into the earth and stays. The tower does not look like a transmission tower — it looks like something that grew here, that arrived at its shape through accumulation, the way geological formations arrive at their shapes. The root system is invisible but known: 120-foot shaft, iron pipes driven 300 further feet into bedrock.",
+      "sub_locations": [
+        {
+          "id": "loc_08a",
+          "name": "Wardenclyffe — base of tower looking up",
+          "camera_position": "Standing at the base of the tower, camera pointing straight up. The wooden shaft rises 187 feet. The copper hemisphere at the top is 68 feet in diameter — seen from below, it occupies the entire sky in this angle, a dome against the Long Island summer sky. The scale requires the viewer to tilt back to take it in. This is the most intimate angle with the tower — the one that makes it feel organic rather than built.",
+          "surfaces_in_frame": "Wooden tower shaft (vertical timbers, iron banding), the copper hemisphere disk seen in perspective from directly below, Long Island summer sky at the edges, iron structural connections where shaft meets hemisphere"
+        },
+        {
+          "id": "loc_08b",
+          "name": "Wardenclyffe — exterior wide shot, full tower",
+          "camera_position": "Far enough back to see the full 187 feet. The tower against the flat Long Island landscape. The Sound visible in the distance behind. The facility buildings (the laboratory structure Tesla built) are at the base. The tower's proportions are strange — narrow shaft, enormous hemisphere at the top — but the strangeness reads as intentional, not incomplete.",
+          "surfaces_in_frame": "Full tower elevation, Long Island flat landscape, Long Island Sound horizon, the laboratory building at tower base (brick and wood construction, Tesla-era)"
+        },
+        {
+          "id": "loc_08c",
+          "name": "Wardenclyffe — the root system (cross-section illustration)",
+          "camera_position": "This sub-location requires a schematic or cross-section treatment rather than a photograph. The tower above grade: 187 feet. The root system below: 120-foot central shaft, iron pipes to 300 feet at the bottom. The structure goes further down than it goes up. The cross-section makes visible what the tower's purpose was — not to broadcast into the air but to ground into the Earth's resonant substrate.",
+          "surfaces_in_frame": "Earth cross-section, the tower base and shaft at grade, the central iron shaft descending, iron pipe network at depth, bedrock layer at 300+ feet"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_08_01",
+          "name": "Wardenclyffe Tower — 187-foot wooden shaft",
+          "description": "The vertical tower structure. Wood, iron banding, designed to support the copper hemisphere at the top and carry the transmission load. The architecture of direction — the system built to aim the resonance.",
+          "script_source": "The tower is one hundred and eighty-seven feet tall."
+        },
+        {
+          "id": "prop_08_02",
+          "name": "Wardenclyffe copper hemisphere — 68-foot diameter",
+          "description": "The top terminal of the transmission system. 68 feet in diameter. The element visible from miles away. After demolition, its copper is part of the $1,750 scrap value. The hemisphere is what made Wardenclyffe recognizable — and what is now gone.",
+          "script_source": "The copper hemisphere at its top is sixty-eight feet in diameter."
+        },
+        {
+          "id": "prop_08_03",
+          "name": "Wardenclyffe iron root system",
+          "description": "Invisible above ground but the defining element of the architecture. 120-foot central shaft. Iron pipes driven 300 further feet into bedrock from the shaft's base. The roots go deeper into the earth than the tower goes into the sky. During demolition, the roots resist the dynamite — they hold what the blast tries to sever.",
+          "script_source": "Below the surface, invisible, the iron root system extends downward. A hundred-and-twenty-foot shaft, with iron pipes driven a further three hundred feet into the bedrock from the bottom. The root system goes further into the earth than the tower goes into the sky."
+        },
+        {
+          "id": "prop_08_04",
+          "name": "Waldorf-Astoria mortgage documents",
+          "description": "The debt instrument that caused the demolition. Tesla has not paid his hotel bills. The Waldorf-Astoria holds the mortgage. The tower is being demolished to pay a hotel bill. The contrast between the machine's ambition and the financial mechanism of its end is the irony the script makes explicit.",
+          "script_source": "The Waldorf-Astoria hotel holds the mortgage. Tesla has not paid his hotel bills. The scrap metal value has been appraised at approximately one thousand seven hundred and fifty dollars."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_09",
+      "name": "Wardenclyffe Demolition — July 4, 1917",
+      "period": "July 4, 1917",
+      "script_reference": "The dynamite fires. The tower tilts. The root system resists. The tower hangs in the attitude of falling without completing it.",
+      "description": "July Fourth, 1917. Smiley Steel Company of New York has been contracted. There are men on the structure, men on the ground, and people watching from a distance — this is a public demolition, a debt collection. The air is salt-heavy, humid. The ground is warm through boot soles. The dynamite fires. The sound arrives before the movement.",
+      "sub_locations": [
+        {
+          "id": "loc_09a",
+          "name": "Demolition — the moment of detonation",
+          "camera_position": "From the safe distance — 40 feet or further — looking at the tower base as the dynamite fires. The initial percussion is described as larger than expected, pushing at the chest rather than arriving through the ears first. The image is: the tower, the explosion at its base, the men on the ground holding position or stumbling backward.",
+          "surfaces_in_frame": "Wardenclyffe tower (full height), dynamite blast at base (smoke and debris), Smiley Steel workers at distance, Long Island landscape, dust beginning to rise"
+        },
+        {
+          "id": "loc_09b",
+          "name": "Demolition — the intermediate suspension",
+          "camera_position": "The critical moment. The tower tilts. It begins to lean. Then the iron root system resists. The tower hangs in the attitude of falling without completing it — leaning at an angle that physics says it should not hold. The men on the ground are watching. This is a still image that captures movement arrested: the tower at approximately 20-30 degrees from vertical, the root system holding, the fall not completed.",
+          "surfaces_in_frame": "Wardenclyffe tower leaning — full height visible, the lean angle clear, the copper hemisphere displaced from vertical, the base of the tower and the disturbed ground where the dynamite fired, the men on the ground watching"
+        },
+        {
+          "id": "loc_09c",
+          "name": "Demolition — the crater and exposed root system",
+          "camera_position": "After the fall. Looking down into the crater from the rim. A man standing at the crater edge can see 30 feet down before the light runs out. The iron pipes go further than that. The root system that held the tower in suspension is now exposed — the interior of the earth that accepted the architecture and then had to be made to release it.",
+          "surfaces_in_frame": "Crater rim (disturbed Long Island soil), the top of the central iron shaft visible 30 feet down, the iron pipes extending beyond the visible depth, the shadow of the fallen tower at the edge of frame"
+        },
+        {
+          "id": "loc_09d",
+          "name": "The fallen tower — dust shadow",
+          "camera_position": "The moment of impact. The tower has completed its fall. The ground impact arrives as vibration before sound. Dust rises in a shape that is briefly — before the wind disperses it — the outline of the tower's own shadow. This is the precise image the script gives: the dust as a ghost of the structure.",
+          "surfaces_in_frame": "Fallen tower mass on the Long Island ground, dust rising in the tower's outline shape, the crater visible where the base was, the copper hemisphere on the ground — separated from the shaft"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_09_01",
+          "name": "Smiley Steel Company dynamite — detonation charges",
+          "description": "The charges set at the base of the tower. The initial detonation is larger than expected. A percussion that pushes at the chest rather than arriving through the ears first. One worker stumbles backward from the pressure wave — not in any report, but seen.",
+          "script_source": "The dynamite fires on July fourth, nineteen seventeen. The foreman's report describes the initial detonation as larger than expected — a percussion that pushed at the chest rather than arriving through the ears first."
+        },
+        {
+          "id": "prop_09_02",
+          "name": "Foreman's demolition report",
+          "description": "Filed the following day. Documents: detonation, intermediate suspension, fall, dimensions of exposed root system, recommendation for additional equipment for pipe extraction, scrap metal yield. Thorough and professional. Does not include: the period of silence while the tower held, the sound of the earth releasing, or what the root system looked like from the crater rim.",
+          "script_source": "The foreman's report, filed the following day, documented the detonation, the intermediate suspension, the fall, and the dimensions of the exposed root system. What it did not include: the period of silence while the tower held."
+        },
+        {
+          "id": "prop_09_03",
+          "name": "The scrap metal yield — $1,750",
+          "description": "The copper hemisphere, the iron pipes, the tower's structural metal. Everything visible above the ground. Appraised at approximately $1,750. This is what the machine that Tesla described as capable of transmitting energy and communication globally was worth as scrap. The number is the wound.",
+          "script_source": "The scrap metal value of everything visible above the ground has been appraised at approximately one thousand seven hundred and fifty dollars."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_10",
+      "name": "Selassie Letter — Physical Object",
+      "period": "2019",
+      "script_reference": "The letter hand-delivered to an IMEC conference registrant and donated to conference records. Three pages. Water stain on page two. Page three partially illegible.",
+      "description": "The letter is not a location in the geographic sense — it is a close-investigation object. The physical letter as handled and examined. The paper has the weight of institutional stationery. The fold has been made and unfolded and refolded enough that the crease has softened into a curve. The letter has lived in someone's hands before it arrived in this one.",
+      "sub_locations": [
+        {
+          "id": "loc_10a",
+          "name": "Letter — page one, full",
+          "camera_position": "The first page laid flat. CERN letterhead at the top. The notation PERSONAL — NOT FOR DISTRIBUTION handwritten above the letterhead. The handwriting: English with occasional French technical terms. Clear on this page. The address at top (IMEC conference, personal), the date (2019), the opening paragraph beginning to lay out Selassie's position and function at CERN.",
+          "surfaces_in_frame": "Heavier-than-office-paper institutional stationery, CERN logo (top center), handwritten text in English, the notation above the letterhead in a slightly different hand — written before the letter was written, not after"
+        },
+        {
+          "id": "loc_10b",
+          "name": "Letter — page two with water stain",
+          "camera_position": "Page two laid flat or at a slight angle. The water stain across the lower third of the page — it follows the content of the technical argument, the section describing the anomalous readings and their correlation with the run schedule. Some text in the stain zone is legible but requires effort. The stain is biographical — this page has been wet, dried, held, and refolded many times.",
+          "surfaces_in_frame": "Page two stationery, the water stain line (brownish, irregular edge), handwritten text above the stain (clear), text within and below the stain (partially obscured)"
+        },
+        {
+          "id": "loc_10c",
+          "name": "Letter — page three, final paragraph",
+          "camera_position": "Page three macro on the final paragraph. The text becomes partially illegible near the closing — the photocopy is of a photocopy, and the lower portion of the page has degraded. The final lines are readable: 'I am not saying the machine is broken. I am saying the machine works. And that is worse. Because what it is working within is not what we built it to work within.'",
+          "surfaces_in_frame": "Page three stationery (slightly lighter — different batch?), handwritten final paragraph, a partially illegible section above the closing lines, the signature: A. Selassie"
+        },
+        {
+          "id": "loc_10d",
+          "name": "Letter — the fold",
+          "camera_position": "The three pages together, folded once at center. The fold crease has softened from multiple openings into a curve rather than a sharp line. The letter's physical biography is in this crease — held in a wallet or pocket or inner coat pocket before being delivered, the fold opened and read and refolded many times.",
+          "surfaces_in_frame": "Folded stationery showing the center crease, the softened curve of the crease, the paper weight visible at the fold edge"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_10_01",
+          "name": "Selassie letter — three pages on CERN stationery",
+          "description": "Heavier than office paper, slight texture that holds ink differently. Three sheets, folded once at center. The fold has lived in hands. CERN logo at the top. PERSONAL — NOT FOR DISTRIBUTION above the letterhead. Water stain on page two. Page three partially illegible. Signed: A. Selassie. The most important document in the episode.",
+          "script_source": "Three pages. Handwritten in English with occasional French technical terms. The first page is clear. The second page has a water stain across the lower third. The third page is partially illegible."
+        },
+        {
+          "id": "prop_10_02",
+          "name": "IMEC conference archive — photocopy",
+          "description": "The letter was photocopied before being donated to the conference records. The photocopy is what exists in the archive. The original may be held by the registrant who received it. The photocopy of a photocopy quality is why page three is partially illegible.",
+          "script_source": "It was photocopied. The original was on CERN internal stationery. The conference archive holds a photocopy, not a conversation."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_11",
+      "name": "The Researcher's Laptop — Dataset Overlay, 2017",
+      "period": "Approximately 2017",
+      "script_reference": "The researcher who overlaid the Mandela Effect report archive against the LHC operational calendar. The correlation takes 30 seconds to generate. The spikes align.",
+      "description": "Not a named location — an intimate and specific one. A laptop, somewhere, approximately 2017. Two datasets open side by side. The researcher is a database person, not a physicist. The overlay generates in 30 seconds. The researcher sits with the chart. Closes the laptop. Makes coffee. Opens it again. The chart is the same chart.",
+      "added_v5": true,
+      "sub_locations": [
+        {
+          "id": "loc_11a",
+          "name": "The two datasets — side by side",
+          "camera_position": "Over-shoulder on the laptop screen. Two browser windows or spreadsheet columns side by side. Left: timestamped Mandela Effect report archive (forum records, search trend data, survey responses — all public). Right: LHC operational calendar (run dates, energy levels, downtime periods — published by CERN). The visual of the two datasets before the overlay is generated.",
+          "surfaces_in_frame": "Laptop screen with two data panels, a coffee cup at the edge of the desk (or absent — the researcher hasn't made it yet), ambient room light (neutral domestic or office space), the researcher's hands resting at the keyboard"
+        },
+        {
+          "id": "loc_11b",
+          "name": "The overlay chart — spikes aligned",
+          "camera_position": "Close on the screen showing the overlay result. Two line charts, one representing Mandela Effect reporting volume over time, one representing LHC operational intensity (energy level, run vs. downtime). The spikes align. 2008, 2012, 2015. A statistician looking at this cold — without knowing what the datasets represent — would classify it as a strong positive correlation.",
+          "surfaces_in_frame": "Screen showing the overlay chart, the chart's time axis (2008-2016), the two overlaid lines and their correlation points, no annotation — just the data"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_11_01",
+          "name": "Mandela Effect report archive — compiled dataset",
+          "description": "A compiled archive of Mandela Effect reports, timestamped, sourced from forum records, search trend data, and survey responses going back to 2009. All public data. The researcher assembled this — it is not a single source but a compiled dataset.",
+          "script_source": "One dataset: a compiled archive of Mandela Effect reports, timestamped, sourced from forum records, search trend data, and survey responses going back to two thousand nine."
+        },
+        {
+          "id": "prop_11_02",
+          "name": "LHC operational calendar",
+          "description": "Run dates, energy levels, downtime periods. Published by CERN. Completely public. The irony of the correlation is that both datasets are public and anyone can run the comparison.",
+          "script_source": "The other dataset: the LHC operational calendar — run dates, energy levels, downtime periods, published by CERN."
+        }
+      ]
+    },
+
+    {
+      "id": "loc_12",
+      "name": "Colorado State Archives — The Uncatalogued Collection",
+      "period": "1981–present",
+      "script_reference": "Where the Colorado Springs electromagnetic baseline survey report sits. Uncatalogued. Not digitized. The oscillation continues in the ground. No one is reading the footnote.",
+      "description": "Not shown directly in the script — but the report's location is named and specific. A state archives storage room: filing boxes, uncatalogued engineering assessments from the 1970s and 1980s, the specific entropy of government records that were received but never processed. The survey firm dissolved in 1981. The records came here. The footnote about the ground remembering is inside a box in a room.",
+      "added_v5": true,
+      "sub_locations": [
+        {
+          "id": "loc_12a",
+          "name": "Archives storage — the engineering assessments collection",
+          "camera_position": "A shelf or row of filing boxes, standard archival boxes, labels handwritten or typed in a 1980s format. One box is slightly pulled out — the one containing the engineering assessments from the period. The survey report is inside. There is no finding aid on the shelf. Uncatalogued means there is no map to this box.",
+          "surfaces_in_frame": "Archival storage shelving (metal), filing boxes (beige or gray, period-appropriate), handwritten or typed labels, fluorescent archive lighting, the specific undifferentiated density of records that arrived and were filed and not processed"
+        }
+      ],
+      "props": [
+        {
+          "id": "prop_12_01",
+          "name": "Colorado electromagnetic baseline survey report — typed",
+          "description": "The final typed deliverable from the private survey firm. The anomalous reading is in a footnote. The firm is dissolved. The principal is dead. The report is in an uncatalogued collection. The oscillation continues.",
+          "script_source": "The survey firm dissolved in nineteen eighty-one following the death of its principal. The records went to the Colorado State Archives, uncatalogued, in a collection of engineering assessments from the period. The report sits there now."
+        }
+      ]
+    }
+  ],
+
+  "objects_visual": [
+    {
+      "id": "obj_v4_01",
+      "name": "Tesla's magnifying transmitter (large Tesla coil, 9-meter primary, interior of station)",
+      "source": "v4 original entry"
+    },
+    {
+      "id": "obj_v4_02",
+      "name": "CERN Frequency Discrepancy Report memo (two pages CERN internal format, photocopy of photocopy)",
+      "source": "v4 original entry"
+    },
+    {
+      "id": "obj_v4_03",
+      "name": "Colorado Springs electromagnetic baseline survey (field notes with margin annotation, 1974)",
+      "source": "v4 original entry"
+    },
+    {
+      "id": "obj_v4_04",
+      "name": "Tromsø monitoring log July 4 2012 (printed output with handwritten margin annotation)",
+      "source": "v4 original entry"
+    },
+    {
+      "id": "obj_v4_05",
+      "name": "Selassie letter (three handwritten pages on CERN stationery, water stain on page two, page three partially illegible)",
+      "source": "v4 original entry"
+    },
+    {
+      "id": "obj_v5_01",
+      "name": "Selassie's blue-cover spiral notebook — private log",
+      "description": "Purchased from the CERN stationery cabinet. Blue cover. The kind of notebook that disappears in any office. Two years of dated, timed entries — frequency value in left margin, run schedule beside it. The column fills. This is what could not fit inside three dismissed anomaly reports.",
+      "added_v5": true,
+      "script_source": "Selassie began keeping a secondary log in a spiral notebook purchased from the stationery cabinet in the main corridor. Blue cover."
+    },
+    {
+      "id": "obj_v5_02",
+      "name": "IM-34 anomaly report form — all three filings",
+      "description": "The standard five-field form used for all three formal anomaly reports (2010, 2011, 2012). The third filing includes two years of data across more than twenty observations. All three received the same response: no further action required.",
+      "added_v5": true,
+      "script_source": "Selassie filed the first formal anomaly report in two thousand ten. The third report, filed in August two thousand twelve, included two years of data across more than twenty observations."
+    },
+    {
+      "id": "obj_v5_03",
+      "name": "The gray fabric monitoring chair — Selassie's",
+      "description": "Standard-issue adjustable-height chair. Unremarkable until you've sat in it through enough shifts to know exactly how it responds when pushed back from the desk. The chair being pushed back is the body's signal that the pattern has become undeniable.",
+      "added_v5": true,
+      "script_source": "Selassie had developed the habit of centering both hands on the edge of the keyboard tray when settling in. The chair Selassie sat in was standard-issue — adjustable height, gray fabric."
+    },
+    {
+      "id": "obj_v5_04",
+      "name": "Wardenclyffe demolition foreman's report",
+      "description": "Filed the day after July 4 1917. Documents detonation, intermediate suspension, fall, dimensions of exposed root system, recommendation for additional equipment. Professional and thorough. Does not include: the silence while the tower held, the sound of the earth releasing, what the root system looked like from the rim.",
+      "added_v5": true,
+      "script_source": "The foreman's report, filed the following day, documented the detonation, the intermediate suspension, the fall, and the dimensions of the exposed root system. What it did not include: the period of silence while the tower held."
+    },
+    {
+      "id": "obj_v5_05",
+      "name": "The 5-sigma curve — Higgs announcement projection slide",
+      "description": "The defining visual of July 4 2012. A particle mass plot, the peak sitting five standard deviations above null hypothesis. 1 in 3.5 million chance of false positive. The slide is a public record. It is what Gianotti stands in front of at the podium while the baseline in Tromsø is moving.",
+      "added_v5": true,
+      "script_source": "Behind her, a statistical curve. The peak of the curve sat at five sigma — the threshold for a discovery claim."
+    },
+    {
+      "id": "obj_v5_06",
+      "name": "LHC calibration monitoring screens — Sector 3-4",
+      "description": "Three rows of screens showing quieter data than the main control room. Calibration data. Background resonance readings. The ambient electromagnetic noise floor. On September 10 2008, one screen shows a reading Selassie has not seen in the pre-run baseline data: 7.9 Hz. Duration: 0.8 seconds. Then gone.",
+      "added_v5": true,
+      "script_source": "Selassie was in the calibration monitoring room — a smaller space, adjacent, three rows of screens. The ambient field in Sector three-four was showing a resonance signature. The frequency: approximately seven point nine hertz. Duration: zero point eight seconds. Then gone."
+    },
+    {
+      "id": "obj_v5_07",
+      "name": "Colorado Springs 1899 field notebook — Tesla's frequency record",
+      "description": "The bound notebook in which Tesla commits the Earth's resonant frequency to writing before morning. The first recording of approximately 8 Hz. The instrument readings that the battery-powered array showed in the dark barn after the city went dark.",
+      "added_v5": true,
+      "script_source": "He committed the frequency to the notes he would write before morning."
+    },
+    {
+      "id": "obj_v5_08",
+      "name": "Berenstain Bears book cover — The Big Honey Hunt, 1962",
+      "description": "The physical book. The name on the cover: B-E-R-E-N-S-T-A-I-N. The specific wrongness of seeing it spelled differently than the way the hand just wrote it. The book is the episode's opening instrument — the object that activates the listener's own memory before any argument is made.",
+      "added_v5": true,
+      "script_source": "The Berenstain Bears. B-E-R-E-N-S-T-A-I-N. The series debuted in nineteen sixty-two with a book called The Big Honey Hunt, published by Random House."
+    }
+  ],
+
+  "tts_notes": {
+    "voice": "Single male narrator",
+    "system": "ElevenLabs Eleven Turbo v2",
+    "paragraph_count_approximate": 135,
+    "paragraphs_under_400_limit": true,
+    "numbers_written_out": true,
+    "no_markdown_in_script": true,
+    "ellipsis_used_before_tesla_quote": true
+  }
+}
