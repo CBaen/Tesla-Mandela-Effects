@@ -1,0 +1,659 @@
+{
+  "episode": "002",
+  "title": "The White City",
+  "manifestVersion": "v5",
+  "notes": "v5 expansion: Added DP-level sub-locations for every location in the script. Added missing locations: Transportation_Building_Annex, Chicago_Below_Grade_First_Floor sub-locations, Museum_of_Science_and_Industry exterior foundation course, Kenosha_Estate_Private_Collection, Richard_J_Daley_Library, Illinois_State_Archives_Bureau_of_Public_Works, Halsted_Photographic_Collection. Added missing objects: Wrecking_Bar_Cold_Iron, Cecelia_Wren_Diary, Coburn_Northwest_Section_Missing_Page, Bureau_of_Public_Works_Incident_Form_Template, Alcott_Core_Sample_Anomalous_Limestone, Limestone_Foundation_Street_Level_Close, Manufactures_Building_Steel_Truss_Frame, Westinghouse_AC_Wiring_Wall_Conduit, Copper_Egg_Spinning_Closeup, Indiana_Limestone_Block_Quarried. Expanded all existing locations with camera-position sub-locations. Every visible surface and significant prop the script gives narrative weight to now has its own entry.",
+  "assets": [
+    {
+      "name": "Elias_Coburn_1894",
+      "type": "character",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1858,
+      "physique": "White American working man, mid-30s, stocky and solid build, hands conspicuously large with thickened knuckles from years of demolition work, short brown hair under a wool cap, square jaw, weathered skin darkened by outdoor labor, forearms corded with muscle, calloused palms, one thumb showing a pale scar ridge from an old tool injury. His face is not remarkable but his hands are the hands of someone who has spent years reading material through them.",
+      "attire": "Heavy canvas work coat, brown wool trousers, leather work boots, wool cap, thick leather work gloves usually in hand or tucked in coat pocket",
+      "notes": "Demolition laborer from Gary, Indiana. Worked the Manufactures and Liberal Arts Building demolition December 1893 to April 1894. His field notes end before the northwest section. His follow-up letter does not exist.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Cecelia_Wren_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1855,
+      "physique": "White American woman, late 30s, schoolteacher bearing — upright posture, alert expression, practical dark dress without excessive ornamentation, hair pinned neatly but not elaborately, spectacles with wire frames, ink-stained right index finger from daily writing",
+      "attire": "Dark wool day dress appropriate for the period, gloves, small hat pinned at an angle, cloth bag carried over one arm",
+      "notes": "Schoolteacher from Evanston, Illinois. Attended the opening night ceremony May 1, 1893. Kept a private diary. Never published. Acquired with Coburn's papers in the same Kenosha estate lot.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "RT_Alcott_1904",
+      "type": "character",
+      "era": "1904",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1862,
+      "physique": "White American man, early 40s, civil engineer's bearing — methodical movements, thin build with a slight stoop from years of bending over drawings, wire-rimmed glasses, close-cropped graying hair at the temples, weathered hands from fieldwork but with ink calluses from drafting, watchful grey eyes",
+      "attire": "Brown tweed suit, white shirt with stiff collar, heavy overcoat for field work, leather survey case, steel-toed boots appropriate for construction site work",
+      "notes": "Civil engineer hired by a Chicago development group in 1904 to assess whether salvageable foundation materials remained at the Jackson Park exposition site. His report is unpublished. The Ryerson and Burnham Libraries' Alcott accession materials are listed as not yet catalogued.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 37. Present at the 1893 World's Columbian Exposition demonstrating polyphase AC in the Electricity Building. Egg-of-Columbus demonstration. Does not appear as a character in the episode — present only through documented connection.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Daniel_Burnham_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1846,
+      "physique": "White American man, late 40s, imposing physical presence — tall, broad-shouldered, full dark mustache, confident bearing of a man accustomed to commanding large operations, direct gaze, well-tailored suit for official appearances",
+      "attire": "Dark formal suit, white shirt, top hat for official ceremony, frock coat for construction site",
+      "notes": "Director of Works for the 1893 World's Columbian Exposition. Oversaw construction of the White City. Not a character in the episode — referenced by name only.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "World_Columbian_Exposition_Jackson_Park_1893",
+      "type": "location",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "690 acres of former lakefront swamp and parkland in Jackson Park, Chicago. Fair ran May 1 to October 30, 1893. Approximately 27 million visitors.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Court_of_Honor_Opening_Night_1893",
+          "era": "1893",
+          "physique": "The central ceremonial space of the White City. Open lagoon at center, surrounded by monumental neoclassical buildings: Agriculture Building to the south, Manufactures and Liberal Arts Building to the north, Administration Building with gilded dome at the west end. All facades in white calcium sulfate staff material. At opening night, one hundred thousand incandescent lamps illuminate every cornice and colonnade simultaneously — warm white light from every surface, the lagoon reflecting a doubled White City in dark water. Twenty thousand people in the open space between the buildings.",
+          "notes": "Opening night May 1, 1893. President Grover Cleveland pressed the telegraph key."
+        },
+        {
+          "name": "Court_of_Honor_Lagoon_Surface_1893",
+          "era": "1893",
+          "physique": "The lagoon surface at full illumination — still black water holding the precise inverted reflection of the Court of Honor buildings. Columns upside down in the dark water. The gilded dome reflected below the real dome, a second White City suspended beneath the first. The water surface is barely disturbed — the reflection has the clarity of a mirror rather than water. The White City and its mirror image fill the frame, separated by the thin line of the lagoon's far shore. This is the camera angle the official photographers used and the one that most effectively conveys the sensation the script describes: standing between the White City and its reflection, light arriving from above and below simultaneously.",
+          "notes": "Script specifically describes: 'the lagoon received the light and doubled it.' Key visual: doubled White City, dome in both directions."
+        },
+        {
+          "name": "Court_of_Honor_Crowd_Dusk_Silhouette_1893",
+          "era": "1893",
+          "physique": "Looking west across the Court of Honor in the last light before the ceremony — the great buildings are silhouettes against the darkening sky, their white calcium sulfate surfaces holding residual illumination after the sky has gone dark. The crowds are dense dark shapes against the pale ground of the fairgrounds, twenty thousand people standing still in the dusk. The Administration Building dome is visible at the center-west of the frame as a paler silhouette against the remaining sky glow. The smell of the crowd, the fried food from the midway, the uncured construction lumber — these are implicit in the stillness of the gathered mass, the specific sound of twenty thousand people not speaking.",
+          "notes": "Script describes: 'the buildings didn't go dark when the sky went dark. They faded.' This is the moment-before angle — maximum tension before the lights come on."
+        },
+        {
+          "name": "Court_of_Honor_Moment_of_Illumination_1893",
+          "era": "1893",
+          "physique": "The instant of illumination — one hundred thousand incandescent lamps coming alive simultaneously across every cornice, colonnade, and facade of the Court of Honor buildings. Not warming up, not flickering on: immediate and total. The buildings emerge from silhouette to full detail in one frame. The light is omnidirectional — every surface generating it simultaneously, the quality of being inside a cloud rather than facing a lit building. The crowd in the foreground caught mid-reaction, the involuntary sound captured before it becomes applause. The lagoon doubles the light below.",
+          "notes": "Script specifies: 'didn't warm up... didn't flicker on... when the circuit closed the lamps came alive all at once.' The simultaneity is the detail photographs cannot convey — the scene should try."
+        },
+        {
+          "name": "Administration_Building_Gilded_Dome_1893",
+          "era": "1893",
+          "physique": "The Administration Building dome at the west end of the Court of Honor axis — gilded surface catching the incandescent illumination and returning gold against the white of the other buildings. The dome rises above the colonnade line of the surrounding buildings. Under illumination it is the warmest point in an otherwise white composition. The telegraph key station is below — a small gilded instrument on a formal draped table, the key that President Cleveland pressed to close the circuit and illuminate the fair.",
+          "notes": "Script mentions the gilded dome specifically as part of the Court of Honor composition. The telegraph key is mentioned separately — that is its own object entry."
+        },
+        {
+          "name": "Manufactures_and_Liberal_Arts_Building_1893",
+          "era": "1893",
+          "physique": "The largest building in the world at the time of the fair. 447 meters long. Neoclassical facade in white calcium sulfate staff material over steel and wood framing. Massive colonnades, entablature with detailed relief work, pediment pavilions at the entry points. The scale is overwhelming — the building fills the northern edge of the Court of Honor. Under illumination, the facade reads as marble. The south colonnade runs along the lagoon-facing side, with regularly spaced piers between the colonnade bays.",
+          "notes": "South colonnade, second pier from the east — the location Coburn describes in his letter."
+        },
+        {
+          "name": "Manufactures_Building_South_Colonnade_Second_Pier_1893",
+          "era": "1893",
+          "physique": "The second pier from the east along the south colonnade of the Manufactures and Liberal Arts Building, facing the lagoon. A massive neoclassical column or pier rising from the colonnade base to the entablature above — calcium sulfate staff finish on the surface, smooth and slightly gritty at fingertip scale. The pier base is at grade, wide, accessible from the colonnade floor. At the face of the pier: the palm-width surface that Cecelia Wren pressed her hand against on a Tuesday afternoon in May 1893. The surface is warm where it should have been cool. The surface returns pressure where it should have given slightly. The lagoon is visible between the colonnade bays beyond this pier.",
+          "notes": "The single most important physical location in the episode. Cecelia Wren's hand goes here. Coburn's wrecking bar goes here nine months later. Alcott's boring equipment goes to the soil below this exact point eleven years after that. Three witnesses, one location."
+        },
+        {
+          "name": "Manufactures_Building_Interior_Fair_1893",
+          "era": "1893",
+          "physique": "Over two million square feet of interior space. A vast column-free exhibition hall under a arched steel and glass roof that admits diffuse daylight. Exhibits from dozens of nations arranged in national sections. The interior smells of varnish, wood polish, and the particular compressed-air smell of a large enclosed space holding thousands of people. During the fair: exhibit stands, display cases, visiting crowds.",
+          "notes": "Interior during fair operations."
+        },
+        {
+          "name": "Manufactures_Building_Roof_Truss_Interior_1893",
+          "era": "1893",
+          "physique": "Looking up from inside the Manufactures and Liberal Arts Building during the fair — the arched steel truss roof spanning 107 meters without interior columns, the widest clear span in the world at the time. The steel lattice of the trusses is visible overhead, the glass panels between the truss elements admitting diffuse grey-white Chicago daylight from above. The scale is vertiginous: the floor to the apex of the roof is approximately 40 meters. The impression of being in the interior of something that is both industrial and monumental — the steel skeleton doing the load work that the neoclassical exterior pretends is stone.",
+          "notes": "This angle reveals the actual structural truth: steel frame doing the work, staff plaster doing the performance. Key to understanding what Coburn found — the frame was steel, the skin was staff. What was between them?"
+        },
+        {
+          "name": "Electricity_Building_1893",
+          "era": "1893",
+          "physique": "Neoclassical building dedicated to electrical exhibits. The Westinghouse AC system demonstration ran here. Tesla's egg-of-Columbus demonstration occupied a central display position. Edison's DC exhibits competed for attention from the opposite side of the building. The interior is lit with dramatically more intensity than any other exhibition space — banks of arc lamps and incandescent fixtures demonstrating the capabilities of the systems they run on.",
+          "notes": "Where Tesla demonstrated polyphase AC. Where the Westinghouse-Tesla system's superiority over Edison's DC was publicly established."
+        },
+        {
+          "name": "Electricity_Building_Tesla_Demonstration_Platform_1893",
+          "era": "1893",
+          "physique": "Tesla's demonstration platform within the Electricity Building — a raised stage or display area in the central exhibition zone, lit more brightly than the surrounding exhibits. The egg-of-Columbus apparatus occupies the center of the platform: the circular bowl with its polished interior, the copper egg standing upright and spinning in the invisible rotating magnetic field. Around the apparatus: cloth-insulated wire leads running to the polyphase AC supply cabinet, the cabinet faced in dark-stained wood with dial instruments set into its front panel. The spinning egg is the only moving object in the exhibit — everything else is static. Visitors crowd the perimeter of the demonstration space, watching the impossible object maintain its impossible balance.",
+          "notes": "Script describes this demonstration in specific detail. The spinning egg is a key visual object — the same rotating field principle that ran through every wall of the fair."
+        },
+        {
+          "name": "Midway_Plaisance_Concessions_1893",
+          "era": "1893",
+          "physique": "The Midway Plaisance concessions area — the commercial entertainment zone of the fair running west from the main Court of Honor. Food stalls and concessions stands visible as a row of lit structures at the perimeter of the main fairground. The smells from this area carry into the Court of Honor crowd on gusts of lake wind: fried things, warm sugar, the steam of hot food. The Midway is visible in the background as warm yellow light behind the crowd silhouettes — a secondary illumination zone distinct from the white incandescent light of the main buildings.",
+          "notes": "Script mentions smell of fried food from the concessions as part of the sensory texture of the opening night crowd. Background reference location."
+        },
+        {
+          "name": "Agriculture_Building_Facade_1893",
+          "era": "1893",
+          "physique": "The Agriculture Building facade facing the Court of Honor lagoon from the south — neoclassical staff plaster exterior, white under illumination, the building forming the southern wall of the Court of Honor composition opposite the Manufactures Building. At night under full illumination, the Agriculture Building's colonnades and entablature mirror the compositional weight of the Manufactures Building across the lagoon. The building has the same calcium sulfate surface as all the Court of Honor structures — warm white under incandescent light, cold grey-white in daylight.",
+          "notes": "Named by the script as part of the Court of Honor composition. Cecelia Wren's sister was waiting near the Agriculture Building refreshment stand."
+        },
+        {
+          "name": "Palace_of_Fine_Arts_1893",
+          "era": "1893",
+          "physique": "The Palace of Fine Arts — the one building in the fair's main campus built to a different specification. Its primary structure is brick rather than steel and wood framing. The staff exterior is applied over the brick, and the building reads as a White City building in the fair's aesthetic program — white calcium sulfate surface, neoclassical colonnades and pediment. But the weight behind the surface is different: brick holds the walls in a way the steel-framed buildings do not. The building contains the world's art collection for the duration of the fair. It is quieter than the other Court of Honor buildings — less crowd noise, more reverence.",
+          "notes": "Script describes its different construction specification: brick primary structure, staff exterior over brick. This building survives in modified form. Key contrast with the Manufactures Building."
+        }
+      ]
+    },
+    {
+      "name": "Manufactures_Building_Demolition_South_Wing_1894",
+      "type": "location",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The south wing of the Manufactures and Liberal Arts Building in the process of demolition. Winter 1894. The roof section above has been removed — flat grey Chicago winter sky visible overhead through the open top of the structure. The exterior wall of the south wing is the last major standing section. Interior is gutted — structural frame exposed where wall sections have been removed, debris on the floor. The remaining wall sections show the cross-section of staff construction: plaster finish layer, wire lath, wooden framing behind. The smell of plaster dust and cold air and the ghost of the fair's six months of occupation. Flat winter light without warmth or direction.",
+      "notes": "Where Elias Coburn found the anomalous material. South colonnade zone, near the second pier from the east.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Demolition_South_Wing_Open_Sky_View_1894",
+          "era": "1894",
+          "physique": "Looking up from within the demolished south wing of the Manufactures Building — the roof trusses have been removed and the flat grey Chicago winter sky is visible directly overhead through the open top of the structure. The remaining upper sections of the wall frame the open rectangle of sky. Snow or frost visible on the tops of the standing wall sections. The flat grey winter light falls straight down into the opened building — directionless illumination with no warmth, the specific grey of a Chicago winter morning described in the script as 'the color of the inside of a zinc bucket.' Iron bolts and connection points from the removed trusses are visible as shadows against the grey sky.",
+          "notes": "Script describes this specifically: 'the roof section above has been removed — flat grey Chicago winter sky visible overhead.' This angle establishes the condition of the demolition site."
+        },
+        {
+          "name": "Demolition_South_Wall_Cross_Section_1894",
+          "era": "1894",
+          "physique": "A wall section opened by demolition — the cross-section of staff construction exposed where a panel has been removed. From exterior inward: calcium sulfate finish layer approximately 1 inch thick, slightly gritty and off-white at the break edge. Wire lath beneath — hexagonal wire mesh, galvanized, the mesh holding the plaster in place. Wooden framing behind the lath. The debris at the base of the open wall section: irregular chunks of plaster composite, the wire lath bent and coiled where it failed, fragments of wood. Plaster dust suspended in the cold air around the break, catching the flat winter light.",
+          "notes": "Script describes the exposed wall cross-section in specific detail. This is the normal construction — what every other wall section looked like. The anomalous section is NOT visible here."
+        },
+        {
+          "name": "Demolition_South_Colonnade_Second_Pier_1894",
+          "era": "1894",
+          "physique": "The base of the second pier from the east in the south colonnade zone during demolition — February 1894. The pier base is still standing, the surrounding wall sections partially opened. The calcium sulfate finish surface is visible on the pier face — same gritty white surface as every other section. But at this pier, the wall has resisted where others gave way. The debris at the pier base is different: fewer fragments, the plaster shell sitting against something solid rather than collapsing inward. Coburn's tool marks visible on the surface where the wrecking bar has connected repeatedly. The second pier from the east is the location the script specifies: 'In the south colonnade section near the base of the second pier from the east, there was stone there, Mr. H., not staff.'",
+          "notes": "The specific address of the mystery. Every element of the episode's evidence triangulates to this exact location."
+        },
+        {
+          "name": "Demolition_Worker_Hands_On_Wall_1894",
+          "era": "1894",
+          "physique": "Extreme close-up: a bare right hand pressed flat against a wall surface in the demolished south wing. The hand is large, calloused, the palm skin thickened from years of tool work — Coburn's hand. The calcium sulfate surface of the staff plaster is visible against the skin: slightly gritty, white, the fine crystalline texture just perceptible at fingertip scale. The hand is not moving — it is reading the surface. The surrounding context visible in the periphery: cold air, the flat grey winter light, the opened wall around this section. The right glove removed and visible in the lower edge of frame, held at the wrist, waiting to be replaced.",
+          "notes": "Script describes this moment with great care: Coburn removes the right glove, places palm flat against the surface, stands there long enough for the temperature to settle, letting it tell him. The close-up of the hand reading the wall is the episode's central gesture."
+        },
+        {
+          "name": "Demolition_Wrecking_Bar_Impact_1894",
+          "era": "1894",
+          "physique": "The moment of impact — a wrecking bar connecting with the south colonnade wall section. The bar is held in two gloved hands, the strike already made, the tool making contact with the calcium sulfate surface. The vibration traveling back up the iron shaft is invisible but the body position conveys it: the forearms and wrists absorbing something that is not what they expected. The bar has not penetrated — it has rebounded slightly from a surface with more mass behind it than plaster should have. The surface shows a white mark where the calcium sulfate finish has been scuffed but not broken. This is the moment of recognition: the body knowing before the mind has processed it.",
+          "notes": "Script describes the rebound in specific physical terms: 'the vibration was carrying more information... something that built after the initial contact and sustained.' The tool against the wall is the investigation's founding moment."
+        },
+        {
+          "name": "Demolition_Site_Floor_Debris_1894",
+          "era": "1894",
+          "physique": "The floor of the south wing demolition site — debris field visible at ground level. Irregular chunks of plaster composite, some still showing the wire lath embedded in the back face. Broken wooden framing members, the wood pale and dry where freshly split. Plaster dust coating every surface. The floor itself is the original concrete or wood subfloor of the Manufactures Building, now exposed and dusted white. The debris reads light — plaster is light, it breaks and piles at angles, the fragments irregular and hollow-sounding even by appearance. At the second pier: the debris is absent. The wall surface at the pier base runs unbroken to the floor, the plaster shell intact where every other section has been broken away.",
+          "notes": "The absence of debris at the anomalous pier is as significant as its presence elsewhere. A wall that resists demolition leaves a different debris pattern."
+        }
+      ]
+    },
+    {
+      "name": "Transportation_Building_Annex_Demolition_1894",
+      "type": "location",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The Transportation Building annex at Jackson Park in demolition, March 1894. A secondary structure adjacent to the main Transportation Building — smaller in scale than the Manufactures Building, the same staff construction over steel and wood framing, the same calcium sulfate finish. Grid 14 is a notation from the demolition contractor's site grid — a specific section of the annex wall, identifiable by the contractor's coordinate system. In March 1894 the annex demolition is in progress: roof removed, some wall sections already open, the Grid 14 section still standing. The wall at Grid 14 resisted. Then it gave suddenly. Two workers were struck by displaced sections.",
+      "notes": "New location — added in v5. The Halsted and Briggs Wrecking incident report locates this as a separate demolition from Coburn's work at the Manufactures Building. Different building, different contractor, same anomaly. Script says: 'not the same building. Not the same section. Not the same project.' That separation is the point.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Transportation_Building_Annex_Grid_14_Wall_1894",
+          "era": "1894",
+          "physique": "Grid 14 in the Transportation Building annex — the specific wall section documented in the Bureau of Public Works incident report. The wall is still standing in the frame, the surrounding sections already partially demolished. The Grid 14 section shows tool marks from the crew's first attempts — marks where the standard demolition force was applied and the wall did not respond. The surface is calcium sulfate white, unmarked at the impact points in a way that is wrong: staff plaster that has been struck hard should show damage. This section does not. The floor in front of the section is clear — no fallen plaster, no debris, because the wall has not given anything. Around the section: the normal debris of successful demolition, the contrast implicit.",
+          "notes": "The incident report notation: 'Wall section in Grid 14 unexpectedly resistant. Material not consistent with expected staff construction.' Two workers were later struck by displaced sections when the material gave suddenly."
+        },
+        {
+          "name": "Transportation_Building_Annex_Aftermath_1894",
+          "era": "1894",
+          "physique": "The Grid 14 section after it gave — the aftermath of the sudden failure documented in the incident report. The wall section has come away not in plaster fragments but in larger, heavier pieces. The debris field is wrong: pieces that are too heavy for staff plaster, pieces with flat fracture surfaces rather than the irregular crumbling of plaster composite. Two workers down in the foreground — the injury scene, the reason for the incident report. The superintendent is present, in a different attire from the workers: heavier coat, a supervisor's bearing. He is looking at the wall section debris with an expression that is not alarm but recognition — the expression of a man who has seen construction material behave in many ways and is now seeing it behave in a way he does not have a category for.",
+          "notes": "The script describes: 'limestone block falling three feet hits the floor with a crack that travels through the slab and into the boots of every man standing within twenty feet.' The debris should look heavy, not light. Stone-heavy, not plaster-light."
+        }
+      ]
+    },
+    {
+      "name": "Jackson_Park_Site_Soil_Survey_1904",
+      "type": "location",
+      "era": "1904",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The Jackson Park exposition footprint eleven years after the fair. Former fairground now returned to parkland — grass growing over the disturbed soil of the demolished buildings, some foundation traces visible as slight depressions or grade anomalies. October: cold lakeside air, the specific mineral smell of turned Chicago clay-heavy soil. R.T. Alcott's survey equipment positioned over a boring site in the area that was the south wing of the Manufactures Building — a field with no visible architectural remnants above grade.",
+      "notes": "Where Alcott's boring equipment encountered material described as consistent with cut limestone aggregate at foundation pier depth.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Jackson_Park_Site_Wide_1904",
+          "era": "1904",
+          "physique": "Wide view of the Jackson Park exposition footprint in October 1904 — eleven years after the fair, the site returned to parkland. Grass covers the disturbed soil of the demolished buildings. Faint depressions and grade irregularities mark the locations of former building foundations — not obvious to the casual eye, visible to the surveyor who knows what to look for. Lake Michigan is visible to the east, cold and grey in October. The site is empty of structures except for the Museum of Science and Industry in the distance — formerly the Palace of Fine Arts, its brick core intact, its staff exterior crumbling. Alcott's boring equipment is a small mechanical object in the middle distance, positioned in the zone that was the south wing of the Manufactures Building. The scale of the empty site emphasizes the absence of what was here eleven years ago.",
+          "notes": "The script emphasizes the phrase 'almost entirely returned' — the word 'almost' is doing work. The wide view should make that almost visible: the site looks empty, but what is below grade is not gone."
+        },
+        {
+          "name": "Alcott_Boring_Equipment_Operating_1904",
+          "era": "1904",
+          "physique": "R.T. Alcott operating the boring equipment alone — the drill crew having moved to the western section of the site. The hand-operated boring rig: steel frame on a wheeled base, boring rods threaded together for depth, the hand crank turning the reduction gear. Alcott's hands on the crank, his attention on the drill shaft. He is feeling for resistance — the same reading-through-tool sensation that Coburn had with the wrecking bar, translated into the professional vocabulary of engineering fieldwork. The field log notebook is open on a canvas tarpaulin beside the equipment, pencil ready. October light is flat and cold. The site is quiet except for the sound of the boring mechanism and the wind off the lake.",
+          "notes": "Script describes the moment: 'He felt the change in the drill shaft — a vibration pattern shift, the tool meeting something that returned energy differently.' The physical sensation arriving before the instrument reading."
+        },
+        {
+          "name": "Alcott_Core_Sample_Examination_1904",
+          "era": "1904",
+          "physique": "Alcott examining the core sample on the canvas tarpaulin — the cylindrical soil sample approximately 2 inches in diameter, laid out in its orientation from the boring. Most of the core is brown-grey Portland cement aggregate, the expected material for exposition foundation work. Then the anomalous section: grey-white, not the brown-grey of cement mix. Alcott's thumbnail is pressed against the break in the anomalous section — a habit from fifteen years of fieldwork, the fastest test for cohesion and crystalline structure. The fracture surface of the anomalous section is visible: bright, fine-grained, the grain of cut stone. He is holding the section up to the October light, examining the fracture surface. His expression is the professional expression of recognition: not surprise, not alarm, but the careful attention of a man writing down a discrepancy.",
+          "notes": "Script describes this in specific physical detail: 'He broke a section of it with his thumbnail... The fracture surface was bright. Fine-grained. The grain of cut stone, not poured composite.'"
+        },
+        {
+          "name": "Jackson_Park_South_Colonnade_Zone_Ground_Level_1904",
+          "era": "1904",
+          "physique": "Ground level at the south colonnade zone boring site — looking at the disturbed soil around the boring hole. The boring hole itself is a 2-inch diameter opening in the ground, the edges clean from the core barrel. Around the hole: the canvas tarpaulin with core samples laid out in sequence, each labeled with pencil-written depth notations. The grass at the perimeter is dry October grass, pale and flattened. Below the surface — invisible but established by the core sample beside the hole — is the anomalous stone at foundation pier depth. The ground looks like an ordinary field. It is not an ordinary field.",
+          "notes": "The script's final visual argument: what is underground doesn't announce itself. The surface looks like a field. The field is above what Alcott measured and what Coburn found from above. This angle is the materialization of the phrase 'below grade.'"
+        }
+      ]
+    },
+    {
+      "name": "Museum_of_Science_and_Industry_1933",
+      "type": "location",
+      "era": "1933",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "The one surviving principal structure from the fair's Jackson Park buildings, rebuilt in Indiana limestone in the late 1920s over the brick core of the original Palace of Fine Arts. Opened in current form 1933. The limestone is real and permanent. What is below grade — what Alcott found in 1904 — was not excavated in the rebuilding.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Museum_South_Foundation_Course_Present",
+          "era": "1933",
+          "physique": "The south side of the Museum of Science and Industry — not the facade, not the main entrance, but the south elevation at grade. The lowest visible course of Indiana limestone where the building enters the ground: quarried stone laid in the late 1920s, the limestone pale grey-cream, the individual block joints visible, the stone real and permanent rather than cast. Below this course the limestone disappears below grade. Below where it disappears: the brick core of the original 1893 Palace of Fine Arts. Below the brick: the original foundation of the Palace of Fine Arts, dating to 1891. Below the foundation: the soil of Jackson Park, and at depth consistent with foundation pier extension in the south colonnade zone of the adjacent Manufactures Building footprint — what Alcott found in 1904. All of this is visible as layers if you know where to look. The lowest limestone course is where the visible record ends. The investigation does not end there.",
+          "notes": "Script directs attention explicitly to this surface: 'when you stand on its south side and look at the foundation — not the facade, not the limestone facing, but the lowest visible course of stone where the building meets the grade.' The visual instruction is in the script. This sub-location follows it precisely."
+        },
+        {
+          "name": "Museum_South_Facade_1933",
+          "era": "1933",
+          "physique": "The Museum of Science and Industry main facade — Indiana limestone quarried and laid in the late 1920s over the brick core of the original Palace of Fine Arts. The neoclassical proportions of the 1893 fair building are preserved: the same columns, the same pediment, the same colonnades. But the material is real limestone now, not staff plaster over brick. The surface is different from the White City buildings: not the fine gritty crystalline texture of calcium sulfate, but the larger-grain, slightly rougher surface of quarried stone. Permanent rather than performed. The Museum opened in 1933 and is the only principal structure from the 1893 fair still standing in the Jackson Park campus.",
+          "notes": "Reference shot for the surviving building. The contrast with the staff plaster surface of 1893 is implicit — same proportions, completely different material."
+        },
+        {
+          "name": "Palace_of_Fine_Arts_Ruin_1920s",
+          "era": "1920",
+          "physique": "The Palace of Fine Arts in decay, before the rebuilding — brick core exposed in sections where the staff plaster exterior has crumbled and fallen. The neoclassical proportions are intact: the columns are there as forms, but in places the calcium sulfate surface has failed and the brick beneath shows through in irregular patches. The building reads as a ruin of a White City building — the plaster skin gone in places, revealing what was always behind it: not stone, but brick, permanent brick that was always the actual structure. The contrast with the other Court of Honor buildings is visible in the ruin state: this building survived because its primary structure was brick, not because its surface was more durable. The surface failed the same way. The brick underneath did not.",
+          "notes": "The script describes this transition: 'the plaster exterior crumbling, the brick underneath revealing itself in sections where the surface had failed.' The ruined state — visible structure behind failing surface — is a visual argument for the episode's central question."
+        }
+      ]
+    },
+    {
+      "name": "Chicago_Below_Grade_First_Floor_1870s",
+      "type": "location",
+      "era": "1870",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A first floor room in a Chicago building from the 1850s that was not raised during the street grade raise project of the 1850s-1860s. The room is now below grade — the window that once faced the street now faces the fill material deposited against the building's exterior wall. Compacted earth visible through the glass where pedestrians used to be visible. Reduced light — the angle of incoming light has changed, the ceiling feeling lower than it was even though it has not moved. Street noise now arriving from overhead. The proportions of the room unchanged. The room's relationship to the world outside has been inverted.",
+      "notes": "Not a specific building — the general condition of below-grade Chicago first floors after the Chesbrough street raise.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Below_Grade_Window_Facing_Earth_1870s",
+          "era": "1870",
+          "physique": "The window of a below-grade Chicago first floor — the glass pane intact, the frame intact, the proportions of the window exactly what they were when the room was built at street level. Through the glass: not the street, not passing pedestrians, not the eye-level world of an 1850s Chicago street. The compacted fill of the grade-raise project, deposited against the exterior wall. Earth. Dark, compacted, clay-heavy Chicago soil pressed against the glass from outside. The window is the same window. What it faces has changed. The light that comes through it now arrives at the wrong angle — from above rather than straight across, the fill blocking the direct horizontal light the window was designed to admit. The room beyond the window is dim and wrong.",
+          "notes": "Script describes this precisely: 'A window that used to face daylight and faces dirt.' The window-facing-earth is the visual emblem of the episode's structural metaphor: things repositioned below what used to be the surface, still present, no longer visible."
+        },
+        {
+          "name": "Below_Grade_Room_Interior_1870s",
+          "era": "1870",
+          "physique": "The interior of a below-grade Chicago first floor room — proportions unchanged from its original construction, furniture and objects of the 1850s still in context. The ceiling height is the same as when the room was built. The fireplace surround, the plaster walls, the floor — all at their original dimensions. But the room is wrong in a way the proportions don't explain: the light is wrong, the sound is wrong, the footsteps of people on the sidewalk arrive from above rather than from eye-level outside. The street has gone up. The room has not moved. The result is a room that is geometrically identical to what it was and experientially inverted — underground, still alive in its forms, no longer navigable from above.",
+          "notes": "The below-grade room is the structural metaphor for the White City materials: repositioned below the current surface, still present, proportions unchanged, relationship to the world above completely altered. Script says: 'the proportions of the room unchanged. The room's relationship to the world outside has been inverted.'"
+        },
+        {
+          "name": "Chicago_Street_Grade_Raise_Fill_Cross_Section",
+          "era": "1870",
+          "physique": "A cross-section view of the Chicago grade raise — the layered fill visible where a construction excavation or street opening has exposed the stratigraphy. At the surface: the raised street grade, the paving stones or boards of the 1860s-era street above the fill. Below the surface: the deposited fill material — compacted earth, gravel, construction debris from the eighteen-fifties and sixties, the material used to raise the street by four to seven feet. Below the fill: the original grade level, where the street was when the buildings were first constructed. The exterior wall of a building visible at the edge of the frame, its foundation running below the original grade, its first floor windows — now below the surface of the fill — visible as dark openings in the wall face behind the deposit. The street is overhead. The building's eyes are underground.",
+          "notes": "The Chesbrough grade raise as a physical stratigraphic fact. This cross-section makes the layering visible in the same way the boring core makes the Jackson Park stratigraphy visible."
+        }
+      ]
+    },
+    {
+      "name": "Kenosha_Estate_Private_Collection_1971",
+      "type": "location",
+      "era": "1971",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A room in a private estate in Kenosha, Wisconsin — the collection of Chicago ephemera that contained Coburn's field notes, Cecelia Wren's diary, and the Coburn letter to Mr. H. The estate is being dispersed at auction in 1971. The room holds a large accumulation of boxed and foldered Chicago historical material — estate sale condition, not archival order. Cardboard boxes, manila envelopes, rolled documents, items in varying states of preservation. A researcher is present, examining the contents under time pressure — the auction dispersal means items will leave in different directions after today. The researcher has arranged for photocopies of two of the three items. The originals will not stay together. After this room, after this day, the provenance chain ends.",
+      "notes": "New location — added in v5. The script describes this collection and its dispersal in detail. This is the provenance moment: the point at which the chain of custody becomes uncertain. The researcher's photocopies are what the investigation works from.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Richard_J_Daley_Library_University_of_Illinois_Chicago",
+      "type": "location",
+      "era": "1967",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The Richard J. Daley Library at the University of Illinois Chicago — an institutional research library, mid-century architecture. A reading room or reference area where an unpublished master's thesis from 1967 can be accessed. The thesis on Chicago labor history is a bound document in the thesis collection, its spine labeled with author, title, and year. A researcher holds the thesis open to the footnote that references the Bureau of Public Works incident report — the footnote that established the existence of the Halsted and Briggs incident report. The thesis is accessible here. The source document the footnote references is not here — it sits in the Illinois State Archives, unsorted.",
+      "notes": "New location — added in v5. Script specifies: 'The incident report surfaced through a footnote in an unpublished master's thesis on Chicago labor history, written in nineteen sixty-seven at the University of Illinois Chicago. The thesis is accessible at the Richard J. Daley Library.' The thesis is the access point. The source document is elsewhere.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Illinois_State_Archives_Bureau_of_Public_Works_Holdings",
+      "type": "location",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The Illinois State Archives — the holdings of the Bureau of Public Works from the 1890 to 1910 period. Rows of filing boxes, shelves of bound ledgers and folder collections, the accumulated documentation of Chicago public works for two decades. The holdings are genuinely extensive and genuinely unsorted: boxes labeled with date ranges rather than subject, the contents requiring hands-on examination to identify specific documents. The incident report filed by Halsted and Briggs Wrecking on March 7, 1894, is in here — somewhere. No catalog number. No finding aid entry. It sits in the unsorted mass of a period collection, accessible in principle, inaccessible in practice without dedicated search time that has not been committed.",
+      "notes": "New location — added in v5. Script specifies: 'It sits somewhere in the genuinely extensive, genuinely unsorted sections of the Illinois State Archives' Bureau of Public Works holdings from the eighteen-ninety to nineteen-ten period, without a catalog number.' The absence of a catalog number is the point. The document exists and is inaccessible.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Halsted_Photographic_Collection_Oak_Park",
+      "type": "location",
+      "era": "1937",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "The Halsted Photographic Collection in Oak Park, Illinois — a private archive of Chicago ephemera that does not accept public inquiries and whose contents are not indexed in any institutional finding aid. The six glass-plate negatives are housed here, in a climate-controlled storage area within the collection. The negatives are in protective sleeves, the sleeves in labeled archival boxes, the boxes on shelves with other donated materials from the 1930s-era accessions. The collection is accessible to the institution but not to outside researchers. The six glass plates exist here, correctly stored, inaccessible.",
+      "notes": "New location — added in v5. Script describes the Halsted Collection as private, not publicly indexed, not accessible to standard research inquiry. The glass plates are there. The collection is not open.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Field_Notes_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A small lined notebook, the kind a working man carries in a coat pocket. Worn cover in dark blue cloth, the corners rounded from pocket use. Pages filled with dense, practical handwriting — not neat, functional, the writing of a man recording facts at the end of a long physical day. Daily entries noting assignments, materials encountered, problems noted, hours worked. The final filled page ends mid-schedule, the facing page blank. The notebook is a photocopy of the original — slightly washed out, the margins showing the curve where the original pages were held flat against the copy plate.",
+      "attire": "",
+      "notes": "Coburn's working field notes from the Manufactures and Liberal Arts Building demolition. The originals' current location is not established. Photocopies survive in private hands.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Field_Notes_Final_Entry_Page_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "The final spread of Coburn's field notes — the last filled page and the blank page facing it. The last entry visible on the left page: the handwriting dense and practical, the final line noting the next day's assignment — northwest section, ground level. The entry ends at that line. The right-hand page is completely blank — not a page with a few notes that stop, but a page that was never touched. The ruled lines are perfectly clean. No writing, no marks, no evidence that a pen ever crossed it. The photocopy quality shows the ruled lines as slightly grey against white. The blank page is the document. The blank page is what remains of the northwest section.",
+      "attire": "",
+      "notes": "New object — added in v5. Script describes this specifically: 'The final entry describes his assignment for the following day: northwest section, ground level. There is no entry for the following day. The notebook ends. The page after the final entry is blank.' The blank page is a primary visual document in this investigation.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Letter_to_Mr_H_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Three pages of period letter paper, thicker than modern paper, slightly rough at the edges where the fiber has raised with age. The fold lines worn almost through — the paper wants to open along them without being told. Faded ink: not illegible, but the sepia of genuine age, the iron gall ink of the period having oxidized over a century. Water stain in the upper right corner of the first page, oval-shaped, the ink blurred but not destroyed beneath it. The handwriting is careful but not educated — the handwriting of a man who learned letters for function rather than art, each character formed deliberately. Being held in both hands cupped around it, forearms parallel, the grip of someone who has handled this too many times to hold it carelessly.",
+      "attire": "",
+      "notes": "The primary evidence. February 1894. Addressed to 'Mr. H.' (foreman, identity not established). Contains the passage: 'It gave back more than it should have. Like ringing a pan and hearing a bell.' Also contains the description of stone near the south colonnade pier. Final lines describe plan to document the northwest section. The follow-up letter does not exist.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Letter_Water_Stain_Closeup_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Extreme close-up of the upper right corner of the first page of Coburn's letter — the oval water stain visible in detail. The stain is oval, approximately the size of a thumb pressed sideways, with the feathered edge of a water mark that dried slowly. The ink beneath it is blurred at the margin but intact under the body of the stain — the water arrived at an angle that missed the main lines of text, blurring only the margin. The sepia ink of the period visible around and beneath the stain. The paper fiber is slightly raised where the water affected it, the texture changed in the stain area. The question that cannot be answered: did the water arrive while Coburn was writing, in weather, or later, through one of the many hands this document has traveled through?",
+      "attire": "",
+      "notes": "New object — added in v5. Script describes this in careful detail: 'The water stain in the upper right corner was oval. Approximately the size of a thumb pressed sideways. The ink beneath it was blurred but intact.' The investigation returns to this stain. It is a mark without explanation. The episode uses it as an emblem of the unanswerable.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Coburn_Letter_Key_Passage_Closeup_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Close-up of the key passage in Coburn's letter — the second page, mid-paragraph, the line visible in detail: 'It gave back more than it should have. Like ringing a pan and hearing a bell.' The handwriting is careful but not educated, each character formed deliberately, the letters consistent in size. The ink is sepia — not stylistic, just old. The surrounding text visible at the edges of frame: the practical working-man's description of construction problems, the billing dispute context that surrounds this sentence. The sentence itself is not highlighted, not marked, not different from the surrounding text in any way except what it says.",
+      "attire": "",
+      "notes": "New object — added in v5. This is the sentence the episode returns to repeatedly. It deserves its own visual entry.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Cecelia_Wren_Diary_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A private diary — smaller than Coburn's field notebook, a personal journal in the style of a woman's private record of the period. Cloth cover, darker green or burgundy, the spine slightly curved from regular opening. The pages are not lined — blank pages filled with Cecelia Wren's handwriting, neater than Coburn's, the schoolteacher's formation visible in the even letter heights and consistent spacing. The relevant entry: three days after the opening night ceremony, a Tuesday, written in the evening. The passage about the column and what her hands felt is followed by a paragraph break and then a paragraph about dinner. The entry does not return to what she felt at the column. The diary was never published. It was acquired in the same Kenosha estate lot as Coburn's papers.",
+      "attire": "",
+      "notes": "New object — added in v5. Script quotes the diary directly: 'I swear to you, standing in that light, I could not tell the difference. It was not a painting of Rome. It was Rome. And I know that cannot be true and I cannot explain why my hands, when I put them on the column near the central pavilion, felt what they felt.' She didn't describe what her hands felt. Then the next paragraph was about dinner. The abrupt stop is the evidence.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Cecelia_Wren_Diary_Column_Entry_Closeup_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Close-up of the specific diary page — the passage about the column and the sentence that stops. Cecelia Wren's handwriting visible in detail: the neat schoolteacher formation, consistent letter heights. The passage about the column reads normally through the sentences about the White City's appearance, the sensation of permanence, the comparison to Rome. Then the sentence: 'I cannot explain why my hands, when I put them on the column near the central pavilion, felt what they felt.' And a paragraph break. And then the next paragraph begins with dinner. The space between the paragraph break and the next paragraph is slightly larger than the standard space between paragraphs. She paused. She left it. She moved on.",
+      "attire": "",
+      "notes": "New object — added in v5. The paragraph break is a piece of evidence. She knew she had stopped. The gap before 'dinner' is where the description of what her hands felt should be.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Halsted_Briggs_Incident_Report_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Standard municipal incident report form, typed on a period typewriter on heavyweight institutional paper. The main body is typed text in a form layout with ruled lines separating fields. In the Material Conditions field, the text breaks from typed to handwritten — the superintendent's own hand, in darker ink with slightly different character formation than the typed portions. The form is slightly yellowed at the margins, the paper beginning to acidify. Filed in a folder with other contractor correspondence from the same period, the folder worn at the edges.",
+      "attire": "",
+      "notes": "Filed by Halsted and Briggs Wrecking with the City of Chicago Bureau of Public Works, March 7, 1894. Two workers injured. The handwritten notation in the Material Conditions field: 'Wall section in Grid 14 unexpectedly resistant. Material not consistent with expected staff construction.'",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Halsted_Briggs_Incident_Report_Material_Conditions_Closeup",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Close-up of the Material Conditions field in the Halsted and Briggs incident report — the specific field where the typewritten form gives way to handwriting. The field label is typed: 'Material Conditions Contributing to Incident.' The response is handwritten, in a different pen, darker ink, the superintendent's own formation. The handwritten text: 'Wall section in Grid 14 unexpectedly resistant. Material not consistent with expected staff construction. Crew applied additional force. Material gave suddenly. Two workers struck by displaced sections.' The handwriting is methodical and readable — this is a mandatory form, not a personal note. The superintendent is stating facts for the insurance record. The facts happen to be extraordinary.",
+      "attire": "",
+      "notes": "New object — added in v5. The break from typed to handwritten within a single field is itself a document: the typed form was insufficient, the superintendent had to reach for a pen. The handwritten notation is the evidence.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Halsted_Negatives_Glass_Plates_1891",
+      "type": "object",
+      "era": "1891",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Six glass-plate photographic negatives, each approximately 8x10 inches. The glass is thick by modern standards, slightly greenish in transmitted light. The emulsion side shows the reversed tonal values of the original scenes: light areas dark, dark areas clear. The date codes are pressed into the edge of the glass — small numerals barely visible without magnification. When held to light, the images show completed neoclassical facade details of the Manufactures and Liberal Arts Building — column capitals, entablature sections, pilaster details — at a state of completion inconsistent with the documented construction timeline for early 1891.",
+      "attire": "",
+      "notes": "Six glass-plate negatives in the Halsted Photographic Collection, Oak Park, Illinois. Donated in 1937 by unnamed estate. The date codes are consistent with early 1891 manufacture. The facades shown are complete or nearly complete. One of them is wrong — either the date codes or the completion stage — and neither the donor nor the collection can say which.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Halsted_Negative_Held_To_Light_1891",
+      "type": "object",
+      "era": "1891",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "One of the six Halsted glass-plate negatives held up to a light source — the image visible in transmitted light as a reversed tonal photograph. The glass is greenish-clear where the image is light, dark where the original scene was dark. The image shows a completed Manufactures and Liberal Arts Building facade detail — column capitals in full decorative finish, the entablature above complete with relief work. The date code pressed into the edge of the glass is visible in the corner of the frame: small impressed numerals, the manufacturing date of the glass plate itself. The building in the image looks complete. The date in the glass says early 1891. The completion documented in the construction record didn't happen until late 1892.",
+      "attire": "",
+      "notes": "New object — added in v5. The act of holding the negative to light reveals both the image and the date code simultaneously — the visual argument of the Halsted negatives is that the date and the image cannot both be true. Holding the glass plate to the light is how you see both at once.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Alcott_Boring_Equipment_1904",
+      "type": "object",
+      "era": "1904",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Early twentieth-century soil boring equipment: a hand-operated drill rig with a steel frame mounted on a wheeled base, the boring mechanism driven by a hand crank through a reduction gear. Long steel boring rods that thread together for depth, with a core barrel at the end that captures cylindrical soil samples as it penetrates the ground. The core samples emerge as cylinders approximately 2 inches in diameter, laid out on a canvas tarpaulin beside the boring position for examination. Field log notebook open beside the equipment, pencil marking depth and material notation for each sample.",
+      "attire": "",
+      "notes": "The equipment that produced the anomalous boring in the south colonnade zone. The anomalous sample: denser than surrounding material, lighter gray, the crystalline structure of the cut limestone visible in cross section.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Alcott_Core_Sample_Anomalous_Limestone_1904",
+      "type": "object",
+      "era": "1904",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "The anomalous section of Alcott's core sample — isolated on the canvas tarpaulin, separated from the normal Portland cement sections of the same core. A cylinder approximately 2 inches in diameter and 4 inches long. The color: grey-white, distinctly different from the brown-grey of the surrounding cement aggregate sections. The fracture surface where Alcott broke it with his thumbnail: bright, fine-grained, the crystalline structure of cut stone visible in the break plane. The grain of the fracture is not the irregular crumble of cement composite but the clean split of stone along a natural plane. In October light, held up: the grain of Indiana limestone. The word 'cut' is the word Alcott chose. Not geological. Not native bedrock. Cut. Quarried. Selected and placed.",
+      "attire": "",
+      "notes": "New object — added in v5. The core sample is the physical evidence at the center of Alcott's testimony. Script describes it with precision: 'grey-white, not the brown-grey of Portland cement aggregate... The fracture surface was bright. Fine-grained. The grain of cut stone, not poured composite.'",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Staff_Construction_Cross_Section_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A cross-section of White City wall construction visible where a wall section has been opened for demolition. From exterior inward: calcium sulfate finish layer approximately 1 inch thick, slightly gritty and off-white, crystalline structure visible at the break edge. Wire lath beneath — hexagonal wire mesh, galvanized, the mesh holding the plaster. Wooden furring strips behind the lath, approximately 2x4 inches, attached to the primary wooden or steel frame. The whole assembly is 4 to 6 inches thick. The section that does not match this profile is absent from this illustration — it is what Coburn found, and it is not here.",
+      "attire": "",
+      "notes": "The standard construction that staff material was supposed to be. What Coburn's hands found in the south colonnade was not this.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Wrecking_Bar_Cold_Iron_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A demolition wrecking bar — iron, approximately 30 inches long, the standard tool for opening plaster walls in the 1890s. At seven in the morning in February 1894, the bar has been left outside overnight in a Chicago winter. The iron has given up every calorie of retained heat to the winter air. The surface of the bar is dull grey iron, slightly rusted at the wear points, the cold visible in how the metal catches the flat winter light. Through leather work gloves, the cold of this bar reaches the palms as pressure rather than temperature — the dense, ungiving cold of iron that has been outside all night. The bar is held in two gloved hands, positioned for the first strike of the morning. The hands gripping it understand that the tool is cold before any other understanding arrives.",
+      "attire": "",
+      "notes": "New object — added in v5. Script describes the cold iron bar in specific physical terms: 'through the leather and the wool lining of the gloves, the cold of the bar reached the palms as a pressure more than a temperature — the dense, ungiving cold that reads in the hands as weight even when the weight hasn't changed.' The cold bar is the instrument of discovery.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Egg_of_Columbus_Demonstration_Apparatus_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A polished copper egg approximately 6 inches tall, placed in a circular bowl with a flat inner surface. Beneath the bowl: a round platform housing four copper wire coils wound around iron cores, connected by cloth-insulated leads to a polyphase AC supply. When energized, the invisible rotating magnetic field produced by the sequentially powered coils induces currents in the copper egg, creating a torque that causes the egg to begin spinning — faster and faster until it achieves enough gyroscopic stability to stand upright on its pointed end in the bowl. The effect appears impossible: an egg standing on its end, rotating, apparently without visible cause.",
+      "attire": "",
+      "notes": "Tesla's demonstration at the 1893 World's Columbian Exposition Electricity Building. The demonstration that proved the utility of polyphase AC for producing rotating mechanical motion — the basis of every AC induction motor.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Copper_Egg_Spinning_Closeup_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Extreme close-up of the spinning copper egg in the demonstration bowl — the egg upright on its pointed end, rotating at speed, the polished copper surface blurred by the rotation. The bowl's flat inner surface visible around the spinning base point. The egg has achieved gyroscopic stability and is standing upright by physics — but without visible cause, the mechanism hidden below the bowl, the rotating magnetic field invisible. The copper surface catches the incandescent light of the Electricity Building and scatters it as the egg rotates. This is the object that demonstrates the invisible geometry: the rotating field inducing current in the copper, the copper responding to a force that cannot be seen. The same rotating field moved through every wall at the fair for six months.",
+      "attire": "",
+      "notes": "New object — added in v5. Script makes the explicit connection: 'The egg's response was a function of what the egg was made of. Copper... The field moved through the egg and the egg moved in response.' Cut limestone has different conductivity and crystalline structure than copper — but the principle is the same. The spinning egg is the visual argument for what may have happened at the south colonnade pier.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Westinghouse_AC_Wiring_Wall_Conduit_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The electrical wiring infrastructure of the White City buildings — cloth-insulated wire conductors running through the wall cavities of the Court of Honor buildings, embedded in and adjacent to the staff plaster. The wiring is visible where a wall section has been opened: cloth-wrapped conductors in groups, routed through the framing members, connected to junction boxes in the wall cavity. The Westinghouse polyphase AC system ran through these conductors — three-phase current, the multiple phases cycling through the multiple windings of the system, producing a rotating magnetic field in the space around the conductors. The field extended into the surrounding wall material — not confined to the wire. For six months, the field moved through every wall section, every pier, every surface of every illuminated building at the fair.",
+      "attire": "",
+      "notes": "New object — added in v5. Script makes this explicit: 'The field extends. The wires are the channels of highest intensity, but the field exists in the space around the wires and in the stone the wires are embedded in and adjacent to.' The wiring is not just infrastructure — it is the mechanism by which Tesla's field interacted with whatever the walls contained.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Grover_Cleveland_Telegraph_Key_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The gilded telegraph key used by President Grover Cleveland to close the circuit and illuminate the World's Columbian Exposition — a formal version of a standard telegraph key, the contact surface gold-plated, mounted on a dark wood base suitable for ceremonial display. The key is positioned on a draped table at the center of the official ceremony platform in the Court of Honor. Cleveland's hand is approaching it — or has just released it. The moment of closure: the circuit completing, one hundred thousand lamps coming alive simultaneously across the Court of Honor buildings. The key itself is small, the drama of the moment disproportionate to the scale of the instrument. A modest brass mechanism connected to the largest electrical installation in the world.",
+      "attire": "",
+      "notes": "New object — added in v5. Script mentions the telegraph key specifically as the instrument of the moment: 'President Grover Cleveland pressed the gilded telegraph key.' The key is the hinge between before and after, between dark buildings and one hundred thousand lamps.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Indiana_Limestone_Block_Quarried",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A quarried block of Indiana limestone — the stone that Alcott's core sample matched, the stone that the Museum of Science and Industry's 1920s rebuilding used, the stone that was the real material behind the staff plaster performance of the White City. Grey-cream in color, finer-grained than the Portland cement aggregate it replaced. The cut face shows the quarry saw marks — parallel lines from the cutting blade, approximately 1/16 inch apart, the marks of deliberate shaping rather than geological chance. When broken: the fracture surface is bright and fine-grained, exactly as Alcott described in his core sample notes. The weight of the block is substantial — limestone is dense, approximately 150 pounds per cubic foot. This is stone-weight, not plaster-weight. A limestone block falling three feet hits the floor with a crack that travels through the slab.",
+      "attire": "",
+      "notes": "New object — added in v5. Indiana limestone is the material that connects three separate moments in the episode: the anomalous material Coburn felt in the south colonnade pier (1894), the core sample Alcott identified at foundation pier depth (1904), and the real stone used to rebuild the Palace of Fine Arts as the Museum of Science and Industry (1920s). The same stone appears in all three contexts. Script specifies 'Indiana limestone aggregate — not geological, not native bedrock. Cut.'",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Limestone_Foundation_Street_Level_Closeup_Present",
+      "type": "object",
+      "era": "1933",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The lowest visible course of Indiana limestone on the south side of the Museum of Science and Industry — where the building enters the ground. A close-up at grade level: the limestone blocks at the foundation course, the mortar joints visible between courses, the stone surface at eye-level when crouching. Below this course the stone disappears below the sidewalk grade. The script directs this exact camera position: 'look at where the building enters the ground. The foundation. The base course of stone or brick that is below the visible face of the building, the part that sits in the earth or below the sidewalk grade.' A palm pressed flat against this lowest course of stone — the hand reading it the way Cecelia Wren read the column, the way Coburn read the wall.",
+      "attire": "",
+      "notes": "New object — added in v5. The script's closing instruction is a camera direction: go to the oldest building, look at the foundation, put your hand on it. This object materializes that instruction. The hand on the foundation stone closes the loop opened by Coburn's hand on the south colonnade wall.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Alcott_Field_Log_Notebook_1904",
+      "type": "object",
+      "era": "1904",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Alcott's field log notebook from the Jackson Park soil survey — a professional engineer's field record, more formal than Coburn's working notes. Bound in leather, the pages waterproof-treated for outdoor use. Pencil entries in a drafting-trained hand: precise, consistent character height, the spatial organization of a man accustomed to recording measurements. Each boring location identified by a coordinate reference, each sample's depth and material noted in columns. The anomalous entry is in the same handwriting, the same pencil, at the same measured pace as every other entry. It does not look different. It reads different. 'Density and composition more consistent with cut limestone aggregate than with mixed cement staff. Located at depth consistent with foundation pier extension, south colonnade zone, Manufactures and Liberal Arts Building footprint.'",
+      "attire": "",
+      "notes": "New object — added in v5. The field log is the professional version of Coburn's working notes. The same discovery, described in different vocabulary. Script quotes the specific notation. The notebook's unremarkable professional appearance is part of the evidence: this is not a dramatic document. It is a routine entry in a professional log that happens to contain a discrepancy that has not been resolved in over a century.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Manufactures_Building_Steel_Frame_Under_Construction_1891",
+      "type": "object",
+      "era": "1891",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "The structural steel frame of the Manufactures and Liberal Arts Building under construction in 1891 — the skeleton before any plaster is applied. Steel columns rising at regular intervals across the building's 447-meter length, the lattice of steel beams connecting them at the roof level. The scale is industrial: this is the load-bearing truth of the White City, the engineering achievement behind the neoclassical performance. No plaster, no columns, no cornices — just steel and the winter sky of Chicago in early 1891. The frame is what the photographs should show at this stage of construction. The Halsted negatives show something else: they show the facade already finished when the frame should be the only thing here.",
+      "attire": "",
+      "notes": "New object — added in v5. This is the 'expected' image from early 1891 — what the construction documentation photographs should show. The Halsted negatives show completed facades instead. The steel frame during construction is the baseline against which the anomaly of the Halsted negatives is measured.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
