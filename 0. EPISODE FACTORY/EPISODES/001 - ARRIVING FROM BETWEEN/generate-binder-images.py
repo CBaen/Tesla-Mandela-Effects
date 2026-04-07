@@ -12,7 +12,7 @@ import requests, base64, os, sys, json, time
 
 # --- Config ---
 EPISODE_DIR = os.path.dirname(os.path.abspath(__file__))
-SEQUENCE_FILE = os.path.join(EPISODE_DIR, '001-VISUAL-TIMED-SEQUENCE.json')
+SEQUENCE_FILE = os.path.join(EPISODE_DIR, '001-VISUAL-TIMED-SEQUENCE-v2.json')
 OUTPUT_DIR = os.path.join(EPISODE_DIR, 'binder-images')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
