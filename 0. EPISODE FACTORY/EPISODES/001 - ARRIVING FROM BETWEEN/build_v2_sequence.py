@@ -6,7 +6,9 @@ src = os.path.join(os.path.dirname(__file__), "001-VISUAL-TIMED-SEQUENCE.json")
 dst = os.path.join(os.path.dirname(__file__), "001-VISUAL-TIMED-SEQUENCE-v2.json")
 
 with open(src, encoding="utf-8") as f:
-    entries = json.load(f)
+    raw = json.load(f)
+
+entries = raw['pages']
 
 PROMPTS = {
 1: "A faded hotel registration card taped to the page with yellowing adhesive tape. The card shows a large room number '3327' printed in bold type at the top, with printed form fields partially filled in with black typewriter ink. Cobalt blue handwritten annotation beneath: 'January 7, 1943 — never checked out.' Red marker circle around the floor number. A brass pushpin holds the upper corner.",
@@ -285,29 +287,53 @@ PROMPTS = {
 
 138: "A dense page with multiple evidence items packed closely: a blueprint fragment of an electrical motor, a newspaper photograph of a wireless transmission tower, a short printed text block about free energy, and a hand-drawn diagram of a radio wave. Red string connecting all four. Cobalt blue annotations fill every margin. The page has a coffee ring and a water stain. Red marker underlines a single phrase: 'so much more.'",
 
-139: "A final page — the paper slightly different, heavier, as if it is a different document altogether. A single large question written in cobalt blue ink covers the full page, the letters large and deliberate, each word on its own line. Red marker underlines the final word. The page is otherwise clear — no annotations, no clutter. Just the question. A single foxing spot at the upper right corner."
+139: "A final page — the paper slightly different, heavier, as if it is a different document altogether. A single large question written in cobalt blue ink covers the full page, the letters large and deliberate, each word on its own line. Red marker underlines the final word. The page is otherwise clear — no annotations, no clutter. Just the question. A single foxing spot at the upper right corner.",
+
+140: "A Polaroid photograph taped at a slight angle showing a busy urban street seen from street level — strangers walking past, no one looking at the camera, ordinary motion blurred slightly. The Polaroid has a yellow cast. Cobalt blue annotation below: 'Can you feel it.' Red marker underlines the period — not a question mark, a period. Emerald green arrow pointing toward one blurred face in the crowd. No question mark. A foxing spot at the lower corner.",
+
+141: "Dense annotation page. The handwriting is very large — larger than anywhere else in the journal — each word given its own space, pressed with deliberate weight. The page is half-empty by design, the white space as intentional as the ink. Red marker underlines two phrases. At the bottom margin, a single cobalt blue arrow pointing downward off the page. A coffee ring at the upper left.",
+
+142: "A sketch on the journal page showing a large closed door — drawn simply, the door filling most of the page — with a small keyhole at center. Around the keyhole, cobalt blue annotation in small careful script circles the lock. Red marker traces the door's outline. Emerald green fills the keyhole opening. The door has no handle. The door is the whole page.",
+
+143: "A dense page with multiple physical evidence items arranged in a tight grid: a small photograph of a neon light tube, a fragment of a wireless patent filing, a torn magazine clipping showing an early radio, a photograph of an X-ray film, a small diagram of an induction motor. All pinned with brass pins. Red string connecting all five. Cobalt blue annotation filling every gap: 'and so much more.' Red underline at the bottom.",
+
+144: "A newspaper front page fragment — large headline type, slightly yellowed, bold serif — taped to the center of the page. The headline is not readable but the size and weight of the type is imposing. Cobalt blue annotation crowding every margin: 'free energy — stop wars — reinvent the world — beings not from this earth — as he claimed.' Red circles on three separate sections of the headline. Emerald green underlines.",
+
+145: "A page that is nearly blank — the yellowed paper, the faint ruled lines, a single partial coffee ring near the center. In the exact middle of the page, one sentence written in cobalt blue ink, the letters larger than any other writing in the journal, spaced deliberately. Red marker underlines the entire sentence once. No other marks. The emptiness around the sentence is the evidence.",
+
+146: "A page showing a detailed pencil and cobalt blue ink diagram of atmospheric electrical discharge — branching lines spreading downward from a storm cloud, each branch labeled with tiny annotations. At the base of every branch, a small circle. The diagram has the quality of scientific field notes made in real time. Red arrows pointing to three branch-end circles. Cobalt blue annotation: 'Not residue — condition — the birth is done and it remains.'",
+
+147: "A dense page with four evidence items arranged in compass points — north: a hand-drawn map fragment; east: a printed meteorological form; south: a livestock sketch showing animals in a field all facing one direction; west: a well cross-section sketch. Red string connecting all four. In the center, cobalt blue ink: 'None of them knew what the others had seen.' Red marker at the center connection point. Emerald green traces each string.",
+
+148: "A pencil sketch on the journal page showing a floor plan — simple rooms in a simple house — with each room slightly larger than it should be, the proportions subtly wrong. The rooms are empty. Cobalt blue annotation circling the empty spaces: 'Something had been occupying them — now stopped.' Red marker traces the walls. Emerald green fills the empty room centers. The scale notation at the corner is crossed out in red.",
+
+149: "A pencil sketch on the journal page showing a pair of human hands cupped together — and between them, a small radiant point of light rendered in cobalt blue ink, the lines dense and close at the center, spreading outward. The light exceeds the hands. Around the sketch, cobalt blue annotation: 'More intense than any lamp in his laboratory — do not convert to metaphor — he registered it as documented fact.' Red underline.",
+
+150: "A page showing a hotel window from inside — the curtain edge visible at left, the dark city beyond the glass, a writing desk in the foreground with hotel napkins spread across it, covered edge to edge in pencil equations. The window is open. Cold air is implied by the slight movement of the curtain. Cobalt blue annotation: 'The body had not finished learning what the mind already knew.' Red arrow pointing toward the open window."
 }
 
-output = []
+output_pages = []
 for i, e in enumerate(entries):
     page_num = e.get('page', i+1)
     p = PROMPTS.get(page_num)
     if p:
         full_prompt = ANCHOR + p
     else:
-        full_prompt = ANCHOR + f"Dense handwritten notes in cobalt blue ink covering the page, annotations, red underlines, emerald green arrows. Coffee ring stain at corner."
+        full_prompt = ANCHOR + "Dense handwritten notes in cobalt blue ink covering the page, annotations, red underlines, emerald green arrows. Coffee ring stain at corner."
 
     new_entry = dict(e)
     new_entry['prompt'] = full_prompt
-    # Keep brief as well for reference
-    output.append(new_entry)
+    output_pages.append(new_entry)
 
-print(f"Built {len(output)} entries")
-print(f"Sample prompt length for page 1: {len(output[0]['prompt'])} chars")
-print(f"Sample prompt length for page 50: {len(output[49]['prompt'])} chars")
-print(f"Longest prompt: {max(len(x['prompt']) for x in output)} chars")
+print(f"Built {len(output_pages)} entries")
+print(f"Sample prompt length for page 1: {len(output_pages[0]['prompt'])} chars")
+print(f"Sample prompt length for page 50: {len(output_pages[49]['prompt'])} chars")
+print(f"Longest prompt: {max(len(x['prompt']) for x in output_pages)} chars")
+print(f"Pages WITHOUT custom prompt: {sum(1 for x in output_pages if 'Dense handwritten notes in cobalt blue' in x['prompt'] and x.get('page',0) not in PROMPTS)}")
 
-# Write output
+# Write output preserving top-level structure
+output = dict(raw)
+output['pages'] = output_pages
 with open(dst, 'w', encoding='utf-8') as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
