@@ -12,7 +12,7 @@ import requests, base64, os, sys, json, time
 
 # --- Config ---
 EPISODE_DIR = os.path.dirname(os.path.abspath(__file__))
-SEQUENCE_FILE = os.path.join(EPISODE_DIR, '001-VISUAL-TIMED-SEQUENCE-v2.json')
+SEQUENCE_FILE = os.path.join(EPISODE_DIR, '001-VISUAL-TIMED-SEQUENCE-v3.json')
 OUTPUT_DIR = os.path.join(EPISODE_DIR, 'binder-images')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -59,12 +59,14 @@ if len(sys.argv) >= 3:
 pages_to_generate = [p for p in pages if start_page <= p.get('sequence', p['page']) <= end_page]
 
 def build_prompt(page):
-    """Convert a page's brief description into a full Imagen 4 prompt."""
-    brief = page.get('brief', '')
-    evidence_type = page.get('evidence_type', 'ANNOTATION_ONLY')
-
-    # For most types, combine the binder style with the evidence description
-    prompt = f"{BINDER_STYLE} {brief}"
+    """Get the image generation prompt for this page."""
+    # V2: prompts are pre-written with full evidence descriptions
+    if 'prompt' in page and page['prompt']:
+        prompt = page['prompt']
+    else:
+        # Fallback: build from brief (V1 behavior)
+        brief = page.get('brief', '')
+        prompt = f"{BINDER_STYLE} {brief}"
 
     # Ensure we don't exceed Imagen's ~1500 char limit
     if len(prompt) > 1480:
