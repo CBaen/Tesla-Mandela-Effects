@@ -26,16 +26,20 @@ if not API_KEY:
 MODEL = 'gemini-3.1-flash-image-preview'
 ENDPOINT = f'https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={API_KEY}'
 
-# Gemini structured prompt prefix — proven format from model-compare-v2
-PROMPT_PREFIX = """Generate an image of an investigation journal page photographed from directly above.
+# Gemini structured prompt — MAXIMALIST density, use available character space
+PROMPT_PREFIX = """Generate an image of an obsessive inter-dimensional investigator's journal page photographed from directly above. This must overwhelm the senses with detail.
 
-BACKGROUND: Aged yellowed lined journal page fills entire frame. Coffee ring, foxing, tea stains.
+BACKGROUND: A single aged yellowed lined journal page fills the entire frame edge to edge. Coffee ring stains, foxing spots, tea stains at corners, tape residue, pushpin holes from previous arrangements. The paper is worn from handling — soft at the edges, slightly warped from moisture.
 
-OBJECTS covering every surface: """
+DENSITY REQUIREMENT: Every single square centimeter of the page must be covered. No bare paper visible. Objects overlap, stack, crowd each other. Items are pinned over other items. Photographs overlap documents. Specimens sit on top of handwriting. This is the work of someone manic, brilliant, and obsessive who cannot stop collecting evidence.
 
-PROMPT_SUFFIX = """
+OBJECTS (all physically present on the page, pinned, taped, clipped, or glued): """
 
-STYLE: Victorian naturalist cabinet density, crime scene evidence board. Objects pinned, stacked, overlapping. Kodachrome vivid colors. Photorealistic flat lay. No readable text. 16:9."""
+PROMPT_SUFFIX = """. Also scattered across every remaining gap: red thread connecting items through brass pushpins, copper paper clips holding torn scraps, dried pressed flowers and leaves, aged wax seals, antique coins from different eras, small glass vials with cork stoppers containing colored liquids, fabric swatches pinned with gold specimen pins, carved bone fragments with spiral patterns, small crystal fragments catching light with prismatic reflections, vintage postage stamps, rusted skeleton keys, magnifying loupe, compass rose, pencil stubs, ink bottles.
+
+HANDWRITING: Dense illegible notation in dark ink fills every remaining gap between objects — not English, a mix of unknown scripts and symbols. The handwriting of someone not entirely from this dimension.
+
+STYLE: Victorian Wunderkammer cabinet of curiosities meets crime scene evidence board meets hoarder's obsessive archive. Kodachrome vivid saturated colors against the worn aged paper. Photorealistic overhead flat lay photograph. Maximalist — every surface obscured by overlapping evidence. No readable English text anywhere. 16:9 aspect ratio."""
 
 with open(SEQUENCE_FILE) as f:
     data = json.load(f)
