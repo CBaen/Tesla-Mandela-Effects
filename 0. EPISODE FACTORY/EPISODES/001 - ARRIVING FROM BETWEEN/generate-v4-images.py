@@ -31,7 +31,8 @@ for fname in ['prompts-v4-pages-001-050.json', 'prompts-v4-pages-051-100.json', 
     fpath = os.path.join(EPISODE_DIR, fname)
     with open(fpath, encoding='utf-8') as f:
         data = json.load(f)
-        all_pages.extend(data.get('pages', []))
+        pages = data.get('pages', data) if isinstance(data, dict) else data
+        all_pages.extend(pages)
 
 all_pages.sort(key=lambda p: p.get('page', 0))
 print(f"Loaded {len(all_pages)} pages from v4 prompt files")
