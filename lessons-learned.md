@@ -153,3 +153,23 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 - **Pattern**: Aged paper descriptions ("yellowed", "vintage", "antique") caused Imagen to default to monochrome sepia palette even for items taped onto the page.
 - **Rule**: Include "Kodachrome vivid colors" in every prompt alongside aged page descriptions. This splits the palette: aged background + vivid foreground items. Also name specific color contrasts when needed: "warm Polaroid", "luminescent blue liquid", "iridescent crystal."
 - **Why**: Imagen responds to film stock names as color triggers. "Kodachrome" overrides the sepia bias for foreground elements while allowing the page itself to remain aged.
+
+### Imagen 4 is deprecated June 30, 2026 — switch to Gemini 3.1 Flash Image
+- **Pattern**: Imagen 4 misspelled English in 82% of generated images despite negative prompts. Also approaching end-of-life.
+- **Rule**: Use Gemini 3.1 Flash Image (`gemini-3.1-flash-image-preview`) via the Generative Language API. ~90% text accuracy, ~$0.067/image. Different API format than Imagen — uses `generateContent` with `responseModalities: ['image', 'text']`. Backup options: Ideogram V3 on fal.ai ($0.03-0.09), Recraft V3 on fal.ai ($0.04).
+- **Why**: GL tested all available models side by side. Gemini 3.1 Flash was "BY FAR the highest quality" with correct text and better maximalism. Imagen 4 officially deprecated June 30, 2026.
+
+### Binder pages follow the SCRIPT, not the location
+- **Pattern**: 30 pages were assigned to "Room 3327" as a location-based group. This produced 30 images of the same room that didn't move the story forward.
+- **Rule**: Each page must match the NARRATIVE BEAT at that timestamp. The narrator says something new every 15-30 seconds. The image must match what's NEW. Never assign pages by location — assign by what the narrator is revealing at that moment.
+- **Why**: GL caught that 30 pages of the same room is "the same shit over and over." The images tell a parallel visual mystery that progresses alongside the audio. Both stories must move forward. Neither repeats.
+
+### Every binder page needs TWO layers: investigation + personal mess
+- **Pattern**: Pages were designed as clean evidence boards — organized investigation displays. This doesn't match the Archivist character.
+- **Rule**: Every page has (1) evidence relevant to the current narrative beat AND (2) the Archivist's own personal belongings crammed in alongside — transit passes from impossible cities, snack wrappers in non-existent languages, personal photos of unknown people, trinkets with zero investigative relevance. The Archivist is a manic hoarder-slob who carries everything in the binder.
+- **Why**: The viewer can't tell which items are clues and which are personal junk. That ambiguity IS the visual mystery. The Archivist's character bleeds through the evidence, and the audience has no idea who this person is.
+
+### Use the FULL prompt character budget — describe what a camera would SEE
+- **Pattern**: Prompts used 500-2000 characters when Gemini accepts ~8000. Images lacked detail because the model wasn't told enough.
+- **Rule**: Every character in the prompt must describe something PHYSICAL and VISIBLE. Material, color, condition, position. No abstract language ("the air of absence"), no poetry, no mood descriptions. Describe every object: "a brass skeleton key with green patina taped flat with yellowing cellophane at a 15-degree angle across the lower-left corner of a torn registration card." Use 4000-8000 characters per prompt.
+- **Why**: GL demanded maximalist detail that overwhelms the senses. Short prompts produce generic images. The model can only render what you describe — every unspent character is visual detail left on the table.
