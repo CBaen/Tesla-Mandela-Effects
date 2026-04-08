@@ -1,22 +1,17 @@
 """
-Episode 001 — Archivist Binder Image Generator
-Reads the timed visual sequence, generates one Imagen 4 image per page.
-Cost: ~$6 for 150 images on free Google credits.
+Episode 001 — Archivist Binder Image Generator (Gemini 3.1 Flash)
+Reads the timed visual sequence, generates one image per page.
 
 Usage: python generate-binder-images.py [start_page] [end_page]
-  No args = generate all 150
-  python generate-binder-images.py 1 10 = generate pages 1-10 only
 """
 
 import requests, base64, os, sys, json, time
 
-# --- Config ---
 EPISODE_DIR = os.path.dirname(os.path.abspath(__file__))
 SEQUENCE_FILE = os.path.join(EPISODE_DIR, '001-VISUAL-TIMED-SEQUENCE-v3.json')
 OUTPUT_DIR = os.path.join(EPISODE_DIR, 'binder-images')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# --- Load API key ---
 env_path = os.path.join('C:', os.sep, 'Users', 'baenb', 'projects', 'WARDENCLYFFE UNIFIED', '.env')
 API_KEY = None
 with open(env_path, 'r') as f:
@@ -26,106 +21,89 @@ with open(env_path, 'r') as f:
             break
 
 if not API_KEY:
-    print("ERROR: No VITE_GOOGLE_VERTEX_API_KEY in .env")
-    sys.exit(1)
+    print("ERROR: No API key"); sys.exit(1)
 
-PROJECT_ID = '306596393643'
-MODEL_ID = 'imagen-4.0-generate-001'
-ENDPOINT = f'https://aiplatform.googleapis.com/v1/projects/{PROJECT_ID}/locations/us-central1/publishers/google/models/{MODEL_ID}:predict?key={API_KEY}'
+MODEL = 'gemini-3.1-flash-image-preview'
+ENDPOINT = f'https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={API_KEY}'
 
-# --- V2.5 Binder Page Style Anchor ---
-BINDER_STYLE = (
-    "Extreme close-up of a single aged journal page filling the entire frame edge to edge. "
-    "Yellowed paper with faint blue ruled lines, slight foxing spots, tea stains at corners, "
-    "a partial coffee ring. Warm overhead lighting, paper texture visible. "
-    "Hyper-realistic photograph. 16:9 aspect ratio."
-)
+# Gemini structured prompt prefix — proven format from model-compare-v2
+PROMPT_PREFIX = """Generate an image of an investigation journal page photographed from directly above.
 
-# --- Load sequence ---
+BACKGROUND: Aged yellowed lined journal page fills entire frame. Coffee ring, foxing, tea stains.
+
+OBJECTS covering every surface: """
+
+PROMPT_SUFFIX = """
+
+STYLE: Victorian naturalist cabinet density, crime scene evidence board. Objects pinned, stacked, overlapping. Kodachrome vivid colors. Photorealistic flat lay. No readable text. 16:9."""
+
 with open(SEQUENCE_FILE) as f:
     data = json.load(f)
-
 pages = data['pages']
 
-# --- Parse args for page range ---
 start_page = 1
 end_page = len(pages)
-if len(sys.argv) >= 2:
-    start_page = int(sys.argv[1])
-if len(sys.argv) >= 3:
-    end_page = int(sys.argv[2])
+if len(sys.argv) >= 2: start_page = int(sys.argv[1])
+if len(sys.argv) >= 3: end_page = int(sys.argv[2])
 
-# Filter to requested range (by sequence number)
-pages_to_generate = [p for p in pages if start_page <= p.get('sequence', p['page']) <= end_page]
+pages_to_gen = [p for p in pages if start_page <= p.get('sequence', p['page']) <= end_page]
 
-def build_prompt(page):
-    """Get the image generation prompt for this page."""
-    # V2: prompts are pre-written with full evidence descriptions
-    if 'prompt' in page and page['prompt']:
-        prompt = page['prompt']
-    else:
-        # Fallback: build from brief (V1 behavior)
-        brief = page.get('brief', '')
-        prompt = f"{BINDER_STYLE} {brief}"
-
-    # Ensure we don't exceed Imagen's ~1500 char limit
-    if len(prompt) > 1480:
-        prompt = prompt[:1480]
-
-    return prompt
+def extract_items(prompt):
+    """Extract the items portion from the v3 prompt for re-wrapping in Gemini format."""
+    # The v3 prompt has items between "edge to edge:" and "Dense illegible"
+    if 'edge to edge:' in prompt and 'Dense illegible' in prompt:
+        start = prompt.index('edge to edge:') + len('edge to edge:')
+        end = prompt.index('Dense illegible')
+        return prompt[start:end].strip().rstrip('.')
+    # Fallback: use the middle portion
+    return "photographs, documents, specimens, artifacts, diagrams, red thread, brass pins, dried flowers"
 
 def generate_image(prompt, output_path):
-    """Generate one image with Imagen 4."""
-    response = requests.post(ENDPOINT,
-        headers={'Content-Type': 'application/json'},
-        json={
-            'instances': [{'prompt': prompt}],
-            'parameters': {
-                'sampleCount': 1,
-                'aspectRatio': '16:9',
-                'negativePrompt': 'legible English text, printed words, neon glow, digital overlay, sepia, monochrome, desaturated, blurry, watermark, generic, stock photo'
-            }
-        },
-        timeout=120)
-
+    """Generate one image with Gemini 3.1 Flash Image."""
+    body = {
+        'contents': [{'parts': [{'text': prompt}]}],
+        'generationConfig': {'responseModalities': ['image', 'text']}
+    }
+    response = requests.post(ENDPOINT, json=body, timeout=120)
     if response.status_code != 200:
-        return False, f"HTTP {response.status_code}: {response.text[:200]}"
+        return False, f"HTTP {response.status_code}"
 
-    data = response.json()
-    if data.get('predictions') and data['predictions'][0].get('bytesBase64Encoded'):
-        img_bytes = base64.b64decode(data['predictions'][0]['bytesBase64Encoded'])
-        with open(output_path, 'wb') as f:
-            f.write(img_bytes)
-        return True, f"{len(img_bytes)//1024}KB"
+    result = response.json()
+    for part in result.get('candidates', [{}])[0].get('content', {}).get('parts', []):
+        if 'inlineData' in part:
+            img = base64.b64decode(part['inlineData']['data'])
+            with open(output_path, 'wb') as f:
+                f.write(img)
+            return True, f"{len(img)//1024}KB"
 
-    reason = data.get('predictions', [{}])[0].get('raiFilteredReason', 'unknown')
-    return False, f"FILTERED: {reason}"
+    # Check for safety/filter
+    finish_reason = result.get('candidates', [{}])[0].get('finishReason', 'unknown')
+    return False, f"no image (reason: {finish_reason})"
 
-# --- Generate ---
-print(f"Episode 001 — Archivist Binder Image Generator")
-print(f"Pages: {start_page} to {end_page} ({len(pages_to_generate)} images)")
+print(f"Episode 001 — Gemini 3.1 Flash Image Generator")
+print(f"Model: {MODEL}")
+print(f"Pages: {start_page} to {end_page} ({len(pages_to_gen)} images)")
 print(f"Output: {OUTPUT_DIR}")
-print(f"Estimated cost: ~${len(pages_to_generate) * 0.04:.2f}")
-print()
+print(f"Est cost: ~${len(pages_to_gen) * 0.067:.2f}\n")
 
 success = 0
 failed = 0
-for i, page in enumerate(pages_to_generate):
+for i, page in enumerate(pages_to_gen):
     seq = page.get('sequence', page['page'])
-    filename = f"page_{seq:03d}.png"
-    filepath = os.path.join(OUTPUT_DIR, filename)
+    filepath = os.path.join(OUTPUT_DIR, f"page_{seq:03d}.png")
 
-    # Skip if already generated
     if os.path.exists(filepath):
-        print(f"[{i+1}/{len(pages_to_generate)}] Page {seq:3d} — SKIP (exists)")
+        print(f"[{i+1}/{len(pages_to_gen)}] Page {seq:3d} — SKIP (exists)")
         success += 1
         continue
 
-    print(f"[{i+1}/{len(pages_to_generate)}] Page {seq:3d} | {page.get('start_timecode','?'):>5s} | {page.get('evidence_type','?'):16s} |", end=" ", flush=True)
+    print(f"[{i+1}/{len(pages_to_gen)}] Page {seq:3d} | {page.get('start_timecode',''):>5s} | {page.get('section',''):16s} |", end=" ", flush=True)
 
-    prompt = build_prompt(page)
+    # Build Gemini structured prompt from v3 items
+    items = extract_items(page.get('prompt', ''))
+    prompt = PROMPT_PREFIX + items + PROMPT_SUFFIX
+
     ok, msg = generate_image(prompt, filepath)
-
     if ok:
         print(f"done ({msg})")
         success += 1
@@ -133,7 +111,6 @@ for i, page in enumerate(pages_to_generate):
         print(f"FAILED — {msg}")
         failed += 1
 
-    time.sleep(1)  # Rate limiting
+    time.sleep(1)
 
-print(f"\nDone: {success} generated, {failed} failed.")
-print(f"Images: {OUTPUT_DIR}")
+print(f"\nDone: {success} generated, {failed} failed. Images: {OUTPUT_DIR}")
