@@ -133,3 +133,23 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 - **Pattern**: Previous visual approaches failed because they required 628 consistent images in a single photorealistic style. Style drift, reference mismatches, and generic B-roll resulted.
 - **Rule**: Frame all images as pages from an inter-dimensional investigator's evidence binder. This makes visual inconsistency a feature (different evidence types from different dimensions), eliminates the need for photorealistic consistency, justifies mixed media, and creates I Spy density naturally. Every prompt starts with the binder page description, then describes the specific evidence.
 - **Why**: The Archivist concept unifies visual identity without requiring technical consistency. It also adds a second narrative layer (who collected this evidence?) that enriches the series without conflicting with the standalone episode rule.
+
+### Imagen 4 prompts must be under 60 words
+- **Pattern**: Long prompts (100+ words) caused Imagen to render prompt text literally in the image. The word "MAXIMALIST" appeared as visible text. English words appeared misspelled throughout.
+- **Rule**: Keep all image generation prompts under 60 words. Use dense noun-adjective phrases, not narrative sentences. Use "Flemish still life density" as density trigger instead of "MAXIMALIST." Structure: subject → scene → style → lighting → mood.
+- **Why**: Confirmed by Google Dev Forum as known behavior with imagen-4.0-generate-001. Long contextual prompts are treated as visual content to render, not creative guidance to follow.
+
+### Use negative prompts to prevent English text and sepia bias
+- **Pattern**: Imagen defaulted to warm sepia tones when given aged/vintage keywords, and rendered English words with persistent misspellings ("Electricd Dischange", "Cleastitied").
+- **Rule**: Every Imagen 4 API call must include negativePrompt in the parameters object: "legible English text, printed words, neon glow, digital overlay, sepia, monochrome, desaturated, blurry, watermark, generic, stock photo". All handwriting should be described as "illegible mixed-script notation" — never ask for readable English.
+- **Why**: Negative prompts effectively suppress both the sepia color bias and the text rendering. AI image generators cannot spell reliably. Describing writing as illegible mixed scripts makes misspelling impossible since there's no correct version.
+
+### Contextual filler items prevent visual repetition across 150 pages
+- **Pattern**: Fixed item lists (crystals, keys, wax seals, fabric swatches) in every prompt would create 150 pages that all look the same.
+- **Rule**: Name 6-8 specific items relevant to the current narrative section, then add "dozens more items relevant to [topic]" to let Imagen fill contextually. Change the items AND the topic per section. "Relevant to a 1943 hotel death" produces different filler than "relevant to an 1856 Serbian birth."
+- **Why**: GL caught that fixed lists would make every page look identical. The topic description does the heavy lifting — it tells Imagen what KIND of objects to generate without specifying each one.
+
+### "Kodachrome" triggers vivid color in Imagen 4 against aged backgrounds
+- **Pattern**: Aged paper descriptions ("yellowed", "vintage", "antique") caused Imagen to default to monochrome sepia palette even for items taped onto the page.
+- **Rule**: Include "Kodachrome vivid colors" in every prompt alongside aged page descriptions. This splits the palette: aged background + vivid foreground items. Also name specific color contrasts when needed: "warm Polaroid", "luminescent blue liquid", "iridescent crystal."
+- **Why**: Imagen responds to film stock names as color triggers. "Kodachrome" overrides the sepia bias for foreground elements while allowing the page itself to remain aged.
