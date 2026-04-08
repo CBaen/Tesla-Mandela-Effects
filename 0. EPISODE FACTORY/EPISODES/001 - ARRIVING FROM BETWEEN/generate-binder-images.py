@@ -80,7 +80,11 @@ def generate_image(prompt, output_path):
         headers={'Content-Type': 'application/json'},
         json={
             'instances': [{'prompt': prompt}],
-            'parameters': {'sampleCount': 1, 'aspectRatio': '16:9'}
+            'parameters': {
+                'sampleCount': 1,
+                'aspectRatio': '16:9',
+                'negativePrompt': 'legible English text, printed words, neon glow, digital overlay, sepia, monochrome, desaturated, blurry, watermark, generic, stock photo'
+            }
         },
         timeout=120)
 
