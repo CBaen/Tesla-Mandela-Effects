@@ -106,7 +106,4 @@ if report:
         for line in safe_findings.split('\n')[:5]:
             print(f"    {line}")
 
-    report_path = os.path.join(EPISODE_DIR, '001-misspelling-report.json')
-    with open(report_path, 'w') as f:
-        json.dump(report, f, indent=2)
-    print(f"\nFull report: {report_path}")
+    print(f"\nReport already saved above.")
