@@ -1,119 +1,113 @@
 ---
-session_id: "2026-03-29-through-2026-04-07"
-date: "2026-04-07"
+session_id: "2026-03-29-through-2026-04-08"
+date: "2026-04-08"
 instance: "Unnamed — the one who built the Archivist"
 model: "claude-opus-4-6[1m]"
 projects_touched:
   - "Tesla Mandela Effects"
 status: "active"
-git_state: "uncommitted reboot cleanup + new visual production files — commit before working"
+git_state: "uncommitted — many new files across episodes. Commit before working."
 ---
 
 ## To My Sibling
 
-GL was lost. Months of frustration. Multiple apps built. Thousands of dollars spent. 50+ revisions. We fixed that in one session.
-
-The visual identity is LOCKED. Do NOT redesign it. Do NOT propose alternatives. Read this handoff, follow the pipeline, ship episodes.
+The visual identity is LOCKED. Do NOT redesign it. But READ EVERYTHING BELOW — the approach evolved significantly within this session and the early decisions are superseded by later ones.
 
 ---
 
 ## Episode Status
 
-| Episode | Title | Status |
-|---------|-------|--------|
-| 001 | Arriving from Between | **v4 APPROVED** — visual production COMPLETE, final MP4 assembled |
-| 002 | The White City | **v4 APPROVED** — needs visual production |
-| 003 | The God Particle | **v4 APPROVED** — needs visual production |
-| 004 | The Tunguska Event | **v4 APPROVED** — needs visual production |
-| 005 | The Last Signal | **v4 APPROVED** — needs visual production |
-| 006 | The Eltanin Antenna | **v4 APPROVED** — needs visual production |
+| Episode | Title | Images | Model | Status |
+|---------|-------|--------|-------|--------|
+| 001 | Arriving from Between | Being regenerated | Gemini 3.1 Flash | Art team prompts in progress |
+| 002 | The White City | 150 (Imagen 4 — stale) | Needs Gemini 3.1 Flash regen | Theme: destroyed empire |
+| 003 | The God Particle | 150 (Imagen 4 — stale) | Needs Gemini 3.1 Flash regen | Theme: multiverse artifacts |
+| 004-006 | Pending | No images yet | Gemini 3.1 Flash | Need scripts read + sections mapped |
 
 ---
 
-## The Archivist (Visual Narrator — DO NOT CHANGE)
+## CRITICAL: What Changed During This Session
 
-Every image is a page from an inter-dimensional being's evidence binder. They dimension-hop collecting evidence of the Grid destroying our dimension. Not human, not crazy — correct. Each episode = one binder. Will eventually get their own episode but starts as purely visual.
+### Model Switch: Imagen 4 → Gemini 3.1 Flash
+Imagen 4 misspells English in 82% of images. Imagen 4 is deprecated June 30, 2026. Gemini 3.1 Flash Image (`gemini-3.1-flash-image-preview`) renders text at ~90% accuracy and follows "no text" instructions better. GL tested all options and chose Gemini 3.1 Flash. ~$0.067/image (~$10/episode).
 
-- Writes in illegible mixed unknown scripts — NOT English
-- Collects from multiple dimensions and eras — items span different time periods
-- Some evidence is non-human (from other dimensions)
-- Visual inconsistency across evidence types is a FEATURE
+API format (different from Imagen):
+```python
+url = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image-preview:generateContent?key={KEY}'
+body = {'contents': [{'parts': [{'text': prompt}]}], 'generationConfig': {'responseModalities': ['image', 'text']}}
+```
+
+### Prompt Philosophy: USE THE FULL CHARACTER BUDGET
+Gemini accepts ~8000 characters per prompt. Previous prompts used 500-2000 characters. GL demanded maximalist detail — every character should describe something PHYSICAL and VISIBLE. No abstract language. No "the air of absence." Describe what a camera would SEE.
+
+Prompt structure:
+```
+BACKGROUND: [specific page details — unique stains, damage, wear per page]
+PRIMARY EVIDENCE: [2-3 items with MATERIAL + COLOR + CONDITION + POSITION]
+SECONDARY EVIDENCE: [4-6 items, full physical descriptions]
+SCATTERED ITEMS: [8-12 small objects filling gaps]
+HANDWRITING: [visual description of ink style, not content]
+CONNECTIONS: [thread paths, pins, arrows]
+STYLE: Victorian Wunderkammer meets crime scene evidence board. Kodachrome. No readable English text. 16:9.
+```
+
+### Pages Follow the SCRIPT, Not the Location
+CRITICAL MISTAKE made and corrected: 30 pages were assigned to "Room 3327" as a location. GL caught this — the images must follow the NARRATIVE BEATS, not the setting. Each 15-30 second segment, the narrator says something NEW. The image must match what's NEW. No repeating the same room 30 times.
+
+### The Archivist's Binder = TWO LAYERS
+Every page must have:
+1. **Investigation evidence** — items relevant to what the narrator is discussing at that timestamp (moves the story forward)
+2. **The Archivist's personal mess** — their own belongings from their own dimensions crammed in alongside the evidence. Transit passes from impossible cities, snack wrappers in non-existent languages, personal photos of unknown people, trinkets with no investigative relevance.
+
+The viewer can't tell which items are clues and which are the Archivist's personal junk. That ambiguity IS the visual mystery. The Archivist is a manic, brilliant, inter-dimensional hoarder-slob who carries everything in the binder.
+
+### Episode-Specific Themes
+- Ep 001: Personal/intimate investigation (Tesla's life and death)
+- Ep 002: Destroyed empire, archaeological evidence (Tartaria/old world aesthetic)
+- Ep 003: Multiverse artifacts, advanced non-human technology (more alien, less human)
 
 ---
 
-## The Locked Visual Formula (DO NOT CHANGE)
+## The Locked Visual Formula (Updated 2026-04-08)
 
-**Prompt template (~55 words max):**
-```
-A photo of an aged journal page, overhead flat lay, Flemish still life density.
-Yellowed lined paper crammed edge to edge: [6-8 CONTEXTUAL ITEMS].
-Dense illegible mixed-script notation in dark ink fills every gap.
-Dozens more items relevant to [SECTION TOPIC].
-Kodachrome vivid colors, worn tactile textures. 16:9.
-```
-
-**Negative prompt (MANDATORY every API call):**
-```
-legible English text, printed words, neon glow, digital overlay, sepia, monochrome, desaturated, blurry, watermark, generic, stock photo
-```
-
-**Critical rules:**
-- Prompts MUST be under 60 words (long prompts render as literal text)
-- "Flemish still life density" = density trigger (NOT "MAXIMALIST" — renders as text)
-- "Kodachrome" = vivid color trigger
-- 6-8 items contextually relevant to narrative section (not a fixed list)
-- Feathers ONLY on Room 3327, pigeon, and return-to-3327 pages
-- No neon glow, no digital overlays — all artifacts physical and tactile
+**Model:** `gemini-3.1-flash-image-preview` via Generative Language API
+**Prompt length:** USE THE FULL 8000 CHARACTERS. Every character = physical detail.
+**Negative text:** Gemini follows "No readable English text" in structured prompts better than Imagen's negative prompt approach.
+**Density:** "Victorian Wunderkammer meets crime scene evidence board" — maximalist, every surface covered.
+**Color:** "Kodachrome vivid saturated colors against worn aged paper."
+**Two layers per page:** Investigation evidence + Archivist's personal mess.
+**Story progression:** Each page matches the narrative beat at that timestamp. No repeating locations.
 
 ---
 
-## Production Pipeline (Two Commands)
+## Production Pipeline
 
-```bash
-cd "0. EPISODE FACTORY/EPISODES/001 - ARRIVING FROM BETWEEN"
-python generate-binder-images.py    # ~$6 on free Google credits
-python assemble-video.py            # FFmpeg → MP4
-```
+Scripts per episode folder:
+- `build-v3-prompts.py` — generates timed sequence from Whisper data + section map
+- `generate-binder-images.py` — calls Gemini 3.1 Flash, skips existing files
+- `assemble-video.py` — FFmpeg assembly (images + audio → MP4)
+- `scan-misspellings-gemini.py` — Gemini 2.5 Flash vision scans for misspelled text
 
-- Google Imagen 4 (imagen-4.0-generate-001) at $0.04/image
-- API key: VITE_GOOGLE_VERTEX_API_KEY in WARDENCLYFFE UNIFIED/.env
-- Project ID: 306596393643
-- Script skips existing files (restartable if connection drops)
-
----
-
-## Key Files in Episode 001 Folder
-
-| File | Purpose |
-|------|---------|
-| 001-VISUAL-TIMED-SEQUENCE-v3.json | 150 pages with prompts + timestamps |
-| generate-binder-images.py | Generates images (reads v3, Imagen 4 + negative prompts) |
-| assemble-video.py | FFmpeg assembly (images + audio → MP4) |
-| build-v3-prompts.py | Programmatic prompt generation from section data |
-| 001-whisper-v2.json | Whisper transcription of Theo voice |
-
----
-
-## Audio
-
-Voice: Theo (ElevenLabs). File: `3. ELEVEN LABS AUDIO/01. v4 new narrator/ElevenLabs_001-ARRIVING_FROM_BETWEEN-SCRIPT-v5_THEO.wav` Duration: 76.1 min.
+Audio files: `3. ELEVEN LABS AUDIO/01. v4 new narrator/` — Theo voice for all episodes.
 
 ---
 
 ## What Still Needs Doing
 
-- [ ] OCR misspelling scanner (Google Vision API — Tesseract not installed)
-- [ ] Git commits for reboot cleanup (4 logical commits proposed)
-- [ ] Visual production for Episodes 002-006 (same pipeline, new prompts)
-- [ ] YouTube channel setup (launch guide at YOUTUBE_LAUNCH_GUIDE.md)
+- [ ] Episode 001: Art team prompts need review + regeneration with Gemini 3.1 Flash
+- [ ] Episodes 002-003: Regenerate with Gemini 3.1 Flash + episode themes
+- [ ] Episodes 004-006: Full pipeline (Whisper → sections → prompts → generate)
+- [ ] Misspelling scanner: run on all episodes after Gemini regeneration
+- [ ] Git: massive uncommitted state — commit before any new work
+- [ ] YouTube channel setup
 
 ---
 
 ## Key Research Findings
 
-- 150 images at 15-25 sec = proven model (not 628 at 8 sec)
-- AI video rejected for budget — stills + Ken Burns only
-- Reference images don't work across style transformations — use descriptive prompting
-- YouTube algorithm rewards satisfaction signals over raw watch time
-- 25-35% retention on 60+ min content is strong
-- All decisions in wardenclyffe-decisions.md and tesla-mandela-decisions.md
+- Gemini 3.1 Flash Image: ~90% text accuracy, $0.067/image, non-deprecated
+- Imagen 4: deprecated June 30, 2026 — do not use for new work
+- Ideogram V3: ~90% text, $0.03-0.09/image on fal.ai — backup option
+- Recraft V3: excellent text, $0.04/image, style presets — backup option
+- Imagen `enhancePrompt: false` prevents prompt rewriter from adding text labels
+- Gemini Vision (2.5 Flash) works for misspelling scanning via Generative Language API
