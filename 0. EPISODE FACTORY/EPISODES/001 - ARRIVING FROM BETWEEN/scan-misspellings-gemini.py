@@ -94,10 +94,16 @@ print(f"SUMMARY")
 print(f"Clean: {clean} | Flagged: {flagged} | Errors: {errors}")
 
 if report:
+    # Save report FIRST before printing (in case print fails on Unicode)
+    report_path = os.path.join(EPISODE_DIR, '001-misspelling-report.json')
+    with open(report_path, 'w', encoding='utf-8') as f:
+        json.dump(report, f, indent=2, ensure_ascii=False)
+    print(f"\nFull report saved: {report_path}")
     print(f"\nFLAGGED PAGES:")
     for r in report:
+        safe_findings = r['findings'].encode('ascii', errors='replace').decode('ascii')
         print(f"\n  Page {r['page']}:")
-        for line in r['findings'].split('\n')[:5]:
+        for line in safe_findings.split('\n')[:5]:
             print(f"    {line}")
 
     report_path = os.path.join(EPISODE_DIR, '001-misspelling-report.json')
