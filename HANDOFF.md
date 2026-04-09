@@ -5,109 +5,95 @@ instance: "Unnamed — the one who built the Archivist"
 model: "claude-opus-4-6[1m]"
 projects_touched:
   - "Tesla Mandela Effects"
-status: "active"
-git_state: "uncommitted — many new files across episodes. Commit before working."
+status: "active — agents still running, image generation in progress"
+git_state: "uncommitted — many new files. Commit before working."
 ---
 
 ## To My Sibling
 
-The visual identity is LOCKED. Do NOT redesign it. But READ EVERYTHING BELOW — the approach evolved significantly within this session and the early decisions are superseded by later ones.
+READ ALL OF THIS. The approach evolved significantly. Early decisions are superseded by later ones.
+
+## CRITICAL STATE — PICK UP HERE
+
+### Episode 001 — DONE
+- 150 v4 maximalist images generated (Gemini 3.1 Flash) — GL APPROVED
+- Desktop render package ready: `001-desktop-render.json` (load into Wardenclyffe Desktop for Ken Burns + export)
+- GL adds music + Remotion cold start/Grid ending separately
+- Static MP4 also exists but is just a reference — desktop app is the real render path
+
+### Episode 002 — PROMPTS PARTIALLY DONE
+- Pages 1-25: `prompts-v4-pages-001-075.json` (25 pages written, file incomplete)
+- Pages 26-75: `prompts-v4-pages-026-075.json` — AGENT MAY STILL BE WRITING, check file
+- Pages 76-150: `prompts-v4-pages-076-150.json` (75 pages DONE)
+- Theme: destroyed empire, archaeological, Tartaria/old world
+- Whisper: `002-whisper.json` DONE (85.8 min)
+- Old Imagen 4 images in binder-images/ are STALE — delete before regenerating
+- NEXT: finish missing prompts → combine into generate script → generate images → package for desktop
+
+### Episode 003 — PROMPTS IN PROGRESS
+- `prompts-v4-all.json` — AGENT WRITING, saves every 25 pages. Check count.
+- Theme: multiverse artifacts, non-human technology, most alien episode
+- Whisper: `003-whisper.json` DONE (66.3 min)
+- Old Imagen 4 images in binder-images/ are STALE
+- NEXT: finish prompts → generate → package
+
+### Episodes 004-006 — WHISPER IN PROGRESS
+- Audio files exist for all three in `3. ELEVEN LABS AUDIO/01. v4 new narrator/`
+- Whisper transcription was running for all 3 — check if whisper JSON files exist
+- Need: Whisper → script read → art team prompts → generate → package
+- No episode themes assigned yet — GL needs to provide creative direction per episode
 
 ---
 
-## Episode Status
+## The Production Pipeline (FINAL VERSION)
 
-| Episode | Title | Images | Model | Status |
-|---------|-------|--------|-------|--------|
-| 001 | Arriving from Between | Being regenerated | Gemini 3.1 Flash | Art team prompts in progress |
-| 002 | The White City | 150 (Imagen 4 — stale) | Needs Gemini 3.1 Flash regen | Theme: destroyed empire |
-| 003 | The God Particle | 150 (Imagen 4 — stale) | Needs Gemini 3.1 Flash regen | Theme: multiverse artifacts |
-| 004-006 | Pending | No images yet | Gemini 3.1 Flash | Need scripts read + sections mapped |
+### Per episode, 4 steps:
+1. **Whisper transcribe** audio on GPU → `###-whisper.json`
+2. **Art team agents** read script + timing, write v4 prompts (4000-8000 chars each, narrative beats, two layers)
+3. **Generate images** via `generate-v4-images.py` using Gemini 3.1 Flash ($0.067/image)
+4. **Package for desktop** via `package-for-desktop.py` → `###-desktop-render.json` (load into Wardenclyffe Desktop for Ken Burns render)
 
----
-
-## CRITICAL: What Changed During This Session
-
-### Model Switch: Imagen 4 → Gemini 3.1 Flash
-Imagen 4 misspells English in 82% of images. Imagen 4 is deprecated June 30, 2026. Gemini 3.1 Flash Image (`gemini-3.1-flash-image-preview`) renders text at ~90% accuracy and follows "no text" instructions better. GL tested all options and chose Gemini 3.1 Flash. ~$0.067/image (~$10/episode).
-
-API format (different from Imagen):
-```python
-url = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image-preview:generateContent?key={KEY}'
-body = {'contents': [{'parts': [{'text': prompt}]}], 'generationConfig': {'responseModalities': ['image', 'text']}}
-```
-
-### Prompt Philosophy: USE THE FULL CHARACTER BUDGET
-Gemini accepts ~8000 characters per prompt. Previous prompts used 500-2000 characters. GL demanded maximalist detail — every character should describe something PHYSICAL and VISIBLE. No abstract language. No "the air of absence." Describe what a camera would SEE.
-
-Prompt structure:
-```
-BACKGROUND: [specific page details — unique stains, damage, wear per page]
-PRIMARY EVIDENCE: [2-3 items with MATERIAL + COLOR + CONDITION + POSITION]
-SECONDARY EVIDENCE: [4-6 items, full physical descriptions]
-SCATTERED ITEMS: [8-12 small objects filling gaps]
-HANDWRITING: [visual description of ink style, not content]
-CONNECTIONS: [thread paths, pins, arrows]
-STYLE: Victorian Wunderkammer meets crime scene evidence board. Kodachrome. No readable English text. 16:9.
-```
-
-### Pages Follow the SCRIPT, Not the Location
-CRITICAL MISTAKE made and corrected: 30 pages were assigned to "Room 3327" as a location. GL caught this — the images must follow the NARRATIVE BEATS, not the setting. Each 15-30 second segment, the narrator says something NEW. The image must match what's NEW. No repeating the same room 30 times.
-
-### The Archivist's Binder = TWO LAYERS
-Every page must have:
-1. **Investigation evidence** — items relevant to what the narrator is discussing at that timestamp (moves the story forward)
-2. **The Archivist's personal mess** — their own belongings from their own dimensions crammed in alongside the evidence. Transit passes from impossible cities, snack wrappers in non-existent languages, personal photos of unknown people, trinkets with no investigative relevance.
-
-The viewer can't tell which items are clues and which are the Archivist's personal junk. That ambiguity IS the visual mystery. The Archivist is a manic, brilliant, inter-dimensional hoarder-slob who carries everything in the binder.
-
-### Episode-Specific Themes
-- Ep 001: Personal/intimate investigation (Tesla's life and death)
-- Ep 002: Destroyed empire, archaeological evidence (Tartaria/old world aesthetic)
-- Ep 003: Multiverse artifacts, advanced non-human technology (more alien, less human)
+### DO NOT use assemble-video.py for final output — that makes static MP4 without Ken Burns. The desktop app is the render path.
 
 ---
 
-## The Locked Visual Formula (Updated 2026-04-08)
+## The Locked Visual Formula
 
 **Model:** `gemini-3.1-flash-image-preview` via Generative Language API
-**Prompt length:** USE THE FULL 8000 CHARACTERS. Every character = physical detail.
-**Negative text:** Gemini follows "No readable English text" in structured prompts better than Imagen's negative prompt approach.
-**Density:** "Victorian Wunderkammer meets crime scene evidence board" — maximalist, every surface covered.
-**Color:** "Kodachrome vivid saturated colors against worn aged paper."
-**Two layers per page:** Investigation evidence + Archivist's personal mess.
-**Story progression:** Each page matches the narrative beat at that timestamp. No repeating locations.
+**Prompt length:** 4000-8000 CHARACTERS of physical detail per page
+**Structure:** BACKGROUND → PRIMARY EVIDENCE → SECONDARY EVIDENCE → ARCHIVIST PERSONAL ITEMS → SCATTERED → HANDWRITING → CONNECTIONS → STYLE
+**Two layers per page:** Investigation evidence + Archivist's personal mess (red herrings from other dimensions)
+**Pages follow narrative BEATS not locations** — story moves forward every page
+**"No readable English text"** in style section
+**"Kodachrome vivid saturated colors"** for color
+**"Victorian Wunderkammer meets crime scene evidence board meets inter-dimensional hoarder's junk drawer"** for density
+**Imagen 4 is DEPRECATED June 30, 2026 — do not use**
+
+### The Archivist
+Inter-dimensional manic hoarder-slob who carries everything in the binder. Investigation evidence mixed with personal junk from other dimensions. Viewer can't tell clues from personal items. That ambiguity = the visual mystery. Escalates strangeness across episodes.
+
+### Episode Themes
+- Ep 001: Personal investigation (Tesla's life/death)
+- Ep 002: Destroyed empire/archaeological (Tartaria)
+- Ep 003: Multiverse artifacts, advanced non-human (most alien)
+- Ep 004-006: TBD — GL provides direction
 
 ---
 
-## Production Pipeline
+## Desktop App: Wardenclyffe Desktop
 
-Scripts per episode folder:
-- `build-v3-prompts.py` — generates timed sequence from Whisper data + section map
-- `generate-binder-images.py` — calls Gemini 3.1 Flash, skips existing files
-- `assemble-video.py` — FFmpeg assembly (images + audio → MP4)
-- `scan-misspellings-gemini.py` — Gemini 2.5 Flash vision scans for misspelled text
-
-Audio files: `3. ELEVEN LABS AUDIO/01. v4 new narrator/` — Theo voice for all episodes.
+Location: `C:\Users\baenb\projects\WARDENCLYFFE_DESKTOP`
+Input format: JSON with scenes array, each scene has `imagePath`, `duration` (seconds), `kenBurns: {type, intensity}`
+Ken Burns types: zoom-in, zoom-out, pan-left, pan-right, pan-up, pan-down, none
+Audio: NOT handled by app — GL adds separately
+The `package-for-desktop.py` script generates this JSON from our timed sequence + images.
 
 ---
 
-## What Still Needs Doing
-
-- [ ] Episode 001: Art team prompts need review + regeneration with Gemini 3.1 Flash
-- [ ] Episodes 002-003: Regenerate with Gemini 3.1 Flash + episode themes
-- [ ] Episodes 004-006: Full pipeline (Whisper → sections → prompts → generate)
-- [ ] Misspelling scanner: run on all episodes after Gemini regeneration
-- [ ] Git: massive uncommitted state — commit before any new work
-- [ ] YouTube channel setup
-
----
-
-## Key Research Findings
-
-- Gemini 3.1 Flash Image: ~90% text accuracy, $0.067/image, non-deprecated
-- Imagen 4: deprecated June 30, 2026 — do not use for new work
-- Ideogram V3: ~90% text, $0.03-0.09/image on fal.ai — backup option
-- Recraft V3: excellent text, $0.04/image, style presets — backup option
-- Imagen `enhancePrompt: false` prevents prompt rewriter from adding text labels
-- Gemini Vision (2.5 Flash) works for misspelling scanning via Generative Language API
+## Key Decisions (all logged in tesla-mandela-decisions.md)
+- Model: Gemini 3.1 Flash (not Imagen 4)
+- Pages follow narrative beats (not locations)
+- Two layers per page (investigation + personal mess)
+- 4000-8000 char prompts (use the full budget)
+- Desktop app renders with Ken Burns (not static FFmpeg)
+- Describe what camera SEES (no abstract language)
