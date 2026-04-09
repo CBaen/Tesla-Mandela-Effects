@@ -75,9 +75,13 @@ for i, page in enumerate(all_pages):
     if not os.path.exists(img_path):
         missing.append(num)
         continue
-    ts_start = page.get('timestamp_start', 0)
-    ts_end = page.get('timestamp_end', ts_start + 30)
-    duration = max(5.0, ts_end - ts_start)
+    # Prefer per-page timestamps if present; otherwise use whisper-derived uniform
+    ts_start = page.get('start_sec', page.get('timestamp_start'))
+    ts_end = page.get('end_sec', page.get('timestamp_end'))
+    if ts_start is not None and ts_end is not None:
+        duration = max(5.0, float(ts_end) - float(ts_start))
+    else:
+        duration = uniform_duration
     scene = {
         'imagePath': os.path.abspath(img_path),
         'duration': round(duration, 2),
