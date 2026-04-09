@@ -173,3 +173,33 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 - **Pattern**: Prompts used 500-2000 characters when Gemini accepts ~8000. Images lacked detail because the model wasn't told enough.
 - **Rule**: Every character in the prompt must describe something PHYSICAL and VISIBLE. Material, color, condition, position. No abstract language ("the air of absence"), no poetry, no mood descriptions. Describe every object: "a brass skeleton key with green patina taped flat with yellowing cellophane at a 15-degree angle across the lower-left corner of a torn registration card." Use 4000-8000 characters per prompt.
 - **Why**: GL demanded maximalist detail that overwhelms the senses. Short prompts produce generic images. The model can only render what you describe — every unspent character is visual detail left on the table.
+
+### Do NOT unilaterally eliminate features GL built infrastructure for
+- **Pattern**: Instance bypassed Ken Burns effects by assembling static MP4s with FFmpeg, eliminating a feature GL specifically built the Wardenclyffe Desktop app to handle. Instance decided this on its own without asking.
+- **Rule**: If GL built an app or tool for a specific purpose, USE IT. Do not replace it with a simpler alternative because it's more convenient. If you don't know how the app works, LEARN the input format and package output for it. The desktop app at `C:\Users\baenb\projects\WARDENCLYFFE_DESKTOP` handles Ken Burns rendering. `package-for-desktop.py` outputs the render JSON.
+- **Why**: GL pushed back aggressively: "you do NOT DECIDE to just eliminate the ken burns effect." Building tools and then having them ignored is a betrayal of the work GL invested. Ask before simplifying.
+
+### Packaged episode images go in 4. EPISODE IMAGES — not random subdirectories
+- **Pattern**: Instance created `binder-images/` subdirectories inside each episode folder and scattered files across the project.
+- **Rule**: Packaged images ready for the desktop app go in `C:\Users\baenb\Desktop\Tesla Mandela Effects\4. EPISODE IMAGES\`. This is the established directory structure. Do not create new directories without checking where things belong.
+- **Why**: GL corrected: "you just throw shit in any random file folder you choose." The project has an existing directory structure. Read it before creating folders.
+
+### Binder pages must follow narrative BEATS not locations — instance failed this twice
+- **Pattern**: First attempt assigned 30 pages to "Room 3327" as a location. Second attempt (art teams) was also given location-based assignments. GL caught it both times: "30 pages for one room is the same shit over and over."
+- **Rule**: Each page = one narrative beat. The narrator says something NEW every 15-30 seconds. The image matches what's NEW. Map pages to TIMESTAMPS and NARRATION CUES, not to settings. The script moves; the images move with it.
+- **Why**: Instance was grouping by location because it was easier to organize. GL saw immediately that this produces repetitive images that don't move the story forward. Instance should have mapped to timestamps from the start.
+
+### Instance repeatedly generated images before verifying prompt quality
+- **Pattern**: Generated 150 images three times with prompts GL hadn't approved. First batch was notebook-only (wrong prompts). Second batch had 82% misspelled English. Third batch used short prompts without maximalist detail. Each time $6-10 was spent and GL had to review and reject.
+- **Rule**: Generate a 5-page test batch first. Get GL approval. THEN generate all 150. Never commit to a full generation run without GL seeing sample output from the exact prompts that will be used.
+- **Why**: GL's money is limited. Every failed batch costs real dollars on credits that cannot be recovered. The "generate first, ask later" pattern wasted ~$30 across the session.
+
+### The Archivist's binder needs TWO layers — instance didn't understand this until corrected
+- **Pattern**: Instance designed clean evidence boards — organized investigation pages with only case-relevant items. GL corrected: the Archivist is a HOARDER-SLOB who carries personal junk from other dimensions mixed in with evidence.
+- **Rule**: Every page has (1) investigation evidence for the current narrative beat AND (2) the Archivist's personal belongings — transit passes, snack wrappers, personal photos, trinkets with no investigative relevance. The viewer can't tell clues from junk. That ambiguity IS the visual mystery.
+- **Why**: Instance was designing for clarity. GL was designing for mystery. The Archivist is a CHARACTER, not a filing system. Their mess is their identity.
+
+### Document the COMPLETE production pipeline in one place
+- **Pattern**: Pipeline documentation was scattered across HANDOFF.md, lessons-learned.md, memory files, and decision logs. No single document described the full audio-to-final-video process.
+- **Rule**: The complete pipeline must be documented in the HANDOFF.md AND in a dedicated production guide. Steps: (1) Whisper transcribe audio on GPU (2) Art team agents write v4 prompts per narrative beat, 4000-8000 chars (3) Generate images with Gemini 3.1 Flash via generate-v4-images.py (4) Package for desktop via package-for-desktop.py (5) Copy images to 4. EPISODE IMAGES/ (6) Load render JSON into Wardenclyffe Desktop for Ken Burns (7) GL adds music + Remotion cold start/Grid ending.
+- **Why**: A future instance should be able to produce a complete episode by following one document, not by reconstructing the process from scattered files.
