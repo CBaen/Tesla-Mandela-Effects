@@ -37,6 +37,21 @@ for fpath in sorted(glob.glob(os.path.join(EPISODE_DIR, 'prompts-v4-*.json'))):
 all_pages.sort(key=lambda p: p.get('page', 0))
 print(f"Loaded {len(all_pages)} pages")
 
+# Load whisper total duration for accurate pacing
+whisper_total = None
+for f in os.listdir(EPISODE_DIR):
+    if f.endswith('-whisper.json'):
+        with open(os.path.join(EPISODE_DIR, f), encoding='utf-8') as fh:
+            w = json.load(fh)
+        segs = w.get('segments', [])
+        if segs:
+            whisper_total = segs[-1].get('end', 0)
+        break
+
+uniform_duration = (whisper_total / len(all_pages)) if whisper_total and all_pages else 30.0
+print(f"Whisper total: {whisper_total:.1f}s" if whisper_total else "No whisper")
+print(f"Uniform duration per page: {uniform_duration:.2f}s")
+
 def assign_ken_burns(idx, total, duration):
     if idx < 3:
         return {'type': 'zoom-out', 'intensity': 0.12}
