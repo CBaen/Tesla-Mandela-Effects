@@ -1,0 +1,293 @@
+{
+  "episode": "007",
+  "title": "The Last Person",
+  "assets": [
+    {
+      "name": "Henry_Collins_2020",
+      "type": "character",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1978,
+      "physique": "American man, early 40s, lean build, slightly gaunt. Clean-shaven with a few days of stubble. Brown hair, neat but not styled. Quiet, inward-looking eyes — the expression of someone managing something private. Compounding pharmacist bearing: precise, careful hands, comfortable in institutional settings.",
+      "attire": "Dark navy or charcoal work shirt, dark slacks, pharmacy ID badge on lanyard. In apartment scenes: simple grey t-shirt, worn jeans.",
+      "notes": "Protagonist. Compounding pharmacist at Dandy Brook. Disappears March 1, 2020. Never shown in distress — his expression throughout is that of someone calibrating, measuring, listening.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Margaret_Collins_2020",
+      "type": "character",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1980,
+      "physique": "American woman, late 30s to early 40s, medium build, composed posture. Brown hair, practical cut. Librarian bearing: organized, attentive, precise. Expression of someone who has processed grief into administrative clarity — not cold, but contained.",
+      "attire": "Professional but understated — grey or navy cardigan, dark slacks. In deposition scenes: dark blazer, simple jewelry.",
+      "notes": "Henry's ex-wife. Library scientist. Gives deposition testimony. Carries the emotional weight of the episode's human cost.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Marielle_Ostrowski_2020",
+      "type": "character",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1986,
+      "physique": "American woman, mid-30s, medium build, practical appearance. Dark hair pulled back. Open, observant face — the kind of person who notices things at the counter while managing multiple tasks. Pharmacy technician bearing: efficient, alert.",
+      "attire": "Pharmacy scrubs in blue or teal, pharmacy ID badge. Sensible shoes.",
+      "notes": "Pharmacy technician at Dandy Brook. Provides the opening testimony and the final image of Henry. She is the archive's witness — she saw him but did not understand what she was seeing.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1896",
+      "type": "character",
+      "era": "1896",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 40. Houston Street laboratory period. Shown in the context of attaching the mechanical oscillator to a steel beam. Distinguished, intense, at the height of his experimental powers.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1899",
+      "type": "character",
+      "era": "1899",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "",
+      "notes": "Age 43. Colorado Springs laboratory. Shown in the context of the resonance experiments and the Colorado Springs Notes.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "DEA_Field_Auditor_2020",
+      "type": "character",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1975,
+      "physique": "American man, mid-40s, medium build, government-inspector bearing. Close-cropped hair going grey at temples. Unremarkable face — someone trained to be unobtrusive. Carries a clipboard and a government-issued case for specimen collection.",
+      "attire": "Dark windbreaker with DEA insignia, grey slacks, black dress shoes. Latex gloves when handling evidence.",
+      "notes": "Fabricated character. Performs the controlled substance audit at Dandy Brook. Writes the handwritten margin note: 'consistent with oscillation patterns outside documented pharmaceutical parameters — recommend referral.' He is the episode's most important bureaucrat.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Dandy_Brook_Pharmacy_2020",
+      "type": "location",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "Ground floor of a three-story building on Banklick Street, Covington, Kentucky. One block south of the John A. Roebling Suspension Bridge approach.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Dandy_Brook_Retail_Counter_2020",
+          "era": "2020",
+          "physique": "Long narrow retail pharmacy space. Fluorescent lighting. Standard pharmacy shelving with over-the-counter products along the walls. A raised counter with a computer terminal and a small window looking back toward the compounding lab door. The window in the counter faces the street-side and catches the angle of the bridge's Kentucky approach.",
+          "notes": "Where Marielle works. The wire-reinforced window in the lab door is visible from here."
+        },
+        {
+          "name": "Dandy_Brook_Compounding_Lab_2020",
+          "era": "2020",
+          "physique": "Rear laboratory space, separated from retail by a heavy door with a small rectangular window of wire-reinforced glass. Stainless steel worktables. Pharmaceutical balance scales under glass shields. Rows of amber glass jars on shelving — sealed, labeled with certificates of analysis. A pharmaceutical-grade ceramic mortar and pestle on the main worktable, smooth from use. Suspended tile ceiling — a grid of twelve-by-twenty-four-inch acoustic tiles in a metal framework. Overhead fluorescent tube lighting that makes crystalline powder catch and scatter light. Smell of ethanol and something mineral underneath.",
+          "notes": "Where Henry works. The mortar is the episode's central object. The ceiling grid is the first instance of the underlying geometry Henry begins perceiving."
+        },
+        {
+          "name": "Dandy_Brook_Exterior_2020",
+          "era": "2020",
+          "physique": "Three-story brick commercial building on a narrow Covington street. Ground floor storefront with 'Dandy Brook Pharmacy' signage in the window. Sidewalk of old concrete with frost heave cracks. One block south, visible at the end of the street, the stone towers of the Roebling Bridge rise above the roofline.",
+          "notes": "The bridge towers are visible from the street in front of the pharmacy."
+        }
+      ]
+    },
+    {
+      "name": "John_A_Roebling_Suspension_Bridge_2020",
+      "type": "location",
+      "era": "2020",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Historic Gothic Revival suspension bridge connecting Covington, Kentucky to Cincinnati, Ohio over the Ohio River. Built 1866. Stone towers with vertical Gothic arch windows — two windows per tower face, one above the other. The bridge Henry crossed on foot every working day.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Roebling_Bridge_Towers_2020",
+          "era": "2020",
+          "physique": "Two massive limestone and brick towers in Gothic Revival style. Each tower has four faces. Each face has two vertical Gothic arch windows, one above the other — narrow, tall, pointed at the top in the Gothic manner. The stone is dark with age and weather, streaked with mineral deposits. The towers rise dramatically above the river and the surrounding buildings. Suspension cables radiate from the tower crowns down to the bridge deck.",
+          "notes": "The towers as they actually exist: two windows per tower face. Henry's notebook drawing shows three windows per face, the center one slightly narrower — this is the Mandela Effect. The image pipeline should render the real bridge (two windows), not Henry's version."
+        },
+        {
+          "name": "Roebling_Bridge_Pedestrian_Walkway_2020",
+          "era": "2020",
+          "physique": "Pedestrian path along the side of the bridge deck, separated from vehicle traffic by a low rail. Looking through the suspension cables toward the Ohio River and the Cincinnati skyline. The tower arch frames the walkway at each end. Morning light in winter — cold, flat, grey. The bridge hums faintly with traffic vibration.",
+          "notes": "The route Henry walked twice daily to and from the Cincinnati-side parking structure."
+        },
+        {
+          "name": "Roebling_Bridge_Notebook_Drawing_2020",
+          "era": "2020",
+          "physique": "A pencil drawing in the margin of a cramped notebook page. The bridge towers rendered in architectural elevation style — precise, proportional, with correction marks where the first line was adjusted. Each tower face shows THREE vertical Gothic arch windows: one on the left, one in the center (slightly narrower, indicating load-bearing constraint), one on the right. The drawing has the quality of transcription, not invention — measured observation, not imagination.",
+          "notes": "This is Henry's drawing of the bridge as he perceives it at the tuned frequency. The center window is structurally plausible — slightly narrower as a load-bearing arch would require. This is the Mandela Effect made visible."
+        }
+      ]
+    },
+    {
+      "name": "Henry_Collins_Apartment_Scott_Boulevard_2020",
+      "type": "location",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "Apartment on Scott Boulevard, Covington, Kentucky. Spare, clean, not very lived-in. Standard rental furniture. The second bedroom has been converted to a workspace.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Henry_Apartment_Second_Bedroom_Workshop_2020",
+          "era": "2020",
+          "physique": "Small second bedroom converted to workspace. A plain worktable in the center — the kind sold at hardware stores, plywood top on metal legs. On the table: four completed popsicle stick architectural structures and one in-process, a flat box of craft sticks, a bottle of wood glue, a set of small spring clamps. Graph paper sheets pinned to the wall showing pencil elevation drawings of structures that don't correspond to any recognizable building — but share precise recurring proportions. On the mantle of the small gas fireplace: three framed photographs of the Roebling Bridge towers from different angles. On the worktable, propped against the wall: a fourth framed photograph of the bridge, positioned to be seen while working.",
+          "notes": "The room where Henry builds his documentation of the other frequency's architecture. The popsicle stick structures are not toys — they are scale models of what he is perceiving."
+        },
+        {
+          "name": "Henry_Apartment_Living_Area_2020",
+          "era": "2020",
+          "physique": "Spare living room with standard rental furniture — couch, coffee table, bookshelf. A gas fireplace on one wall with three framed photographs of the Roebling Bridge towers on the mantle. Books on the shelf, some kitchen equipment visible through a doorway. Clean, organized, but without the texture of a fully inhabited space — the apartment of someone whose real life is elsewhere.",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Tesla_Houston_Street_Laboratory_1896",
+      "type": "location",
+      "era": "1896",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "Tesla's laboratory at 46 East Houston Street, New York City. Active 1895-1898.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Tesla_Houston_Street_Lab_Interior_1896",
+          "era": "1896",
+          "physique": "Large open laboratory floor in a brick building. High ceilings with exposed iron beams — one central steel support column visible. Gas lighting supplemented by early electric fixtures. Workbenches along the walls covered in electrical apparatus: coils, condensers, brass fittings, glass vacuum tubes. Wooden floors, sawdust in the corners. The electro-mechanical oscillator is clamped to the steel support beam — a compact steam-driven device the size of a large book, brass and iron, vibrating at a precise frequency. The building shakes slightly around it.",
+          "notes": "Scene of Tesla's resonance experiment. The oscillator attached to the beam, the neighborhood beginning to vibrate."
+        }
+      ]
+    },
+    {
+      "name": "Tesla_Colorado_Springs_Laboratory_1899",
+      "type": "location",
+      "era": "1899",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "",
+      "attire": "",
+      "notes": "Experimental station at Colorado Springs, Colorado. A converted barn at the edge of the city, equipped with a massive Tesla coil.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Colorado_Springs_Lab_Interior_1899",
+          "era": "1899",
+          "physique": "Large converted barn interior. The centerpiece: a massive Tesla coil — a wooden primary winding platform several meters across, a tall secondary coil tower rising from the center, topped with a copper ball terminal. Electrical apparatus everywhere: condensers, switches, measurement instruments. The walls are wooden planks. The ceiling is open to the rafters. Tesla's notebooks and drafting paper spread across a worktable near the window. When the coil fires, the entire space fills with electrical discharge — branching white arcs several meters long reaching toward the walls and ceiling.",
+          "notes": "Site of the Earth resonance discovery, July 3, 1899."
+        }
+      ]
+    },
+    {
+      "name": "Pharmaceutical_Grade_Ceramic_Mortar_2020",
+      "type": "object",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A forty-millimeter pharmaceutical-grade ceramic mortar and pestle. The mortar is a smooth white ceramic bowl, approximately the size of a large coffee mug, with a rounded interior. The pestle is a short, thick ceramic rod with a rounded tip. Both are smooth from years of use — the original matte surface polished to a near-gloss by sustained grinding. The inside of the mortar shows faint trace residue: a slightly off-white powder that clings to the ceramic micro-texture despite cleaning. The pestle fits the mortar with the precision of long-matched use.",
+      "attire": "",
+      "notes": "The central object of the episode. The mortar is where the compound's geometry changes. The trace residue from this specific mortar is what the DEA spectroscopic analysis flags as anomalous.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Compound_A_Amber_Glass_Jars_2020",
+      "type": "object",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Pharmaceutical amber glass jars, approximately 500ml, sealed with black plastic screw caps with tamper-evident rings. The amber glass blocks ultraviolet light — deep amber-brown, slightly translucent, making the interior visible only when held to strong light. Inside: fine white crystalline powder, slightly faceted in appearance — the kind of crystalline structure that catches fluorescent light and returns it in a subtle scatter pattern. Each jar has a label with the compound name (redacted as 'Compound A'), lot number, manufacturer, and a Certificate of Analysis reference number. When held under fluorescent light and tilted, the powder inside shifts and the scatter pattern changes slightly — different jars returning the light differently based on their specific crystalline geometry.",
+      "attire": "",
+      "notes": "The compound arrives as one thing. In the mortar it becomes another. Henry holds these jars to the fluorescent light for minutes at a time, learning to read the crystalline scatter pattern by sight — selecting jars whose geometry matches the mortar's altered reading.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Popsicle_Stick_Architectural_Structures_2020",
+      "type": "object",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Four completed and one in-process architectural models built from standard craft sticks (popsicle sticks), approximately 10-30cm tall. Not craft projects — architectural structures: frames, towers, vaulted sections, arched openings made from sticks glued at careful angles. The glue joints are precise, the clamp marks visible where joints were held overnight to cure. The proportions repeat across all structures with mathematical precision — the ratio between horizontal and vertical members is consistent, as if all structures are instances of the same underlying geometry at different scales. The structures don't correspond to any recognizable building, but they correspond to each other.",
+      "attire": "",
+      "notes": "Henry's documentation of the architecture he perceives at the other frequency. These are not toys — they are scale models. The popsicle stick is the structural member of a tower at a scale he had not previously been able to perceive.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Compounding_Log_Final_Entry_2020",
+      "type": "object",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A standard pharmaceutical compounding log — a bound ledger with pre-printed columns: date, compound name, quantity, patient identifier or batch number, pharmacist initials. The entries through March first are in Henry's handwriting — controlled, professional, specific. The final entry, at nine forty-seven PM on March first, two thousand and twenty, occupies the standard line but contains only two words in the compound name column: 'inventory noted.' No quantity. No patient name. No batch number. No initials. The handwriting on this final entry is unusually steady — more controlled than the surrounding entries, as if written with deliberate intention rather than professional habit.",
+      "attire": "",
+      "notes": "The archive's last evidence of Henry. 'Inventory noted' is not standard log language. It is a statement of completion.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "DEA_Audit_Report_With_Margin_Note_2020",
+      "type": "object",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A nineteen-page government field audit report on standard federal form paper. Typed in the flat institutional language of controlled substance audits — inventory tables, chain of custody records, equipment inspection checklists. Pages twelve and thirteen contain the spectroscopic analysis section with a laboratory chart showing infrared absorption peaks — most within expected range, one anomalous peak flagged with a circled notation. In the margin of page twelve, in blue ballpoint ink, a handwritten note in cramped official cursive: 'consistent with oscillation patterns outside documented pharmaceutical parameters — recommend referral.' Below that, underlined: 'referral.' The rest of the report continues in type. The contrast between the typed institutional language and the handwritten margin note is the document's visual center.",
+      "attire": "",
+      "notes": "The crack in the official record. The field auditor's handwriting is the episode's most important document detail.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Henry_Collins_Notebook_2020",
+      "type": "object",
+      "era": "2020",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A small pocket notebook, approximately 10x15cm, with a plain dark cover worn at the corners. The pages are densely filled — the handwriting compressed to a size that requires a magnifier to read, line after line across every page without margins. Interspersed between the compressed text: precise pencil architectural elevation drawings of structures that share recurring proportions. On one margin page, clearly visible: a drawing of the Roebling Bridge towers with three Gothic arch windows per face, the center window drawn slightly narrower than the other two, with careful correction marks. The last page breaks from the compressed handwriting — three words in normal, legible script, centered on the page, written as if for someone who was going to find them.",
+      "attire": "",
+      "notes": "The notebook Margaret describes in her deposition. The three words on the last page she refuses to enter into the official record.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Tesla_Electro_Mechanical_Oscillator_1896",
+      "type": "object",
+      "era": "1896",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A compact steam-driven electro-mechanical oscillator, approximately the size of a large book — 25cm x 15cm x 10cm. Iron casing with brass fittings. A steam inlet pipe enters from one end, driving an internal piston. The piston connects to an armature that oscillates at high frequency. A clamp mechanism allows it to be attached to structural elements. The device vibrates with intense, precise regularity — not a shake but a sustained, controlled oscillation at a specific frequency. When attached to the steel beam via the clamp, the beam begins to vibrate sympathetically.",
+      "attire": "",
+      "notes": "Tesla's resonance device. US Patent 514,169. The instrument that proved every physical structure has a natural frequency at which it will amplify energy rather than resist it.",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
