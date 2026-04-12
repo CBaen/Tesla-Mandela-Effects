@@ -208,6 +208,7 @@ These are the episode's load-bearing images. Each should appear at minimum twice
 - "inventory noted" — Henry's last entry in the compounding log, in handwriting the pharmacy owner describes as unusually steady
 - "I thought he forgot something" — Marielle's last image of Henry in the doorway
 - "the window that isn't there" — a documented fraction of Covington residents carrying a third Gothic arch window in the Roebling Bridge towers that has never existed
+- "three windows, the center one slightly narrower" — Henry's notebook margin drawing of the bridge towers, recovered from his apartment: not invention, memory
 - "consistent with oscillation patterns outside documented pharmaceutical parameters" — the field auditor's margin note, the crack in the official record
 - "the frequency between what the jar said it was and what it was" — the gap between the Certificate of Analysis and the residue reading
 - "the popsicle stick building" — Henry's first description, to no one, of what he was seeing (recovered from a note found in his apartment, written in his handwriting, undated)
