@@ -108,7 +108,7 @@ He had started noticing the towers, he said. The Gothic windows. He said he foun
 
 The deposition is a document of a woman being asked to translate her marriage into administrative language. The coroner's questions are thorough and flat. Margaret's answers are careful. She is not performing grief for the record. She is completing a task that grief requires of her — the task of transforming a person into a case. She does it well. She is a librarian by training. She knows how to organize knowledge that costs her something to hold.
 
-The two thousand and sixteen sanction is in the Kentucky Board of Pharmacy public records. The case number is a public document. The findings are a public document. They describe a prescription discrepancy at a previous employer — a compounding pharmacy in Newport, Kentucky, where Henry had worked before Dandy Brook — in which a controlled substance, a benzodiazepine, had been compounded and dispensed under a legitimate patient's name but not delivered to that patient. The quantity was small. The investigation could not determine definitively whether the quantity had been diverted for Henry's personal use or whether it had been a record-keeping error of the kind that sometimes arises in high-volume compounding operations. The board found insufficient evidence for the higher charge. They found sufficient evidence for the sanction.
+The two thousand and sixteen sanction is in the Kentucky Board of Pharmacy public records. It describes a prescription discrepancy at a previous employer — a compounding pharmacy in Newport, Kentucky, where Henry had worked before Dandy Brook — in which a controlled substance, a benzodiazepine, had been compounded and dispensed under a legitimate patient's name but not delivered to that patient. The quantity was small. The investigation could not determine definitively whether the quantity had been diverted for Henry's personal use or whether it had been a record-keeping error. The board found insufficient evidence for the higher charge. They found sufficient evidence for the sanction.
 
 The sanction suspended his license for forty-five days. It required completion of an approved outpatient substance use treatment program. It required twelve months of supervised practice. It required random drug testing for eighteen months following reinstatement.
 
@@ -245,7 +245,7 @@ He did not write it.
 
 He wrote: consistent with oscillation patterns outside documented pharmaceutical parameters.
 
-The distinction between those two phrasings is not semantic. It is the distance between a finding that can be categorized and a finding that cannot. A polymorphic transformation would have been referrable to the pharmacy board, to the FDA, to any number of agencies equipped to receive a report about a compounding error with physicochemical consequences. What the field auditor wrote is referrable to something else. To some agency whose classification system contains a category for oscillation patterns that exceed what pharmaceutical science has names for. An agency the field auditor knew existed, and whose name he did not put in the margin of a document that would eventually be declassified and obtained through a Freedom of Information request by someone who was not that agency.
+The distinction between those two phrasings is not semantic. It is the distance between a finding that can be categorized and a finding that cannot. A polymorphic transformation would have been referrable to the pharmacy board, to the FDA, to any number of agencies equipped to receive a compounding error report. What the field auditor wrote is referrable to something else — to some agency whose classification system contains a category for oscillation patterns that exceed what pharmaceutical science has names for. An agency the field auditor knew existed, and whose name he did not put in the margin of a document that would eventually be declassified and obtained through a Freedom of Information request.
 
 He was protecting the referral by not naming where it was going.
 
@@ -429,7 +429,7 @@ The Roebling Bridge is a physical structure. It has a resonant frequency. Every 
 
 At which it would answer.
 
-The question the archive is building toward — and the archive knows it is building, the archive can see the structure of what it is assembling — is not whether a physical bridge has a resonant frequency. It does. The question is what the bridge looks like when you are calibrated to receive it at that frequency.
+The question is not whether a physical bridge has a resonant frequency. It does. The question is what the bridge looks like when you are calibrated to receive it at that frequency.
 
 This is not a question physics currently answers. Physics answers questions about the bridge's behavior — whether it would oscillate destructively, whether it would fail, whether it would ring. Physics does not answer questions about what the bridge looks like to an observer whose own resonant geometry has been shifted to match the bridge's natural frequency. That question falls outside documented parameters. The archive is familiar with that phrase. The archive has heard it before, in the handwriting of a federal inspector in the margin of a DEA audit report.
 
