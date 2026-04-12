@@ -299,41 +299,52 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 
 ---
 
-## Window Rules — Available for Episode 007
+## Window Rules — Available for Episode 008
 
-Based on the six v4 episodes (001-006):
+Based on the seven v4 episodes (001-007):
 
-**Closing types (3-episode window — cannot repeat if used in 004, 005, or 006):**
-- The Inversion (004) — blocked
+**Closing types (3-episode window — cannot repeat if used in 005, 006, or 007):**
 - The Silence (005) — blocked
 - The Witness (006) — blocked
+- The Callback (007) — blocked
 
-**Available:** The Open Wound, The Callback, The Mirror, The Invitation
+**Available:** The Open Wound, The Mirror, The Invitation, The Inversion
 
-**Opening types (2-episode window — cannot repeat if used in 005 or 006):**
-- Sensory hook (005) — blocked
+**Opening types (2-episode window — cannot repeat if used in 006 or 007):**
 - The artifact (006) — blocked
+- Witness cold open (007) — blocked
 
-**Available:** Direct address question, Witness cold open, Declarative impossibility, Fact that becomes horrifying, The negation
+**Available:** Direct address question, Sensory hook, Declarative impossibility, Fact that becomes horrifying, The negation
 
-**Structural shapes (3-episode window — cannot repeat if used in 004, 005, or 006):**
-- The trial (004) — blocked
+**Structural shapes (3-episode window — cannot repeat if used in 005, 006, or 007):**
 - The letter (005) — blocked
 - The collection (006) — blocked
+- The descent (007) — blocked
 
-**Available:** Crime scene investigation, Chronological spiral, Dual timeline, Single witness, The descent
+**Available:** Crime scene investigation, Chronological spiral, Dual timeline, Single witness, The trial
 
-**Tesla connection types (2-episode window — cannot repeat if used in 005 or 006):**
-- Philosophical parallel (005) — blocked
+**Tesla connection types (2-episode window — cannot repeat if used in 006 or 007):**
 - Technology descendant (006) — blocked
+- Experiment consequence (007) — blocked
 
-**Available:** Direct appearance, Experiment consequence, Absence, Opposition
+**Available:** Direct appearance, Philosophical parallel, Absence, Opposition
 
-**Emotional endpoints (5-episode window — cannot repeat if used in 002, 003, 004, 005, or 006):**
-- Quiet acceptance (002) — blocked
+**Emotional endpoints (5-episode window — cannot repeat if used in 003, 004, 005, 006, or 007):**
 - Existential dread (003) — blocked
 - Vertigo (004) — blocked
 - Grief (005) — blocked
 - Wonder/awe (006) — blocked
+- Loneliness (007) — blocked
 
-**Available:** Paranoia, Defiance, Loneliness
+**Available:** Paranoia, Defiance, Quiet acceptance
+
+**Key images blocked for Episodes 008-010 (from Episode 007):**
+- "inventory noted"
+- "I thought he forgot something"
+- "the third window, center one slightly narrower"
+- "consistent with oscillation patterns outside documented pharmaceutical parameters"
+- "the frequency between what the jar said it was and what it was"
+- "the popsicle stick building"
+- "the three words she kept back"
+- "Tesla destroyed the oscillator with a sledgehammer"
+- "the life he was supposed to be in"
