@@ -263,6 +263,31 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
   - "the wonder is not knowing"
 - **Names spent:** Harold Kovac (fabricated), Bruce Heezen, Charles Hollister, Walter Pitman, Marie Tharp, Thomas Hopkins, Otto Schmidt, Brad Steiger, Joan Whritenour, Bruce Cathie, Tom DeMary, A.F. Amos, Nikola Tesla
 
+### 007 — THE LAST PERSON (brief approved)
+- **Wound:** A compounding pharmacist who began stealing a compound whose spectroscopic residue resonated at a frequency outside documented pharmaceutical parameters — and who disappeared completely, leaving behind a final log entry that reads only "inventory noted," in handwriting his employer described as unusually steady
+- **Opening type:** Witness cold open (Marielle Ostrowski — the smell of the compounding lab, Henry's particular silence, "I thought he forgot something")
+- **Structural shape:** The Descent (first use — five passes moving from surface to bottom, one direction, no return: pharmacist/addict/disappearance → history/DEA audit → compound/Tesla oscillator principle → Henry's experience/anonymous letter → Roebling Bridge third window/Margaret's deposition/callback)
+- **Twist beats:** 3 (The Cracks — DEA field auditor's margin note, spectroscopic anomaly, "consistent with oscillation patterns outside documented pharmaceutical parameters"), 5 (The Real Wound — Roebling Bridge third window, heritage survey, Henry's notebook margin drawing), 6 (The Implication — if memory carries architecture that never existed, what happens when the compound tunes you to the frequency where the window opens)
+- **Integration beats:** 2 (The Surface — Henry's employment, compounding lab, inventory discrepancy), 4 (The False Floor — documented addiction history, prior sanction, ex-wife's testimony, presumed-death ruling)
+- **False floor:** Henry Collins was an addict in relapse. Documented history: 2016 pharmacy board sanction, outpatient treatment 2017, sobriety 2017-2019, suspected relapse. Ex-wife's testimony is lucid, consistent, heartbroken. The cause of death — presumed overdose — was issued by a judge who reviewed the evidence and found it sufficient. Collapses when the spectroscopic anomaly cannot be explained: the compound's residue resonates at a frequency the field auditor had no category for, the delta between the CoA and the residue reading is not degradation, contamination, or any standard pharmaceutical artifact.
+- **Closing type:** The Callback (first use) — returns to Marielle's doorway image from the opening, transformed: Henry was not looking back at something he forgot; he was looking back at everything he was leaving. The closing question belongs to the listener — whether they carry something the rest of the room cannot see, and whether that makes them broken, or makes them the last person left with the original.
+- **Emotional endpoint:** Loneliness (first use) — not Henry's loneliness but the listener's. Henry succeeded. The tragedy belongs to everyone who is left with the wrong version of him, and to the listener who understands what happened and goes home to people who will not.
+- **Tesla connection type:** Experiment consequence (Tesla's mechanical oscillator — US Patent 514,169, 1893 — established that every physical structure has a natural resonant frequency; delivering energy at that frequency causes amplification until transformation or destruction. The fictional compound's crystalline structure operates on the same principle, applied to human tissue. Tesla destroyed his oscillator with a sledgehammer. Henry did not have a sledgehammer.)
+- **Key locations:** Dandy Brook Pharmacy compounding lab, Covington, Kentucky (2019-2020); Kenton County Coroner's Office (2020); Roebling Bridge, Covington-Cincinnati approach (daily — Henry's walk to parking); 46 East Houston Street, New York City (1896-1898, Tesla oscillator)
+- **Mandela Effects (primary):** Roebling Bridge third window — original to series. Every engineering drawing, photograph, and maintenance record of the John A. Roebling Suspension Bridge shows two Gothic arch windows per tower. A documented pattern recovered by a Covington heritage group (2018-2022, on file at Kenton County Public Library local history archive) shows a significant fraction of longtime Covington residents draw three windows per tower from memory. Henry's notebook margin drawing, recovered from his apartment: three windows, center one slightly narrower.
+- **Fabricated sources:** DEA Field Audit Report, partial (declassified government report — spectroscopic anomaly, field auditor's margin note, "recommend referral"), Coroner's Inquest Deposition, Margaret Collins (court testimony/deposition — addiction history, three words she kept back), Dandy Brook Pharmacy Incident Report (insurance claim/incident report — "inventory noted," handwriting the owner describes as unusually steady), Anonymous Letter to Kenton County Coroner's Office (anonymous letter from insider — "I don't know what it was. I don't know where it comes from. I know it wasn't what the jar said it was.")
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "inventory noted" — Henry's last compounding log entry, in handwriting his employer described as unusually steady
+  - "I thought he forgot something" — Marielle's last image of Henry in the doorway
+  - "the third window, center one slightly narrower" — Henry's notebook margin drawing of the Roebling Bridge towers
+  - "consistent with oscillation patterns outside documented pharmaceutical parameters" — the field auditor's margin note, the crack in the official record
+  - "the frequency between what the jar said it was and what it was" — the gap between the Certificate of Analysis and the residue reading
+  - "the popsicle stick building" — Henry's first description of what he was seeing
+  - "the three words she kept back" — Margaret's withheld testimony, the door in the official record she chose not to open
+  - "Tesla destroyed the oscillator with a sledgehammer" — the ending available in 1898, and the ending unavailable to Henry
+  - "the life he was supposed to be in" — the archive's central proposition, never stated as fact
+- **Names spent:** Henry Collins, Margaret Collins, Marielle Ostrowski, Daniel Collins, Claire Collins, Nikola Tesla
+
 ---
 
 ## Fabricated Source Format — Usage Log (continued)
@@ -270,6 +295,7 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 - **004:** Oral history/recorded interview transcript (Dzhenkoul/Vasiliev), Classified internal memo (Soviet Academy soil chemist), Unpublished field notes (Suslov personal notes), Personal diary/journal entry (Kew barograph operator)
 - **005:** Personal diary/journal entry (O'Hare diary), Institutional correspondence (Pan Am routing memo), Personal correspondence (Gallagher unsent letter), Unpublished academic paper (NRL propagation study)
 - **006:** Personal diary/journal entry (Kovac notebook), Monitoring log with handwritten annotation (ELT-19 survey annotation), Unpublished academic paper (MBARI conference note), Institutional correspondence (cable company route survey)
+- **007:** Declassified government report (DEA field audit), Court testimony/deposition (Margaret Collins coroner's inquest), Insurance claim/incident report (Dandy Brook Pharmacy), Anonymous letter from insider/whistleblower (Kenton County Coroner's Office)
 
 ---
 

@@ -178,7 +178,7 @@ Nikola Tesla understood resonance before the vocabulary existed to describe what
 
 The electro-mechanical oscillator he patented in eighteen ninety-three and eighteen ninety-four was a device for delivering energy at precise, controllable frequencies. The principle was simple in the way that all foundational principles are simple when stated directly: every physical structure has a natural frequency. A frequency at which it wants to move. A frequency at which the energy you deliver to it is not absorbed but amplified — returned to you, multiplied, because the structure is not resisting the energy, it is joining it. Tesla attached an early version of this device to a steel support beam at his laboratory at forty-six East Houston Street in New York City. He tuned it. He tuned the frequency of the oscillations the device was producing until they matched the natural frequency of the beam — the rate at which the beam, if struck and left alone, would prefer to vibrate. When he found the match, the beam began to amplify. Not to vibrate more — to join the frequency, to contribute its own energy to the oscillation, to become part of the source rather than remaining the target.
 
-He described what followed to the Brooklyn Eagle, in nineteen thirty-five, as heavy machinery flying around. He said the neighborhood had begun to shake. He said he destroyed the oscillator with a sledgehammer.
+He described what followed, in an interview given on his birthday in nineteen thirty-five, as heavy machinery flying around. He said the neighborhood had begun to shake. He said he destroyed the oscillator with a sledgehammer.
 
 The principle he had discovered was not that resonance was dangerous. The principle was that it was real — that every physical structure contained within itself a frequency at which it would respond completely, at which the boundary between structure and vibration would dissolve, at which what the structure was made of would participate in what was being done to it rather than simply receiving it. The sledgehammer was not a rejection of the principle. The sledgehammer was the only instrument available for stopping it, given that the stopping was necessary.
 
@@ -352,7 +352,7 @@ The last line of the letter: I don't know what it was. I don't know where it com
 
 The coroner received the letter. The investigation was already closed. The case was filed. The letter was added to the record. No action was taken.
 
-The archive is noting this. The archive is noting that two independent observations — the DEA field auditor's spectroscopic analysis in Covington and a compounding colleague's review of the Certificate of Analysis in Louisville — arrived at the same conclusion from different directions. The compound was not what the label said. The field auditor said this in the language of oscillation patterns. The letter writer said it in the language of an absorption peak two nanometers out of position. Neither of them named what it was.
+The compound was not what the label said. The field auditor said this in the language of oscillation patterns. The letter writer said it in the language of an absorption peak two nanometers out of position. Neither of them named what it was.
 
 Neither of them knew.
 
@@ -511,7 +511,7 @@ The archive's version of Henry Collins is a man who held on longer than anyone a
 
 The archive's version of Henry Collins is a man who succeeded.
 
-The beauty of what happened to Henry is invisible to everyone who knew him. The archive sees it. The listener sees it.
+The beauty of what happened to Henry is invisible to everyone who knew him.
 
 
 Marielle Ostrowski's statement to the Kentucky Board of Pharmacy ends on page eleven. The last paragraph is separated from the preceding text by a line break — the mark of someone who paused before writing what came next.
@@ -545,7 +545,7 @@ The archive cannot tell you whether what you carry is a malfunction or a signal.
 
 That Henry Collins was not the first person to receive the third window.
 
-He was the only person who received it completely.
+He was, as far as the archive has been able to determine, the only person who received it completely.
 
 If you carry something the rest of the room cannot see — if the window you hold is not the window everyone else is looking at — the archive does not know whether that makes you broken. The official record does not have a category for it. The deposition transcript does not have a line for it. The cause-of-death certificate was designed for a different question.
 
@@ -553,7 +553,6 @@ The archive only knows what the archive knows: that the frequency is real. That 
 
 But they had the bridge. They had the years of daily contact. They had whatever accumulates in a body that has been inside the same frequency, at close range, across a long enough time.
 
-You have been listening to this for a long time now.
 
 The archive does not know what that means for you specifically. The archive only presents what the archive has found, and notes what it cannot account for, and leaves the listener with what remains when the document has been read to its end.
 
