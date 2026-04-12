@@ -74,7 +74,7 @@ Tesla's experiment was never about destruction. He did not want to collapse the 
 
 **Reveal 2 — The False Floor (minutes 40-45):** The official explanation lands at full weight. Henry Collins had a documented history of substance misuse. He had been previously sanctioned by the Kentucky Board of Pharmacy for a prescription discrepancy in 2016. His ex-wife, in deposition testimony, describes him as "someone who was always trying to escape." His coworker describes increasing isolation in the months before he disappeared. The narrative resolves: he was an addict in relapse. He took too much. He died without a body because bodies sometimes aren't found. The explanation is complete. It is also insufficient.
 
-**Reveal 3 — The Real Wound (minutes 75-82):** The Fruit of the Loom cornucopia. Introduced not as a curious internet phenomenon but as evidence. Fifty-five percent of Americans remember a logo element that does not exist and has never existed. They are not confused. They are not misremembering. They are carrying a memory of something they experienced — something that was, in their version of events, simply true. The archive does not know how to resolve this at scale. But Henry Collins, one man in a compounding lab in Covington, Kentucky, did not need to resolve it at scale. He only needed to resolve it once. The question the archive arrives at: if memory can contain a detail that no version of this world has ever produced — if fifty-five percent of a country can carry a cornucopia that isn't there — what happens to a man whose compound tunes him to the frequency where the cornucopia is?
+**Reveal 3 — The Real Wound (minutes 75-82):** The Roebling Bridge's third window. Introduced not as curiosity but as evidence. The bridge Henry crossed every day has two windows per tower. It has always had two. But a documented pattern among longtime Covington residents — recovered in a heritage survey filed at the Kenton County Public Library and never widely circulated — shows that when asked to draw the towers from memory, a significant fraction draw three. The third window sits in the center. It is architecturally present in their memory. It has never been architecturally present in the bridge. They are not confused. They are not misremembering a detail they never looked at closely. These are people who looked at this bridge every day for decades. They are carrying a window that is not there. The archive does not know how to resolve this. But Henry Collins crossed that bridge every working day of his adult life in Covington. He drew it, once, in the margin of a notebook page recovered from his apartment — three windows per tower, the center one slightly narrower than the other two, the way a real window would be if the load required it. He was not inventing. He was remembering. The question the archive arrives at: if memory can contain architecture that no version of this structure has ever contained — if a man can carry a window that does not exist in a bridge he crossed ten thousand times — what happens when the compound he was self-administering tunes him to the frequency where the window opens?
 
 ---
 
@@ -92,7 +92,7 @@ Tesla's experiment was never about destruction. He did not want to collapse the 
 
 **Question after the false floor:** What is the compound whose residue resonates at a frequency outside documented pharmaceutical parameters — and where does that frequency lead?
 
-**Deepest question (the one the listener carries home):** If your memory carries something that this world has never contained — a logo element that isn't there, a life that doesn't match the one you woke up in — is that a malfunction? Or is it a signal?
+**Deepest question (the one the listener carries home):** If your memory carries something that this world has never contained — a window in a bridge that isn't there, a life that doesn't match the one you woke up in — is that a malfunction? Or is it a signal?
 
 ---
 
@@ -173,7 +173,7 @@ The Grid is not named. It is implied through the geometry of what Henry sees: th
 
 The frequency anomaly in the compound is not named as Grid-related. The archive only notes that the referral Tesla's oscillator principle leads to — the one that was never made — would have gone to an agency whose classification system includes things the archive does not have access to.
 
-The Mandela Effect is presented as evidence, not as mythology. Fifty-five percent of a country carrying a cornucopia that isn't there. The archive treats this as a data point about the reliability of consensus reality, not as a direct invocation of the Grid. Listeners who know the mythology will recognize the pattern. Listeners who don't will feel unease they cannot locate.
+The perceptual anomaly is presented as evidence, not as mythology. A documented fraction of longtime Covington residents carrying a window in a bridge that isn't there. The archive treats this as a data point about the reliability of consensus reality, not as a direct invocation of the Grid. Listeners who know the mythology will recognize the pattern. Listeners who don't will feel unease they cannot locate.
 
 ---
 
@@ -188,7 +188,7 @@ All selections verified against Series Bible Window Rules for Episode 007.
 | Structural shape | **The Descent** | Available — never used in series |
 | Closing type | **The Callback** | Available — never used in series |
 | Tesla connection type | **Experiment consequence** | Available — last used in 003, outside 2-episode window |
-| Mandela Effect (primary anchor) | **Fruit of the Loom cornucopia** | Available — never used in any episode |
+| Mandela Effect (primary anchor) | **Roebling Bridge third window (original to series)** | Available — original anomaly, never used in any episode |
 | Fabricated source format (leading) | **Declassified government report** | Available — never used in series |
 | Fabricated source format (secondary) | **Court testimony / deposition** | Available — never used in series |
 | Fabricated source format (tertiary) | **Insurance claim / incident report** | Available — never used in series |
@@ -207,7 +207,7 @@ These are the episode's load-bearing images. Each should appear at minimum twice
 
 - "inventory noted" — Henry's last entry in the compounding log, in handwriting the pharmacy owner describes as unusually steady
 - "I thought he forgot something" — Marielle's last image of Henry in the doorway
-- "the cornucopia that isn't there" — 55% of a country carrying a logo element that does not exist
+- "the window that isn't there" — a documented fraction of Covington residents carrying a third Gothic arch window in the Roebling Bridge towers that has never existed
 - "consistent with oscillation patterns outside documented pharmaceutical parameters" — the field auditor's margin note, the crack in the official record
 - "the frequency between what the jar said it was and what it was" — the gap between the Certificate of Analysis and the residue reading
 - "the popsicle stick building" — Henry's first description, to no one, of what he was seeing (recovered from a note found in his apartment, written in his handwriting, undated)
@@ -228,7 +228,7 @@ The descent moves in one direction: deeper. Each pass reveals a layer beneath th
 - **Pass 2 (The First Layer):** Henry's history. The marriage, the children, the 2016 sanction, the recovery, the relapse. The DEA audit report introduced. The spectroscopic anomaly noted but not yet foregrounded.
 - **Pass 3 (The Second Layer):** The compound itself. What a compounding pharmacist knows about API — the Certificate of Analysis, the bulk powder, the crystalline structure. Tesla's mechanical oscillator and the principle of resonant frequency. The connection drawn between the oscillator's principle and the compound's anomalous reading.
 - **Pass 4 (The Third Layer):** Henry's experience, reconstructed from the note found in his apartment and from Marielle's descriptions of his behavior in the lab. The popsicle stick building. The faucet in the sky. The grid of ceiling tiles. The world not as hallucination but as correction. The anonymous letter arrives here — confirming that the compound was not what the label said.
-- **Pass 5 (The Bottom):** The Fruit of the Loom cornucopia. Margaret's deposition. The three words. The callback to Marielle's doorway image — Henry looking back at the lab, not having forgotten something, having taken everything. The closing.
+- **Pass 5 (The Bottom):** The Roebling Bridge's third window. Margaret's deposition. The three words. The callback to Marielle's doorway image — Henry looking back at the lab, not having forgotten something, having taken everything. The closing.
 
 ---
 
@@ -236,7 +236,7 @@ The descent moves in one direction: deeper. Each pass reveals a layer beneath th
 
 The episode opens on Marielle's last image of Henry: standing in the doorway, looking back. She thought he forgot something.
 
-The episode closes by returning to that doorway image, transformed by everything the archive has assembled. The closing does not explain what Henry saw when he looked back. The closing asks what it would mean if the image you have always carried — the logo with the cornucopia, the life that was supposed to be yours, the door you almost found — what would it mean if it was real? Not a malfunction. A signal. And what would it mean to be the only person who received it?
+The episode closes by returning to that doorway image, transformed by everything the archive has assembled. The closing does not explain what Henry saw when he looked back. The closing asks what it would mean if the image you have always carried — the window in the bridge that isn't there, the life that was supposed to be yours, the door you almost found — what would it mean if it was real? Not a malfunction. A signal. And what would it mean to be the only person who received it?
 
 The closing line, transformed by the callback structure, is the episode's final question to the listener — not about Henry Collins, but about the listener themselves: whether they carry something the rest of the room cannot see. Whether that makes them broken. Or whether it makes them the last person left with the original.
 
@@ -246,7 +246,7 @@ The closing line, transformed by the callback structure, is the episode's final 
 
 - **Henry Collins is never a victim in this story.** He is a man who found something and went toward it. The tragedy is not his — it belongs to the people who are left with the wrong version of him.
 - **The narrator presents, it does not investigate.** The narrator does not discover the spectroscopic anomaly in real time. The narrator presents the DEA report as a document that exists. The narrator does not have feelings about it.
-- **The Fruit of the Loom section must land as evidence, not irony.** This is not a fun internet fact about collective misremembering. This is a data point about the reliability of consensus reality. Treat it with the same evidentiary weight as the DEA report.
+- **The Roebling Bridge third window must land as evidence, not local color.** This is not a charming piece of Covington geography. This is a data point about the reliability of consensus reality — a documented perceptual anomaly tied to the specific bridge Henry crossed every day. Treat it with the same evidentiary weight as the DEA report. The heritage survey source is fabricated; the bridge's actual two-window-per-tower architecture is real and checkable.
 - **Tesla's oscillator is the bridge, not the point.** Do not let the episode become a Tesla episode. Tesla's principle is the mechanism that makes the compound's anomaly legible. The story is Henry's. Tesla is the key that opens the door; Henry is the one who walked through it.
 - **The three words Margaret kept back are never revealed.** This is deliberate. The archive does not know them. The listener does not know them. The absence of those three words is the episode's second horror — a door in the official record that closes at the moment it appears.
 - **Layer 1 / Layer 2 asymmetry is critical.** The Tesla patents are real — US Patent 514,169 is checkable, the Houston Street incident is documented (Brooklyn Eagle, July 11, 1935). The Fruit of the Loom cornucopia data is real — the YouGov poll, the 55% figure, the 1973 trademark filing, the company's own statement. The DEA report, the coroner's deposition, the pharmacy incident report, and the anonymous letter are all fictional and uncheckable.
@@ -265,14 +265,14 @@ After this brief is approved, the Series Bible must be updated with Episode 007'
 - Closing type: The Callback (first use)
 - Emotional endpoint: Loneliness (first use)
 - Tesla connection type: Experiment consequence
-- Mandela Effect (primary): Fruit of the Loom cornucopia
+- Mandela Effect (primary): Roebling Bridge third window (original to series)
 - Mythology tier: 1
 - Fabricated source formats: Declassified government report (DEA field audit), Court testimony/deposition (Margaret Collins), Insurance claim/incident report (Dandy Brook Pharmacy), Anonymous letter from insider
 
 Key images to add to blocked list for Episodes 008-010:
 - "inventory noted"
 - "I thought he forgot something"
-- "the cornucopia that isn't there"
+- "the window that isn't there"
 - "consistent with oscillation patterns outside documented pharmaceutical parameters"
 - "the frequency between what the jar said it was and what it was"
 - "the popsicle stick building"
