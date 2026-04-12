@@ -39,6 +39,24 @@ Episodes 001-003 each took 2-4 sessions because instances burned context on edit
 - **No editing prose in main context.** If you find yourself using the Edit tool on the script file from main context, you are doing it wrong. Delegate to a subagent.
 - **No handoffs.** If you are writing "What's Next: continue Episode X" in HANDOFF.md, the process failed.
 
+## DO NOT READ SCRAPPED EPISODES (Contamination Warning)
+
+The canonical production set is **Episodes 001-006 only**: ARRIVING FROM BETWEEN, THE WHITE CITY, THE GOD PARTICLE, THE TUNGUSKA EVENT, THE LAST SIGNAL, THE ELTANIN ANTENNA.
+
+Earlier drafts that used the wrong storytelling style were scrapped and deleted from the working tree on 2026-04-11. **They still exist in git history** under commits and folder names like:
+
+- `002 - THE BURIED FLOOR/`
+- `004 - THE LION AND THE WOLF/`, `004 - THE TESLA BROTHERS/`
+- `005 - THE BELL/`, `005 - THE WHITE SIGNAL/`
+- `006 - THE RESONANCE/`
+- `007 - THE BUDAPEST VISION/`, `008 - THE CONTAGION THEOREM/`, `009 - THE LAST TRANSMISSION/`, `010 - THE MERIDIAN QUESTION/`
+
+**Do not read any version of these episodes**, including from git history (`git log`, `git show`, `git checkout <old-commit>`, or any archive folder outside the EPISODES directory). They were scrapped because they used a documentary-essay voice instead of the v4 embodied-scene style. Reading them — even for "context" or "to understand what was tried" — contaminates output via unintentional prompting, because any exposure to the wrong voice leaks into the writing you generate next.
+
+If you need voice calibration, read the canonical v4 exemplars: Episodes 001-003 scripts at `EPISODES/001-003`. Nothing else.
+
+If Guiding Light explicitly asks you to revisit a scrapped episode, surface this warning and confirm the direction before reading.
+
 ## Standalone Rule — No Cross-Episode References
 
 No episode may reference another episode — not by number, not by title, not by concept. Never write "In Episode Two..." or "as we explored previously..." or assume the listener has heard any other episode. If a phenomenon from another episode is relevant, present it from scratch as something that exists in the world. Every episode is entry point zero. This is a MAJOR violation if broken.
