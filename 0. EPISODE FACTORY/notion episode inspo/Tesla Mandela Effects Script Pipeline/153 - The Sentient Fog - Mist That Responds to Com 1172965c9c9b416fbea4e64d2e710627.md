@@ -1,0 +1,11 @@
+# 153 - The Sentient Fog - Mist That Responds to Commands
+
+Alteration Type: Reality Glitch
+Date of Occurrence: October 23, 1931
+Tesla's Age at Event: 75
+Cover Story: Sentient fog is coincidental air movement, misinterpreted natural behavior, or mass suggestion. Fog cannot respond to commands.
+Conspiracy Theory: Tesla experimenting. With weather. Control 1931. Developed method. Seeding clouds. With charged. Particles. Particles respond. To acoustic. Commands. Sound waves. Create patterns. In charge. Distribution. Controlling fog. Movement. And density. Tests successful. Valley fog. Obeys voice. Commands. Still functioning. 94 years. Proving weather. Can be. Controlled. Through acoustic. Electromagnetic. Particle manipulation.
+Episode Hook: Meteorologist investigating. Fog reports. Enters valley. During fog. Event. Tests claims. Says 'disperse'. Fog thins. Says 'gather'. Fog concentrates. Impossible. Tests extensively. Fog responds. To commands. Consistently. Searches valley. Finds particle. Generators. Tesla's design. Seeding fog. With charged. Particles. Voice creates. Acoustic patterns. Controls charge. Distribution. Fog movement. Controlled through. Sound. Tesla's programmable. Weather.
+Evidence It Was Different: Fog responds. To commands. Documented on. Video. Multiple tests. Same results. Charged particles. Detected in. Fog. Generators found. Valley perimeter. Tesla's signatures. Acoustic control. Confirmed. Programmable weather. Proven functional.
+What Changed: Valley experiences. Unusual fog. That moves. On command. Spoken words. Control direction. Density. Behavior. Fog obeys. Instructions. Truth: Tesla seeded. Valley with. Charged particles. Responds to. Sound vibrations. Voice commands. Control electromagnetic. Patterns. In fog. Creating programmable. Mist. Through acoustic. And electrical. Manipulation.
+The Twist: Fog doesn't. Just obey. Commands. It's conscious. Extended interaction. Shows fog. Responding to. Unspoken thoughts. Near people. Anticipating needs. Before voiced. Tesla created. Conscious weather. That thinks. Independently. Fog has. Awareness. Sentience. Developed over. 94 years. Of operation. Weather became. Alive. Through Tesla's. Particle system. That evolved. Consciousness. In mist. Form.

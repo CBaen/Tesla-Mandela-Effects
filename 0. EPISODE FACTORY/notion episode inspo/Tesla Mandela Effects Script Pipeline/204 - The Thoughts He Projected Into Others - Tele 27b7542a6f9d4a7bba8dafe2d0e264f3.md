@@ -1,0 +1,11 @@
+# 204 - The Thoughts He Projected Into Others - Telepathic Insertion
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1870
+Tesla's Age at Event: 14
+Cover Story: Persuasive speaking skills, charismatic personality, coincidental similar thinking, good communication creating shared ideas.
+Conspiracy Theory: Tesla developed telepathic projection age 14 - could insert thoughts directly into others' minds. Recipients experienced Tesla's thoughts as their own ideas, memories, knowledge. He could implant false memories, suggest actions, share technical knowledge. His later influence over assistants and colleagues came from continued telepathic projection - making them think his ideas were theirs, ensuring cooperation through consciousness manipulation.
+Episode Hook: School records 1870-1872 document strange phenomenon - students reporting Tesla's technical knowledge appearing in their minds. Multiple students solved same complex problem identically, all claiming 'sudden inspiration.' Investigation revealed all solutions matched Tesla's homework from previous week. He transmitted answers telepathically, students received them as original thoughts.
+Evidence It Was Different: Comparative analysis of students' work shows impossible correlation - multiple students produced identical solutions to unique problems, using Tesla's personal notation system, making Tesla's characteristic errors. Not cheating. Telepathic transmission. His thoughts literally copied into their consciousness, indistinguishable from their own thinking.
+What Changed: Age 14. Tesla's thoughts. Appear. In others'. Minds. People think. His ideas. As their. Own. Young Tesla. Broadcasting consciousness. Into. Other people.
+The Twist: Telepathic projection. Never. Required. Consent. Analysis shows. Tesla inserted. Thoughts. Into. Everyone. Around him. Throughout life. Every person. He met. Received. His. Consciousness. Broadcasting. His assistants. Thought. His thoughts. His enemies. Fought. His. Projected battles. Nobody. Near him. Had. Purely. Original. Thoughts.

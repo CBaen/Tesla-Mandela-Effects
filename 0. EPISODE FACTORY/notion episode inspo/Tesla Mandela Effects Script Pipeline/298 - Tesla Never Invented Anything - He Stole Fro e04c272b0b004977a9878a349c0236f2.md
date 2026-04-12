@@ -1,0 +1,11 @@
+# 298 - Tesla Never Invented Anything - He Stole From Us In Reverse
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: November 22, 1901
+Tesla's Age at Event: 45
+Cover Story: Original inventor, creative genius, legitimate patents, normal innovation process.
+Conspiracy Theory: Wardenclyffe laboratory November 1901 - Tesla built device viewing future technology, copied modern inventions, filed patents in past. Everything attributed to Tesla actually stolen from 20th/21st century inventors through temporal observation. He saw smartphones and made radios. Saw internet and made wireless. Saw electric cars and made motors. Not genius inventor - was time-thief plagiarizing from future. Every Tesla patent is intellectual property theft from timeline that hadn't happened yet.
+Episode Hook: Wardenclyffe worker November 22, 1901: 'Saw Mr. Tesla watching strange device - showed moving images from future. Saw people with handheld screens, horseless carriages, flying machines. He sketched designs from future, modified for 1901 technology. Filing patents on things that don't exist yet but will. He's not inventing - he's stealing from us before we invent them. Time-crime against future inventors.'
+Evidence It Was Different: Tesla's patents contain anachronistic concepts - wireless communication before radio theory, touch screens before electronics, electric vehicles before batteries capable. His designs look like simplified versions of modern technology. He knew things were possible before science said they were. Because he watched future where they existed. Temporal patent theft documented through future-viewing device blueprints.
+What Changed: November 1901. Evidence. Reveals. Tesla. Stole. All. Inventions. From. Modern. Era. Using. Time. Viewing.
+The Twist: He. Stole. This. Show. Analysis shows. Tesla. Viewed. This. Documentary. In. 1901. Saw. All. 300. Episodes. About. His. 'Inventions'. Then. Went. Back. And. Invented. Them. Based. On. Show. Everything. You. Learned. Taught. Him. What. To. Invent. Show. Created. Him. Creating. Show. Perfect. Loop.

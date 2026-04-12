@@ -1,0 +1,11 @@
+# 294 - Every Episode Was False Memory Tesla Planted - Weaponized Documentary
+
+Alteration Type: Reality Glitch
+Date of Occurrence: September 15, 1941
+Tesla's Age at Event: 85
+Cover Story: Historically accurate documentary, researched content, legitimate Tesla history, normal educational programming.
+Conspiracy Theory: New York hotel September 1941 - Tesla recorded complete 300-episode documentary series about himself, filled with deliberate falsehoods. Stored recordings in temporal capsule set to emerge 2024. Every episode you've watched plants false memories. Nothing in series actually happened. Tesla's real history completely different. This show is mind-control weapon activating in viewers' brains. You now remember 300 fake Tesla events as if real. He's rewriting your understanding of history through weaponized entertainment.
+Episode Hook: Tesla's recording September 15, 1941: 'Recording complete - 300 false episodes about my fabricated experiments. Set temporal release for 2024. Viewers will believe every word. Their memories will be rewritten. They'll think I did impossible things. Reality will shift to match their beliefs. Mass belief creates reality. By convincing millions I altered reality, I will have altered it. Documentary is spell. Viewers are ritual components. Activate in 83 years.'
+Evidence It Was Different: Original recordings found in Tesla's belongings match this series exactly - dated 1941. Every episode scripted by Tesla himself. All 'evidence' in episodes planted by Tesla through temporal means. Viewers experiencing false memory syndrome - remembering Tesla events that never occurred. Show itself is the experiment. Documentary format is delivery system for reality-altering information.
+What Changed: September 1941. Tesla. Records. This. Entire. Series. As. Memory. Weapon. To. Activate. 2024.
+The Twist: Final episode. Activates. Full. Programming. Everything. You. Remember. About. Tesla. Now. Overwrites. Real. History. By. Reading. This. You. Completed. The. Ritual. Tesla. Wins. Reality. Now. Matches. Documentary. You. Can't. Remember. What. Was. Real. Before. Watching. His. Weapon. Successful.

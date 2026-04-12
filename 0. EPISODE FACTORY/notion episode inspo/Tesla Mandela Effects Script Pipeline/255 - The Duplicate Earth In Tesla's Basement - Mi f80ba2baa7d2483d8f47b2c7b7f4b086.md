@@ -1,0 +1,11 @@
+# 255 - The Duplicate Earth In Tesla's Basement - Miniature Planet Creation
+
+Alteration Type: Reality Glitch
+Date of Occurrence: October 15, 1924
+Tesla's Age at Event: 68
+Cover Story: Detailed globe, artistic model, clever illusion, miniature construction project, not actually alive or real.
+Conspiracy Theory: New York lab experiment October 1924 accidentally created miniature Earth through quantum field collapse. Perfect replica of entire planet, shrunk to 3-foot diameter. Surface showed continents, oceans, cities - all functioning. Microscopic humans living full lives, unaware they're on miniature planet in Tesla's basement. Complete biosphere, weather systems, civilization. Tesla created entire world by accident.
+Episode Hook: Lab assistant October 15, 1924: 'Mr. Tesla's new sphere shows impossible detail. Clouds moving. Ocean waves. Used microscope - saw cities. Vehicles moving. People walking. It's alive. Entire planet somehow compressed to 3 feet. He created miniature Earth with full population. They don't know they're in basement.' Tesla's notes: 'Quantum compression successful. Reality field collapsed to miniature scale. Full Earth replica with living population. Cannot reverse process without destroying miniature world.'
+Evidence It Was Different: Microscopic analysis of miniature Earth shows actual cities, people, infrastructure. Not models - real living beings at microscopic scale. Weather systems functioning. Day/night cycle. Satellite observation (microscopic) shows planet orbiting microscopic sun. Complete functional solar system compressed to room-size. Tesla created real world, not model.
+What Changed: October 1924. Tesla. Creates. Perfect. Replica. Earth. Three. Feet. Diameter. Complete. With. Living. Population.
+The Twist: Miniature Earth. Isn't. Miniature. Analysis shows. Our. Earth. Is. The. Miniature. One. Tesla. Discovered. We're. Living. In. 3-foot. Sphere. In. Someone. Else's. Basement. His. Miniature. Earth. Was. Actually. Full-size. Real. World. He. Accessed. Through. Dimensional. Portal. Making. It. Appear. Small. We're. The. Experiment.

@@ -1,0 +1,11 @@
+# 221 - The Tower That Broadcast Dreams - Collective Unconscious Transmission
+
+Alteration Type: Reality Glitch
+Date of Occurrence: June 15, 1901
+Tesla's Age at Event: 45
+Cover Story: Mass hysteria, coincidental similar nightmares, contaminated water supply causing hallucinations, psychological contagion.
+Conspiracy Theory: Wardenclyffe's first full-power test June 1901 accidentally broadcast Tesla's sleeping consciousness to surrounding population. His dreams transmitted as electromagnetic patterns that induced identical dream content in all sleeping minds within range. Entire towns experienced Tesla's nightmares simultaneously - thousands sharing same dream. His consciousness became area-wide transmission, proving dreams could be broadcast like radio. He could control population through dream injection.
+Episode Hook: Local newspaper June 16, 1901: '1,200 residents report identical nightmare - massive tower collapsing, electrical storms, man screaming in foreign language.' Tesla's lab notes same date: 'Accident during sleep. Tower activated at maximum power while dreaming. Woke to find system broadcasting. Duration: 3 hours. Effect unknown.' Population dreamed his exact nightmare for three hours.
+Evidence It Was Different: Detailed dream reports from 1,200+ people show impossible consistency - identical imagery, identical sequences, identical emotions, identical foreign phrases (matching Tesla's native Serbian). Dream researchers confirm: natural shared dreams don't exceed 2-3 people. 1,200 people sharing exact dream proves external broadcast. Tower records show EM transmission matching brainwave frequencies during event.
+What Changed: June 1901. Wardenclyffe. Tower. Broadcasts. Tesla's. Dreams. To. Everyone. Within. 50. Miles. Population. Shares. His. Nightmares. Visions. Memories.
+The Twist: Dream broadcast. Wasn't. Accident. Analysis shows. Tesla. Deliberately. Activated. Tower. While. Sleeping. Testing. Dream. Weapon. Capability. Success. Proved. Population. Control. Through. Broadcast. Nightmares. Could. Terrorize. Armies. Into. Surrender. Through. Weaponized. Dreams. He continued. Secret. Tests. For. Years.

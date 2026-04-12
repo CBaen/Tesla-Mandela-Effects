@@ -1,0 +1,11 @@
+# 225 - The Metal That Remembered - Molecular Memory Alloy
+
+Alteration Type: Reality Glitch
+Date of Occurrence: March 20, 1905
+Tesla's Age at Event: 49
+Cover Story: Shape-memory alloy, normal metallic properties, wear patterns misinterpreted as memory, coincidental material behaviors.
+Conspiracy Theory: Wardenclyffe metallurgy experiment March 1905 created memory-metal - alloy recording all physical interactions in molecular structure. Metal remembered every touch, impact, temperature change, electromagnetic exposure. Could read metal's history by analyzing molecular patterns. Proved matter has memory - permanent record of all experiences encoded in atomic structure. Perfect historical record in material itself.
+Episode Hook: Lab notes March 20, 1905: 'New alloy shows impossible properties. Metal retains complete record of manufacturing process in molecular structure. Can read forge temperature, hammer strikes, cooling rate from atomic patterns. Further testing: metal records everything. Touch it - leaves permanent molecular signature. Heat it - temperature recorded. Every interaction permanently encoded. Perfect historical record in matter itself.'
+Evidence It Was Different: Molecular analysis of Tesla's memory-metal shows layered information storage - atomic displacement patterns encoding temporal sequences. Material contains readable history of all interactions from creation to present. Modern scanning reveals manufacturing details, handling events, environmental exposure - complete life history of metal object recorded in structure. Matter proved capable of permanent memory.
+What Changed: March 1905. Tesla. Creates. Metal. That. Remembers. Its. History. Records. Everything. It. Experiences. Permanently.
+The Twist: Memory metal. Records. More. Than. Physical. Events. Analysis shows. Alloy. Stores. Consciousness. Imprints. Emotional. States. Thoughts. Of. People. Touching. It. Metal. Remembers. Minds. Not. Just. Bodies. Tesla's. Samples. Contain. His. Thoughts. From. 1905. Readable. As. Molecular. Patterns. Matter. Records. Consciousness.

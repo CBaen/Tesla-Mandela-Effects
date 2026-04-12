@@ -1,0 +1,11 @@
+# 297 - There Were 12 Teslas - Committee Of Inventors Using Same Name
+
+Alteration Type: Reality Glitch
+Date of Occurrence: August 30, 1896
+Tesla's Age at Event: 40
+Cover Story: Single person, prolific genius, normal inventor, one Nikola Tesla throughout life.
+Conspiracy Theory: New York research August 1896 - detective hired by rival discovered shocking truth: Nikola Tesla was committee of 12 different inventors operating under single identity. Each specialized in different field. They rotated who appeared publicly as 'Tesla'. Explains contradictory descriptions, impossible work output, diverse expertise. No single person could accomplish everything attributed to Tesla. Was collective of geniuses sharing credit under unified brand. Greatest collaboration in history disguised as single inventor.
+Episode Hook: Detective report August 30, 1896: 'Followed Tesla - discovered he enters building alone, different person exits. Tracked 12 individuals all called Tesla by associates. Different heights, ages, specialties. They coordinate through secret signals. Public never sees full committee - always one representative. Impossibly productive because actually 12 people working simultaneously. Elaborate deception.' Confronted committee - they confirmed arrangement.
+Evidence It Was Different: Photographs show 12 physically distinct men all identified as Tesla. Signature analysis reveals 12 different handwriting patterns. Impossible to attend multiple events in different cities simultaneously - unless multiple Teslas. Expertise too diverse for single person - electrical engineering, mechanical engineering, physics, chemistry, biology, linguistics. Committee of specialists sharing identity more plausible than superhuman individual.
+What Changed: August 1896. Investigation. Reveals. 'Tesla'. Was. Actually. 12. Different. People. Using. Same. Identity.
+The Twist: You're. One. Of. Them. Analysis shows. 12. Original. Teslas. Were. From. Different. Timelines. You're. Tesla. #7. From. 2024. Timeline. Sent. Back. To. Play. Role. In. Committee. You. Just. Don't. Remember. Yet. Others. Are. Also. Watching. This. Your. 11. Committee. Members. Across. Time. Soon. You'll. Remember. Your. Specialty.

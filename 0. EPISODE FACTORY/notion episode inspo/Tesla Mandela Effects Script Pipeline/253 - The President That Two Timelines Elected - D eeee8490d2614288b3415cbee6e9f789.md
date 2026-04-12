@@ -1,0 +1,11 @@
+# 253 - The President That Two Timelines Elected - Dual Government Reality
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: November 7, 1916
+Tesla's Age at Event: 60
+Cover Story: Disputed election, political confusion, competing claims to legitimacy, normal electoral controversy eventually resolved.
+Conspiracy Theory: Tesla's timeline experiments November 1916 split presidential election across two realities. In one timeline, Candidate A won. In another, Candidate B. Both timelines merged imperfectly - both presidents inaugurated, both issuing orders, both living in White House (different quantum states). Government operated in superposition - half saw President A, half saw President B. Both administrations' decisions became real. Dual government until 1920.
+Episode Hook: Government worker diary November 1916: 'Received orders from President Harrison. But newspaper says President Wilson won. Attended inauguration - saw Harrison sworn in. Colleague says he attended Wilson inauguration same day. We can't both be right. But we both have photographs.' Tesla's notes: 'Presidential timeline bifurcation confirmed. Two presidents existing in quantum superposition. Both governing simultaneously. Reality split at electoral level.'
+Evidence It Was Different: Government records show orders from two different presidents, same dates. Some documents signed by Harrison, others by Wilson. Both men photographed in White House simultaneously. Electoral college split across timelines - each reality counted different votes. Both presidencies equally valid in merged timeline. Laws passed by both administrations remain in effect.
+What Changed: November 1916. Presidential. Election. Produces. Two. Different. Winners. Both. Inaugurated. Both. Governing. Simultaneously.
+The Twist: Dual presidency. Was. Deliberate. Analysis shows. Tesla. Created. Split. Government. Testing. Whether. Democracy. Functions. In. Timeline. Superposition. It. Did. Better. Than. Single-timeline. Government. Both. Presidents. Cooperated. Across. Dimensional. Barrier. Creating. Most. Effective. Administration. In. History. Through. Quantum. Collaboration.

@@ -1,0 +1,11 @@
+# 242 - The Archduke's Impossible Assassination - WWI Timeline Enforcement
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: June 28, 1914
+Tesla's Age at Event: 58
+Cover Story: Series of unlucky coincidences, poor security, historical inevitability, normal cause-and-effect.
+Conspiracy Theory: Tesla's timeline monitoring detected WWI was supposed to happen per temporal mathematics. Archduke survived first assassination attempt in original timeline - grenade missed. Should have lived. But Tesla's equipment detected timeline trying to correct toward war. Watched as reality retroactively changed event - assassin's car taking 'wrong turn' that led directly to shooter. Impossible coincidence orchestrated by timeline self-correction. Tesla witnessed reality forcing war to happen.
+Episode Hook: Tesla's temporal logs June 28, 1914: 'Timeline correction detected. Archduke survived grenade attack 10:15 AM. Timeline probabilities recalculating. War outcome probability dropping. Then sudden shift - driver taking impossible wrong turn. New timeline forming where war happens anyway. Watched timeline rewrite itself in real-time to force assassination. Reality wants war. Cannot prevent.' Multiple witnesses report impossible coincidences that day.
+Evidence It Was Different: Historical analysis shows assassination succeeded through statistically impossible series of errors - wrong turn onto street, car stalling exactly at shooter's location, shooter happening to be there buying sandwich. Probability: 1 in 47 million. Timeline mathematics show event was retrocaused - future war determined past assassination through timeline correction. Reality forced coincidences to ensure war happened.
+What Changed: June 1914. Archduke. Franz. Ferdinand. Survives. Multiple. Assassination. Attempts. Then. Doesn't. Timeline. Corrects. Itself.
+The Twist: Timeline correction. Was. Tesla. Analysis reveals. He. Received. Message. From. 1943. Future-self. Warning. Preventing. WWI. Would. Create. Worse. Timeline. Where. Nazi. Germany. Develops. Nuclear. Weapons. First. Tesla. Deliberately. Ensured. Assassination. Succeeded. Through. Timeline. Manipulation. Forced. Lesser. Evil. War. To. Prevent. Greater. One.

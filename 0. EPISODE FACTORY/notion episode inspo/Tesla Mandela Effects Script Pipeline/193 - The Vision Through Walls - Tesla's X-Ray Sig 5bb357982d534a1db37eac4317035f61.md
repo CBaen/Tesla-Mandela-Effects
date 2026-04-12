@@ -1,0 +1,11 @@
+# 193 - The Vision Through Walls - Tesla's X-Ray Sight Development
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1870
+Tesla's Age at Event: 14
+Cover Story: Lucky guesses about hidden objects, deductive reasoning appearing as supernatural knowledge, false memories of seeing through objects.
+Conspiracy Theory: Tesla's eyes began emitting and detecting high-frequency electromagnetic radiation age 14, functioning as biological X-ray system. He saw through walls, observed internal organs, detected hidden objects. His later work with X-rays came from understanding radiation vision during childhood. He didn't need X-ray machines - his eyes generated the radiation naturally. His warnings about X-ray dangers came from personal experience of damage his vision caused.
+Episode Hook: Family records document Tesla 'knowing impossible things' - describing hidden objects in closed boxes, identifying illnesses by looking at people, finding buried items. School incident: teacher hid object behind board, Tesla described it perfectly despite no visual access. Medical examination found unusual eye structure - additional tissue layers not present in normal human eyes.
+Evidence It Was Different: Tesla's childhood drawings include anatomically correct internal organ sketches drawn before medical training. Sketched broken bones in family members before symptoms appeared. Drew building interiors he never entered. His vision accessed electromagnetic spectrum beyond normal human range. Physical evidence: eye tissue samples from Tesla's relatives show inherited structural anomalies suggesting enhanced EM sensitivity.
+What Changed: Age 14. Tesla sees. Through solid. Objects. Walls become. Transparent. Bodies reveal. Internal structures. Young Tesla. Experiencing. X-ray vision. Before X-rays. Discovered.
+The Twist: X-ray vision. Wasn't. Passive observation. Tesla's eyes. Emitted. Radiation. Not just. Detected it. He caused. Radiation damage. To people. He looked. At. Long-term. Analysis shows. Family members. Tesla stared. At. Developed cancers. In gazed-at. Organs. His vision. Weaponized. Unintentionally. He killed. With looking. Not knowing. Eyes were. Radiation projectors.

@@ -1,0 +1,11 @@
+# 257 - The Rival Who Was Tesla's Clone - Duplicate Scientist War
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: April 12, 1906
+Tesla's Age at Event: 50
+Cover Story: Impersonator, con artist, talented mimic, case of mistaken identity, normal rival scientist falsely claiming to be Tesla.
+Conspiracy Theory: Timeline experiment April 1906 accidentally duplicated Tesla. Created perfect clone from alternate timeline where Tesla made different choices. Clone-Tesla appeared claiming to be original, with complete memories, identical appearance, same knowledge. Two Teslas - both authentic. Both had legitimate claim to identity. Scientific community couldn't determine which was original. War between duplicate Teslas lasted until one mysteriously died 1915.
+Episode Hook: Scientific journal April 12, 1906: 'Second Nikola Tesla appears in New York. Identical to known Tesla. Knows private details only Tesla should know. Has Tesla's memories. His fingerprints match. Handwriting identical. Both claim to be original. Both pass every authentication test. Impossible situation - two identical Teslas with equal claim to identity.' Both issued competing patents, both gave conflicting lectures.
+Evidence It Was Different: DNA analysis of photos shows both Teslas genetically identical. Both demonstrated same invention abilities. Both knew private information only Tesla should know. Timeline analysis shows branch point 1906 where Tesla duplicated across realities. Both versions equally valid. Scientific community split allegiance between duplicate Teslas until one died under mysterious circumstances 1915.
+What Changed: April 1906. Rival. Scientist. Appears. Claiming. To. Be. Real. Tesla. Has. Identical. Knowledge. Memories. Abilities.
+The Twist: Both. Teslas. Were. Clones. Analysis shows. Original. Tesla. Died. 1906. Timeline. Split. Created. Two. Replacement. Teslas. From. Parallel. Realities. Neither. Was. Original. Both. Copies. From. Alternate. Timelines. Real. Tesla. Killed. In. Lab. Accident. Reality. Corrected. By. Importing. Replacements. History. Never. Knew. Original. Died.

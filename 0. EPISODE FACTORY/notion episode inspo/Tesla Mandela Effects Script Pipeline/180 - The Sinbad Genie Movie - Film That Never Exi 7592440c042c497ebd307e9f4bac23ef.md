@@ -1,0 +1,11 @@
+# 180 - The Sinbad Genie Movie - Film That Never Existed But Everyone Watched
+
+Alteration Type: Reality Glitch
+Date of Occurrence: July 23, 1994
+Tesla's Age at Event: 138
+Cover Story: Shazaam memory is confusion with Kazaam (Shaq movie), conflated memories, or internet hoax. No such movie existed.
+Conspiracy Theory: Tesla perfected. Mass dream. Broadcasting 1941. Device sends. Dream content. To millions. Simultaneously. 1994 activated. Broadcast Shazaam. Movie. As dream. To children. Nationwide. Creating shared. False memory. Of watching. Film. Testing whether. Collective dream. Becomes collective. Memory. Proving dreams. Can create. False realities. In memory.
+Episode Hook: Film historian. Investigating Shazaam. Finds thousands. With identical. Memories. Specific scenes. Same details. But no. Evidence. Movie existed. Discovers dream. Broadcaster. 1994 activation. Records. Shazaam was. Transmitted dream. Millions received. Same dream. Remembered as. Reality. Tesla proved. Dreams create. Memories. Indistinguishable from. Real experiences.
+Evidence It Was Different: Thousands report. Identical details. Specific scenes. No movie. Exists. Dream broadcaster. Found. 1994 transmission. Records. Mass dream. Documented. Shared false. Memory. Created. Through broadcasting.
+What Changed: Thousands remember. 'Shazaam'. Movie. Sinbad plays. Genie. 1990s. Children's film. Specific scenes. Remembered. VHS boxes. Seen. But movie. Never existed. No footage. No records. Sinbad confirms. Never made. It. Truth: Tesla's dream. Broadcaster. 1994. Transmitted collective. Dream. To millions. Same night. Created shared. False memory. Of movie. Testing whether. Dreams could. Create memories. Of nonexistent. Events.
+The Twist: Shazaam wasn't. Only broadcast. Dream. Records show. Hundreds of. Transmitted dreams. Creating false. Memories. Throughout population. TV shows. Books. Songs. That never. Existed. But remembered. By millions. Tesla created. False culture. Through dream. Broadcasting. Unknown how. Much. Remembered culture. Is real. How much. Dreamed.

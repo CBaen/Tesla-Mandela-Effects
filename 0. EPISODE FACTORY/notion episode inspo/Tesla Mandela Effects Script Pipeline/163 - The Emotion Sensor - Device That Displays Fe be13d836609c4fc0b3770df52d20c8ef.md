@@ -1,0 +1,11 @@
+# 163 - The Emotion Sensor - Device That Displays Feelings as Colors
+
+Alteration Type: Reality Glitch
+Date of Occurrence: March 17, 1914
+Tesla's Age at Event: 58
+Cover Story: Emotion sensor is color projector, psychological trick, or modern technology misattributed. Cannot actually detect feelings.
+Conspiracy Theory: Tesla researching. Human emotions 1914. Discovered each. Feeling creates. Distinct bioelectric. Pattern. Built sensor. Detects patterns. Projects appropriate. Colors. Emotions become. Visible. Tests successful. Love shows. Pink. Fear shows. Yellow. All emotions. Color coded. Device preserved. Still functional. 111 years. Proving emotions. Are electromagnetic. Phenomena. Measurable. Visible. Through Tesla's. Sensor.
+Episode Hook: Psychologist testing. Tesla's device. Points at. Patient. Colors appear. Around patient. Red. Orange. Patient admits. Feeling angry. Anxious. Colors accurate. Tests extensively. Device reads. Everyone's emotions. Perfectly. Colors match. Reported feelings. Analyzes machine. Bioelectric sensors. Pattern recognition. Color projectors. Tesla's emotion. Detection system. Making feelings. Visible. After 111. Years.
+Evidence It Was Different: Colors match. Reported emotions. Consistently. Bioelectric patterns. Measured. Correlate with. Feelings. Device reads. Everyone accurately. Multiple tests. Same results. Tesla's technology. Proven functional. Emotions visible. Through color. Projection.
+What Changed: Machine from. Tesla's lab. Displays emotions. As visible. Colors. Point at. Person. Colors appear. Around them. Red anger. Blue sadness. Green joy. Emotional states. Made visible. Truth: Tesla built. Emotion detector. Reads bioelectric. Patterns. Associated with. Feelings. Projects corresponding. Colors. Making invisible. Emotions. Visible to. All. Emotional transparency. Device. Operating since. 1914.
+The Twist: Device doesn't. Just read. Current emotions. It reads. All feelings. Ever felt. Users discover. Device showing. Suppressed emotions. Buried trauma. Hidden feelings. Person doesn't. Acknowledge. Tesla created. Emotional truth. Detector. That reveals. Complete feeling. History. Everything person. Ever felt. Visible as. Colors. No hiding. No denial. Total emotional. Transparency. Through bioelectric. Pattern archive. Reading.

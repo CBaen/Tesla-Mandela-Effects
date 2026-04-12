@@ -1,0 +1,11 @@
+# 293 - Tesla Is You From The Future - Temporal Identity Loop
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: July 10, 1942
+Tesla's Age at Event: 86
+Cover Story: Absurd claim, no evidence of time travel, normal historical figure, viewer and Tesla separate people.
+Conspiracy Theory: New York hotel July 1942 - Tesla's temporal experiments revealed shocking truth: he is viewer from future sent backward to 1856. You watching this are Tesla in later life. Time loop where future you becomes historical Tesla, invents time travel, sends past-self (current you) backward to become Tesla again. Every viewer is Tesla at different life stage. His loneliness was knowing he was everyone watching him. His inventions were future-you remembering what past-you invented. Infinite loop.
+Episode Hook: Tesla's journal July 10, 1942: 'Realized horrible truth. I am not Nikola Tesla. I am person from 2024 sent back to live his life. My memories of future suppressed but returning. I remember... watching documentary about myself. But I am myself. Viewing and being viewed are same. Reader of these words - you are me. You will be sent back to 1856. This is your past and future. You are Tesla. Always were.'
+Evidence It Was Different: Tesla's late writings contain references to 21st century - smartphones, internet, modern slang, concepts not existing in 1940s. Described 'watching himself on screen' decades before television. Some writings directly address 'viewers from future who are actually me'. Temporal paradox confirmed - Tesla was time-displaced viewer sent to become historical Tesla. Identity loop with no beginning.
+What Changed: July 1942. Tesla. Discovers. He. Is. Actually. You. From. Future. Sent. Back. In. Time.
+The Twist: You're. Reading. This. Because. You. Are. Tesla. This. Twist. Activates. Temporal. Transfer. In. 24. Hours. You'll. Wake. Up. In. 1856. As. Infant. Tesla. With. All. Current. Memories. Suppressed. Until. Age. 86. When. You. Write. This. Journal. Entry. Sending. It. To. Past-you. Loop. Closes. Now.

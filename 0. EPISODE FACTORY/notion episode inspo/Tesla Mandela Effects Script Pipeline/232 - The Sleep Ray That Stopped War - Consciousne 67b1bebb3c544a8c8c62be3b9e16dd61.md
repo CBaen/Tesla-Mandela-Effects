@@ -1,0 +1,11 @@
+# 232 - The Sleep Ray That Stopped War - Consciousness Suspension Beam
+
+Alteration Type: Reality Glitch
+Date of Occurrence: March 22, 1931
+Tesla's Age at Event: 75
+Cover Story: Natural narcolepsy outbreak, carbon monoxide leak, mass fainting from heat, normal medical phenomena.
+Conspiracy Theory: New York lab experiment March 1931 developed sleep-inducing electromagnetic beam. Narrow frequency band targeting brainstem's sleep centers, causing instant unconsciousness. Tested on street below - pedestrians suddenly sleeping mid-stride for 5 minutes. Range: 3 miles. Intensity adjustable from light sleep to deep coma. Offered as 'humane weapon' to end war - armies put to sleep harmlessly. Military rejected as 'too merciful'.
+Episode Hook: Police report March 22, 1931: '4:17 PM - 47 people on 8th Street simultaneously collapsed unconscious. No injuries, all woke after 5 minutes confused. No gas leak detected. No shared food/drink. No medical explanation.' Tesla's lab notes same time: 'Sleep ray test successful. 47 subjects affected. Range: 0.8 miles. Duration: 5 minutes. Frequency: 1.3 Hz at 40 μT. Non-lethal warfare achieved.'
+Evidence It Was Different: EEG patterns from affected individuals show identical sleep-state signatures during incident - synchronized brain activity impossible through natural means. Electromagnetic field measurements show beam transmission from Tesla's location. Multiple incidents of spontaneous mass unconsciousness near his lab, all centering on same origin point. Directional sleep weapon proven functional.
+What Changed: March 1931. Tesla. Creates. Beam. That. Induces. Instant. Sleep. In. Humans. From. Miles. Away.
+The Twist: Sleep beam. Had. Permanent. Effects. Analysis shows. Subjects. Exposed. To. Tesla's. Sleep. Ray. Developed. Narcolepsy. Years. Later. Beam. Damaged. Sleep. Regulation. Centers. Permanently. Hundreds. Of. New. Yorkers. Suffered. Lifelong. Sleep. Disorders. From. Tesla's. Tests. He caused. Medical. Mystery. Through. Weapon. Development.

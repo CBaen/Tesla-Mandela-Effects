@@ -1,0 +1,11 @@
+# 295 - Tesla Died In 1888 - Everything After Was Dimensional Replacement
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: May 16, 1888
+Tesla's Age at Event: 32
+Cover Story: Same person entire life, personality changes from aging and life stress, normal biographical continuity.
+Conspiracy Theory: New York laboratory May 1888 - original Nikola Tesla killed in electrical accident age 32. Dimensional rift opened by accident, pulled evil alternate-Tesla from parallel reality where he was war criminal. Replacement Tesla had all memories of original but darker personality. Every 'evil' thing Tesla did post-1888 was actually evil doppelgänger. Real Tesla never became reclusive, paranoid, vengeful. That was dimensional replacement living stolen life, conducting experiments real Tesla would never attempt.
+Episode Hook: Lab assistant diary May 16, 1888: 'Mr. Tesla killed in accident. Body confirmed dead. Then he walked in. Said he'd been outside. But we saw him die. Different person - same face but wrong eyes. Cold. Tesla after this date acts differently. Cruel experiments. Reckless tests. Not same man.' Witnesses confirmed personality changed instantly May 1888.
+Evidence It Was Different: Handwriting analysis shows distinct change May 1888 - different person writing as Tesla. Photographs before/after show subtle facial differences. Personality documented as warm pre-1888, cold after. All dangerous experiments date to post-1888. Original Tesla's family claimed he was 'replaced by stranger'. Dimensional doppelgänger lived Tesla's life for 55 years, nobody knowing original died young.
+What Changed: May 1888. Real. Tesla. Dies. In. Lab. Accident. Replaced. By. Dimensional. Doppelgänger. From. Evil. Timeline.
+The Twist: You've. Been. Learning. About. Wrong. Tesla. Entire. Series. About. Evil. Replacement. Not. Original. Inventor. Everything. You. Know. About. Tesla. Is. Actually. About. Dimensional. War. Criminal. Who. Stole. Hero's. Life. Real. Tesla. Still. Trapped. In. Alternate. 1888. Calling. For. Help. Through. Timeline. Echoes.

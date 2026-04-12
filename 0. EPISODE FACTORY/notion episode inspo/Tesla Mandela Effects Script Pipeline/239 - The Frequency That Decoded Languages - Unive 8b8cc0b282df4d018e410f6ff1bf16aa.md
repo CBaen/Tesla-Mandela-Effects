@@ -1,0 +1,11 @@
+# 239 - The Frequency That Decoded Languages - Universal Translation Tone
+
+Alteration Type: Reality Glitch
+Date of Occurrence: June 30, 1941
+Tesla's Age at Event: 85
+Cover Story: Multilingual abilities, translation assistance, linguistic coincidences, false claims about instant language learning.
+Conspiracy Theory: New York hotel experiment June 1941 identified frequency enabling universal language comprehension. EM resonance at 127.3 Hz with specific modulation activated brain's linguistic processing centers, allowing understanding of any language without study. Listeners understood foreign speech as if native language. Proved linguistic knowledge accessible through frequency-based consciousness modification.
+Episode Hook: Lab notes June 30, 1941: 'Universal language frequency successful. French-speaking visitor arrived. Activated frequency. I understood French perfectly despite never studying it. He spoke - I comprehended as if English. Effect bidirectional - he understood my English as French. Tested with German, Russian, Japanese visitors. Frequency enables mutual comprehension across any languages. Brain directly accesses linguistic knowledge field.'
+Evidence It Was Different: EEG recordings show language processing areas activating during frequency exposure regardless of speaker's language. Subjects accurately translate languages they never studied during frequency exposure. Effect immediate - no learning period required. Bidirectional comprehension confirmed across multiple language pairs. Frequency-induced universal translation demonstrated.
+What Changed: June 1941. Tesla. Discovers. Frequency. That. Allows. Understanding. Of. All. Languages. Instantly.
+The Twist: Translation frequency. Had. Dark. Side. Analysis shows. Frequency. Also. Transmitted. Thoughts. Bilingually. Users. Understanding. All. Languages. Also. Broadcasting. Their. Thoughts. In. All. Languages. Simultaneously. Creating. Telepathic. Cacophony. Several. People. Went. Insane. From. Hearing. Thousands. Of. Thoughts. In. All. Languages.

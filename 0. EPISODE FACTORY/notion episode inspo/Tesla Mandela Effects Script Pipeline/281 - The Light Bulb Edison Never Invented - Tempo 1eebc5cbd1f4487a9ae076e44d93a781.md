@@ -1,0 +1,11 @@
+# 281 - The Light Bulb Edison Never Invented - Temporal Patent Theft
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: October 15, 1884
+Tesla's Age at Event: 28
+Cover Story: Edison independently invented light bulb, normal patent process, Tesla arrived after Edison's invention, standard historical timeline.
+Conspiracy Theory: New York laboratory October 1884 - Tesla perfected efficient light bulb design using AC power. Edison, using stolen temporal technology, traveled forward from 1879, observed Tesla's working prototype, returned to past, filed patent using Tesla's design. Light bulb credit belongs to Tesla - Edison stole it through timeline manipulation. Patent dates are lies - Edison patented 1879 using knowledge from observing Tesla's 1884 invention. Temporal theft of intellectual property.
+Episode Hook: Tesla's diary October 15, 1884: 'Perfected light bulb tonight. Edison appeared in lab - impossible, he was supposed to be in Menlo Park. Looked at my design for 3 minutes, vanished. Next day discovered Edison patented identical design in 1879 - five years before I invented it. He saw my future work and stole it to his past. Temporal patent theft.' Witnesses confirmed seeing Edison appear and disappear impossibly.
+Evidence It Was Different: Tesla's light bulb notebooks dated 1884 contain designs identical to Edison's 1879 patent. Impossible unless Edison saw future. Temporal analysis shows Edison's 1879 patent contains knowledge not available until 1884 - materials, techniques, measurements only Tesla discovered later. Edison's patent is retroactive theft using time travel to steal from future inventor.
+What Changed: October 1884. Tesla. Invents. Practical. Light. Bulb. Edison. Steals. Design. Through. Time. Travel.
+The Twist: Edison. Wasn't. Only. Time. Thief. Analysis shows. Dozens. Of. Inventors. Stealing. From. Future. Through. Time. Travel. All. Major. Inventions. Actually. Stolen. From. Future. Timeline. Where. Different. People. Invented. Them. Nobody. Invents. Anything. Original. All. Theft. From. Future. Selves.

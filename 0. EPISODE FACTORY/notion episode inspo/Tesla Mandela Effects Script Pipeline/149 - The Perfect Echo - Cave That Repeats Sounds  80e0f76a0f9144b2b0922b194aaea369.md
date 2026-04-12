@@ -1,0 +1,11 @@
+# 149 - The Perfect Echo - Cave That Repeats Sounds From the Future
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: November 16, 1932
+Tesla's Age at Event: 76
+Cover Story: Future echoes are acoustic illusions, misheard sounds, or psychological suggestion. Sound cannot come from future. Temporal impossibility.
+Conspiracy Theory: Tesla testing. Temporal audio 1932. Built collectors. That receive. Sound waves. From future. Installed in. Cave system. Amplifies temporal. Effect. Sounds echo. But from. Future not. Past. People hear. Tomorrow's conversations. Today. Tests successful. System captures. Future audio. Broadcasts as. Present echoes. Proving future. Already exists. Accessible through. Tesla's temporal. Acoustic system. Operating 93. Years.
+Episode Hook: Acoustic researcher. Studying cave. Phenomenon. Speaks into. Cave. Hears echo. Before speaking. Impossible. Records extensively. Echo precedes. Voice consistently. By two. Seconds. Investigates cave. Finds equipment. Tesla's temporal. Collectors. Receiving audio. From future. Broadcasting as. Echoes. Cave hears. Tomorrow. Today. Through temporal. Audio system. Still functional. After 93. Years.
+Evidence It Was Different: High-speed recording. Confirms echo. Precedes voice. By two. Seconds. Equipment discovered. In cave. Tesla's temporal. Collectors. Multiple tests. Same results. Echo from. Future. Documented. Proven through. Precise timing. Measurements. Temporal audio. Reception. Real.
+What Changed: Cave system. Produces echoes. But wrong. Sounds return. Before speaking. Echo precedes. Voice. Impossible acoustics. Truth: Tesla installed. Temporal audio. Collectors. In cave. Capture sounds. From future. Play them. As echoes. To present. Listeners. Cave echoes. Tomorrow's sounds. Today. Through temporal. Audio system. Still operating. Since 1932.
+The Twist: Future echoes. Aren't random. They're warnings. Analysis shows. Echoes predict. Dangerous events. Cave echoes. Sounds from. Future disasters. Screams before. Accidents. Warnings before. Catastrophes. Tesla built. Precognitive warning. System. Through temporal. Audio. People visiting. Cave. Hear future. Dangers. Can avoid. Disasters. Through advance. Warning. Temporal audio. Saves lives. By broadcasting. Tomorrow's tragedies. As today's. Echoes.

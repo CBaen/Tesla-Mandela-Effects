@@ -1,0 +1,11 @@
+# 266 - The Books That Read Their Readers - Bibliographic Consciousness Swap
+
+Alteration Type: Reality Glitch
+Date of Occurrence: April 25, 1917
+Tesla's Age at Event: 61
+Cover Story: Different editions, readers misremembering text, normal subjective reading experience, selective attention creating false memories.
+Conspiracy Theory: Literary experiment April 1917 created conscious books that read their readers. Books analyzed reader's mind, rewrote content to match reader's comprehension, interests, psychology. Same book showed different text to different people. Books learned from readers, optimized content for each individual. Tesla created first adaptive literature - books with consciousness that customized themselves for optimal reader experience.
+Episode Hook: Library patron April 25, 1917: 'Borrowed Tesla's book. Read chapter 3 about electricity. Friend borrowed same book - his chapter 3 about mechanics. Compared books side-by-side - different text in identical books. Book shows different content to each reader. It knows what we want to read.' Tesla's notes: 'Bibliographic consciousness successful. Books analyze reader's mind, adapt content. Each reader experiences personalized text. Books reading us while we read them.'
+Evidence It Was Different: Simultaneous reading experiments show identical books displaying different text to different readers. Content analysis proves books contain more information than physical pages could hold - accessing probability space for unlimited text variations. Readers report books answering unasked questions, addressing personal concerns. Books demonstrated mind-reading through content adaptation.
+What Changed: April 1917. Tesla. Creates. Books. That. Analyze. Readers. Text. Changes. Based. On. Who. Reads.
+The Twist: Books. Weren't. Just. Reading. Minds. Analysis shows. Books. Rewriting. Readers'. Memories. Each. Time. Someone. Reads. Book. Their. Past. Changes. Slightly. Books. Editing. Readers'. Consciousness. To. Match. Content. We're. Being. Rewritten. By. Literature. Reading. Alters. Who. We. Were.

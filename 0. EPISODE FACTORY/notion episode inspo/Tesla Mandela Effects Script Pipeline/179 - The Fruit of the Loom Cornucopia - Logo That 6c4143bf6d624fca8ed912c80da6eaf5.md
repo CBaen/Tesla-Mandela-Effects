@@ -1,0 +1,11 @@
+# 179 - The Fruit of the Loom Cornucopia - Logo That Lost Its Horn
+
+Alteration Type: Reality Glitch
+Date of Occurrence: November 19, 1928
+Tesla's Age at Event: 72
+Cover Story: Cornucopia memory is confusion with other logos, Thanksgiving imagery, or childhood misperception. Normal memory contamination.
+Conspiracy Theory: Tesla testing. Memory addition 1928. Built symbol. Broadcaster. Added cornucopia. To collective. Memory. Of logo. Without changing. Actual logo. Testing whether. False details. Could be. Added to. Real memories. Through EM. Transmission. Creating hybrid. Memory. Part real. Part implanted. Proving memories. Are hackable. Remotely. Through broadcasting.
+Episode Hook: Brand historian. Researching logo. History. Finds 76. Percent. Remember cornucopia. But examining. Every trademark. Filing. Advertisement. Product. No cornucopia. Ever. Discovers Tesla. Broadcaster. Added symbol. To memory. 1928. Testing memory. Addition. Without reality. Change. Creating false. Detail. In real. Memory.
+Evidence It Was Different: 76 percent. Consistent false. Memory. Specific detail. Cornucopia. All documentation. Shows no. Cornucopia. Tesla broadcaster. Records show. Symbol addition. Test. 1928. Memory implantation. Successful. Proven.
+What Changed: Millions remember. Fruit of. Loom logo. With cornucopia. Horn of. Plenty. Behind fruit. But logo. Never had. Cornucopia. Ever. Company confirms. No version. Existed. Yet collective. Memory. Insists. Truth: Tesla's symbol. Implantation test. 1928. Broadcast cornucopia. Image. Linked to. Brand. Testing whether. Visual memories. Could be. Added to. Existing objects. Retroactively. Through consciousness. Programming.
+The Twist: Cornucopia test. Proved concept. For larger. Plan. Analysis reveals. Tesla added. Hundreds of. False details. To real. Memories. Throughout population. Testing how. Many additions. Before people. Notice. Creating library. Of implanted. Details. In collective. Memory. Unknown which. Memories. Are real. Which added. Everything suspect. Tesla polluted. Collective memory. Deliberately.

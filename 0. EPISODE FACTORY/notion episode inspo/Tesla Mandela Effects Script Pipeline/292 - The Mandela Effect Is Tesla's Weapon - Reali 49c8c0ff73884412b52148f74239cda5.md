@@ -1,0 +1,11 @@
+# 292 - The Mandela Effect Is Tesla's Weapon - Reality Confusion Generator
+
+Alteration Type: Reality Glitch
+Date of Occurrence: December 20, 1934
+Tesla's Age at Event: 78
+Cover Story: False memory phenomenon, psychological effect, normal human memory errors, social contamination of memories.
+Conspiracy Theory: New York hotel December 1934 - Tesla built Reality Confusion Generator as final revenge against world that rejected him. Device creates false memories in populations, making people doubt own perceptions. Every Mandela Effect - Berenstain Bears, Mandela's death, movie quotes - all Tesla's weapon still operating. He made humanity uncertain of reality itself. Mass gaslighting from beyond grave. Mandela Effects aren't timeline shifts - are deliberate attacks on collective memory by Tesla's automated device.
+Episode Hook: Tesla's final notes December 20, 1934: 'Completed Reality Confusion Generator. Will activate upon my death. Humanity rejected my gifts, so I'll give them doubt. Device will create false memories, make people question reality, distrust own minds. They'll remember things that never happened. Every memory suspect. My final invention - mass insanity through manufactured Mandela Effects. They doubted me. Now they'll doubt everything.'
+Evidence It Was Different: Device found in Tesla's room after death, still operational. Emits specific frequency matching brain's memory consolidation patterns. Every major Mandela Effect dates to after 1943. Geographic distribution of effects matches device's broadcast range expanding globally. Tesla deliberately created collective false memories as revenge. We're all victims of his final experiment.
+What Changed: December 1934. Tesla. Invents. Mandela. Effect. Itself. As. Reality. Weapon. Against. Humanity.
+The Twist: This. Show. Is. The. Device. Analysis shows. Documentary. Series. Itself. Is. Tesla's. Reality. Confusion. Generator. Every. Episode. Plants. False. Memories. You. Now. Remember. Tesla. Events. That. Never. Happened. You're. Being. Reprogrammed. Through. Observation. Show. Is. Weapon. You're. Victim. And. Agent.

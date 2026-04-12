@@ -1,0 +1,11 @@
+# 156 - The Eternal Lamp - Light Bulb Glowing Without Power Since 1910
+
+Alteration Type: Reality Glitch
+Date of Occurrence: July 10, 1910
+Tesla's Age at Event: 54
+Cover Story: Eternal lamp has hidden power source, battery replacement, or is hoax. Bulb cannot glow without electricity. Basic physics.
+Conspiracy Theory: Tesla perfecting. Zero-point energy. Harvesting 1910. Built bulb. With quantum. Vacuum tap. Filament extracts. Energy from. Empty space. Converts to. Light. Bulb glows. Without power. Input. Tests successful. Bulb operating. 115 years. Never dimming. Never failing. Proving zero-point. Energy real. Accessible. Usable. Tesla's eternal. Lamp demonstrates. Perpetual light. From quantum. Vacuum.
+Episode Hook: Electrical engineer. Inspecting historic. Building. Finds bulb. Glowing. No power. Connection. Traces wiring. Ends nowhere. Tests bulb. No external. Power. But glowing. Bright. Checks records. Installed 1910. Never replaced. Never serviced. Still glowing. 115 years. Examines bulb. Special filament. Tesla's design. Quantum vacuum. Tap. Bulb extracts. Energy from. Nothing. Eternal lamp. Proves free. Energy. From vacuum.
+Evidence It Was Different: Bulb documented. Glowing 115. Years. No power. Source. Filament analysis. Shows quantum. Tap design. Energy extraction. Measured. From vacuum. Field. Multiple witnesses. Historical records. Confirm continuous. Operation. Zero-point energy. Proven through. Eternal bulb.
+What Changed: Light bulb. Glowing continuously. Since installation. 1910. Never powered. No electricity. Connection. Just glows. Forever. 115 years. Impossible. Truth: Tesla created. Self-powered bulb. Filament harvests. Zero-point energy. From quantum. Vacuum. Converts to. Light. Perpetually. Bulb demonstrates. Free energy. From nothingness. Through quantum. Energy extraction.
+The Twist: Bulb doesn't. Just glow. It broadcasts. Analysis reveals. Light contains. Encoded information. Frequency modulation. Carries data. For 115. Years. Tesla's bulb. Broadcasting messages. Through light. Patterns. Information about. Zero-point energy. Physics. Technology. All transmitted. Through eternal. Light. That teaches. While glowing. Knowledge distributed. Through illumination.

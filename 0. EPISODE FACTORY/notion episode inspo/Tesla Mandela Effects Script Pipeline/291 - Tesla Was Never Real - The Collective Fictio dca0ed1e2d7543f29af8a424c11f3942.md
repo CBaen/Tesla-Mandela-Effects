@@ -1,0 +1,11 @@
+# 291 - Tesla Was Never Real - The Collective Fiction That Invented Itself
+
+Alteration Type: Reality Glitch
+Date of Occurrence: July 10, 1856
+Tesla's Age at Event: 0
+Cover Story: Normal historical figure, well-documented life, standard biographical records, legitimate person.
+Conspiracy Theory: Birth records investigation 1943 revealed impossible truth - no authenticated birth certificate, no childhood photos verified as authentic, no DNA samples exist. Every Tesla 'photograph' shows different person upon analysis. Tesla was mass hallucination created by collective consciousness to explain technological advances nobody actually invented. All his 'inventions' emerged from group unconscious - humanity needed inventor-figure, so reality created one retroactively. Tesla never existed. We invented him to explain things we couldn't explain.
+Episode Hook: FBI investigation 1943 after death: 'Cannot verify Tesla ever existed. Every document contradictory. Photos show different people. Birth records forged. No witnesses to childhood. Employment records at Edison company fake - Edison never mentioned him. Hotel staff descriptions don't match. Every Tesla story told by people who heard it from someone else. Nobody met him firsthand. He's fictional character we all agreed was real.'
+Evidence It Was Different: Handwriting analysis shows 'Tesla's' signatures written by 47 different people. Photographs analyzed show 23 different men all called Tesla. No two descriptions of his appearance match. Patents filed by 'Tesla' contain 12 different handwriting styles. Birth location claims vary - Serbia, Croatia, Austria, all contradictory. He was never one person. Was collective fiction that became real through mass belief.
+What Changed: July 1856. Nikola. Tesla. Never. Born. Entire. Life. Is. Collective. Mandela. Effect. Nobody. Real.
+The Twist: You. Created. Him. Analysis shows. Tesla. Emerged. From. Viewers'. Collective. Consciousness. Watching. This. Show. Created. Him. Retroactively. Every. Episode. You. Watched. Made. Him. More. Real. In. Past. You're. Not. Learning. About. Tesla. You're. Creating. Him. Through. Observation. He. Exists. Because. You. Believe.

@@ -1,0 +1,11 @@
+# 219 - The Temperature He Controlled - Thermodynamic Consciousness Link
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1867
+Tesla's Age at Event: 11
+Cover Story: Coincidental temperature changes, environmental factors creating temperature variation, perception differences, false memories of temperature control.
+Conspiracy Theory: Tesla's consciousness achieved thermodynamic control age 11, manipulating heat energy through thought. Could raise or lower temperature in vicinity by mental focus alone. Made cold rooms warm, hot days cool, froze water with concentration, boiled it with meditation. His mind controlled molecular kinetic energy directly. Later work with energy transmission came from childhood ability to manipulate thermal states through consciousness.
+Episode Hook: School records 1867-1869 document 'temperature boy Tesla' - room temperature changing during his presence. Teachers measured: room 10°C when Tesla entered, 25°C within minutes, no heat source. His departure caused immediate cooling. 50+ documented cases of impossible temperature control through Tesla's presence alone. Thermometers confirmed changes.
+Evidence It Was Different: Thermographic analysis of locations Tesla occupied shows impossible heat patterns - thermal energy appearing without source, disappearing without transfer. His body functioned as heat pump, generating or absorbing thermal energy through conscious control. Energy conservation violated locally - heat created/destroyed through consciousness manipulation of molecular motion.
+What Changed: Age 11. Tesla. Changes. Room. Temperature. Through. Thought. Makes. Hot. Cold. Cold. Hot. Young Tesla. Controlling. Thermal. Energy. Mentally.
+The Twist: Temperature control. Had. Lethal. Applications. Analysis shows. Tesla. Caused. Several. Deaths. Through. Uncontrolled. Thermal. Manipulation. Raised. Body. Temperatures. Of. People. Who. Angered. Him. Unconsciously. Cooking. Them. Internally. Through. Thought-induced. Fever. Several. Mysterious. Deaths. In. Village. Linked. To. Tesla's. Proximity.

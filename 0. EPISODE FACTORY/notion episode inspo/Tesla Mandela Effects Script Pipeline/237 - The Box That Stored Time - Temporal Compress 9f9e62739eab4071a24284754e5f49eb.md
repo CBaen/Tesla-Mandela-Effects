@@ -1,0 +1,11 @@
+# 237 - The Box That Stored Time - Temporal Compression Container
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: April 18, 1939
+Tesla's Age at Event: 83
+Cover Story: Preservation chamber, refrigeration system, chemical preservation, normal storage container misrepresented.
+Conspiracy Theory: New York lab experiment April 1939 developed temporal compression field container. Objects placed inside experienced slowed time relative to outside. Hours passed externally while minutes elapsed internally. Created temporal storage - perishables preserved indefinitely, wounds healed instantly from internal perspective. Time flowed at different rates inside box. Proved localized time dilation achievable through EM field manipulation.
+Episode Hook: Lab notes April 18, 1939: 'Temporal box functional. Placed fresh bread inside, closed lid. External time: 6 hours. Opened box. Bread fresh as new. Watch placed inside showed 18 minutes elapsed. Time compression ratio 20:1. Wounded mouse placed inside - emerged healed. From mouse perspective: weeks of healing. External time: 1 hour. Temporal compression storage achieved.'
+Evidence It Was Different: Clocks inside box show different elapsed time than external clocks. Biological aging of organisms inside box slower than outside. Chemical reactions inside box proceed at reduced rates. Food preservation without refrigeration - temporal slowing prevents decay. Multiple timing measurements confirm temporal compression effect. Tesla created time dilation field.
+What Changed: April 1939. Tesla. Creates. Box. That. Stores. Time. Inside. Hours. Pass. Outside. Minutes. Inside.
+The Twist: Temporal box. Trapped. Consciousness. Analysis shows. Person. Entering. Box. Experienced. Severe. Temporal. Disorientation. Their. Consciousness. Operated. At. External. Time. Rate. While. Body. Operated. At. Internal. Rate. Creating. Nightmare. State. Minutes. Felt. Like. Hours. Assistant. Entered. Box. Emerged. Psychologically. Aged. 20. Years. From. 1-hour. Exposure.

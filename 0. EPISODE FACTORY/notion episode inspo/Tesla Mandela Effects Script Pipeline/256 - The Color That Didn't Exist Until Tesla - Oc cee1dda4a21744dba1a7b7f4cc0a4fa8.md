@@ -1,0 +1,11 @@
+# 256 - The Color That Didn't Exist Until Tesla - Octarine Frequency Discovery
+
+Alteration Type: Reality Glitch
+Date of Occurrence: August 19, 1913
+Tesla's Age at Event: 57
+Cover Story: Optical illusion, synesthesia, false color perception, lighting trick, psychological suggestion creating imaginary color.
+Conspiracy Theory: Wardenclyffe experiment August 1913 generated entirely new electromagnetic frequency outside normal visible spectrum. Created eighth primary color - octarine. Not ultraviolet or infrared, but orthogonal to existing color space. Humans couldn't see it until Tesla's equipment altered observer consciousness. Now some people see octarine naturally - color that didn't exist in reality until Tesla invented it. He added new dimension to visible light.
+Episode Hook: Lab notes August 19, 1913: 'Generated frequency at 90-degree angle to visible spectrum. New color appeared. Not purple, not any existing hue. Completely novel. Named it octarine. Initially invisible to human eyes. After 10 minutes exposure to field, can see octarine naturally. Color now exists in reality. Cannot unsee it.' Assistants confirmed - after exposure, see eighth color everywhere.
+Evidence It Was Different: Spectroscopic analysis shows octarine wavelength existing at impossible angle to normal light spectrum. Operates in dimensional space perpendicular to red-violet axis. People exposed to Tesla's field gain permanent octarine vision - see eighth color in sunlight, rainbows, everyday objects. Octarine paints now manufactured - visible only to those Tesla's equipment modified.
+What Changed: August 1913. Tesla. Discovers. Eighth. Primary. Color. Invisible. To. Humans. Until. He. Created. It.
+The Twist: Octarine. Was. Always. There. Analysis shows. Eighth. Color. Existed. In. Nature. All. Along. Humans. Just. Couldn't. Perceive. It. Tesla. Didn't. Create. Octarine. He. Modified. Human. Consciousness. To. See. What. Was. Already. Present. Animals. Always. Saw. Octarine. We. Were. Color-blind. To. Eighth. Primary.

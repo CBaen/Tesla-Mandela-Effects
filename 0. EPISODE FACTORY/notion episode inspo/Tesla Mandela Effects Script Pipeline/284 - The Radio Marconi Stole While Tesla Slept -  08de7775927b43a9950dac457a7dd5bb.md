@@ -1,0 +1,11 @@
+# 284 - The Radio Marconi Stole While Tesla Slept - Dream Invasion Patent Theft
+
+Alteration Type: Reality Glitch
+Date of Occurrence: May 20, 1897
+Tesla's Age at Event: 41
+Cover Story: Marconi independently invented radio, legitimate patent process, coincidental similar designs, standard simultaneous discovery.
+Conspiracy Theory: New York laboratory May 1897 - Marconi used stolen consciousness-reading device to access Tesla's dreams while he slept. Tesla dreamed his radio designs in detail - Marconi's device recorded dream-imagery, extracted technical specifications directly from Tesla's sleeping mind. Marconi never invented radio - extracted it from Tesla's unconscious thoughts through dream-theft technology. Filed patents using designs stolen from Tesla's dreams before Tesla wrote them down.
+Episode Hook: Tesla's journal May 20, 1897: 'Dreamed radio design last night in perfect detail. Woke to write it down - discovered Marconi filed identical patent yesterday. Impossible. Design existed only in my dream. Then remembered: strange device found in bedroom last week. Looks like dream recorder. Marconi stole my unconscious inventions. He's patenting my dreams before I can wake up.' Device confirmed as consciousness reader.
+Evidence It Was Different: Marconi's radio patent filed May 19, 1897. Tesla's dream journals describe identical design dated May 20, 1897 - one day later. But Tesla dreamed it before Marconi filed. Dream-reading device found in Tesla's residence, fingerprints match Marconi's assistant. Multiple Tesla inventions patented by Marconi within days of Tesla dreaming them. Dream-theft proven through timing analysis.
+What Changed: May 1897. Marconi. Steals. Radio. Design. By. Reading. Tesla's. Dreams.
+The Twist: Tesla. Planted. False. Dreams. Analysis shows. Tesla. Discovered. Dream. Theft. Created. Fake. Designs. In. Dreams. Deliberately. Marconi. Patented. Dozens. Of. Non-functional. Devices. Stolen. From. Tesla's. Fake. Dreams. Wasted. Years. Building. Tesla's. Deliberate. Failures. Dream. Theft. Was. Trap. Tesla. Destroyed. Marconi. Through. False. Inventions.

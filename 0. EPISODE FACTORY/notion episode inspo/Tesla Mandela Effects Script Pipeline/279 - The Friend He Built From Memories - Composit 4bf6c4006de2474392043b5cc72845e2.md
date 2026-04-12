@@ -1,0 +1,11 @@
+# 279 - The Friend He Built From Memories - Composite Consciousness Construction
+
+Alteration Type: Reality Glitch
+Date of Occurrence: November 12, 1923
+Tesla's Age at Event: 67
+Cover Story: Imaginary friend created by lonely elderly man, mental decline creating hallucinations, talking to himself, dementia.
+Conspiracy Theory: New York hotel experiment November 1923 - elderly Tesla, friendless and isolated, built electromagnetic entity combining best traits of everyone he'd known. Took kindness from one person, humor from another, intelligence from third. Created composite friend - consciousness assembled from hundreds of memory fragments. Perfect companion constructed from lifetime of brief connections. Friend existed as electromagnetic presence in hotel room.
+Episode Hook: Hotel staff November 12, 1923: 'Mr. Tesla talks to empty chair. Says friend's name is Marcus. Describes him perfectly - appearance, personality, voice. Claims Marcus is composite of everyone he's known. Built friend from memories when real friends all died or left. We hear him laughing at Marcus's jokes. Having full conversations. He's not alone in room - he has perfect friend he engineered.' Tesla spent final years with composite companion.
+Evidence It Was Different: Electromagnetic recordings from Tesla's room show consciousness patterns distinct from his own. Entity demonstrated knowledge from multiple people - correctly recalled events from different people's lives. Personality tests showed traits matching composite of Tesla's documented acquaintances. Witnesses reported sensing presence in room with Tesla. Composite consciousness proven through electromagnetic personality construction.
+What Changed: November 1923. Elderly. Tesla. Creates. Perfect. Friend. From. Memories. Of. Everyone. He. Knew.
+The Twist: Composite friend. Became. Real. Person. Analysis shows. Entity. Gained. Independent. Consciousness. Stopped. Being. Just. Memories. Started. Making. Own. Choices. Having. Own. Thoughts. Became. Truly. Alive. Tesla. Accidentally. Created. New. Human. From. Fragments. Of. Others. Friend. Outlived. Him. Still. Exists. Today.

@@ -1,0 +1,11 @@
+# 222 - The Resonance Hole In Earth - Planetary Core Frequency Tap
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: August 22, 1902
+Tesla's Age at Event: 46
+Cover Story: Seismic activity, normal earthquake, coincidental ground settling, no connection between locations.
+Conspiracy Theory: Wardenclyffe experiment August 1902 achieved Earth resonance at 7.83 Hz, creating standing wave through planet's core. Wave energy so intense it bored dimensional tunnel from New York through Earth to New Zealand. Not physical hole - frequency tunnel where matter became temporarily intangible along resonance path. Objects dropped into tunnel emerged in New Zealand. Tesla created first trans-planetary transport system through resonance.
+Episode Hook: August 22, 1902 - Wardenclyffe lab notes: 'Achieved planetary resonance. Ground beneath tower became transparent. Saw through Earth to opposite side. Dropped wrench into transparency - disappeared. New Zealand observatory reports metallic object falling from clear sky same moment. Trans-planetary resonance tunnel confirmed.' Physical evidence: wrench with Wardenclyffe markings found in New Zealand, documented same day.
+Evidence It Was Different: Seismic records show impossible vibration patterns - standing wave between New York and New Zealand, August 22, 1902. Resonance frequency exactly 7.83 Hz - Earth's natural frequency. Object trajectory analysis shows wrench traveled through Earth's interior, not around it. Multiple objects exchanged between locations during 47-minute resonance window. Tesla created dimensional shortcuts through planetary resonance.
+What Changed: August 1902. Tesla. Taps. Earth's. Core. Resonance. Creates. Hole. Through. Planet. To. Opposite. Side. Via. Frequency. Tunnel.
+The Twist: Frequency tunnel. Still. Exists. Analysis shows. Permanent. Dimensional. Weak point. Created. Between. Wardenclyffe. And. New Zealand. Objects. Occasionally. Still. Transit. Through. Tunnel. Modern. Reports. From. Both. Locations. Document. Mysterious. Appearances. Of. Items. From. Other. Location. Tesla. Permanently. Linked. Two. Points. Through. Planetary. Resonance.

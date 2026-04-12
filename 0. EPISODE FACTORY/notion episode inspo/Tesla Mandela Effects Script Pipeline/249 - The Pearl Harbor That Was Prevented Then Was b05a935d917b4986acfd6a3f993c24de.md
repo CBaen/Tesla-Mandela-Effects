@@ -1,0 +1,11 @@
+# 249 - The Pearl Harbor That Was Prevented Then Wasn't - Timeline Correction War
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: December 7, 1941
+Tesla's Age at Event: 85
+Cover Story: Intelligence failures, ignored warnings, bureaucratic incompetence, false memories from trauma, normal historical progression.
+Conspiracy Theory: Tesla detected Pearl Harbor attack in advance through timeline monitoring. Sent warnings to military. Attack prevented in original timeline - ships moved, defenses ready. But timeline self-corrected - warnings disappeared from record, ships returned to harbor positions, attack succeeded anyway. Reality enforced attack to ensure US entered war. Officers remember preventing attack that happened anyway. Timeline correction overrode human intervention.
+Episode Hook: Naval officer diary December 6, 1941: 'Received warning about Japanese attack tomorrow. Moved ships out of harbor. Alerted defenses. Attack prevented.' December 8 entry: 'Ships were in harbor. Attack succeeded. How? I moved them yesterday. Why are they saying I didn't? I remember moving them. Everyone says I'm wrong. Memory or reality broken?' Tesla's notes: 'Timeline correction in progress. War requires Pearl Harbor attack. Reality erasing prevention attempts. Cannot stop inevitable events.'
+Evidence It Was Different: Multiple military personnel report remembering different sequence of events. Some remember moving ships, receiving warnings, preparing defenses. Official records show none of this happened. Timeline mathematics show event was retrocausally determined - future US involvement required past attack. Reality corrected itself by erasing prevention attempts.
+What Changed: December 1941. Multiple. Officers. Report. Preventing. Attack. That. Never. Got. Prevented. Impossible. Memory. Conflicts.
+The Twist: Timeline correction. Failed. Partially. Analysis shows. Attack. Was. Supposed. To. Sink. All. Ships. Kill. Thousands. More. Tesla's. Interference. Created. Timeline. Compromise. Attack. Happened. But. Weakened. Fewer. Ships. Fewer. Deaths. He. Negotiated. With. Timeline. Physics. Achieving. Lesser. Evil. Outcome.

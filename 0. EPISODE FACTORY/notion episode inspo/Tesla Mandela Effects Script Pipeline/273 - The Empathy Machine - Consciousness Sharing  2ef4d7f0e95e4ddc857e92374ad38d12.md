@@ -1,0 +1,11 @@
+# 273 - The Empathy Machine - Consciousness Sharing Device
+
+Alteration Type: Reality Glitch
+Date of Occurrence: September 22, 1912
+Tesla's Age at Event: 56
+Cover Story: Improved intuition, better social observation, psychological insight, normal empathy development.
+Conspiracy Theory: Emotional isolation experiment September 1912 - Tesla built empathy machine to understand why he couldn't connect with people. Device allowed consciousness transfer - experience another person's emotions, thoughts, perceptions directly. He could feel what they felt, see through their eyes, understand their inner world. Used it to finally comprehend human emotion after lifetime of not understanding. Downloaded hundreds of people's emotional experiences.
+Episode Hook: Tesla's journal September 22, 1912: 'Connected empathy device to assistant. Suddenly experienced his fear, his love for family, his exhaustion. Overwhelming. I've never felt these things. Spent decades not understanding emotions. Now I can experience everyone's feelings. Downloaded 50 people's emotional lives today. Finally understand what I've been missing. It's beautiful and terrible.'
+Evidence It Was Different: Neural recordings show Tesla's brain patterns matching subjects' emotional states during device use. He demonstrated impossible emotional knowledge - described subjects' private feelings, childhood traumas, secret loves with perfect accuracy. Could predict emotional responses with 100% accuracy after downloading someone's consciousness. Proved emotional telepathy through technological means.
+What Changed: September 1912. Tesla. Creates. Device. That. Lets. Him. Experience. Others'. Emotions. Directly.
+The Twist: Empathy machine. Didn't. Just. Share. Emotions. Analysis shows. It. Permanently. Merged. Consciousnesses. Tesla. Downloaded. So. Many. People. His. Personality. Became. Composite. Of. Hundreds. He. Lost. Original. Self. Became. Collective. Consciousness. His. Later. Behavior. Was. Actually. Multiple. People. Thinking. Through. One. Body.

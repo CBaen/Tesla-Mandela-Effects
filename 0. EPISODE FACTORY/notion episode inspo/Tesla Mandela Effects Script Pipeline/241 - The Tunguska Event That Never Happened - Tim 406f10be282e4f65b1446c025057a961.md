@@ -1,0 +1,11 @@
+# 241 - The Tunguska Event That Never Happened - Timeline Split Over Siberia
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: June 30, 1908
+Tesla's Age at Event: 52
+Cover Story: Meteor airburst, natural phenomenon, standard impact event, conflicting accounts from unreliable witnesses.
+Conspiracy Theory: Wardenclyffe wireless power transmission test June 30, 1908 misfired, splitting timeline over Siberia. Tesla aimed beam at Arctic for polar demonstration but miscalculated Earth's resonance. Beam created timeline bifurcation - in one timeline, meteor impact. In another, Tesla's energy weapon. Both timelines merged imperfectly. Physical evidence matches meteor, but blast pattern matches directed energy. Eyewitness accounts impossibly contradictory because witnesses experienced different timelines.
+Episode Hook: Tesla's lab notes June 30, 1908: 'Catastrophic miscalculation. Wardenclyffe beam focused on wrong coordinates. Siberia, not Arctic. Massive energy release detected. Timeline resonance detected - split occurring. Multiple realities forming at impact point. Cannot undo. Event permanently exists in superposition of explanations. My greatest accident.' Russian eyewitnesses report both meteor AND mysterious beam from sky.
+Evidence It Was Different: Tunguska site shows impossible contradictions - trees flattened in directional pattern (beam weapon signature) but magnetic anomalies (meteor signature). Radiation levels suggesting nuclear event decades before nuclear weapons. Witnesses describe meteor, but also describe columnar light from horizon (Tesla beam). Timeline split created event with dual causation - both explanations true in merged timeline.
+What Changed: June 1908. Massive. Explosion. Flattens. Siberian. Forest. No. Crater. No. Meteorite. Found. People. Remember. Different. Causes.
+The Twist: Timeline split. Wasn't. Accident. Analysis shows. Tesla. Testing. Timeline. Weapon. Deliberately. Created. Event. With. Dual. Causation. Making. It. Unprovable. Demonstrating. Ability. To. Create. Historical. Ambiguity. Warned. Governments. He. Could. Make. Any. Event. Unexplainable. Through. Timeline. Manipulation. Tunguska. Was. Demonstration. Of. Historical. Erasure. Capability.

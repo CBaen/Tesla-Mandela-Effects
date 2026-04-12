@@ -1,0 +1,11 @@
+# 174 - The Memory Stone - Rock That Stores Everything It Witnesses
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: January 27, 1915
+Tesla's Age at Event: 59
+Cover Story: Memory stone is psychological phenomenon, false visions, or elaborate trick. Rocks cannot store memories or create visions.
+Conspiracy Theory: Tesla developing. Memory storage 1915. Discovered crystals. Can record. EM patterns. Permanently. Modified stone. Near laboratory. To record. Everything. All events. All conversations. All activities. Near stone. For decades. Tests successful. Stone stores. Complete history. Accessible through. Touch interface. Operating 110. Years. Proving minerals. Can be. Perfect memory. Devices.
+Episode Hook: Historian touches. Stone. Experiences vision. Tesla working. In laboratory. 1915. Sees everything. Hears conversation. Exact historical. Record. Impossible. Tests repeatedly. Different people. All see. Same events. From past. Stone recorded. Everything. Analyzes mineral. Modified crystalline. Structure. Tesla's engineering. EM pattern. Storage. Stone remembers. All. For 110. Years.
+Evidence It Was Different: Multiple people. Experience same. Visions. Historical details. Verified accurate. Crystal structure. Shows modified. Storage capability. EM recordings. Detected. In matrix. Tesla's technology. Proven. Through stone. That remembers. Everything.
+What Changed: Ancient stone. Near Tesla's. Laboratory. Contains memories. Of everything. Near it. Touch stone. Experience visions. Of past. Events. Perfect recording. Truth: Tesla encoded. Stone with. Memory system. Crystalline matrix. Records all. EM patterns. From nearby. Events. Stone remembers. Everything. For century. Perfect historical. Archive. In mineral. Form.
+The Twist: Stone doesn't. Just record. Past. It records. Futures. Too. Users discover. Some visions. Show events. Not yet. Happened. Tomorrow's activities. Future conversations. Stone recording. Across time. Not just. Backward. Also forward. Tesla created. Temporal recorder. That captures. All events. Past and. Future. Complete timeline. Stored in. Crystal. Accessible through. Touch. Everything that. Was. Is. Will be. Recorded forever.

@@ -1,0 +1,11 @@
+# 167 - The Reversible Book - Pages That Change Text Daily
+
+Alteration Type: Reality Glitch
+Date of Occurrence: April 15, 1917
+Tesla's Age at Event: 61
+Cover Story: Reversible book is switched copies, memory confusion, or hoax. Single book cannot change text. Physical impossibility.
+Conspiracy Theory: Tesla developing. Programmable materials 1917. Created molecular. Ink. That rearranges. On command. Book pages. Coated with. Smart molecules. Programmed to. Display different. Text. Daily. Tests successful. Book changes. Content. Automatically. Infinite stories. From single. Volume. Operating 108. Years. Proving matter. Can be. Programmed. To change. Through Tesla's. Molecular engineering.
+Episode Hook: Librarian notices. Strange book. Reads story. Next day. Different story. Same book. Checks carefully. Physical pages. Identical. Text different. Impossible. Documents daily. Every day. New story. Same book. Analyzes pages. Molecular ink. Tesla's design. Programmable molecules. Rearranging daily. Book rewrites. Itself. Through molecular. Programming. After 108. Years.
+Evidence It Was Different: Text changes. Documented daily. Same physical. Book. Molecular analysis. Shows programmable. Ink. Rearranges continuously. Multiple witnesses. Verify phenomenon. Tesla's molecular. Engineering. Proven. Through book. That rewrites. Itself. Daily.
+What Changed: Antique book. Text changes. Every day. Different story. Each reading. Same physical. Pages. Different words. Impossible. Truth: Tesla created. Dynamic text. System. Molecular ink. Rearranges daily. Following programmed. Patterns. Book rewrites. Itself. Continuously. Demonstrating programmable. Matter. Since 1917.
+The Twist: Book doesn't. Just change. Stories. It predicts. Future. Readers discover. Text sometimes. Describes events. Before occurrence. Tomorrow's news. In today's. Book. Tesla created. Predictive text. System. That accesses. Future information. Through quantum. Programming. Book writes. What will. Happen. Before it. Does. Perfect prediction. Through molecular. Fortune telling. Device.

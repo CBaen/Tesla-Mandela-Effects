@@ -1,0 +1,11 @@
+# 268 - The Photographs That Showed Wrong Timeline - Alternate Reality Camera
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: October 30, 1921
+Tesla's Age at Event: 65
+Cover Story: Double exposures, photographic errors, faked images, manipulated photos, normal camera malfunction.
+Conspiracy Theory: Photographic experiment October 1921 created camera that captured images from alternate timelines. Photographs showed events that didn't happen in our reality - different people in photos, buildings that don't exist, alternate history moments. Camera accessed parallel realities where photographed subjects made different choices. Tesla created dimensional photography - capturing across timeline boundaries.
+Episode Hook: Photographer October 30, 1921: 'Used Tesla's camera. Photographed city street. Developed image - different buildings, different people, different cars. Nothing in photo exists in our New York. Photographed same location with normal camera - different result. Tesla's camera shows alternate reality version of same scene.' Tesla's notes: 'Dimensional photography functional. Camera captures light from parallel timeline overlapping our location. Photographs what could have been, not what is.'
+Evidence It Was Different: Tesla's photographs show people who never existed, buildings never constructed, events never occurring. Subjects photographed don't recognize themselves in images - seeing alternate selves from other timelines. Some photos show same person at different ages simultaneously. Camera proved dimensional access - photographing across reality boundaries.
+What Changed: October 1921. Tesla's. Camera. Photographs. Events. From. Parallel. Timelines. Not. Our. Reality.
+The Twist: Camera. Doesn't. Just. Show. Alternate. Timelines. Analysis shows. Photographs. Create. Them. Act. Of. Photography. Splits. Timeline. Into. Multiple. Realities. Every. Photo. Branches. Universe. Tesla. Created. Millions. Of. Parallel. Timelines. Through. Photography. We. Live. In. One. Of. Infinite. Branches. He. Created.

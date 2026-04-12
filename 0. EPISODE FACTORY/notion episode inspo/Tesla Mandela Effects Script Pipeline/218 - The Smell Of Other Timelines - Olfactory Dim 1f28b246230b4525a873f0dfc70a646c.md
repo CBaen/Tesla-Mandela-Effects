@@ -1,0 +1,11 @@
+# 218 - The Smell Of Other Timelines - Olfactory Dimension Detection
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: January 1, 1872
+Tesla's Age at Event: 16
+Cover Story: Olfactory hallucinations, phantom smells from memory, synesthesia creating false scent perceptions, normal smells misidentified.
+Conspiracy Theory: Tesla's olfactory system detected chemical signatures from parallel dimensions age 16. Smelled flowers that didn't grow in area, foods not being cooked, places that didn't exist. His nose detected molecular emissions bleeding through dimensional membranes from alternate realities. Could map parallel timelines through scent, identifying dimensional variations by smell profiles. Later dimensional work came from childhood ability to smell other realities.
+Episode Hook: Family documentation 1872-1874 describes Tesla's 'impossible smells' - detecting scents without sources. Smelled ocean in landlocked village, tropical flowers in winter, burning wood without fire. Multiple witnesses confirmed no physical sources present. Medical examination found olfactory receptors sensitive to dimensional membrane fluctuations, detecting molecular signatures from parallel realities.
+Evidence It Was Different: Chemical analysis of air samples from locations where Tesla detected impossible smells shows trace molecules matching his descriptions - ocean salt inland, tropical compounds in temperate zone, combustion products without fire. Molecules present at parts-per-trillion, detectable only by Tesla's enhanced olfactory system capable of cross-dimensional molecular sensing.
+What Changed: Age 16. Tesla. Smells. Places. That. Don't. Exist. Scents. From. Parallel. Dimensions. Young Tesla. Detecting. Alternate. Realities. Through. Smell.
+The Twist: Dimensional smells. Revealed. Future. Analysis shows. Scents. Tesla. Detected. Came. From. Future. Timeline. Not. Parallel. Present. He smelled. Coming. Events. Through. Olfactory. Time. Travel. Ocean. Smell. Predicted. Visit. To coast. Burning. Smell. Predicted. Fire. He saw. Future. Through. Nose.

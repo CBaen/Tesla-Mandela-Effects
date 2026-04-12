@@ -1,0 +1,11 @@
+# 181 - The Village That Repeated Tuesdays - Tesla's Childhood Time Loop
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: June 7, 1864
+Tesla's Age at Event: 8
+Cover Story: Child's repetitive routines, difficulty processing time, monotonous village life felt repetitive, false memory from childhood confusion.
+Conspiracy Theory: Tesla's village experienced temporal anomaly causing Tuesday June 7, 1864 to repeat 73 times. Only Tesla retained memories across loops. Everyone else reset each iteration. He experimented with changing events - different conversations, different actions - but day always reset at midnight. His childhood journals document all 73 variations of same day, showing how he tested causality limits. Loop finally broke when Tesla stopped trying to change it, accepting observation role. His later work on time came from childhood trapped in loop.
+Episode Hook: Tesla's childhood diary discovered 1943 contains 73 consecutive entries dated June 7, 1864. Each entry describes different attempts to break loop: telling family about repetition, breaking objects to track across resets, creating hidden markers. Family never remembered. Only Tesla experienced linear time across loop. Final entry: 'I understand now. Observer cannot change. Only witness. Loop breaks when acceptance achieved.'
+Evidence It Was Different: Village records show anomalous gap June-July 1864. Multiple documents dated June 7, overlapping signatures, impossible scheduling conflicts. Tesla's diary provides only linear account of loop - 73 days of experiences condensed into single calendar day. His acceptance of observer role shaped lifelong philosophy about relationship between consciousness and time.
+What Changed: Age 8. Tesla experiences. Same Tuesday. Repeating. For months. Same conversations. Same weather. Same events. But family. Has no. Memory. Of repetitions. Young Tesla. Keeping journal. Of identical. Days. Experiencing temporal. Loop. Alone.
+The Twist: Loop wasn't. Natural anomaly. Was Tesla's. Own consciousness. Creating it. Analysis shows. His electromagnetic. Brain activity. Age 8. Strong enough. To trap. Local spacetime. In recursive. Loop. He caused. Loop. Unconsciously. Through childhood. Temporal anxiety. Broke it. When he. Accepted time's. Nature. First time. Tesla altered. Reality. Through consciousness. Alone.

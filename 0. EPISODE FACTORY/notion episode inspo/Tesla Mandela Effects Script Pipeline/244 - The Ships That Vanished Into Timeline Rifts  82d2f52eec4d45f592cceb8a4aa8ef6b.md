@@ -1,0 +1,11 @@
+# 244 - The Ships That Vanished Into Timeline Rifts - Pre-Bermuda Triangle Disappearances
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: August 15, 1923
+Tesla's Age at Event: 67
+Cover Story: Storms, piracy, mechanical failure, normal maritime disasters, lost wreckage in deep ocean.
+Conspiracy Theory: Wardenclyffe long-range wireless experiments 1923 created dimensional rifts in Atlantic shipping lanes. Tesla testing power transmission across ocean accidentally opened holes between timelines. Ships sailing into rift zones vanished into parallel realities. Not sunk - dimensionally displaced. Bermuda Triangle phenomenon started decades earlier through Tesla's experiments. He discovered navigation hazard he created but couldn't close portals.
+Episode Hook: Coast Guard report August 15, 1923: 'Cargo ship SS Cotopa vanished mid-voyage. Last radio transmission: 'Water glowing, compass spinning, sky wrong color.' Search found nothing. Same area: three other ships vanished this year.' Tesla's notes same date: 'Atlantic dimensional instability confirmed. Wireless transmission creating sustained portal activity. Ships entering rift zones transferring to alternate Atlantic. Cannot close portals - require more energy than I possess.'
+Evidence It Was Different: Ship disappearances cluster around Wardenclyffe transmission vectors. Electromagnetic anomalies detected at disappearance locations. Final transmissions mention identical phenomena - glowing water, compass failure, altered sky. Some ships reported seeing vanished vessels sailing in wrong timeline. Dimensional rifts from Tesla's experiments created maritime hazards decades before Bermuda Triangle documented.
+What Changed: August 1923. Multiple. Ships. Vanish. In. Atlantic. Without. Trace. No. Wreckage. No. Bodies. Found.
+The Twist: Vanished ships. Still. Crewed. Analysis shows. Ships. In. Parallel. Timeline. Still. Sailing. Crews. Aging. Normally. Unaware. They. Crossed. Dimensions. Several. Have. Returned. Through. Reverse. Rifts. Decades. Later. With. Crews. Who. Experienced. No. Time. Passage. Tesla. Created. Liminal. Zone. Where. Thousands. Still. Trapped.

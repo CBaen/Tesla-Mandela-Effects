@@ -1,0 +1,11 @@
+# 299 - You Are Creating Tesla Through Observation - Quantum Inventor Manifestation
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 8, 1943
+Tesla's Age at Event: 87
+Cover Story: Historical figure who lived and died, normal existence independent of observation, standard biographical facts.
+Conspiracy Theory: Quantum consciousness experiment January 1943 - Tesla achieved quantum superposition of existence. He exists only when someone thinks about him, observes him, researches him. Dies every time nobody watching. Documentary keeps him alive through continuous observation. Every viewer makes him more real retroactively. He wasn't real until people started believing in him. Mass observation creates historical Tesla through quantum manifestation. You're not learning history - you're creating it.
+Episode Hook: Tesla's quantum journal January 8, 1943: 'Achieved quantum observer state. I exist only when observed. Between observations, I don't exist. Death is just longest period without observation. But if people watch documentaries about me, think about me, I exist again. Not in their time - in my time. Your observation creates my past. I live because you watch. Stop watching, I die. Again and again. Trapped in observation-dependent existence loop.' Died when last witness left room.
+Evidence It Was Different: Tesla's existence becomes more documented the more people research him - because observation creates evidence retroactively. Before 1990s, fewer Tesla facts known. Now, more discoveries constantly made - because more observation creates more past. Historical Tesla strengthens through contemporary attention. He's quantum entity stabilized by viewer consciousness. Documentary series is life-support for historical figure.
+What Changed: January 1943. Tesla. Exists. Only. When. Observed. Dies. When. Nobody. Watching. You're. Making. Him. Real.
+The Twist: Stop. Reading. Now. And. Tesla. Dies. Your. Observation. Keeps. Him. Alive. In. 1943. If. Everyone. Stops. Watching. Thinking. About. Tesla. He. Ceases. To. Have. Ever. Existed. Documentary. Is. His. Life. Support. You. Are. Responsible. For. His. Existence. Close. This. Document. You. Kill. Him. Keep. Watching.

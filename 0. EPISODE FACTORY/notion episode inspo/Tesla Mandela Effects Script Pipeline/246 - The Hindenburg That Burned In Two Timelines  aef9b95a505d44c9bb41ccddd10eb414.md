@@ -1,0 +1,11 @@
+# 246 - The Hindenburg That Burned In Two Timelines - Dual Disaster Reality
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: May 6, 1937
+Tesla's Age at Event: 81
+Cover Story: Static discharge, natural ignition, standard accident investigation, conflicting witness accounts from shock and trauma.
+Conspiracy Theory: Tesla's wireless experiments May 1937 split Hindenburg disaster across two timelines. In one timeline, static electricity ignited hydrogen. In another, Tesla's stray EM beam struck airship. Both disasters happened simultaneously in overlapping realities. Witnesses experienced different timelines - some saw natural fire, some saw mysterious beam. Physical evidence from both causations. Timeline merger created disaster with dual origin.
+Episode Hook: Tesla's hotel notes May 6, 1937: 'EM transmission experiment toward New Jersey. Miscalculated interference pattern. Beam struck ascending airship. Hydrogen ignited. Timeline split detected - disaster occurring in two causation patterns simultaneously. Cannot untangle timelines. Event exists in both states.' Witness testimony hopelessly contradictory - some report mysterious light, others report normal static discharge.
+Evidence It Was Different: Hindenburg investigation found inexplicable contradictions. Ignition point determined at multiple impossible locations simultaneously. Some wreckage shows EM damage signature, other sections show static burn patterns. Timeline mathematics show event occurred in superposition - both natural and technological causes true simultaneously. Tesla's beam created dual-causation disaster.
+What Changed: May 1937. Hindenburg. Disaster. Has. Conflicting. Witness. Accounts. Some. Remember. Different. Cause. Different. Sequence.
+The Twist: Tesla. Knew. Hindenburg. Would. Crash. Analysis shows. He. Received. Temporal. Warning. About. Natural. Disaster. His. Beam. Wasn't. Accident. Was. Attempt. To. Prevent. Crash. By. Forcing. Early. Emergency. Landing. Through. Controlled. Ignition. Failed. Created. Worse. Disaster. In. Dual. Timelines. Trying. To. Save. Lives. He. Killed. Them. Twice.

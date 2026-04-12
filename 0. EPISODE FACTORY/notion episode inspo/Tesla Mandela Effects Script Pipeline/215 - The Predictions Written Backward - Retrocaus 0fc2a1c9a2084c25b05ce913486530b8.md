@@ -1,0 +1,11 @@
+# 215 - The Predictions Written Backward - Retrocausal Documentation
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: January 1, 1869
+Tesla's Age at Event: 13
+Cover Story: Similar handwriting from different person, coincidental script similarity, false attribution of writing.
+Conspiracy Theory: Tesla's consciousness achieved temporal non-locality age 13, allowing retrocausal writing. His handwriting appeared in books published before his birth - notes in margins, additions to text, corrections and predictions. His consciousness sent information backward through time, manifesting as physical writing in past documents. Later claims about receiving information from future came from childhood experience of sending information to past.
+Episode Hook: Library records 1869-1871 document impossible discovery - Tesla's handwriting found in books dated 1820-1850, decades before his 1856 birth. Handwriting experts confirm match. Content includes predictions of his birth, descriptions of his future inventions, notes on coming experiments. Physical evidence: ink dates to books' publication period, but content describes Tesla's personal life. He wrote to past from future.
+Evidence It Was Different: Forensic analysis confirms handwriting in historical documents matches Tesla's. Ink chemical composition matches period of publication, not 1869 when Tesla discovered writings. Content includes information only Tesla could know - family secrets, personal experiences, future inventions. His consciousness existed non-locally in time, inserting information into past documents.
+What Changed: Age 13. Tesla finds. His. Handwriting. In old. Books. Decades. Old. Written. Before. He born. Young Tesla. Writing. Backward. Through. Time.
+The Twist: Backward writing. Created. Causality. Loop. Analysis shows. Historical documents. Containing Tesla's. Writing. Were. Source. Of his. Technical knowledge. He read. Books. Containing. His future. Notes. Learning. From. Himself. Across. Time. Created. Own. Genius. Through. Temporal. Loop. Teaching. Himself. Everything. He. Knew.

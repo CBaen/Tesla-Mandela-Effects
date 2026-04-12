@@ -1,0 +1,11 @@
+# 187 - The Objects That Multiplied - Spontaneous Material Duplication
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1869
+Tesla's Age at Event: 13
+Cover Story: Bought duplicates and forgot, family members owned similar items, memory confusion about belongings, normal household duplicates.
+Conspiracy Theory: Tesla's electromagnetic field caused quantum superposition in nearby objects, creating material duplicates. When he handled object, his EM field split it across parallel timelines. Both versions manifested in his reality simultaneously. He owned two of everything because objects existed in superposition around him. His adult ability to visualize inventions in perfect detail came from seeing objects in multiple quantum states simultaneously during childhood.
+Episode Hook: Family inventory from 1869 shows impossible redundancies - two identical books with same manufacturing flaws, two identical tools with identical wear patterns, matching items that couldn't be duplicates. Tesla's mother noted 'Nikola's things double themselves.' Objects around Tesla existed in quantum multiplication state, manifesting as physical duplicates.
+Evidence It Was Different: Molecular analysis of 'duplicate' objects from Tesla's childhood shows impossible similarity - not just identical manufacturing but identical molecular structure, identical defects, identical aging patterns. Not factory duplicates. Quantum copies. Perfect duplication at atomic level. Tesla's EM field caused reality-level object duplication.
+What Changed: Age 13. Tesla's possessions. Duplicate. Spontaneously. Two identical. Books. Two identical. Tools. Objects splitting. Into copies. Young Tesla. Experiencing quantum. Duplication. At macro. Scale.
+The Twist: Duplications continued. Throughout life. Analysis shows. Every object. Tesla touched. 1869-1943. Split into. Quantum copies. Distributed across. Parallel timelines. His patents. Exist in. Multiple versions. Across realities. Every invention. He created. Duplicated itself. Spreading. Same technology. To parallel. Earths. Simultaneously. Tesla was. Universal technology. Distribution. System.

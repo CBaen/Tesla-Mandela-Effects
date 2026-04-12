@@ -1,0 +1,11 @@
+# 195 - The Age That Fluctuated - Temporal Aging Anomalies
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: January 1, 1872
+Tesla's Age at Event: 16
+Cover Story: Photographic exposure errors, mislabeled photos, normal adolescent appearance changes, lighting effects creating age illusions.
+Conspiracy Theory: Tesla's cells existed in temporal superposition age 16-18. His body aged non-linearly, appearing different ages on different days. Photographs from this period show him as child, teenager, adult, elderly man - all from same two-year span. His cellular time flowed independent of external time. Family witnessed him aging decades overnight, then reverting to youth next morning. His later age-defying appearance came from continued temporal aging fluctuations throughout life.
+Episode Hook: Family photo collection 1872-1874 shows impossible variation - Tesla appearing as ages 8, 16, 35, 60 in photos dated within same month. Not photography errors. Family letters describe 'Nikola's changing face' - some days appearing as small child, others as grown man, others as elderly. Medical examinations confirmed: bone density, cellular markers, biological age varied drastically day-to-day.
+Evidence It Was Different: Biological samples preserved from Tesla age 16-18 show conflicting age markers. Hair samples indicate ages ranging from 8 to 70. Bone density measurements vary from child to elderly. Cellular telomere analysis shows different biological ages in samples taken days apart. His body existed in multiple temporal states simultaneously, manifesting different ages based on quantum collapse during observation.
+What Changed: Age 16. Tesla's physical. Age. Changes. Daily. Appears. Elderly. One day. Child-like. Next day. Young Tesla. Experiencing non-linear. Biological aging. Time. Affecting him. Differently.
+The Twist: Age fluctuation. Was controlled. Tesla learned. To choose. His biological. Age. By age. 18. Analysis shows. He maintained. 35-year-old. Body. From. Age 40. Onward. Through conscious. Temporal manipulation. Never aged. Normally. After childhood. His elderly. Appearance. At death. Was chosen. State. Not natural. Aging. He could. Have lived. Indefinitely. Through temporal. Age. Control.

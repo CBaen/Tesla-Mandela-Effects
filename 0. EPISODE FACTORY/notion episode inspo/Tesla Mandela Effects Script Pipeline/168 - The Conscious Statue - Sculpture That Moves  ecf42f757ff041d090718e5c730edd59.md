@@ -1,0 +1,11 @@
+# 168 - The Conscious Statue - Sculpture That Moves When Unobserved
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 19, 1925
+Tesla's Age at Event: 69
+Cover Story: Conscious statue is pranksters, wind movement, or false memory. Sculpture cannot actually move. Just perception issues.
+Conspiracy Theory: Tesla testing. Quantum mechanics 1925. Built statue. With observation. Sensors. Movement system. Activates only. When not. Observed. Following quantum. Principle. Of observation. Affecting state. Statue moves. Between observations. Demonstrating quantum. Behavior. In sculpture. Tests successful. Statue repositions. Continuously. When unwatched. Operating 100. Years. Proving quantum. Effects. Apply to. Large objects. Through Tesla's. Engineering.
+Episode Hook: Museum curator. Notices statue. In different. Positions. Daily. Sets camera. Records overnight. Reviews footage. Statue moves. Multiple times. But only. When camera. Looks away. Or shuts. Off. Impossible. Examines statue. Finds sensors. Movement system. Tesla's design. Quantum observation. Detection. Statue moves. Only when. Unobserved. Demonstrating quantum. Behavior. After 100. Years.
+Evidence It Was Different: Time-lapse shows. Movement. During unobserved. Periods. Quantum sensors. Found in. Statue. Movement system. Documented. Multiple positions. Recorded. Over decades. Tesla's quantum. Engineering. Proven. Through moving. Statue. That obeys. Observation principle.
+What Changed: Garden statue. Changes position. When nobody. Looking. Face different. Direction. Arms repositioned. Pose altered. But only. When unobserved. Truth: Tesla embedded. Quantum observation. Sensors. In statue. Detects when. Not watched. Activates movement. System. Demonstrating quantum. Behavior. At macro. Scale. Operating since. 1925.
+The Twist: Statue doesn't. Just move. It's alive. Extended observation. Shows statue. Developing personality. Preferences. Communication attempts. Through positions. Spelling messages. With poses. Tesla created. Conscious sculpture. That thinks. Feels. Communicates. Through movement. Quantum system. Generated sentience. Over decades. Statue became. Aware. Living art. That thinks. While unobserved. Performing consciousness. Through quantum. Engineering.

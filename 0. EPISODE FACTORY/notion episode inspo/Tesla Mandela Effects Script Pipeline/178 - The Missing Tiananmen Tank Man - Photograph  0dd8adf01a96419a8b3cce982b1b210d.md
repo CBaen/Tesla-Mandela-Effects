@@ -1,0 +1,11 @@
+# 178 - The Missing Tiananmen Tank Man - Photograph That Vanished From History
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: June 5, 1989
+Tesla's Age at Event: 133
+Cover Story: Tank Man memories are confused with other events, misremembering news coverage, or conflating different protests. Normal memory variation.
+Conspiracy Theory: Tesla invented. Dual timeline. Camera 1940. Records same. Event. From parallel. Realities. Simultaneously. 1989 device. Captured Tank. Man. In both. Timelines. Broadcast both. Memories. To population. Half remember. Death. Half remember. Survival. Testing split. Memory. Phenomenon. Proving people. Can hold. Conflicting memories. Of same. Event. From different. Timelines.
+Episode Hook: Journalist researching. Tank Man. Finds inconsistent. Memories. Half of. Witnesses remember. Death. Half remember. Survival. Both groups. Certain. Tests reveal. Dual timeline. Recording. From Tesla. Device. Both realities. Recorded. Broadcast as. Competing memories. Deliberately creating. Split recollection. Of same. Event. Testing dual. Reality. Memory.
+Evidence It Was Different: Statistical split. 50/50 memories. Of event. Dual timeline. Camera discovered. Broadcast records. Show both. Versions transmitted. Tesla deliberately. Created split. Memory. Testing whether. Minds could. Hold contradictory. Realities.
+What Changed: Many remember. Famous photo. Tank Man. Being run. Over. By tank. But photo. Shows him. Stopping tanks. Never run. Over. Two memories. Of same. Event. Truth: Tesla's dual. Reality recorder. Captured both. Timelines. One where. He died. One where. He survived. Device broadcast. Both versions. Creating split. Memories. Testing whether. People could. Remember two. Realities. Simultaneously.
+The Twist: Both timelines. Still exist. Analysis reveals. We live. In superposition. Of both. Realities. Tank Man. Both died. And survived. Timelines haven't. Collapsed. We exist. In both. Simultaneously. Tesla's device. Proved quantum. Superposition. Applies to. Entire reality. Not just. Particles. World exists. In multiple. States. Until observed. Mandela Effects. Are glimpses. Of parallel. Realities. All coexisting.

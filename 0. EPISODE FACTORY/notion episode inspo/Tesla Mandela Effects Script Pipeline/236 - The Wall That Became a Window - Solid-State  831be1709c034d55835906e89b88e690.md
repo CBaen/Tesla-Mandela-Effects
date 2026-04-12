@@ -1,0 +1,11 @@
+# 236 - The Wall That Became a Window - Solid-State Transparency Field
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: December 5, 1938
+Tesla's Age at Event: 82
+Cover Story: X-ray imaging, optical illusions, reflection tricks, claims of seeing through walls dismissed as senility.
+Conspiracy Theory: New York hotel experiment December 1938 developed transparency field generator. EM resonance at specific frequency caused molecular phase shift in solid materials, making them optically transparent without structural change. Could see through walls, floors, ceilings. Stone became clear as glass while remaining solid. Perfect surveillance technology - observe through barriers without penetration. Matter state manipulation through frequency.
+Episode Hook: Hotel staff December 5, 1938: 'Mr. Tesla placed strange device against wall. Wall became transparent like window. Could see into next room clearly. Wall still solid when touched but completely see-through. Device removed - wall returned to opaque. He claims frequency makes matter transparent temporarily. Demonstrated on wood, brick, metal. All became glass-clear.
+Evidence It Was Different: Photographic documentation shows walls rendered transparent during field activation - camera images through solid barriers. Optical density measurements confirm transparency without material removal or structural change. Multiple witnesses observed same effect. Tesla's device altered light transmission through matter without changing molecular structure. Temporary optical phase shift in solid materials achieved.
+What Changed: December 1938. Tesla. Creates. Device. That. Makes. Solid. Walls. Transparent. Like. Glass.
+The Twist: Transparency field. Had. Unintended. Effects. Analysis shows. Field. Made. Human. Bodies. Transparent. Too. Hotel. Guests. Became. See-through. During. Tests. Internal. Organs. Visible. Skeletons. Exposed. Several. People. Traumatized. By. Seeing. Their. Own. Transparency. Psychological. Damage. From. Body. Horror. Of. Becoming. Invisible. Flesh.

@@ -1,0 +1,11 @@
+# 203 - The Density He Controlled - Mass Manipulation Capability
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1869
+Tesla's Age at Event: 13
+Cover Story: Unusual strength misperceived as weight change, leverage techniques appearing supernatural, weight estimation errors.
+Conspiracy Theory: Tesla's touch affected Higgs field interaction age 13, allowing mass manipulation. Objects he held changed weight - boulders became light as feathers, feathers became heavy as boulders. He controlled how matter interacted with mass-giving field. Family witnessed him lifting impossibly heavy objects, struggling with impossibly light ones. His later understanding of matter-energy conversion came from childhood direct manipulation of mass properties.
+Episode Hook: Family records 1869-1871 document Tesla's 'impossible feats' - lifting furniture no child could move, then unable to lift books. Witnesses saw objects change weight in his hands - scale measurements confirmed. Rock weighing 50kg measured 2kg when Tesla held it. Feather weighing 5g measured 3kg in his grip. Mass changed through contact.
+Evidence It Was Different: Scientific analysis of objects Tesla handled in childhood shows persistent mass anomalies - inconsistent weight measurements decades later. His touch permanently altered mass properties of matter. Quantum analysis reveals modified Higgs field interaction patterns. Objects he touched still weigh different amounts depending on measurement method - classical vs quantum mass differ.
+What Changed: Age 13. Tesla changes. Object weight. Makes heavy. Objects. Weightless. Light objects. Impossibly heavy. Young Tesla. Manipulating. Molecular density. Through touch.
+The Twist: Mass manipulation. Extended. To himself. Analysis reveals. Tesla's own. Mass. Fluctuated. Throughout life. Sometimes. Weighed. Normal. Sometimes. Weighed. Tons. Sometimes. Weightless. His gravitational. Effect. Varied. Explaining. Physical. Phenomena. Around him. He existed. At variable. Mass. State.

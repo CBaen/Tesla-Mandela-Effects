@@ -1,0 +1,11 @@
+# 277 - The Child He Could Never Have - Temporal Offspring Observation
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: August 10, 1898
+Tesla's Age at Event: 42
+Cover Story: Fantasy about family he never had, daydreaming about alternate life, imagination creating false memories of fatherhood.
+Conspiracy Theory: Colorado Springs experiment August 1898 - Tesla detected timeline where he married, had son named Nikola Jr. Built viewer to watch alternate son grow up. Observed boy's first steps, first words, graduation, becoming engineer. Parallel-son never knew father was watching from another reality. Tesla experienced fatherhood vicariously through dimensional window, attending son's life events from wrong timeline.
+Episode Hook: Tesla's diary August 10, 1898: 'Saw him today. My son. Age 7 in alternate timeline. Playing with electrical toy I would have built him. He has my eyes. My curiosity. Called for his father - alternate me appeared. Embraced boy. I wept watching. This could have been my life. Watch him every day now. He's brilliant. Will be great scientist. Takes after me. I'm so proud.' Watched son's entire life from parallel timeline.
+Evidence It Was Different: Tesla's dimensional photographs show boy resembling him at various ages. Detailed journals documenting son's development match actual child development patterns. Tesla predicted 'son's' achievements before they occurred in our timeline - because already observed in parallel timeline. Emotional response to viewing impossible to fake - genuine paternal love for child who never existed in our reality.
+What Changed: August 1898. Tesla. Discovers. Timeline. Where. He. Had. Son. Watches. Child. Grow. Across. Dimensions.
+The Twist: Son. Knew. Father. Was. Watching. Analysis shows. Nikola. Jr. Developed. His. Own. Dimensional. Viewer. Father. And. Son. Watched. Each. Other. Across. Timelines. For. Decades. Both. Longing. To. Meet. Physically. Never. Could. They. Loved. Each. Other. Across. Impossible. Barrier. Never. Touched.

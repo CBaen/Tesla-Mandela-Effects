@@ -1,0 +1,11 @@
+# 188 - The Voices From Future Radio - Anachronistic Audio Transmissions
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: January 1, 1872
+Tesla's Age at Event: 16
+Cover Story: Auditory hallucinations, tinnitus creating phantom sounds, overactive imagination creating false memories of sounds, childhood fantasy.
+Conspiracy Theory: Tesla's brain functioned as natural radio receiver picking up broadcasts from future timelines. He heard 1920s radio programs in 1872, music from 1930s, news from 1940s - all before radio technology existed. His later invention of radio came from reverse-engineering technology he experienced as receiver decades before creating transmitter. He heard his own future broadcasts during childhood, creating closed causality loop.
+Episode Hook: Tesla's 1872 diary describes hearing 'electric voices from air' - music styles not existing in 1872, news about events decades in future, advertisements for products not yet invented. Specific details: WWI news in 1872, jazz music 45 years before jazz existed, product ads for items matching 1930s descriptions exactly. He documented future before it happened.
+Evidence It Was Different: Tesla's 1872 descriptions of 'radio voices' match actual 1920s-1940s broadcast content precisely. Described specific songs, news events, product advertisements that would exist decades later. Accuracy beyond prediction - exact transcriptions of broadcasts not yet created. He received literal audio from future timelines.
+What Changed: Age 16. Tesla hears. Radio broadcasts. Decades before. Radio invented. Voices. Music. News. From future. Young Tesla. Receiving temporal. Audio. From 1920s-1940s. Through unknown. Mechanism.
+The Twist: Future broadcasts. Weren't random. Reception. They were. Targeted transmissions. From adult. Tesla. To childhood. Self. Analysis shows. All received. Audio. Contained encoded. Technical information. Hidden in. Music. News. Advertisements. Adult Tesla. Broadcasting. Invention plans. Back. To childhood. Self. Teaching. Himself. Through temporal. Radio. Creating his. Own genius. Through time. Loop.

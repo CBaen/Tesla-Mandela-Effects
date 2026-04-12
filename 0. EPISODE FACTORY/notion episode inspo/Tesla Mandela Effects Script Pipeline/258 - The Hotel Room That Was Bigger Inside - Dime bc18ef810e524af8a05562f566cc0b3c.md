@@ -1,0 +1,11 @@
+# 258 - The Hotel Room That Was Bigger Inside - Dimensional Expansion Suite
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: September 3, 1927
+Tesla's Age at Event: 71
+Cover Story: Optical illusions, clever use of mirrors, normal room appearing larger through design, exaggerated claims about room size.
+Conspiracy Theory: Hotel room experiments September 1927 created dimensional expansion field. Room remained 10x10 feet externally but contained 30x30 foot space internally. Impossible architecture through dimensional folding. Hotel staff entering room found impossible spaces - hallways, additional rooms, areas not existing in building blueprints. Tesla lived in dimensionally expanded space. Packed entire laboratory in hotel room.
+Episode Hook: Hotel staff report September 3, 1927: 'Entered Mr. Tesla's room to clean. Door opens to 10x10 foot room from hallway. Inside: massive space. Walked 50 feet through laboratory. Additional rooms branching off. Exited - back in hallway. Measured outside - still 10x10 feet. Impossible space inside small room.' Tesla's notes: 'Dimensional expansion successful. Room exterior unchanged. Interior expanded through folded space. Living in dimensional pocket inside normal hotel room.'
+Evidence It Was Different: Photographs from inside Tesla's room show spaces impossible in 10x10 foot room. Hotel blueprints show standard room. Dimensional measurements confirm space expansion - room contained 1000+ square feet inside 100 square foot exterior. Tesla's laboratory equipment photographed inside tiny hotel room. Dimensional folding created TARDIS-like space.
+What Changed: September 1927. Tesla's. Hotel. Room. Expands. Internally. 10x10. Foot. Room. Contains. 1000. Square. Feet.
+The Twist: Expanded space. Wasn't. Empty. Analysis shows. Tesla. Shared. Room. With. Beings. From. Dimensional. Pocket. Strange. Creatures. Living. In. Expanded. Portions. Of. Room. Invisible. From. Normal. Reality. Hotel. Staff. Reports. Of. Seeing. Strange. Entities. In. Tesla's. Room. Were. Accurate. He. Lived. With. Dimensional. Roommates.

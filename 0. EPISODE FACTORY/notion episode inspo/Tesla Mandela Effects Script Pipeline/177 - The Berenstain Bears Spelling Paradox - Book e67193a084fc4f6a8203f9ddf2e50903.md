@@ -1,0 +1,11 @@
+# 177 - The Berenstain Bears Spelling Paradox - Books That Changed Letters
+
+Alteration Type: Reality Glitch
+Date of Occurrence: March 18, 1992
+Tesla's Age at Event: 136
+Cover Story: Berenstain spelling is childhood misremembering, phonetic assumption, or false memory. Always been Berenstain, people just remembered wrong.
+Conspiracy Theory: Tesla developed. Retroactive reality. Editor 1938. Device alters. Past objects. Without changing. Memories. Creates paradoxes. Testing limits. Of timeline. Manipulation. Activated 1990s. Changed Berenstain. Spelling. All copies. All timelines. But left. Memories intact. Deliberately. Creating Mandela. Effect. To prove. Past is. Editable. While memories. Persist. Reality modification. Experiment.
+Episode Hook: Librarian notices. Discrepancy. Catalog records. Show 'Berenstein'. From 1980s. But physical. Books. All 'Berenstain'. Impossible. Investigates. Discovers reality. Editor. Device. Tesla's lab. Records show. 1990s activation. Changed spelling. Retroactively. Across all. Copies. But memories. Left intact. Intentionally. Testing reality. Modification. While preserving. Memory. Of original.
+Evidence It Was Different: Library catalogs. Show original. Spelling. Physical books. Show changed. Spelling. Reality editor. Device discovered. Activation records. Match 1990s. Timeline alteration. Documented. Tesla changed. Past. Deliberately. Creating paradox.
+What Changed: Millions remember. 'Berenstein Bears'. With E-I-N. But all. Books. Show 'Berenstain'. A-I-N spelling. People certain. They owned. Berenstein versions. But none. Exist. Truth: Tesla's reality. Editor device. Changed spelling. 1990s. Testing whether. Physical objects. Could be. Retroactively altered. Across timeline. Books changed. Memories remained. Creating paradox. Proving past. Can be. Modified.
+The Twist: Spelling change. Was test. For larger. Edit. Analysis reveals. Reality editor. Preparing for. Major alteration. Berenstain was. Practice run. Device capable. Of changing. Anything. In past. Without affecting. Memories. Tesla's system. Can rewrite. History. Completely. While people. Remember original. Creating massive. Mandela Effect. For anything. It edits. Unknown what. Tesla planned. To change. Next.

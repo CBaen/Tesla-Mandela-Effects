@@ -1,0 +1,11 @@
+# 286 - The Timeline Edison Accidentally Erased - Stolen Temporal Stabilizer
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: March 18, 1905
+Tesla's Age at Event: 49
+Cover Story: Faulty memories about 1904, mass false memory syndrome, normal historical record, no timeline changes.
+Conspiracy Theory: New York laboratory March 1905 - Edison's men stole Tesla's Timeline Stabilization Device, didn't understand it was preventing timeline collapse. Edison, thinking it was power generator, activated it incorrectly. Device destabilized instead of stabilized. Entire alternate timeline where Tesla won Nobel Prize in 1904 collapsed into non-existence. Million people remembered 1904 differently than records showed. Edison's incompetent use of stolen tech erased year from one timeline, merged it badly with ours. Mass Mandela Effect from Edison's stupidity.
+Episode Hook: Tesla's emergency notes March 18, 1905: 'Edison stole stabilizer. Idiot activated it backward. Felt reality shift. Checked newspapers - 1904 different than I remember. Nobel Prize I won last year never happened in current timeline. Entire year rewritten. Edison collapsed alternate timeline by using device he didn't understand. Millions now living in wrong 1905. Their memories don't match this reality.' Mass reports of 1904 amnesia.
+Evidence It Was Different: Newspaper archives show 1904 with two different versions - some copies report Tesla Nobel Prize, others don't. Same date, same paper, contradictory content. Millions of people remember 1904 events that never happened in current timeline. Timeline mathematics show collapse event March 18, 1905. Edison's lab records show activation of 'unknown Tesla device' same date. Timeline merged imperfectly due to incompetent operation.
+What Changed: March 1905. Edison. Steals. Tesla's. Timeline. Stabilizer. Uses. It. Wrong. Erases. Entire. Alternate. 1904.
+The Twist: Erased timeline. Contained. Better. World. Analysis shows. 1904. Timeline. Edison. Destroyed. Had. No. World. War. I. No. Spanish. Flu. No. Great. Depression. Peace. Timeline. Edison's. Theft. And. Incompetence. Condemned. Humanity. To. Worse. History. We. Live. In. Bad. Timeline. Because. Edison. Stole. Tech.

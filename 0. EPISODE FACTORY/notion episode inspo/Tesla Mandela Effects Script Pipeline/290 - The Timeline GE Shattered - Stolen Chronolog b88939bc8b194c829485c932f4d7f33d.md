@@ -1,0 +1,11 @@
+# 290 - The Timeline GE Shattered - Stolen Chronology Fragmenter
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: November 11, 1918
+Tesla's Age at Event: 62
+Cover Story: Confusion from war trauma, different treaties in different locations, normal historical complexity, memory errors from celebration.
+Conspiracy Theory: Europe November 1918 - GE military division stole Tesla's Chronology Fragmenter for weapon testing. Device designed to create multiple timeline branches for probability analysis. GE activated it near Armistice negotiations, not understanding it would split historical outcome. WWI ended four different ways in four different timelines, all merged into current reality. Some remember different Armistice terms, different dates, different outcomes. Reality consensus impossible because GE shattered timeline into incompatible fragments.
+Episode Hook: Diplomat's journal November 11, 1918: 'Signed Armistice today. Or yesterday? Or next week? Multiple delegates remember different dates. Different treaty terms. We all have different memories of same event. Documents show contradictory versions. What date is it?' Tesla's notes: 'Detected chronology fragmentation Europe. My stolen device activated by fools. War ending in multiple timelines simultaneously. History now superposition of different outcomes. GE destroyed timeline coherence.'
+Evidence It Was Different: Armistice documents exist in multiple versions with different dates - November 11, November 10, November 12, all supposedly authoritative. Millions remember WWI ending on different dates. Some remember different peace terms. Timeline mathematics show four-way split November 1918. GE military reports reference 'temporal weapon test' same date, immediately classified. War ending exists in four different historical realities simultaneously.
+What Changed: November 1918. General. Electric. Steals. Tesla's. Time. Device. World. War. I. Ends. Four. Different. Ways.
+The Twist: In. One. Timeline. War. Never. Ended. Analysis shows. Fourth. Timeline. Branch. War. Still. Raging. Exists. In. Parallel. Dimension. Soldiers. Still. Fighting. WWI. In. Eternal. 1918. Trapped. By. GE's. Chronology. Fragmentation. Ghost. Battles. Reported. At. WWI. Sites. Actually. Still-fighting. Timeline. Bleeding. Through.

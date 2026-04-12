@@ -1,0 +1,11 @@
+# 161 - The Translating Stone - Rock That Speaks All Languages
+
+Alteration Type: Reality Glitch
+Date of Occurrence: December 3, 1916
+Tesla's Age at Event: 60
+Cover Story: Translating stone is audio device, ventriloquism, or mass delusion. Rocks cannot speak or translate languages.
+Conspiracy Theory: Tesla developing. Translation technology 1916. Discovered crystals. Can hold. Complex circuitry. At molecular. Level. Embedded linguistic. Processor. In stone. Matrix. Stone detects. Language centers. In nearby. Brains. Broadcasts appropriately. Translated thoughts. Everyone hears. Own language. From stone. Universal communication. Device. Tests successful. Stone functional. 109 years. Proving crystals. Can process. Language. Universally.
+Episode Hook: Linguist studying. Unusual stone. Speaks to. Her. In English. Colleague approaches. Hears Mandarin. His language. Same stone. Different languages. Simultaneously. Impossible. Tests with. Multiple people. Everyone hears. Own language. From stone. Analyzes specimen. Finds circuitry. At molecular. Level. Tesla's design. Linguistic processor. In crystal. Matrix. Universal translator. Stone. Still functional. After 109. Years.
+Evidence It Was Different: Multiple languages. Heard simultaneously. From stone. Each person. Hears own. Language. Molecular circuitry. Detected. In crystal. Neural monitoring. Confirmed. Stone reads. Brain patterns. Translates appropriately. Tesla's linguistic. Technology. Proven functional.
+What Changed: Mineral specimen. Speaks. To people. In their. Native language. Different people. Hear different. Languages. Same stone. Universal communication. Truth: Tesla embedded. Linguistic processor. In crystalline. Matrix. Stone detects. Brain language. Centers. Broadcasts thoughts. In correct. Language. Universal translator. In mineral. Form. Operating since. 1916.
+The Twist: Stone doesn't. Just translate. Languages. It reads. Minds. Direct communication. Beyond words. Stone accesses. Pure thought. Transmits meanings. Perfectly. No language. Barriers. No miscommunication. Tesla created. Telepathic bridge. That enables. Direct mind. Communication. Through crystal. Interface. Stone reads. Intentions. Emotions. Complete meaning. Transmits perfectly. To all. Listeners. Universal consciousness. Communication. Through translating. Stone.

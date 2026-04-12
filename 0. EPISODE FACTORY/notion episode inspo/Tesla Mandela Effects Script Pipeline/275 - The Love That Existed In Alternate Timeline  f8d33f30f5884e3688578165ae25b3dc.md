@@ -1,0 +1,11 @@
+# 275 - The Love That Existed In Alternate Timeline - Dimensional Romance Access
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: May 20, 1904
+Tesla's Age at Event: 48
+Cover Story: Daydreaming, fantasizing about alternate life choices, normal regret about paths not taken, aging scientist's reflection.
+Conspiracy Theory: Dimensional experiment May 1904 - Tesla detected parallel timeline where he made different choices, married, had children, experienced normal love. Built device to observe alternate life - watched himself happy with wife, raising kids, living domestic bliss he sacrificed for science. Could see but not touch. Spent years watching parallel-self's happy family. Became obsessed with timeline where he chose love over invention.
+Episode Hook: Tesla's notes May 20, 1904: 'Dimensional viewer functional. Saw alternate me. Married to Katherine. Two children. He's happy. They love him. He chose love over Wardenclyffe. I watch them eat dinner, laugh, embrace. I made wrong choice. This timeline - I'm alone. That timeline - I'm loved. Device lets me see happiness I'll never have.' Watched alternate family nightly for decades.
+Evidence It Was Different: Photographic captures from dimensional viewer show Tesla with wife and children who never existed in our timeline. Alternate-Tesla appears in different clothes, aged differently, expressions showing contentment our Tesla never experienced. Dimensional analysis confirms parallel timeline access. Tesla documented intimate details of alternate family's daily life impossible to fabricate.
+What Changed: May 1904. Tesla. Discovers. Alternate. Timeline. Where. He. Married. And. Had. Family.
+The Twist: Alternate Tesla. Could. See. Him. Too. Analysis shows. Both. Teslas. Watching. Each. Other. Across. Dimensions. Happy. Tesla. Envied. Lonely. Tesla's. Scientific. Achievements. Lonely. Tesla. Envied. Happy. Tesla's. Love. Each. Thought. Other. Made. Right. Choice. Both. Were. Wrong. Happiness. Exists. In. Not. Comparing. Lives.

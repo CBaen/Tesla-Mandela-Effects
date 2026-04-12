@@ -1,0 +1,11 @@
+# 192 - The Dreams That Materialized - Oneiric Reality Manifestation
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1869
+Tesla's Age at Event: 13
+Cover Story: Sleepwalking and moving objects while asleep, family members placing items without his knowledge, false memories conflating dreams with reality.
+Conspiracy Theory: Tesla's consciousness bridged dream and waking realities age 13. Objects he dreamed manifested physically upon waking. Dreams of tools - woke to find tools. Dreams of books - books appeared on shelf. His consciousness could manipulate quantum probability while sleeping, collapsing wave functions to manifest dream content as physical reality. His adult ability to visualize inventions in perfect detail came from childhood practice of manifesting dreams as real objects.
+Episode Hook: Tesla's dream journal 1869-1870 contains detailed sketches of objects from dreams with notes 'appeared in morning.' Family confirmed mysterious appearance of items matching dream descriptions - tools Tesla never owned, books family never purchased, objects appearing overnight matching exact dream specifications. Dream manifestation was systematic, repeatable phenomenon.
+Evidence It Was Different: Physical objects from Tesla's childhood home match dream journal sketches precisely - identical designs, specifications, materials. Objects appeared with no purchase records, no previous ownership, no logical source. Molecular dating shows objects manifested overnight, not manufactured normally. Tesla's consciousness literally created matter from dream state, collapsing probability into physical form.
+What Changed: Age 13. Tesla's dreams. Become real. Objects. From dreams. Appear. In reality. Dream events. Manifest. As memories. Young Tesla. Creating reality. From dream. State.
+The Twist: Manifestations weren't. Random. Dreams. Analysis reveals. Tesla was. Dreaming. Future events. Objects appeared. From dreams. Because dreams. Showed. Items. He would. Invent. Later. Dream objects. Were prototypes. From future. Manifesting. Backward. Through time. He downloaded. Future inventions. Through dreams. Creating. Them. Before. He invented. Them.

@@ -1,0 +1,11 @@
+# 245 - The Stock Market Crash That Happened Twice - 1929 Timeline Loop
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: October 24, 1929
+Tesla's Age at Event: 73
+Cover Story: Mass panic, economic forces, normal market mechanics, conflicting memories from trauma and stress.
+Conspiracy Theory: Tesla's temporal experiments October 1929 created one-week time loop in New York financial district. Stock market crashed October 17 in original timeline. Tesla's equipment malfunctioned, rewinding local time one week. Market crash happened again October 24 - identical numbers, identical pattern. Thousands experienced week twice but only market crash preserved in collective memory. Perfect loop erased first crash, preserved second.
+Episode Hook: Wall Street worker diary: 'October 17 - market crashed, chaos everywhere. October 18 - woke up, it's October 17 again. Same day repeating? Everyone acting like crash didn't happen yet. October 24 - market crashed AGAIN. Same numbers. Same pattern. I lived this already.' Tesla's notes: 'Week-long temporal loop confirmed in lower Manhattan. Financial district reliving seven days. Cannot stop loop. Market crashes twice - once in original timeline, once in repeated timeline.'
+Evidence It Was Different: Trading records show impossible duplications - identical transaction sequences on different dates. Multiple witnesses report déjà vu during crash week. Some investors report trading same stocks twice with same outcomes. Probability analysis shows identical market patterns on two dates statistically impossible. Timeline loop documented through financial data anomalies.
+What Changed: October 1929. Witnesses. Report. Market. Crashed. Previous. Week. Then. Crashed. Again. Same. Numbers. Impossible. Déjà. Vu.
+The Twist: Crash wasn't. Loop. Accident. Analysis shows. Tesla. Deliberately. Created. Loop. Testing. Whether. Knowledge. Of. Future. Could. Change. Outcomes. It. Couldn't. Proved. Major. Historical. Events. Deterministic. Crash. Happened. Identically. Both. Times. Despite. Thousands. Knowing. Future. Timeline. Self-corrects. Inevitability.

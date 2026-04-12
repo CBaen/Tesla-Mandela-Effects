@@ -1,0 +1,11 @@
+# 155 - The Probability Dice - Cubes That Roll What You Predict
+
+Alteration Type: Reality Glitch
+Date of Occurrence: December 31, 1920
+Tesla's Age at Event: 64
+Cover Story: Probability dice are weighted dice, magnetic tricks, or statistical anomaly. Cannot actually respond to predictions. Just lucky coincidence.
+Conspiracy Theory: Tesla studying. Quantum mechanics 1920. Before official. Discovery. Built dice. With embedded. Quantum field. Manipulators. Dice respond. To observer. Intention. Predicted number. Becomes actual. Result. Through consciousness. Affecting quantum. Collapse. Tests successful. Dice demonstrate. Mind influences. Reality. At quantum. Level. Still functional. 105 years. Proving consciousness. Shapes outcomes. Through observation.
+Episode Hook: Physicist testing. Antique dice. From Tesla. Collection. Predicts number. Rolls dice. Predicted number. Appears. Coincidence. Tests hundred. Times. Perfect accuracy. Every prediction. Correct. Impossible statistically. Analyzes dice. Finds quantum. Field generators. Microscopic. Embedded. Tesla's design. Dice respond. To intention. Observer affects. Outcome. Quantum mechanics. Demonstrated through. Gaming device.
+Evidence It Was Different: Statistical analysis. Shows impossible. Accuracy. Far beyond. Random chance. Quantum field. Detected in. Dice. Multiple subjects. Same results. Predictions accurate. 100 percent. Observer effect. Proven through. Tesla's dice. Consciousness affects. Quantum outcomes.
+What Changed: Set of dice. Roll predicted. Numbers. Consistently. Not random. Whatever predicted. Result appears. Perfect accuracy. Truth: Tesla embedded. Probability manipulation. Devices. In dice. Quantum fields. Collapse to. Predicted state. Observer effect. Amplified intentionally. Dice demonstrate. Consciousness affects. Quantum outcomes. Through Tesla's. Probability engineering.
+The Twist: Dice don't. Just respond. To predictions. They grant. Wishes. Users discover. Dice predict. Future events. Not just. Rolls. Ask question. Roll dice. Answer appears. As number. Code. System works. For any. Query. Dice access. Probability space. Show outcomes. Of futures. Tesla created. Oracle device. Through quantum. Manipulation. That answers. Questions. About anything. Through probability. Dice.

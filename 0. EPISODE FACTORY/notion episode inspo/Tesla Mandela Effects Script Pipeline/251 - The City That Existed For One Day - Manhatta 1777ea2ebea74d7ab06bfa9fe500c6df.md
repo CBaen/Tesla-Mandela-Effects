@@ -1,0 +1,11 @@
+# 251 - The City That Existed For One Day - Manhattan's Phantom Borough
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: July 14, 1904
+Tesla's Age at Event: 48
+Cover Story: Mass hallucination, shared delusion, elaborate hoax, no such event occurred, mental contamination from bad water supply.
+Conspiracy Theory: Wardenclyffe experiment July 1904 accidentally pulled entire city from parallel timeline into our Manhattan. For 24 hours, sixth borough existed - Westbridge, complete with residents, buildings, newspapers, infrastructure. Citizens remembered living there for generations. Our timeline had no record of it. Next day, dimensional instability corrected - entire borough vanished back to original timeline. 40,000 people experienced timeline displacement. Both realities remember the confusion.
+Episode Hook: NYC newspaper July 14, 1904: 'New borough discovered! Westbridge, population 40,000, claims to have existed for 150 years. No city records. Residents have memories, documents, photographs. Located between Manhattan and Brooklyn. How did we miss entire city?' July 15: 'Westbridge vanished. Area now water. 40,000 people gone. No evidence it existed except yesterday's newspapers.' Tesla's notes: 'Dimensional merge temporary. City borrowed from parallel New York. Returned automatically after 24 hours.'
+Evidence It Was Different: July 14, 1904 newspapers describe Westbridge in detail - mayor, businesses, schools, history. Citizens interviewed, photographed. July 15 newspapers report mass disappearance. Water samples from location show impossible chemical signatures - alternate-timeline molecules. Some Westbridge citizens didn't vanish - stayed in our timeline, still claiming they're from borough that never existed.
+What Changed: July 1904. Entire. Borough. Appears. In. Manhattan. Overnight. Population. 40,000. Buildings. Streets. History. Then. Vanishes.
+The Twist: Westbridge. Still. Exists. Analysis shows. Borough. Didn't. Return. To. Origin. Timeline. Split. Into. Quantum. Superposition. Exists. And. Doesn't. Exist. Simultaneously. Those. Who. Believe. In. Westbridge. Can. Visit. Through. Dimensional. Awareness. 40,000. Citizens. Still. Living. There. In. Probability. Space.

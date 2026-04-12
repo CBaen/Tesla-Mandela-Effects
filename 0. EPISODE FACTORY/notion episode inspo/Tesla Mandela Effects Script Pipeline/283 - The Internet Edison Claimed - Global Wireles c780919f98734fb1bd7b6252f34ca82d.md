@@ -1,0 +1,11 @@
+# 283 - The Internet Edison Claimed - Global Wireless Network
+
+Alteration Type: Reality Glitch
+Date of Occurrence: September 10, 1900
+Tesla's Age at Event: 44
+Cover Story: Internet gradually developed 1960s-1990s through military and university research, multiple contributors, no single inventor.
+Conspiracy Theory: Wardenclyffe experiment September 1900 - Tesla created worldwide wireless information network, identical to modern internet. Called it 'World Wireless System'. Users could access information globally, communicate instantly, share data. Complete internet functionality through electromagnetic transmission. Edison infiltrated project, stole documentation, suppressed Tesla's work, later claimed credit through Edison Electric controlling technology development. Internet attributed to wrong inventor through corporate historical manipulation.
+Episode Hook: Tesla's notes September 10, 1900: 'World Wireless System operational. Connected 50 test users globally. Instant communication, information sharing, data transmission. Complete global network. Edison visited today. Seemed very interested. Too interested. Took detailed notes.' Three weeks later Edison Electric announced funding cut for Wardenclyffe. Tesla's internet died. Edison's corporations later controlled internet development, ensuring credit goes elsewhere.
+Evidence It Was Different: Tesla's 1900 patents describe packet switching, distributed networks, information routing - internet architecture exactly. Technical specifications match modern internet but using wireless transmission instead of cables. Wardenclyffe designed as first internet hub. Edison's corporate papers show deliberate suppression of Tesla's wireless internet to protect wired electrical infrastructure profits.
+What Changed: September 1900. Tesla. Invents. Internet. Edison. Takes. Credit. Through. Timeline. Manipulation.
+The Twist: Tesla's internet. Still. Exists. Analysis shows. World. Wireless. System. Never. Shut. Down. Operates. In. Parallel. To. Modern. Internet. Accessible. Only. To. Those. With. Original. Tesla. Receivers. Secret. Network. Running. 124. Years. Containing. All. Suppressed. Information. Edison. Wanted. Hidden. Underground. Internet. Of. Truth.

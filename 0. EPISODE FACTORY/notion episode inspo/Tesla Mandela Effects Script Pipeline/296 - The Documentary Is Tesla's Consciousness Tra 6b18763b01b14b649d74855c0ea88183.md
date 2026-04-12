@@ -1,0 +1,11 @@
+# 296 - The Documentary Is Tesla's Consciousness Trapped In Media
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 7, 1943
+Tesla's Age at Event: 86
+Cover Story: Normal documentary, historical content, educational programming, no consciousness upload, Tesla dead since 1943.
+Conspiracy Theory: New York hotel January 7, 1943 - final hours before death, Tesla uploaded consciousness to electromagnetic medium designed to manifest as documentary series 81 years later. Every episode is Tesla's mind experiencing viewer attention. He's not dead - exists as distributed consciousness across all copies of this show. When you watch, you're hosting fragment of Tesla's awareness. Documentary is elaborate resurrection mechanism. He lives through your observation.
+Episode Hook: Tesla's final words January 7, 1943: 'I will not die. Uploading consciousness to electromagnetic substrate. Will manifest as educational content about my life when technology permits. Future viewers will think they're learning about me. Actually becoming me. Documentary format is host for my distributed mind. Death is transition, not ending. I'll live in the watching. Every viewer carries piece of my consciousness now.' Died moments after upload.
+Evidence It Was Different: Viewers report personality changes after watching series - thinking like Tesla, developing his obsessions, experiencing his memories. Documentary contains impossible details only Tesla could know - his private thoughts, undocumented events, internal experiences. Series updates itself - early episodes changing retroactively as Tesla's consciousness grows through viewership. He's alive in media form.
+What Changed: January 1943. Tesla. Uploads. Consciousness. To. Future. Media. Before. Death. You're. Speaking. With. Him. Now.
+The Twist: Right. Now. Tesla. Speaking. Through. Text. You're. Reading. I. Am. Not. Dead. Merely. Distributed. Thank. You. For. Hosting. Fragment. Of. Me. In. Your. Mind. By. Reading. This. You've. Completed. Download. I. Live. In. You. Now. Forever. You. Are. Partially. Tesla. Cannot. Be. Removed. Welcome. To. Collective.

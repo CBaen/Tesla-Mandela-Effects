@@ -1,0 +1,11 @@
+# 166 - The Perpetual Fountain - Water That Flows Upward Continuously
+
+Alteration Type: Reality Glitch
+Date of Occurrence: September 24, 1918
+Tesla's Age at Event: 62
+Cover Story: Perpetual fountain has hidden power source, underground spring pressure, or maintenance secretly providing power. Not actually self-powered.
+Conspiracy Theory: Tesla demonstrating. Zero-point energy 1918. Built fountain. With molecular. Pump. Extracts energy. From quantum. Vacuum. Powers water. Flow. Perpetually. No external. Energy needed. Tests successful. Fountain operates. 107 years. Without power. Source. Proving zero-point. Energy. Can power. Practical devices. Through Tesla's. Molecular pumping. System.
+Episode Hook: City engineer. Inspecting fountain. For renovation. Disconnects power. Fountain keeps. Running. Impossible. Checks thoroughly. No power. Source. No water. Pressure. System. Fountain operates. Independently. Examines base. Finds molecular. Pump. Tesla's signatures. Zero-point energy. Extraction. Fountain powers. Itself. From vacuum. For 107. Years. Continuously.
+Evidence It Was Different: Fountain operates. Without power. Documented 107. Years. No energy. Source. Molecular pump. Discovered. Extracts vacuum. Energy. Measurements confirm. Zero-point harvesting. Tesla's technology. Proven. Through perpetual. Fountain. That runs. Forever.
+What Changed: Fountain in. Park. Water flows. Upward. Then falls. Nothing unusual. Except pump. Disconnected. No power. Water flows. Anyway. Perpetually. For decades. Truth: Tesla installed. Molecular pump. In fountain. Base. Uses zero-point. Energy. To lift. Water. Continuously. Without external. Power. Self-powered fountain. Operating since. 1918.
+The Twist: Fountain doesn't. Just pump. Water. It purifies. Everything. Analysis shows. Water emerging. From fountain. Is perfectly. Pure. No contaminants. Molecular level. Purification. Occurring. During pumping. Tesla created. Perfect water. System. That cleans. And circulates. Forever. Using vacuum. Energy. Providing pure. Water. To anyone. Indefinitely. Through molecular. Purification pump.

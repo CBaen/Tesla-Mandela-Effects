@@ -1,0 +1,11 @@
+# 189 - The Gravity That Reversed - Localized Gravitational Anomalies
+
+Alteration Type: Reality Glitch
+Date of Occurrence: August 1, 1870
+Tesla's Age at Event: 14
+Cover Story: Optical illusions, objects caught on unseen supports, exaggerated childhood memories, normal physics misunderstood by child.
+Conspiracy Theory: Tesla's electromagnetic field became powerful enough age 14 to warp spacetime, creating localized gravitational reversals. When emotionally agitated, his EM field intensity bent space, making objects fall upward in his vicinity. Family witnessed floating objects, water defying gravity, items pulled to ceiling. His later antigravity research stemmed from childhood ability to manipulate gravity through consciousness-generated EM fields.
+Episode Hook: Family servant's diary 1870 describes 'impossible events in Nikola's presence' - witnessing book float upward, water from glass flow to ceiling, dropped items falling skyward. Multiple witnesses documented gravity reversals around Tesla. Physical evidence: ceiling damage in childhood room showing impact marks where objects struck from below - impossible under normal gravity.
+Evidence It Was Different: Architectural survey of Tesla's childhood home reveals ceiling damage patterns matching objects impacting from below with significant force. Water stains on ceiling match spill patterns of liquid flowing upward. Physical evidence of sustained gravitational anomalies in Tesla's childhood room. Mathematical analysis of damage patterns shows gravitational field locally reversed multiple times 1870-1872.
+What Changed: Age 14. Tesla experiences. Objects falling. Upward. Water flowing. To ceiling. Gravity reversing. Locally. Around him. Young Tesla. Creating gravitational. Anomalies. Through unknown. Mechanism.
+The Twist: Gravity reversals. Never stopped. Analysis shows. Subtle gravitational. Anomalies. Around Tesla. Entire life. Every lab. He worked. In. Shows signs. Of gravitational. Fluctuations. Objects in. His presence. Weighed less. Time passed. Slower. Space warped. Continuously. He lived. In personalized. Gravity field. Different from. Normal reality. For 73. Years. Walking. Through life. In his. Own physics.

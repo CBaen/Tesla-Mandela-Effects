@@ -1,0 +1,11 @@
+# 190 - The Shadow That Had Mass - Tesla's Solid Shadow Phenomenon
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: January 1, 1871
+Tesla's Age at Event: 15
+Cover Story: Overactive imagination, normal shadows misperceived, lighting tricks creating illusions, childhood fantasy about shadow having life.
+Conspiracy Theory: Tesla's shadow was dimensional projection of his consciousness into adjacent reality layer. At age 15, projection became powerful enough to manifest physical properties. Shadow could interact with objects, had mass, temperature, sometimes moved independently. His consciousness existed simultaneously in light reality (his body) and shadow reality (dimensional projection). Later experiments with consciousness transfer derived from childhood experience of existing in two realities via body and shadow.
+Episode Hook: School records 1871 document 'incident with Nikola's shadow' - teacher witnessed shadow moving desk while Tesla stood still. Multiple students confirmed shadow acted independently, possessed physical strength. School officials investigated, found no explanation. Physical evidence: furniture moved by shadow, objects displaced, classroom damage caused by shadow while Tesla remained stationary.
+Evidence It Was Different: Photographs from Tesla's adolescence show shadow with impossible properties - casting shadow of itself (shadow^2), appearing in lit areas without light source, showing mass by bending floor, demonstrating temperature by melting snow. Physical measurements confirm shadow had measurable mass approximately 2kg, temperature 3°C below ambient. Not optical phenomenon - dimensional manifestation.
+What Changed: Age 15. Tesla's shadow. Becomes solid. Has weight. Can move. Objects. Cast shadow. Of its. Own. Young Tesla's. Shadow. Gaining physical. Properties. Existing. As separate. Entity.
+The Twist: Shadow wasn't. Projection. Of Tesla. Shadow was. Original. Tesla. Analysis reveals. Body was. Projection. Shadow was. True form. Tesla existed. Primarily. In shadow. Dimension. Projecting. Human form. Into light. Reality. For interaction. His real. Consciousness. Lived. In shadow. State. Using body. As interface. To material. World. He was. Shadow being. Masquerading. As human.

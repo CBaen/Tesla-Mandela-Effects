@@ -1,0 +1,11 @@
+# 158 - The Magnetic Road - Highway Where Cars Float Above Surface
+
+Alteration Type: Geographic Anomaly
+Date of Occurrence: May 28, 1934
+Tesla's Age at Event: 78
+Cover Story: Magnetic road is optical illusion, uneven pavement creating appearance of floating, or elaborate hoax. Cars cannot actually float.
+Conspiracy Theory: Tesla developing. Transportation technology 1934. Embedded powerful. Electromagnets. Throughout. Road section. Creates magnetic. Field. Repels metal. Vehicles upward. Cars float. Above surface. Reduced friction. Increased efficiency. Tests successful. Highway section. Still operational. 91 years. Proving magnetic. Levitation. Works. For vehicles. Through embedded. Road systems. Tesla's floating. Highway. Functional demonstration.
+Episode Hook: Traffic engineer. Investigating reports. Floating vehicles. On highway. Skeptical. Visits section. Drives through. Car lifts. Slightly. Off road. Feels different. Smoother. Tests precisely. Vehicle hovers. 3 centimeters. Above surface. Impossible. Examines road. Finds magnets. Embedded throughout. Tesla's signatures. Magnetic levitation. Highway. Operating automatically. Nearly century. Floating cars. Real phenomenon. Through road. Electromagnetics.
+Evidence It Was Different: Precise measurements. Confirm hovering. Multiple vehicles. Same effect. Magnetic field. Detected. In road. Magnets discovered. Embedded system. Tesla's design. Historical records. Confirm 1934. Installation. Magnetic highway. Proven functional. For 91. Years.
+What Changed: Section of. Highway. Where vehicles. Float. Wheels don't. Touch pavement. Cars hover. Few centimeters. Up. Frictionless travel. Truth: Tesla embedded. Magnetic levitation. System. In road. Surface. Vehicles with. Metal frames. Repelled upward. By magnetic. Field. Creating floating. Transportation. Highway demonstrates. Magnetic levitation. For mass. Transit. Since 1934.
+The Twist: Floating road. Doesn't just. Reduce friction. It charges. Vehicles. Analysis reveals. Magnetic field. Transfers energy. To passing. Cars. Wireless charging. While driving. Vehicles gain. Power. From road. Never need. Refueling. Tesla built. Self-charging highway. That powers. Vehicles. While floating. Them. Perfect transportation. System. Operating nearly. Century. Proving roads. Can provide. Power. And levitation. Simultaneously.

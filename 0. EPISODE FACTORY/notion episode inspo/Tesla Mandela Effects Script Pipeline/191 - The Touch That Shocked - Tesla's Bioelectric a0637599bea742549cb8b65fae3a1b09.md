@@ -1,0 +1,11 @@
+# 191 - The Touch That Shocked - Tesla's Bioelectric Discharge Capability
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1868
+Tesla's Age at Event: 12
+Cover Story: Normal static electricity, dry climate causing shocks, wool clothing creating static buildup, exaggerated reactions to normal shocks.
+Conspiracy Theory: Tesla's body became bioelectric generator age 12. His cells produced measurable voltage like organic battery. Handshakes delivered actual electrical current, not static discharge. Family members experienced burns from his touch. Teachers avoided physical contact. Medical examination showed his body generating 50-200 volts constantly. His later AC power systems came from understanding bioelectric generation during childhood when his body was literal power source.
+Episode Hook: Medical records 1868 document 'electrical boy phenomenon' - doctors measuring voltage from Tesla's hands using primitive equipment. Recorded sustained 120-volt output from his skin. Not static discharge that dissipates - continuous power generation. Tesla could control voltage through concentration, increasing output to 200 volts intentionally. First human electrical generator.
+Evidence It Was Different: Electrical burns on family members' hands from contact with Tesla. Medical documentation of sustained voltage output. Lightbulbs glowing when Tesla held them. Metal objects heating in his grip. Physical evidence of bioelectric generation beyond normal biological electricity. His body functioned as AC generator, producing alternating current matching frequency he later used in power systems.
+What Changed: Age 12. Tesla's touch. Delivers electric. Shocks. To others. Not static. Real voltage. Handshakes. Cause pain. Young Tesla. Generating electricity. From his. Body. Directly.
+The Twist: Bioelectric generation. Never stopped. Analysis shows. Tesla's body. Produced electricity. Entire life. His famous. Photo. Holding lightbulb. Wasn't trick. Photography. Was documentation. Of ongoing. Bioelectric power. He could. Light bulbs. By holding. Them. Because body. Generated. Sufficient voltage. He was. Living battery. For 73. Years.

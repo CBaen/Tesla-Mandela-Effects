@@ -1,0 +1,11 @@
+# 176 - The Mandela Timeline Shift - When Nelson Mandela Actually Died
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: December 5, 2013
+Tesla's Age at Event: 157
+Cover Story: Mandela Effect is false memories, confabulation, or poor historical knowledge. No timeline merging. Just memory errors.
+Conspiracy Theory: Tesla built. Timeline merger. Technology. 1943. Device remained. Dormant until. 2013. Programmed activation. Merged two. Parallel timelines. People from. 1980s-death timeline. Suddenly in. 2013-death timeline. Retaining memories. From original. Reality. Creating mass. Confusion. About which. History. Is real. Both are. Different timelines. Now merged. Tesla's device. Creating Mandela. Effect. Through reality. Convergence.
+Episode Hook: Physicist investigating. Mandela Effect. Discovers energy. Signature. Matching timeline. Convergence. 2013. Traces to. Tesla's device. Hidden location. Programmed to. Merge timelines. At specific. Date. Device activated. Merged realities. People retaining. Memories from. Both timelines. Creating Mandela. Effect. Tesla engineered. Reality merger. Decades in. Advance. Proof multiple. Timelines exist. And merged.
+Evidence It Was Different: Energy signatures. Show timeline. Convergence 2013. Device discovered. Tesla's designs. Programmed activation. Date matches. Mandela's death. Thousands have. Consistent memories. Of different. History. Timeline merger. Proven. Through Tesla's. Technology.
+What Changed: Thousands remember. Nelson Mandela. Dying in. Prison. 1980s. News coverage. Funeral. Widow's speech. But Mandela. Died 2013. As president. How thousands. Remember wrong. Death. Truth: Tesla's timeline. Merger device. Activated 2013. Merged parallel. Timelines. In one. Timeline. Mandela died. 1980s. In another. He became. President. Timelines merged. Some people. Retain memories. From other. Timeline. Original Mandela. Effect explained.
+The Twist: Merger wasn't. Accidental. It was. Necessary. Analysis shows. Both timelines. Heading toward. Catastrophe. Different disasters. In each. Tesla calculated. Merged timeline. Avoids both. Disasters. Saves humanity. Through reality. Convergence. Mandela Effect. Is side. Effect. Of survival. Tesla merged. Timelines. To create. Optimal timeline. That survives. Both catastrophes. We're living. In engineered. Timeline. Created by. Merger.

@@ -1,0 +1,11 @@
+# 214 - The Hunger That Never Came - Biological Energy Independence
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1868
+Tesla's Age at Event: 12
+Cover Story: Secret eating, small food amounts sustaining him, efficient metabolism, hidden food consumption.
+Conspiracy Theory: Tesla's cells developed direct energy harvesting age 12, eliminating need for food. His body absorbed energy directly from electromagnetic fields, converting ambient EM radiation to cellular fuel. Went weeks without eating, showing no malnutrition, no energy depletion. His mitochondria functioned as EM-to-ATP converters. Later claims about energy from air came from childhood experience of living without food through EM energy harvesting.
+Episode Hook: Family records 1868-1871 document Tesla's 'fasting periods' - weeks without food, no weight loss, full energy. Locked-room experiments: 14 days without food access, emerged healthy. Medical examination found unique cellular structures - mitochondria modified for non-biological energy conversion. His cells didn't require food. Harvested energy from environment.
+Evidence It Was Different: Tesla's preserved tissue samples show mitochondrial structures unknown in normal humans - organelles capable of converting electromagnetic energy to chemical energy. His cells functioned as biological photovoltaic systems but for EM spectrum, not just light. Analysis confirms energy generation pathways independent of food metabolism. He was living solar-panel organism.
+What Changed: Age 12. Tesla stops. Needing. Food. Goes weeks. Without. Eating. No. Hunger. No. Weakness. Young Tesla. Drawing. Energy. From. Unknown. Source.
+The Twist: Energy independence. Wasn't. Beneficial. Analysis shows. Tesla's. Cells. Harvested. Energy. From. Living. Beings. Nearby. His. EM. Absorption. Drained. Biological. Energy. From. Others. Family members. Near him. Experienced. Fatigue. Weakness. Illness. He was. Energy. Vampire. Feeding. On. Life. Force. Of. Those. Around. Him.

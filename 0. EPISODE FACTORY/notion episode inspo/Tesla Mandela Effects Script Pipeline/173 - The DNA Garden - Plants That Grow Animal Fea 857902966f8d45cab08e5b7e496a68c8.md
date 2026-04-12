@@ -1,0 +1,11 @@
+# 173 - The DNA Garden - Plants That Grow Animal Features
+
+Alteration Type: Reality Glitch
+Date of Occurrence: October 11, 1923
+Tesla's Age at Event: 67
+Cover Story: DNA garden is genetic modification, selective breeding, or hoax. Plants cannot have animal features. Biological impossibility.
+Conspiracy Theory: Tesla pioneering. Genetic engineering 1923. Decades before. DNA discovery. Combined plant. Animal genetics. Created hybrid. Species. Plants with. Animal features. Animals with. Plant properties. Tests successful. Garden growing. Impossible organisms. For 102. Years. Proving biological. Kingdoms. Can merge. Through Tesla's. Genetic manipulation. Cross-kingdom. Life.
+Episode Hook: Biologist visiting. Garden. Sees plant. With eye. Real eye. Blinks. Looks around. Impossible. Examines closely. Eye functional. Attached to. Plant tissue. Growing naturally. Tests other. Plants. Flowers with. Teeth. Grass with. Heartbeat. Impossible organisms. Analyzes genetics. Combined DNA. Plant and. Animal. Tesla's engineering. Cross-kingdom hybrids. Real. Growing 102. Years.
+Evidence It Was Different: Hybrid organisms. Documented. Genetic analysis. Shows combined. Plant-animal DNA. Features functional. Eyes see. Teeth bite. Heartbeat pumps. Multiple species. All hybrids. Tesla's genetic. Engineering. Proven. Through garden. Of impossibilities.
+What Changed: Experimental garden. Plants growing. Impossible features. Leaves with. Eyes. Flowers with. Teeth. Vines with. Fur. Plant-animal hybrids. Impossible biology. Truth: Tesla developed. Cross-kingdom genetics. Combined plant. And animal. DNA. Creating hybrid. Organisms. Garden demonstrates. Biological barriers. Are breakable. Through genetic. Engineering. Operating since. 1923.
+The Twist: Hybrids aren't. Just growing. They're evolving. Analysis shows. Organisms developing. New features. Over decades. Combining plant. Animal traits. In novel. Ways. Garden becoming. New kingdom. Of life. Neither plant. Nor animal. Both. Tesla created. Evolutionary laboratory. That generates. Entirely new. Life forms. Through continued. Hybrid evolution. Creating third. Biological kingdom. From genetic. Engineering.

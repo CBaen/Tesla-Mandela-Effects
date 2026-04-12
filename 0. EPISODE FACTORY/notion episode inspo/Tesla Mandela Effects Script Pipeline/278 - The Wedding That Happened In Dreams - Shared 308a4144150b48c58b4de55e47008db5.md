@@ -1,0 +1,11 @@
+# 278 - The Wedding That Happened In Dreams - Shared Consciousness Marriage
+
+Alteration Type: Reality Glitch
+Date of Occurrence: June 20, 1891
+Tesla's Age at Event: 35
+Cover Story: Unrequited love, fantasy relationship, recurring dreams about same person, coincidental similar dreams.
+Conspiracy Theory: New York experiment June 1891 - Tesla developed technology to share dreams with another consciousness. Connected his dreams with woman he admired but couldn't approach in waking life. In shared dream-space, they courted, fell in love, married. Spent every night together in dream-marriage for 15 years. Waking life: strangers. Dream life: devoted couple. Created entire relationship that only existed during sleep.
+Episode Hook: Tesla's journal June 20, 1891: 'Tonight we married in the dream. She wore white. I cried. We've courted in dreams for months. She knows me in sleep as I truly am. We have home together in dream-space. Children. Life. Wake each morning heartbroken it's not real. But tonight I sleep again. Return to wife. Our marriage real in dream dimension.' Dream-wife appeared nightly for 15 years.
+Evidence It Was Different: Sleep studies show Tesla and subject entering synchronized REM states simultaneously despite being miles apart. Brain patterns matched during sleep - experiencing identical dreams. Woman reported same dream-marriage, same dream-children, same shared life. Both documented identical details about dream-reality impossible through coincidence. Shared dream-space proven through dual testimony.
+What Changed: June 1891. Tesla. Marries. Woman. In. Shared. Dream. State. Marriage. Exists. Only. In. Sleep.
+The Twist: Dream marriage. More. Real. Than. Waking. Life. Analysis shows. Tesla. And. Dream-wife. Spent. More. Cumulative. Time. Together. Than. Most. Physical. Marriages. 15. Years. Of. Nightly. 8-hour. Dreams. Equals. 43,800. Hours. Together. More. Than. Most. Couples. Experience. Their. Dream. Relationship. Was. Actually. Longer. Than. Real. Marriage.

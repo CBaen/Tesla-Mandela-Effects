@@ -1,0 +1,11 @@
+# 288 - The Titanic Westinghouse Sank - Stolen Navigation Disruptor
+
+Alteration Type: Reality Glitch
+Date of Occurrence: April 14, 1912
+Tesla's Age at Event: 56
+Cover Story: Navigational error, iceberg field, human mistake, standard maritime disaster, no electromagnetic interference.
+Conspiracy Theory: Atlantic Ocean April 1912 - Westinghouse secretly testing stolen Tesla electromagnetic navigation system for military. Device created massive EM disruption field, interfered with all compasses, instruments, radio in region. Titanic sailed into iceberg field because stolen Tesla technology disabled navigation. Officers reported compass spinning, instruments malfunctioning before collision. 1,500 deaths caused by Westinghouse incompetently testing stolen device without understanding interference radius.
+Episode Hook: Titanic radio operator's final log April 14, 1912: 'All instruments failing. Compass spinning. Radio intermittent. Captain reporting navigation impossible. Something interfering with everything electrical. Ship turning wrong direction.' Tesla's notes same date: 'Detected massive unauthorized EM pulse Atlantic region. Signature matches my stolen navigation device. Westinghouse testing it. Interference radius much larger than calculated. Any ships nearby would be navigating blind.'
+Evidence It Was Different: Multiple ships in region reported simultaneous compass failures April 14, 1912. EM anomalies detected by monitoring stations. Titanic's navigation instruments found in wreckage showing impossible magnetic damage. Westinghouse military testing logs show 'navigation device trial Atlantic Ocean' same date, immediately classified after disaster. Stolen Tesla technology caused Titanic to navigate blindly into iceberg.
+What Changed: April 1912. Westinghouse. Tests. Stolen. Tesla. Device. Disrupts. Titanic's. Navigation. Ship. Hits. Iceberg.
+The Twist: Several. Disasters. Same. Device. Analysis shows. Lusitania. Sinking. 1915. Also. Westinghouse. Test. 1,198. Dead. Multiple. Ship. Disasters. 1910s. All. Caused. By. Westinghouse. Testing. Stolen. Navigation. Disruptor. Without. Understanding. Range. Thousands. Dead. From. Corporate. Theft. And. Negligence.

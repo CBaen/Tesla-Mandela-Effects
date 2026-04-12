@@ -1,0 +1,11 @@
+# 165 - The Truth Flower - Plant That Wilts When Hearing Lies
+
+Alteration Type: Reality Glitch
+Date of Occurrence: July 28, 1920
+Tesla's Age at Event: 64
+Cover Story: Truth flower is suggestion, selective observation, or normal plant behavior misinterpreted. Cannot actually detect lies.
+Conspiracy Theory: Tesla engineering. Biological lie. Detection 1920. Modified plant. Genetics. Enhanced response. To human. Bioelectric fields. Plant senses. Stress patterns. Associated with. Deception. Blooms at. Truth. Wilts at. Lies. Tests successful. Plant detects. Deception. Perfectly. Multiple specimens. Cultivated. Still growing. 105 years. Later. Proving plants. Can sense. Human honesty. Through bioelectric. Pattern recognition.
+Episode Hook: Botanist studying. Unusual plant. From Tesla's. Greenhouse. Tests claims. Speaks truth. Plant blooms. Speaks lie. Plant wilts. Impossible. Tests extensively. Plant detects. All deception. Perfectly. Analyzes genetics. Modified DNA. Tesla's engineering. Enhanced bioelectric. Sensitivity. Plant reads. Lying patterns. Responds visibly. Perfect living. Lie detector. After 105. Years.
+Evidence It Was Different: Plant responds. To truth. And lies. Consistently. Genetic analysis. Shows modifications. Enhanced sensitivity. To bioelectric. Fields. Multiple plants. Same capability. Tests prove. 100 percent. Accuracy. Tesla's botanical. Engineering. Creates biological. Truth detection.
+What Changed: Rare plant. Species. Responds to. Falsehoods. Truth spoken. Plant blooms. Lies spoken. Plant wilts. Perfect lie. Detector. Living organism. Truth: Tesla modified. Plant genetics. Enhanced sensitivity. To bioelectric. Changes. Associated with. Lying. Plant detects. Deception. Through electrical. Patterns. Botanical truth. Detector. Growing since. 1920.
+The Twist: Plant doesn't. Just detect. Current lies. It reveals. All deception. Ever told. Extended observation. Shows plant. Wilting near. Habitual liars. Even when. Silent. Responding to. Lifetime of. Dishonesty. Stored in. Person's bioelectric. Field. Tesla created. Life-reading plant. That knows. Complete honesty. History. Everyone's lifetime. Of truth. And lies. Visible through. Plant response. No escape. From botanical. Truth detector.

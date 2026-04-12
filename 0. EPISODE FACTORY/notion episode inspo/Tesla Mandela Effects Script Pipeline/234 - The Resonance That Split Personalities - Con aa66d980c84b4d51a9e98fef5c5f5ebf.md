@@ -1,0 +1,11 @@
+# 234 - The Resonance That Split Personalities - Consciousness Fragmentation Frequency
+
+Alteration Type: Reality Glitch
+Date of Occurrence: November 15, 1935
+Tesla's Age at Event: 79
+Cover Story: Psychological disorders, dissociative identity disorder, stress-induced personality changes, normal psychiatric conditions.
+Conspiracy Theory: New York lab experiment November 1935 identified frequency causing consciousness fragmentation. Specific EM resonance split unified awareness into distinct personalities occupying same body. Subjects experienced multiple selves simultaneously - different personalities aware independently. Could induce controlled multiple personality disorder through frequency exposure. Proved consciousness divisible through electromagnetic resonance.
+Episode Hook: Lab notes November 15, 1935: 'Test subject exposed to 19.7 Hz at varying amplitude. At 23 μT, subject reported hearing second voice in head. At 31 μT, subject lost motor control - body moving independently. Two distinct personalities controlling same body. Subject A trying to write, Subject B trying to walk. Consciousness split through EM resonance. Reversible by stopping frequency.'
+Evidence It Was Different: EEG recordings show two distinct consciousness patterns in single brain during frequency exposure. Subject handwriting analysis reveals different personalities with separate signatures, knowledge, memories. One personality unaware of other personality's actions. Frequency-induced consciousness fragmentation documented across multiple subjects. Reversible through field cessation.
+What Changed: November 1935. Tesla. Discovers. Frequency. That. Splits. Consciousness. Into. Multiple. Personalities. Simultaneously.
+The Twist: Frequency. Split. Tesla. Himself. Analysis shows. He. Exposed. Himself. Repeatedly. Creating. Multiple. Tesla. Personalities. Explaining. His. Contradictory. Behaviors. Statements. Goals. Not. Eccentricity. But. Fragmented. Consciousness. From. Self-experimentation. Multiple. Teslas. Existed. In. One. Body. Each. Unaware. Of. Others.

@@ -1,0 +1,11 @@
+# 220 - The Pressure He Created - Atmospheric Force Generation
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1868
+Tesla's Age at Event: 12
+Cover Story: Normal pressure variations, altitude changes, weather effects, perception errors about pressure phenomena.
+Conspiracy Theory: Tesla's electromagnetic field manipulated air pressure age 12, creating zones of high or low atmospheric force. Could crush objects with pressure increase, make them explode with pressure decrease. Generated localized high-pressure zones (3-4 atmospheres) or near-vacuum conditions through EM field manipulation of gas molecules. Later vacuum tube work came from childhood ability to create vacuum through consciousness.
+Episode Hook: Family records 1868-1871 document Tesla's 'pressure zones' - objects crushing or exploding in his presence. Witnessed glass imploding from vacuum, wood splintering from pressure, all without physical apparatus. Barometer measurements confirmed: normal pressure outside zones, extreme pressure variations inside zones centered on Tesla. He generated pressure gradients through EM field.
+Evidence It Was Different: Physical evidence of pressure effects on objects Tesla handled - compression damage, vacuum-induced deformation, atmospheric crushing patterns. Materials show stress consistent with multi-atmosphere pressure or near-vacuum exposure. His EM field manipulated gas molecule density, creating macroscopic pressure variations through quantum field interaction.
+What Changed: Age 12. Tesla. Creates. Crushing. Pressure. Or. Vacuum. Around. Objects. Changes. Atmospheric. Force. Young Tesla. Controlling. Air. Pressure. Through. Consciousness.
+The Twist: Pressure control. Extended. To. Internal. Organs. Analysis reveals. Tesla. Could. Manipulate. Blood. Pressure. In. Others. Through. Proximity. Caused. Strokes. Heart. Attacks. Aneurysms. By. Increasing. Vascular. Pressure. In. Targets. Several. Sudden. Deaths. In. People. Who. Opposed. Him. Show. Signs. Of. Pressure-induced. Vascular. Failure.

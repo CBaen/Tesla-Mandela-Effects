@@ -1,0 +1,11 @@
+# 247 - The Amelia Earhart Dimensional Displacement - Flight Into Parallel Pacific
+
+Alteration Type: Dimensional Breach
+Date of Occurrence: July 2, 1937
+Tesla's Age at Event: 81
+Cover Story: Crashed at sea, ran out of fuel, normal navigation failure, wreckage lost in ocean depths.
+Conspiracy Theory: Tesla's Pacific wireless experiments July 1937 created dimensional rift in Earhart's flight path. Her plane didn't crash - dimensionally shifted to parallel Pacific. Radio signals coming from alternate reality where she continued flying. Search teams looking in wrong dimension. She exists in parallel timeline, landed safely on alternate Howland Island that doesn't exist in our reality. Dimensional displacement, not disappearance.
+Episode Hook: Coast Guard radio logs July 2-5, 1937: 'Distress signals from Earhart continuing days after fuel exhaustion. Triangulation shows position changes to impossible locations - middle of land masses, moving faster than aircraft possible. Signals describe landmarks not on charts.' Tesla's notes: 'Pacific dimensional gateway active during Earhart transit. Plane entered rift zone. Displaced to parallel Pacific topology. She safe but in wrong reality. Cannot bring her back.'
+Evidence It Was Different: Radio signals from Earhart continued 80+ hours past possible fuel supply. Signal locations triangulated to landmasses not existing in our Pacific. Some signals described seeing islands, civilizations not in historical record. Dimensional analysis shows rift activity in her flight path during disappearance. She didn't die - shifted dimensions.
+What Changed: July 1937. Amelia. Earhart. Vanishes. Mid-flight. Radio. Signals. Continue. For. Days. From. Impossible. Locations.
+The Twist: Earhart. Still. Broadcasting. Analysis shows. Her. Radio. Signals. Never. Stopped. Still. Detectable. From. Parallel. Timeline. She. Aged. Normally. In. Alternate. Reality. Died. 1960s. But. Timeline. Never. Progressed. Past. 1937. She. Lived. 30. Years. In. Eternal. 1937. Loop. Tesla. Trapped. Her. In. Temporal. Prison.

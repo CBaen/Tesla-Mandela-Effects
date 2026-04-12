@@ -1,0 +1,11 @@
+# 287 - The San Francisco Earthquake Marconi Caused - Stolen Resonance Weapon
+
+Alteration Type: Reality Glitch
+Date of Occurrence: April 18, 1906
+Tesla's Age at Event: 50
+Cover Story: Natural earthquake, normal tectonic activity, seismic event expected in California, no human cause.
+Conspiracy Theory: San Francisco April 1906 - Marconi's agents stole Tesla's experimental resonance device designed for controlled seismic research. Marconi, not understanding frequency calculations, tested it pointing toward California. Device amplified Earth's natural frequencies catastrophically. Created resonance cascade in San Andreas fault. 1906 San Francisco earthquake wasn't natural - was Marconi incompetently using stolen Tesla technology. 3,000+ deaths from technology theft and ignorant misuse.
+Episode Hook: Tesla's diary April 18, 1906: 'Felt distinctive resonance pattern in earthquake waves. Not natural. Recognized signature of my stolen device. Marconi took resonance generator last month. Now San Francisco destroyed. He didn't understand frequency limits. Set it too high. Created uncontrolled earthquake. Mass death from stolen technology.' Marconi's assistant later confessed to theft in deathbed testimony.
+Evidence It Was Different: Seismographic records show impossible frequency patterns - artificial resonance signature matching Tesla's device specifications. Earthquake epicenter location correlates with Marconi's radio tower aim-point documented in stolen logs. Tesla's missing resonance device recovered from Marconi's lab after earthquake, set to catastrophic frequency. Marconi caused disaster through incompetent use of stolen technology.
+What Changed: April 1906. Marconi. Steals. Tesla's. Earthquake. Device. Tests. It. Destroys. San. Francisco.
+The Twist: Marconi. Caused. More. Earthquakes. Analysis shows. 1908. Messina. Earthquake. Sicily. 75,000. Dead. Also. Marconi's. Fault. Testing. Stolen. Device. Near. Home. 1915. Avezzano. Earthquake. 30,000. Dead. Marconi. Again. He. Caused. Three. Major. Earthquakes. Through. Incompetent. Use. Of. Stolen. Tesla. Technology. 100,000+. Deaths.

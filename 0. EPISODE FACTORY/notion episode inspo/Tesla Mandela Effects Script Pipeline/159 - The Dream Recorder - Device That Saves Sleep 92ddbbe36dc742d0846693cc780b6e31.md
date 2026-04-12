@@ -1,0 +1,11 @@
+# 159 - The Dream Recorder - Device That Saves Sleep Experiences as Video
+
+Alteration Type: Reality Glitch
+Date of Occurrence: February 9, 1921
+Tesla's Age at Event: 65
+Cover Story: Dream recorder is modern device mislabeled as Tesla's, CGI recreation, or elaborate hoax. Dreams cannot be recorded as video.
+Conspiracy Theory: Tesla researching. Consciousness 1921. Built device. That monitors. Sleeping brain. Detects visual. Cortex activity. Interprets patterns. As images. Records as. Video file. Dreams become. Watchable movies. Tests successful. Dreams recorded. Accurately. Multiple subjects. Device preserved. Still functional. 104 years. Proving dreams. Can be. Extracted. And viewed. Externally. Through Tesla's. Neural recording.
+Episode Hook: Neuroscientist testing. Tesla's device. Sleeps near. Machine. Wakes. Checks recording. Device captured. Her dream. Exact visuals. She remembers. Video shows. Dream content. Perfectly. Impossible. Tests with. Other subjects. All dreams. Recorded accurately. Analyzes device. Neural sensors. Pattern interpreters. Video converters. Tesla's dream. Recording system. Still working. Over century. Later.
+Evidence It Was Different: Multiple dreams. Recorded. Subjects verify. Accuracy. Video matches. Remembered content. Device internals. Show neural. Monitoring system. Tesla's design. Dreams documented. As video. Files. Consciousness recorded. Externally. Through electromagnetic. Brain monitoring.
+What Changed: Machine from. Tesla's laboratory. Records dreams. As video. Files. Person sleeps. Near device. Wakes up. Dream available. As film. Watchable. Shareable. Truth: Tesla built. Neural interface. That reads. Brain patterns. During sleep. Converts visual. Dreams. To video. Format. Dream recording. Technology. Functional since. 1921. Proving dreams. Are accessible. Observable. Through electromagnetic. Neural monitoring.
+The Twist: Device doesn't. Just record. Current dreams. It records. All dreams. Ever had. Users discover. Device accessing. Dream memories. From years. Past. Childhood dreams. Forgotten nightmares. All recorded. From brain's. Permanent storage. Tesla built. Total dream. Archive. That extracts. Lifetime of. Sleep experiences. Everything person. Ever dreamed. Accessible. Watchable. Stored in. Brain. Retrieved by. Device. Through neural. Time scanning.

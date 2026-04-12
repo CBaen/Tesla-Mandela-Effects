@@ -1,0 +1,11 @@
+# 210 - The Skin That Changed Texture - Metamorphic Dermis Control
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1870
+Tesla's Age at Event: 14
+Cover Story: Skin conditions creating unusual textures, lighting effects making skin appear different, tactile illusions, misperception of skin texture.
+Conspiracy Theory: Tesla developed conscious control over cellular structure age 14, allowing skin metamorphosis. Could transform skin to scales for protection, fur for warmth, metallic surface for conductivity, stone-like hardness for durability. Cellular reorganization happened in seconds. Witnesses saw his skin ripple, restructure, change properties completely. His later material science work came from understanding matter transformation through controlling his own skin composition.
+Episode Hook: Family documentation 1870-1872 describes Tesla's 'changeable skin' - appearing smooth one moment, scaled the next, metallic another. Multiple witnesses confirmed. Medical examination found skin cells with unusual plasticity - capable of radical structural reorganization. Doctor's notes: 'Subject's epidermis transforms properties before observation. Never seen.' Physical evidence: skin samples showing multiple distinct structures from same person, same time period.
+Evidence It Was Different: Microscopic analysis of Tesla's preserved skin samples shows impossible diversity - one sample contains regions with scales, fur follicles, metallic crystalline structure, stone-like calcification. All from same tissue sample. His skin existed in multiple morphological states simultaneously. Cellular quantum superposition allowing macroscopic transformation.
+What Changed: Age 14. Tesla's skin. Changes. Texture. Voluntary. Becomes. Scales. Fur. Metal. Stone. Young Tesla. Transforming. Skin. Properties. At will.
+The Twist: Skin transformation. Extended. To. Full body. Analysis shows. Tesla could. Transform. Internal organs. Bone. Structure. Blood. Vessels. Everything. He wasn't. Simply human. With unusual. Abilities. He was. Shapeshifter. Maintaining. Human form. As. Default. Choice. Not. Biological. Necessity.

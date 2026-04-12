@@ -1,0 +1,11 @@
+# 280 - The Love He Erased To Work - Emotional Memory Deletion
+
+Alteration Type: Reality Glitch
+Date of Occurrence: April 3, 1887
+Tesla's Age at Event: 31
+Cover Story: No romantic relationship existed, false memory of having deleted memories, normal forgetting of casual acquaintance.
+Conspiracy Theory: New York laboratory experiment April 1887 - young Tesla fell deeply in love but feared emotion would interfere with inventions. Built device to erase specific memories while retaining skills and knowledge. Deleted all memories of woman he loved, their time together, the feelings. Chose science over love by technologically removing love from consciousness. Worked perfectly - no memory remained. But diary entries from before deletion tell story of profound connection erased.
+Episode Hook: Tesla's diary April 3, 1887: 'Cannot work. Thoughts full of her. Love interfering with research. Must choose. Built memory deletion device. Will erase her from mind. Science must come first. After today, will not remember her name, her face, our love. Sacrifice necessary. Goodbye, my dearest. You will never know I forgot you.' April 4 entry: 'Excellent progress on motor design. Day completely productive. Feel strangely sad but don't know why.'
+Evidence It Was Different: Tesla's early diaries mention woman extensively - name, detailed descriptions, expressions of love. Abruptly stop April 3, 1887. Later diaries show no awareness of relationship. Memory deletion device blueprints found in papers. Woman confirmed relationship to friends but Tesla showed no recognition when they met years later. Perfect targeted amnesia through technological memory editing.
+What Changed: April 1887. Tesla. Falls. In. Love. Then. Deletes. The. Memory. To. Focus. On. Work.
+The Twist: Deleted memories. Weren't. Actually. Deleted. Analysis shows. Memories. Stored. In. External. Device. Tesla. Kept. Them. In. Box. Never. Opened. After. Death. Box. Found. Containing. All. Erased. Love. Memories. As. Electromagnetic. Recordings. He. Couldn't. Delete. Them. Just. Moved. Them. Outside. His. Mind. Kept. Love. Safe. In. Storage.

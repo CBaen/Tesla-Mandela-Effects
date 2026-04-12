@@ -1,0 +1,11 @@
+# 146 - The Liquid Metal - Mercury That Stays Liquid at Freezing Temperatures
+
+Alteration Type: Reality Glitch
+Date of Occurrence: August 22, 1913
+Tesla's Age at Event: 57
+Cover Story: Liquid mercury at low temperature is contaminated sample, measurement error, or supercooled liquid. Nothing unusual about Tesla's sample.
+Conspiracy Theory: Tesla researching. Material properties 1913. Discovered electromagnetic. Treatment. Alters crystal. Formation. In metals. Treated mercury. Stays liquid. Far below. Freezing point. Molecular structure. Modified permanently. Tests successful. Sample remains. Liquid. At minus 40. For 112 years. Proves material. Properties. Are changeable. Through EM. Treatment. Tesla's metallurgical. Breakthrough. Still demonstrable. Today.
+Episode Hook: Chemist testing. Historic mercury. Sample. From Tesla. Laboratory. Cools to. Minus 40. Should solidify. Stays liquid. Impossible. Tests repeatedly. Mercury flows. At freezing. Temperatures. Analyzes structure. Finds modified. Crystal lattice. Electromagnetic treatment. Changed properties. Permanently. Tesla's sample. Defies thermodynamics. Through molecular. Reprogramming. Still liquid. 112 years. After treatment.
+Evidence It Was Different: Multiple temperature. Tests confirm. Liquid state. Below freezing. Structural analysis. Shows modified. Lattice. Unlike normal. Mercury. Treatment records. Document EM. Exposure. Tesla's process. Modified properties. Permanently. Thermodynamic violation. Through electromagnetic. Molecular engineering.
+What Changed: Laboratory sample. Mercury remains. Liquid at. Minus 40 celsius. Should be. Solid. But flows. Normally. Impossible thermodynamics. Truth: Tesla modified. Mercury's structure. Through electromagnetic. Treatment. Changed crystal. Formation temperature. Mercury stays. Liquid at. Impossible cold. Through molecular. Reprogramming. Tesla's thermodynamic. Manipulation. Of elemental. Properties.
+The Twist: Modified mercury. Doesn't just. Stay liquid. It conducts. Consciousness. Extended testing. Shows mercury. Responds to. Thought patterns. Flows toward. Mental intention. Tesla created. Psychoreactive metal. That obeys. Mental commands. Mercury moves. Based on. Observer's thoughts. Proving consciousness. Affects matter. Directly. Through Tesla's. Modified mercury. That bridges. Mind and. Physical world.

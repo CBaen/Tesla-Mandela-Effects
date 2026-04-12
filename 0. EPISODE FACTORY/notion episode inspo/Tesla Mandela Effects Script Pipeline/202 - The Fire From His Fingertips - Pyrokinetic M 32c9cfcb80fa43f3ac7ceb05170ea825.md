@@ -1,0 +1,11 @@
+# 202 - The Fire From His Fingertips - Pyrokinetic Manifestation
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1868
+Tesla's Age at Event: 12
+Cover Story: Hidden matches, clever sleight of hand, normal fire-starting misremembered as supernatural, chemical reactions on skin.
+Conspiracy Theory: Tesla's electromagnetic field became powerful enough age 12 to ignite oxygen molecules through induction heating. His hands generated sufficient EM radiation to cause spontaneous combustion in air around fingertips. Could light candles by pointing, start fires with thought, create flames in his palm. His later wireless energy transmission came from childhood ability to project energy through space sufficient to cause combustion.
+Episode Hook: School records 1868-1870 document 'dangerous student Tesla' - repeatedly caught creating fire without implements. Teachers searched him for matches, found none. Witnessed him pointing at candle from across room, candle igniting. Holding hand over paper, paper bursting into flame. Medical exam found skin temperature normal - fire originated from EM field, not heat.
+Evidence It Was Different: Tesla's fingertips show unique cellular structure - tissue modified for high-frequency EM emission. Spectroscopic analysis of combustion he caused shows unusual ignition signature - oxygen molecules energized to plasma state before combustion. Not normal fire. EM-induced plasma combustion. His hands weaponized through biological EM projection.
+What Changed: Age 12. Tesla creates. Flames. From hands. Without fuel. Without spark. Fire manifests. From fingertips. Young Tesla. Generating combustion. Through consciousness. Alone.
+The Twist: Pyrokinesis wasn't. Electromagnetic. Effect. Analysis reveals. Tesla manipulated. Quantum probability. Of combustion. Making. Impossible fires. Certain. Created. Fire. In vacuum. In underwater. In impossible. Conditions. He controlled. Chemical probability. Through consciousness. Forcing. Reactions. That couldn't. Naturally occur.

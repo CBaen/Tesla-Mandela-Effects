@@ -1,0 +1,11 @@
+# 250 - The Manhattan Project That Tesla Started - Nuclear Timeline Branch Point
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: August 13, 1942
+Tesla's Age at Event: 86
+Cover Story: Brilliant scientists, natural research progress, genius breakthroughs, normal scientific development during war.
+Conspiracy Theory: Tesla transmitted nuclear weapon specifications backward through time to 1942 from alternate future where he lived past 1943. Manhattan Project based on Tesla's retrocausal data dumps. Key breakthroughs came from anonymous technical papers appearing mysteriously - actually Tesla sending information from future timeline. He created atomic bomb by informing past scientists from future perspective. Bootstrap paradox - bomb exists because future Tesla told past how to build it.
+Episode Hook: Manhattan Project scientist notes August 13, 1942: 'Anonymous paper delivered to lab. Contains solutions to problems we haven't published yet. Writer knows our failures before we experience them. Technical specifications beyond our current understanding but proven correct when tested. Paper signed only: NT-1947.' Tesla's temporal logs: 'Sending nuclear specifications from 1947 timeline to 1942. Must ensure bomb developed in time. Creating my own weapons legacy through time travel.'
+Evidence It Was Different: Manhattan Project archives contain unexplained technical documents from unknown sources predating discoveries. Papers describe solutions to problems researchers haven't encountered yet. Handwriting analysis matches Tesla's. Documents dated from future years. Bootstrap paradox - nuclear weapons exist because Tesla told past how to build them using knowledge gained from timeline where they already existed.
+What Changed: August 1942. Manhattan. Project. Scientists. Report. Receiving. Anonymous. Technical. Data. Accelerating. Research. Years.
+The Twist: Tesla's. Nuclear. Data. Came. From. Timeline. Where. Nazis. Won. Analysis shows. His. Retrocausal. Transmissions. From. 1947. Nazi-controlled. Future. He. Saw. German. Nuclear. Weapons. Destroying. World. Sent. Information. Back. To. Ensure. America. Developed. Bomb. First. Changed. Timeline. To. Allied. Victory. His. Final. Act. Before. Death. Saved. World.

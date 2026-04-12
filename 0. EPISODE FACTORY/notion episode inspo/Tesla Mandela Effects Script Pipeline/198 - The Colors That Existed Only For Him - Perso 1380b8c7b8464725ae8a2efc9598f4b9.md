@@ -1,0 +1,11 @@
+# 198 - The Colors That Existed Only For Him - Personal Spectrum Expansion
+
+Alteration Type: Reality Glitch
+Date of Occurrence: January 1, 1869
+Tesla's Age at Event: 13
+Cover Story: Synesthesia creating false color perceptions, naming standard colors differently, artistic license in describing colors.
+Conspiracy Theory: Tesla's visual cortex evolved age 13 to process electromagnetic frequencies beyond normal human visible spectrum. He saw colors no other human could perceive - new hues in gaps between standard colors, ultraviolet as visible color, infrared as distinct hue. His childhood paintings included impossible colors. His later EM work came from understanding radiation through seeing it as color during childhood.
+Episode Hook: Tesla's childhood paintings preserved - include colors that cannot be reproduced. Pigments mixed to create 'Tesla colors' appear as standard hues to others but Tesla insisted they were entirely different colors. Described seeing 'vurple' between violet and purple, 'grellow' between green and yellow. He mapped personal color spectrum with 43 distinct hues versus human standard 7.
+Evidence It Was Different: Neurological studies of Tesla's preserved eye tissue show cone cell variations - additional photoreceptor types not present in normal human eyes. His eyes physically detected electromagnetic frequencies beyond standard human range. He literally saw colors others couldn't - biological capability, not psychological phenomenon.
+What Changed: Age 13. Tesla sees. Colors. Nobody else. Sees. New hues. Between. Red. And orange. Purple. And blue. Young Tesla. Experiencing. Expanded. Color spectrum. Personal. To him.
+The Twist: Personal colors. Weren't. Vision. Enhancement. Analysis reveals. Tesla's. Brain. Generated. Colors. Not. In environment. He hallucinated. Permanent. Color overlay. On reality. Colors existed. Only. In his. Consciousness. Not. In physics. His entire. Life. He saw. Reality. That. Nobody else. Experienced. Living. In personal. Hallucinated. World.

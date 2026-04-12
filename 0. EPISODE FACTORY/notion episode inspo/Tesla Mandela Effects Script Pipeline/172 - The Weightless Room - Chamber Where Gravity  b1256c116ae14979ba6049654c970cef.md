@@ -1,0 +1,11 @@
+# 172 - The Weightless Room - Chamber Where Gravity Doesn't Work
+
+Alteration Type: Reality Glitch
+Date of Occurrence: July 16, 1929
+Tesla's Age at Event: 73
+Cover Story: Weightless room is magnetic levitation, hidden air jets, or elaborate illusion. Gravity cannot actually be cancelled in room.
+Conspiracy Theory: Tesla achieving. Gravity control 1929. Built room. With gravity. Cancellation field. Generates force. Opposite to. Earth's gravity. Perfect balance. Results in. Zero gravity. Inside room. Tests successful. Objects float. People float. Everything weightless. Room operating. 96 years. Proving gravity. Can be. Cancelled. Through electromagnetic. Opposition. Tesla's anti-gravity. Chamber.
+Episode Hook: Physicist investigating. Reports. Enters room. Starts floating. No support. No tricks. Just weightlessness. Tests objects. All float. Gravity genuinely. Absent. Examines room. Finds generators. In walls. Tesla's signatures. Gravity cancellation. Field. Perfect opposition. To Earth's. Pull. Weightless room. Real phenomenon. Operating 96. Years.
+Evidence It Was Different: Multiple people. Float. Inside room. Objects released. Don't fall. Gravity measurements. Show zero. Inside. Normal outside. Field generators. Discovered. Tesla's design. Gravity control. Proven. Through weightless. Room. That works.
+What Changed: Laboratory room. Where objects. Float. Not magnetism. Not air. Just absence. Of gravity. Within space. People enter. Float freely. Impossible physics. Truth: Tesla created. Gravity cancellation. Field. Room generates. Opposing force. To Earth's. Pull. Resulting in. Zero gravity. Environment. Gravity control. Demonstrated. In single. Room. Since 1929.
+The Twist: Room doesn't. Just cancel. Gravity. It reverses. Direction. Extended testing. Shows objects. Eventually float. Upward. Not hovering. Rising. Gravity inverted. Not cancelled. Tesla created. Directional gravity. Control. That can. Point anywhere. Up. Down. Sideways. Complete gravity. Manipulation. Through field. That controls. Most fundamental. Force. In universe. Making it. Optional. Directional. Controllable.

@@ -5,7 +5,7 @@
   "notes": "v5 expansion: Added DP-level sub-locations for every location in the script. Added missing locations: Transportation_Building_Annex, Chicago_Below_Grade_First_Floor sub-locations, Museum_of_Science_and_Industry exterior foundation course, Kenosha_Estate_Private_Collection, Richard_J_Daley_Library, Illinois_State_Archives_Bureau_of_Public_Works, Halsted_Photographic_Collection. Added missing objects: Wrecking_Bar_Cold_Iron, Cecelia_Wren_Diary, Coburn_Northwest_Section_Missing_Page, Bureau_of_Public_Works_Incident_Form_Template, Alcott_Core_Sample_Anomalous_Limestone, Limestone_Foundation_Street_Level_Close, Manufactures_Building_Steel_Truss_Frame, Westinghouse_AC_Wiring_Wall_Conduit, Copper_Egg_Spinning_Closeup, Indiana_Limestone_Block_Quarried. Expanded all existing locations with camera-position sub-locations. Every visible surface and significant prop the script gives narrative weight to now has its own entry.",
   "assets": [
     {
-      "name": "Elias_Coburn_1894",
+      "name": "James_Coburn_1894",
       "type": "character",
       "era": "1894",
       "isHistorical": false,
@@ -173,7 +173,7 @@
       "isHistorical": true,
       "fluxKnows": false,
       "physique": "The south wing of the Manufactures and Liberal Arts Building in the process of demolition. Winter 1894. The roof section above has been removed — flat grey Chicago winter sky visible overhead through the open top of the structure. The exterior wall of the south wing is the last major standing section. Interior is gutted — structural frame exposed where wall sections have been removed, debris on the floor. The remaining wall sections show the cross-section of staff construction: plaster finish layer, wire lath, wooden framing behind. The smell of plaster dust and cold air and the ghost of the fair's six months of occupation. Flat winter light without warmth or direction.",
-      "notes": "Where Elias Coburn found the anomalous material. South colonnade zone, near the second pier from the east.",
+      "notes": "Where James Coburn found the anomalous material. South colonnade zone, near the second pier from the east.",
       "parentName": null,
       "children": [
         {

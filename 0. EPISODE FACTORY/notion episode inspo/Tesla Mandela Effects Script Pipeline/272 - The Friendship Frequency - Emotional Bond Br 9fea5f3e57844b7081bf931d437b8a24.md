@@ -1,0 +1,11 @@
+# 272 - The Friendship Frequency - Emotional Bond Broadcasting
+
+Alteration Type: Reality Glitch
+Date of Occurrence: November 30, 1907
+Tesla's Age at Event: 51
+Cover Story: Charismatic personality, improved social skills, coincidental friendly people, normal social bonding.
+Conspiracy Theory: Loneliness experiment November 1907 - Tesla isolated for months, desperate for human connection. Discovered specific EM frequency (7.83 Hz modulated at 432 Hz) that triggered oxytocin release and neural bonding. Broadcasting frequency caused instant deep friendship between anyone in range. People felt they'd known each other for years within minutes. Tesla used it to finally experience friendship after decades of isolation.
+Episode Hook: Lab assistant November 30, 1907: 'Mr. Tesla activated new device. Suddenly felt overwhelming affection for him. Like lifelong best friend. Other visitors felt same. We all became instant friends. Deep emotional bonds forming in minutes. Effect lasted hours after leaving lab. Device creates artificial friendship through electromagnetic bonding.' Tesla's notes: 'Finally understand friendship. It's just frequency. Can now have friends whenever I activate the device.'
+Evidence It Was Different: Brain scans of people exposed to Tesla's friendship frequency show identical patterns to lifelong friends - neural synchronization, elevated oxytocin, synchronized heartbeats. Friendship bonds formed in minutes matching decades-long relationships. Effect quantifiable - measurable emotional attachment through frequency exposure. Tesla proved friendship is electromagnetic phenomenon.
+What Changed: November 1907. Tesla. Discovers. Frequency. That. Creates. Instant. Friendship. Between. Strangers.
+The Twist: Friendship frequency. Had. Terrible. Side. Effect. Analysis shows. Artificial. Bonds. Replaced. Natural. Friendships. People. Exposed. Lost. Ability. To. Form. Real. Connections. Became. Addicted. To. Frequency. Needed. Device. To. Feel. Friendship. Tesla. Accidentally. Created. Loneliness. Epidemic. Trying. To. Cure. His. Own.

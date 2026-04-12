@@ -1,0 +1,617 @@
+[
+  {
+    "page": "001",
+    "file": "page_001.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Word as it appears:** RSSE\n    **Likely should be:** HOUSE (or RESORT)\n    **Location:** Middle, right (on the yellow hotel ticket)\n*   **Word as it appears:** TRRAATION\n    **Likely should be:** REGISTRATION\n    **Location:** Middle, right (on the yellow hotel ticket)\n*   **Word as it appears:** FERRATION\n    **Likely should be:** RESERVATION\n    **Location:** Middle, right (on the yellow hotel ticket)\n*   **Word as it appears:** YCANY\n    **Likely should be:** VACANCY\n    **Location:** Bottom, right (on the yellow hotel ticket)\n*   **Word as it appears:** motriel\n    **Likely should be:** MOTEL\n    **Location:** Bottom, left (on the small yellow note)\n*   **Word as it appears:** hostt\n    **Likely should be:** HOST\n    **Location:** Bottom, left (on the small yellow note)\n*   **Word as it appears:** reint\n    **Likely should be:** RENT\n    **Location:** Bottom, left (on the small yellow note)"
+  },
+  {
+    "page": "002",
+    "file": "page_002.png",
+    "findings": "- **Word as it appears:** CORIPTION\n- **Likely should be:** CORRUPTION (or RECEPTION, but CORRUPTION is a closer misspelling)\n- **Location:** Bottom left"
+  },
+  {
+    "page": "003",
+    "file": "page_003.png",
+    "findings": "*   **R00M** (appears as) | **ROOM** (likely should be) | Middle, center-right"
+  },
+  {
+    "page": "004",
+    "file": "page_004.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **HOEL**: Likely \"HOTEL\", Top, left\n*   **ROFL**: Likely \"ROOM\", Top, left\n*   **RUID**: Likely \"ROAD\", Top, left\n*   **BACKACK**: Likely \"BACKPACK\", Top, left\n*   **ROADO**: Likely \"ROAD\", Top, left\n*   **MODN**: Likely \"ROOM\", Top, center\n*   **SPUSTION**: Likely \"SITUATION\", Bottom, left\n*   **RASTR**: Likely \"REGISTER\", Bottom, left"
+  },
+  {
+    "page": "005",
+    "file": "page_005.png",
+    "findings": "Here are the clearly misspelled English words from the journal page:\n\n*   **Peope** (should be: People) - Top-left\n*   **Deatr** (should be: Death) - Top-center/right\n*   **REGISTSTARATION** (should be: REGISTRATION) - Bottom-center"
+  },
+  {
+    "page": "006",
+    "file": "page_006.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **As it appears:** ROIM\n    **Likely should be:** ROOM\n    **Location:** Middle, right (on the brown paper slip titled \"HOTEL ROIM\")\n\n2.  **As it appears:** REDDI\n    **Likely should be:** READY\n    **Location:** Middle, center-left (on the label of the small bottle, as \"BIN REDDI\")"
+  },
+  {
+    "page": "007",
+    "file": "page_007.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **SEVELLAMCE** (likely should be **SURVEILLANCE**) - bottom, left\n2.  **TEEECATION** (likely should be **VACATION** or **TELECOMMUNICATION**) - bottom, left\n3.  **TELECRUM** (likely should be **TELEGRAM**) - bottom, right"
+  },
+  {
+    "page": "008",
+    "file": "page_008.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Word as it appears:** INVESTGATION\n    *   **Likely should be:** INVESTIGATION\n    *   **Location:** Top, center-right\n\n2.  **Word as it appears:** ENTPO\n    *   **Likely should be:** ENTRANCE\n    *   **Location:** Middle, left\n\n3.  **Word as it appears:** hepotory\n    *   **Likely should be:** DEPOSITORY\n    *   **Location:** Bottom, center"
+  },
+  {
+    "page": "009",
+    "file": "page_009.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **SEEVEELLANCE**\n    *   Likely should be: SURVEILLANCE\n    *   Location: Top, left-center\n\n2.  **Hotsl**\n    *   Likely should be: Hotel\n    *   Location: Top, right-center\n\n3.  **ualntry**\n    *   Likely should be: pantry\n    *   Location: Top, right-center\n\n4.  **sglma**\n    *   Likely should be: sigma\n    *   Location: Top, right-center\n\n5.  **laer**\n    *   Likely should be: layer\n    *   Location: Top, right-center\n\n6.  **aetve**\n    *   Likely should be: active\n    *   Location: Top, right-center\n\n7.  **btoice**\n    *   Likely should be: notice\n    *   Location: Top, right-center\n\n8.  **shoq**\n    *   Likely should be: show\n    *   Location: Top, right-center\n\n9.  **RUNNWAB**\n    *   Likely should be: RUNNABLE\n    *   Location: Top, right-center"
+  },
+  {
+    "page": "010",
+    "file": "page_010.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Oringe** (likely Orange) - Top, left\n*   **DEETH** (likely DEATH) - Bottom, center-left\n*   **TEOPER** (likely PROPER) - Bottom, center-left\n*   **INVESTGATION** (likely INVESTIGATION) - Bottom, center-left"
+  },
+  {
+    "page": "011",
+    "file": "page_011.png",
+    "findings": "*   **HOTE** should be **HOTEL** (middle, left of center)"
+  },
+  {
+    "page": "012",
+    "file": "page_012.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **REOSTRATING**\n    *   Likely should be: REGISTRATION\n    *   Location: Middle, right\n2.  **LIERAST**\n    *   Likely should be: GUEST\n    *   Location: Middle, right\n3.  **PIESTURB**\n    *   Likely should be: DISTURB\n    *   Location: Middle, right"
+  },
+  {
+    "page": "013",
+    "file": "page_013.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **SVVEELANCE** (should be **SURVEILLANCE**) - middle-left\n*   **TELEGERIAM** (should be **TELEGRAM**) - top-center\n*   **ROAM** (should be **ROOM**) - top-center\n*   **PICTUR** (should be **PICTURE**) - top-center\n*   **HORS** (should be **HOURS**) - top-center\n*   **MEELS** (should be **MEALS**) - top-center\n*   **DOCTER** (should be **DOCTOR**) - top-center"
+  },
+  {
+    "page": "014",
+    "file": "page_014.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **INVESTGATION** (likely should be: INVESTIGATION), top right\n*   **TNEVSIATOAM** (likely should be: INVESTIGATION), bottom center-right"
+  },
+  {
+    "page": "015",
+    "file": "page_015.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **ber** (likely should be: bar), top, right-center\n*   **PARTISH** (likely should be: Parish), middle, right-center\n*   **RARESE** (likely should be: Rarities), middle, right-center\n*   **PARIE** (likely should be: Paris), middle, right-center"
+  },
+  {
+    "page": "017",
+    "file": "page_017.png",
+    "findings": "- **Sce**: Should be **See** (Middle, left)"
+  },
+  {
+    "page": "020",
+    "file": "page_020.png",
+    "findings": "*   **Bogk** (likely should be: Book) - Middle, right"
+  },
+  {
+    "page": "025",
+    "file": "page_025.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Quen's** (likely should be Queen's) - middle, center-right\n2.  **TRUNE** (likely should be Trunk) - middle, center-right\n3.  **Clerest** (likely should be Clearest) - middle, center-right\n4.  **Clearn** (likely should be Clear) - middle, center-right\n5.  **ANTENS** (likely should be Antennas) - middle, center-right\n6.  **CLOWS** (likely should be Claws) - middle, center-right"
+  },
+  {
+    "page": "028",
+    "file": "page_028.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Birdard**\n    *   Likely should be: Bird (or Birds)\n    *   Location: Bottom left\n\n*   **WEATHRON**\n    *   Likely should be: WEATHER\n    *   Location: Bottom right"
+  },
+  {
+    "page": "029",
+    "file": "page_029.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **WITNESSS**\n    *   Likely should be: WITNESS or WITNESSES\n    *   Location: Bottom, left\n2.  **Atmospherte**\n    *   Likely should be: Atmospheric or Atmosphere\n    *   Location: Top, center"
+  },
+  {
+    "page": "030",
+    "file": "page_030.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Word as it appears:** DATY\n    *   **Likely should be:** DATE or DAILY\n    *   **Location:** Top, center\n2.  **Word as it appears:** DATN\n    *   **Likely should be:** DATA\n    *   **Location:** Top, center"
+  },
+  {
+    "page": "031",
+    "file": "page_031.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Witnesssss**\n    *   Likely should be: Witness\n    *   Location: Middle, center\n2.  **SEATIAL**\n    *   Likely should be: Spatial\n    *   Location: Middle, right"
+  },
+  {
+    "page": "032",
+    "file": "page_032.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **BICTOUOIS**\n    *   Likely should be: VICTORIOUS\n    *   Where: Top, center-right\n2.  **CESNTUS**\n    *   Likely should be: CENSUS\n    *   Where: Top, far right"
+  },
+  {
+    "page": "033",
+    "file": "page_033.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **DATY** -> DATE (Top, left)\n*   **Livestoors** -> Livestock (Top, left)\n*   **Parale** -> Parallel / Parable (Bottom, left)\n*   **arribe** -> arrive (Bottom, left)\n*   **Thaardrers** -> Traders (Bottom, center)\n*   **Birce** -> Bryce / Pierce (Bottom, center)\n*   **Wrrnees** -> Witnesses (Bottom, center)\n*   **Sortgootuie** -> Sort Goodie (Bottom, center)\n*   **Agre** -> Acre / Agree (Bottom, center)\n*   **oumds** -> sounds (Bottom, center)\n*   **Tbie** -> The (Bottom, center)\n*   **hurioes** -> heroes (Bottom, center)"
+  },
+  {
+    "page": "034",
+    "file": "page_034.png",
+    "findings": "Here are the clearly misspelled English words found on the journal page:\n\n1.  **Word as it appears:** Schoolographers\n    **Likely should be:** Schoolteachers\n    **Location:** Top, left\n\n2.  **Word as it appears:** Tendess\n    **Likely should be:** Tendons (or Tenderness / Tensions)\n    **Location:** Top, right\n\n3.  **Word as it appears:** Reults\n    **Likely should be:** Results\n    **Location:** Bottom, right"
+  },
+  {
+    "page": "036",
+    "file": "page_036.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **As it appears:** WITNEORR\n    **Likely should be:** WITNESS or WITNESSER\n    **Location:** Bottom, left-center\n\n*   **As it appears:** SUCTIONMET\n    **Likely should be:** SUCTIONMETER\n    **Location:** Bottom, center-right"
+  },
+  {
+    "page": "037",
+    "file": "page_037.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **ATMOSPATIONK.IO.IER**\n    *   Likely should be: ATMOSPHERIC\n    *   Location: Top, right\n2.  **ANOMILLS**\n    *   Likely should be: ANOMALIES\n    *   Location: Top, right"
+  },
+  {
+    "page": "038",
+    "file": "page_038.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Anomalcr**\n    *   Likely should be: Anomaly / Anomalies\n    *   Location: Top-center\n\n2.  **RICESS**\n    *   Likely should be: SUCCESS / RECESS\n    *   Location: Top-right"
+  },
+  {
+    "page": "039",
+    "file": "page_039.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Word as it appears**: INETECOTIUM\n    **Likely should be**: METEOROLOGICAL (or similar descriptive word for a station)\n    **Location**: Top, left\n\n*   **Word as it appears**: Cawence\n    **Likely should be**: Lawrence\n    **Location**: Middle, left"
+  },
+  {
+    "page": "041",
+    "file": "page_041.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **Postive**\n    *   Likely should be: Positive\n    *   Location: Middle, right\n\n2.  **Blirred**\n    *   Likely should be: Blurred\n    *   Location: Bottom, center"
+  },
+  {
+    "page": "042",
+    "file": "page_042.png",
+    "findings": "*   **Word as it appears:** LIVESTORS\n    **What it likely should be:** LIVESTOCK\n    **Where on the page:** Top, right-center\n\n*   **Word as it appears:** CENTUS\n    **What it likely should be:** CENSUS\n    **Where on the page:** Top, right-center"
+  },
+  {
+    "page": "043",
+    "file": "page_043.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Untymliat** (likely **Untimely**) - top, left\n*   **wihoue** (likely **without**) - top, left\n*   **aunns** (likely **annals**) - top, left\n*   **esdod** (likely **ended**) - top, left\n*   **nys** (likely **news**) - top, left"
+  },
+  {
+    "page": "044",
+    "file": "page_044.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Schoolteagher** (likely: Schoolteacher) - Top, left\n2.  **Daity** (likely: Daily) - Top, left\n3.  **METASTORIER** (likely: METASTORIES) - Top, right\n4.  **Wartstions** (likely: Questions) - Middle, right\n5.  **Bunnes** (likely: Bones) - Middle, right"
+  },
+  {
+    "page": "045",
+    "file": "page_045.png",
+    "findings": "Here are the clearly misspelled English words on the page:\n\n1.  **Word as it appears:** Electriol\n    *   **Likely should be:** Electrical\n    *   **Location:** Top, left\n2.  **Word as it appears:** dischalmce\n    *   **Likely should be:** discharge\n    *   **Location:** Top, left"
+  },
+  {
+    "page": "046",
+    "file": "page_046.png",
+    "findings": "*   **ELECTRETTIC** - ELECTRETIC - Top, left\n*   **PERORENCE** - PERMANENCE - Top, left"
+  },
+  {
+    "page": "047",
+    "file": "page_047.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **As it appears:** ELECTRITY\n    **Likely should be:** ELECTRICITY\n    **Where on page:** Top, left (in the large title \"STATIC ELECTRITY\")\n\n2.  **As it appears:** STATIEC\n    **Likely should be:** STATIC\n    **Where on page:** Top, left (in the smaller text \"STATIEC ELACTRIFY\")\n\n3.  **As it appears:** ELACTRIFY\n    **Likely should be:** ELECTRICITY\n    **Where on page:** Top, left (in the smaller text \"STATIEC ELACTRIFY\")\n\n4.  **As it appears:** LEYDIKT\n    **Likely should be:** LEYDEN\n    **Where on page:** Top, right (below the jar illustration)\n\n5.  **As it appears:** JARR\n    **Likely should be:** JAR\n    **Where on page:** Top, right (below the jar illustration)\n\n6.  **As it appears:** PYSYCS\n    **Likely should be:** PHYSICS\n    **Where on page:** Top, right (as a heading above the block of text)\n\n7.  **As it appears:** OXYOEN\n    **Likely should be:** OXYGEN\n    **Where on page:** Middle, left (inside the main diagram, near the bottom center)"
+  },
+  {
+    "page": "048",
+    "file": "page_048.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **As it appears:** PLASS\n*   **Likely should be:** CLASS\n*   **Location:** Top, center-right"
+  },
+  {
+    "page": "049",
+    "file": "page_049.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Childood**, Childhood, top left\n*   **pehorences**, phenomena, top left\n*   **Childood**, Childhood, top center\n*   **Pehoërity**, Phenomena, top center\n*   **electricty**, electricity, middle left (heading)\n*   **electricty**, electricity, middle left (diagram label)"
+  },
+  {
+    "page": "050",
+    "file": "page_050.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **elecrtrity**\n    *   Likely should be: electricity\n    *   Location: Top-left\n\n2.  **elecrtrity**\n    *   Likely should be: electricity\n    *   Location: Top-center\n\n3.  **Gemertc**\n    *   Likely should be: Geometric\n    *   Location: Middle-center"
+  },
+  {
+    "page": "051",
+    "file": "page_051.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **As it appears:** phenemces\n    **Likely should be:** phenomena\n    **Location:** Top, center\n*   **As it appears:** Geometrice\n    **Likely should be:** Geometric\n    **Location:** Top, center\n*   **As it appears:** Tathematics\n    **Likely should be:** Mathematics\n    **Location:** Top, right"
+  },
+  {
+    "page": "052",
+    "file": "page_052.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  Word as it appears: AELTIGE\n    Likely should be: AESTHETIC\n    Location: Top right\n\n2.  Word as it appears: BLOCTICAL\n    Likely should be: BIOLOGICAL\n    Location: Top right\n\n3.  Word as it appears: ELISTANICAL\n    Likely should be: ELECTRICAL\n    Location: Top right\n\n4.  Word as it appears: PRCOONS\n    Likely should be: PROCESSES\n    Location: Top right\n\n5.  Word as it appears: Obsereal\n    Likely should be: Observed\n    Location: Bottom right"
+  },
+  {
+    "page": "053",
+    "file": "page_053.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **Appears as:** Electricl\n    *   **Likely should be:** Electrical\n    *   **Location:** Top, center-left\n2.  **Appears as:** pehenence\n    *   **Likely should be:** experience\n    *   **Location:** Top, center-left\n3.  **Appears as:** EECTRICENCY\n    *   **Likely should be:** ELECTRICITY\n    *   **Location:** Middle, center-left"
+  },
+  {
+    "page": "054",
+    "file": "page_054.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **CHALDEXD**\n    *   Likely should be: CHALDEAN\n    *   Where: Middle, center\n2.  **TEEMUAL**\n    *   Likely should be: TEMPORAL\n    *   Where: Middle, center\n3.  **PERORENCE**\n    *   Likely should be: REFERENCE\n    *   Where: Middle, center\n4.  **BATTDA**\n    *   Likely should be: BATTERY\n    *   Where: Top, center-right\n5.  **PVEMENOS**\n    *   Likely should be: MEMENTOS\n    *   Where: Middle, right"
+  },
+  {
+    "page": "055",
+    "file": "page_055.png",
+    "findings": "*   **PECTERRANCE** should be **PERFORMANCE** (middle, center)"
+  },
+  {
+    "page": "056",
+    "file": "page_056.png",
+    "findings": "Here are the clearly misspelled English words from the journal page:\n\n*   **Visinones** (should be: Visions) - Middle right"
+  },
+  {
+    "page": "057",
+    "file": "page_057.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **FOIL**\n    *   Likely should be: FOR\n    *   Location: middle, right"
+  },
+  {
+    "page": "058",
+    "file": "page_058.png",
+    "findings": "*   **ELECTRITY** should be **ELECTRICITY** (top, left)"
+  },
+  {
+    "page": "059",
+    "file": "page_059.png",
+    "findings": "*   **Pheorence** (as it appears) should likely be **Phenomenon**. It is located in the middle, center of the page, as part of the title of the main diagram."
+  },
+  {
+    "page": "060",
+    "file": "page_060.png",
+    "findings": "Here are the clearly misspelled English words found on the journal page:\n\n*   **Word as it appears**: pehorences, **Likely should be**: coherence, **Location**: Middle, Center\n*   **Word as it appears**: foittoyoe, **Likely should be**: following, **Location**: Middle, Center\n*   **Word as it appears**: Finieience, **Likely should be**: Science, **Location**: Middle, Center"
+  },
+  {
+    "page": "061",
+    "file": "page_061.png",
+    "findings": "Here are the clearly misspelled English words found on the journal page:\n\n*   **R&CUANT** (likely should be: RECURRENT) - Top, left\n*   **STOPIS** (likely should be: TOPICS) - Top, left\n*   **ELECTRITITY** (likely should be: ELECTRICITY) - Top, left\n*   **LETOIUEN** (likely should be: LEYDEN) - Middle, left"
+  },
+  {
+    "page": "062",
+    "file": "page_062.png",
+    "findings": "*   **Word as it appears:** Ciy\n*   **Likely should be:** City\n*   **Location:** Bottom right"
+  },
+  {
+    "page": "063",
+    "file": "page_063.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Caldood**\n    *   Likely should be: Childhood\n    *   Location: Top, center\n\n2.  **Declhange**\n    *   Likely should be: Decline\n    *   Location: Top, center"
+  },
+  {
+    "page": "064",
+    "file": "page_064.png",
+    "findings": "- **MERROR** (should be **MIRROR**) - Top, right"
+  },
+  {
+    "page": "065",
+    "file": "page_065.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **ELECTRIci**: should be Electric, Top left\n2.  **Panoreancs**: should be Panoramas (or Panoramic), Top left\n3.  **opions**: should be Options (or Opinions), Middle left\n4.  **Eleci**: should be Electric, Bottom left\n5.  **considred**: should be Considered, Middle right"
+  },
+  {
+    "page": "066",
+    "file": "page_066.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **MATERMATICS**: Likely should be MATHEMATICS (Top, left-center)\n*   **ELECTRICL**: Likely should be ELECTRICAL (Top, left-center)\n*   **PEHORENCE**: Likely should be EXPERIENCE (Top, left-center)\n*   **ASOMMERTL**: Likely should be EXPERIMENTAL (Top, left-center)\n*   **ELETORGRECTICL**: Likely should be ELECTROSTATIC (Top, center-left)\n*   **VISIONT**: Likely should be VISION (Top, center-left)\n*   **Rhitma**: Likely should be RHYTHM (Bottom, right)"
+  },
+  {
+    "page": "067",
+    "file": "page_067.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **PHENORENCE**\n    *   Likely should be: PHENOMENON (or PHOSPHORESCENCE)\n    *   Location: Middle, Right\n2.  **OBEDTRIC**\n    *   Likely should be: OPTOMETRIC\n    *   Location: Middle, Right\n3.  **tbo**\n    *   Likely should be: THE\n    *   Location: Bottom, Right\n4.  **thenecd**\n    *   Likely should be: THENCE\n    *   Location: Bottom, Right\n5.  **Intare**\n    *   Likely should be: ENTIRE\n    *   Location: Bottom, Right\n6.  **throt**\n    *   Likely should be: THROAT\n    *   Location: Bottom, Right\n7.  **gocs**\n    *   Likely should be: GOES\n    *   Location: Bottom, Right\n8.  **vinger**\n    *   Likely should be: FINGER\n    *   Location: Bottom, Right\n9.  **divorms**\n    *   Likely should be: DIVERS (or DIVERSE)\n    *   Location: Bottom, Right"
+  },
+  {
+    "page": "068",
+    "file": "page_068.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Childood** (likely should be: Childhood) - Top-middle, left\n*   **ELECTRICSIC** (likely should be: Electric or Electrics) - Top-middle, left\n*   **PRODEMCE** (likely should be: Providence) - Top-middle, left\n*   **Cleometric** (likely should be: Geometric) - Bottom-left\n*   **Sotnice** (likely should be: Science) - Bottom-right"
+  },
+  {
+    "page": "069",
+    "file": "page_069.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **pohle**\n    *   Likely should be: possible\n    *   Location: middle, left\n2.  **addrew**\n    *   Likely should be: address\n    *   Location: middle, left"
+  },
+  {
+    "page": "070",
+    "file": "page_070.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **ELECTRITY**\n    *   Likely should be: Electricity\n    *   Location: Middle, left\n\n2.  **LEYDIAT**\n    *   Likely should be: Leyden Jar (referring to the device depicted)\n    *   Location: Middle, center\n\n3.  **KODACHRO**\n    *   Likely should be: Kodachrome\n    *   Location: Top, right"
+  },
+  {
+    "page": "071",
+    "file": "page_071.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **ELECTIRITY** (should be ELECTRICITY) - Top, center-left\n*   **LEYDENT** (should be LEYDEN) - Middle, center-left\n*   **TASE** (should be JAR) - Middle, center-left"
+  },
+  {
+    "page": "072",
+    "file": "page_072.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Word as it appears**: ELECTRI'TY\n    **What it likely should be**: ELECTRICITY\n    **Where on the page**: Top left\n\n2.  **Word as it appears**: attcation\n    **What it likely should be**: attention\n    **Where on the page**: Top left\n\n3.  **Word as it appears**: LEYDEAL\n    **What it likely should be**: LEYDEN\n    **Where on the page**: Middle left\n\n4.  **Word as it appears**: PEYSICR\n    **What it likely should be**: PHYSICAL\n    **Where on the page**: Top right\n\n5.  **Word as it appears**: JAIR\n    **What it likely should be**: JOURNAL\n    **Where on the page**: Top right\n\n6.  **Word as it appears**: PIYSIS\n    **What it likely should be**: PHYSICS\n    **Where on the page**: Top right"
+  },
+  {
+    "page": "073",
+    "file": "page_073.png",
+    "findings": "Here are the clearly misspelled English words found on the journal page:\n\n1.  **CHILDDOOD**\n    *   Likely should be: CHILDHOOD\n    *   Location: Top-middle, center-left\n\n2.  **ELECTRICL**\n    *   Likely should be: ELECTRICAL\n    *   Location: Top-middle, center-left\n\n3.  **Honce**\n    *   Likely should be: Hence\n    *   Location: Top-middle, center-left\n\n4.  **LEYDATI**\n    *   Likely should be: LEYDEN\n    *   Location: Bottom-left\n\n5.  **Electrity**\n    *   Likely should be: Electricity\n    *   Location: Middle-left (above graph)\n\n6.  **Cactnity**\n    *   Likely should be: Capacity\n    *   Location: Middle-left (above graph)\n\n7.  **Electrity**\n    *   Likely should be: Electricity\n    *   Location: Bottom-left (below graph)"
+  },
+  {
+    "page": "074",
+    "file": "page_074.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **PATOIENS**\n    *   Likely should be: PATTERNS\n    *   Location: Top, left\n\n2.  **BOOOSING**\n    *   Likely should be: BOOSTING\n    *   Location: Middle, left (within the lower geometric diagram)\n\n3.  **FIRT**\n    *   Likely should be: FIRST\n    *   Location: Middle, left (within the lower geometric diagram)\n\n4.  **Extroocular**\n    *   Likely should be: Extraocular\n    *   Location: Middle, center (label on the left eye diagram)\n\n5.  **moter**\n    *   Likely should be: motor\n    *   Location: Middle, center (part of \"Ocular moter nerve\" label on the left eye diagram)\n\n6.  **Scler**\n    *   Likely should be: Sclera\n    *   Location: Middle, right (label on the right eye diagram)\n\n7.  **Cystalline**\n    *   Likely should be: Crystalline\n    *   Location: Middle, right (part of \"Cystalline lens\" label on the right eye diagram)\n\n8.  **Exteroocular**\n    *   Likely should be: Extraocular\n    *   Location: Middle, right (label on the right eye diagram)\n\n9.  **Moter**\n    *   Likely should be: Motor\n    *   Location: Middle, right (part of \"Ocular Moter Nerve\" label on the right eye diagram)"
+  },
+  {
+    "page": "075",
+    "file": "page_075.png",
+    "findings": "Here are the clearly misspelled English words found on the journal page:\n\n*   **CHILDDOD**\n    *   Likely should be: CHILDHOOD\n    *   Location: Top, center\n*   **Electrcal**\n    *   Likely should be: Electrical\n    *   Location: Top, center\n*   **Pehonences**\n    *   Likely should be: Phenomena\n    *   Location: Top, center\n*   **SPIRCIT**\n    *   Likely should be: SPIRIT\n    *   Location: Top, left\n*   **NAPHINESS**\n    *   Likely should be: HAPPINESS\n    *   Location: Top, left\n*   **MATIEMATICS**\n    *   Likely should be: MATHEMATICS\n    *   Location: Top, right\n*   **EELEGRICETIC**\n    *   Likely should be: ELECTRICAL\n    *   Location: Middle, left\n*   **PHEDDRENCS**\n    *   Likely should be: PHENOMENA\n    *   Location: Middle, left"
+  },
+  {
+    "page": "078",
+    "file": "page_078.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Word as it appears:** Origial\n    **Likely should be:** Original\n    **Where on the page:** Top-middle, right\n*   **Word as it appears:** Hbursar\n    **Likely should be:** Bursar\n    **Where on the page:** Bottom-middle, right"
+  },
+  {
+    "page": "079",
+    "file": "page_079.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Word as it appears:** SomehshingS\n    **Likely should be:** Somethings (or Something's)\n    **Location:** Top-right\n2.  **Word as it appears:** Tannis\n    **Likely should be:** Tennis\n    **Location:** Top-right\n3.  **Word as it appears:** Ane\n    **Likely should be:** And\n    **Location:** Top-right"
+  },
+  {
+    "page": "081",
+    "file": "page_081.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **Dallors**, Dollars, Middle, left\n2.  **oommodores**, commodores, Top, right\n3.  **prrfons**, persons, Top, right\n4.  **fubjeas**, subjects, Top, right\n5.  **frrvice**, service, Middle, right\n6.  **beftowd**, bestowed, Middle, right\n7.  **prrvilege**, privilege, Middle, right\n8.  **honr**, honor, Middle, right\n9.  **frrvices**, services, Middle, right\n10. **frrmer**, former, Middle, right\n11. **fubjeas**, subjects, Middle, right\n12. **befin**, begin, Bottom, right\n13. **rrticle**, article, Bottom, right\n14. **prrfn**, person, Bottom, right\n15. **thes**, these, Bottom, left\n16. **sook**, sock, Bottom, left\n17.  **sook**, sock, Bottom, left\n18. **fobdowd**, subdued, Bottom, left\n19. **bute**, but, Bottom, left"
+  },
+  {
+    "page": "084",
+    "file": "page_084.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n*   **IMMIEIGRANN** (should be: IMMIGRANT) - Top, left/center\n*   **Tondictors** (should be: Conductors) - Middle, center\n*   **Tinlning** (should be: Tinning / Training) - Middle, center"
+  },
+  {
+    "page": "085",
+    "file": "page_085.png",
+    "findings": "*   **Unes** -> News (Middle, right)"
+  },
+  {
+    "page": "086",
+    "file": "page_086.png",
+    "findings": "Here are the clearly misspelled English words from the journal page:\n\n*   **FURR**: Should be **FUR** (Bottom, Left)\n*   **FOUE**: Should be **FOUR** (Bottom, Left)\n*   **PARLL**: Should be **PARL** or **PALL** (Bottom, Left)\n*   **Founntheotals**: Should be **Fundamentals** (Top, Middle)\n*   **MEANNTORS**: Should be **MENTORS** (Middle, Right)\n*   **GPEESS**: Should be **GUESS** (Middle, Right)\n*   **Pigt**: Should be **Fig.** (Middle, Right - appears twice)\n*   **MELALINES**: Should be **MELANINES** or **MELAMINES** (Bottom, Right)\n*   **ANAIJS**: Should be **ANALYSIS** (Bottom, Right)\n*   **MELPAINPS**: Should be **MELANINES** or **MELAMINES** (Bottom, Right)\n*   **BICE**: Should be **VICE** (Bottom, Center)\n*   **WARDENCLIFAR**: Should be **WARDENCLIFFE** (Bottom, Center)\n*   **JOON3**: Should be **JOIN** or **JUNCTION** (Bottom, Center)\n*   **SEIAS**: Should be **SERIES** (Bottom, Center)\n*   **WOIOS**: Should be **WORDS** (Bottom, Center)"
+  },
+  {
+    "page": "087",
+    "file": "page_087.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Immorant** (likely should be **Immigrant**) - Top, left\n2.  **RADVO** (likely should be **Radio**) - Middle, right (on torn paper, above the newspaper)\n3.  **BANCRPLETTSS** (likely should be **Bankruptcies**) - Bottom, center-right\n4.  **MOION** (likely should be **Motion**) - Bottom, center-right"
+  },
+  {
+    "page": "088",
+    "file": "page_088.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **MEIM**\n    *   Likely should be: MEMO\n    *   Location: Middle, center-left\n\n2.  **CLASSIFVED**\n    *   Likely should be: CLASSIFIED\n    *   Location: Middle, center-left\n\n3.  **SCIENTIVIC**\n    *   Likely should be: SCIENTIFIC\n    *   Location: Middle, center-left\n\n4.  **SAOTIO**\n    *   Likely should be: ACTION or CAUTION\n    *   Location: Middle, center-left (on a red stamp)\n\n5.  **LMBERT**\n    *   Likely should be: LAMBERT\n    *   Location: Top, center\n\n6.  **GOVFRNMENT**\n    *   Likely should be: GOVERNMENT\n    *   Location: Middle, center-right\n\n7.  **SEIZU**\n    *   Likely should be: SEIZURE\n    *   Location: Middle, center-right\n\n8.  **CLASIFIF**\n    *   Likely should be: CLASSIFIED\n    *   Location: Middle, center-right\n\n9.  **CIMKTEE**\n    *   Likely should be: COMMITTEE\n    *   Location: Middle, center-right\n\n10. **MDICS**\n    *   Likely should be: MEDICS or MEDICAL\n    *   Location: Middle, center-right\n\n11. **RAOTION**\n    *   Likely should be: CAUTION or ACTION\n    *   Location: Middle, center-right (on a red stamp)\n\n12. **INVENTOIN**\n    *   Likely should be: INVENTORY\n    *   Location: Middle-bottom, center-right\n\n13. **CYSENMENT**\n    *   Likely should be: CONSIGNMENT or CENSORMENT\n    *   Location: Bottom, right"
+  },
+  {
+    "page": "089",
+    "file": "page_089.png",
+    "findings": "Here are the clearly misspelled English words found on the journal page:\n\n1.  **SEIZUR**: should be \"SEIZURE\", middle, left\n2.  **GOVERNM ENT**: should be \"GOVERNMENT\", middle, left\n3.  **Prizzue**: should be \"Prize\", middle, right\n4.  **Documors**: should be \"Documents\", middle, right\n5.  **ClassifIed**: should be \"Classified\", bottom, right\n6.  **Documors**: should be \"Documents\", bottom, right"
+  },
+  {
+    "page": "090",
+    "file": "page_090.png",
+    "findings": "Here are the clearly misspelled English words found:\n\n1.  **Word as it appears**: Seizuric\n    **Likely should be**: Seizure\n    **Location**: Middle, left\n\n2.  **Word as it appears**: OFFIJRAIS\n    **Likely should be**: OFFICIALS\n    **Location**: Middle, center"
+  },
+  {
+    "page": "091",
+    "file": "page_091.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **CLESCFICVAG** -> **CLASSIFICATION** (top, left)\n2.  **SEIZUY** -> **SEIZURE** (top, center)\n3.  **CLEASSITTED** -> **CLASSIFIED** (top, center)\n4.  **CLASIFICATION** -> **CLASSIFICATION** (top, center)\n5.  **MEIMO** -> **MEMO** (middle, left)\n6.  **GOVERNENT** -> **GOVERNMENT** (bottom, right)\n7.  **SEEIZUES** -> **SEIZURES** (bottom, right)"
+  },
+  {
+    "page": "092",
+    "file": "page_092.png",
+    "findings": "Here are the clearly misspelled English words found:\n\n1.  **Word as it appears:** reque\n    **Likely should be:** request\n    **Location:** Right page, middle, right of center.\n2.  **Word as it appears:** eppresis\n    **Likely should be:** expression\n    **Location:** Right page, bottom, center."
+  },
+  {
+    "page": "093",
+    "file": "page_093.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **HACN INVEKTIOR**\n    *   Likely should be: HACK INVENTION\n    *   Location: Bottom, left\n2.  **INVENTONS**\n    *   Likely should be: INVENTIONS\n    *   Location: Middle, right"
+  },
+  {
+    "page": "097",
+    "file": "page_097.png",
+    "findings": "- Word: WAND\n- Should be: AND (or MANY)\n- Location: Top-center"
+  },
+  {
+    "page": "098",
+    "file": "page_098.png",
+    "findings": "*   **Word as it appears:** JHON\n    *   **Likely should be:** JOHN\n    *   **Where on the page:** Top, left"
+  },
+  {
+    "page": "101",
+    "file": "page_101.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Word as it appears:** anonynous\n    **Likely should be:** anonymous\n    **Location:** bottom, left\n\n2.  **Word as it appears:** PARKULED\n    **Likely should be:** PARKED\n    **Location:** top, right"
+  },
+  {
+    "page": "102",
+    "file": "page_102.png",
+    "findings": "*   **Whief**\n    *   Likely should be: White (or Chief)\n    *   Location: Bottom right\n*   **Moutiens**\n    *   Likely should be: Mountains\n    *   Location: Bottom right"
+  },
+  {
+    "page": "105",
+    "file": "page_105.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n*   **OLL**\n    *   Likely should be: ALL\n    *   Where: Top, left\n*   **SCIENTICS**\n    *   Likely should be: SCIENTISTS\n    *   Where: Top, left\n*   **PHCE**\n    *   Likely should be: OFFICE\n    *   Where: Top, right\n*   **SLVGNITURS**\n    *   Likely should be: SIGNATURES\n    *   Where: Top, right\n*   **OFFIOAIS**\n    *   Likely should be: OFFICIALS\n    *   Where: Bottom, right"
+  },
+  {
+    "page": "106",
+    "file": "page_106.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Bureao** (should be Bureau): top, left\n2.  **INVENTIONY** (should be Inventory): middle, center-right\n3.  **Pacleared** (should be Cleared or Processed): middle, left"
+  },
+  {
+    "page": "107",
+    "file": "page_107.png",
+    "findings": "Here are the clearly misspelled English words from the journal page:\n\n*   **MEINO** (likely should be: MEMO) - Top left\n*   **CLASSICIATION** (likely should be: CLASSIFICATION) - Middle left\n*   **Sgcale** (likely should be: Scale) - Bottom left\n*   **GOUERMENT** (likely should be: GOVERNMENT) - Top left (in stamp)\n*   **MENNO** (likely should be: MEMO) - Top left (in stamp)\n*   **CLEASSTITVEC** (likely should be: CLASSIFIED) - Top right\n*   **MENO** (likely should be: MEMO) - Middle right\n*   **CRIEKCATONS** (likely should be: CLASSIFICATIONS) - Middle right\n*   **Concurr** (likely should be: Concur) - Middle right\n*   **Analze** (likely should be: Analyze) - Bottom right\n*   **Coniantees** (likely should be: Contingencies) - Bottom right\n*   **Conduion** (likely should be: Condition) - Bottom right"
+  },
+  {
+    "page": "108",
+    "file": "page_108.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Word as it appears:** OPENIOS\n    *   **Likely should be:** OPENINGS (or OPEN)\n    *   **Location:** Top, right\n\n2.  **Word as it appears:** CLASSSTITIC\n    *   **Likely should be:** CLASSIFIC (or CLASSIFIED)\n    *   **Location:** Middle, right\n\n3.  **Word as it appears:** SCIENTFTC\n    *   **Likely should be:** SCIENTIFIC\n    *   **Location:** Middle, right\n\n4.  **Word as it appears:** FNED\n    *   **Likely should be:** FILED\n    *   **Location:** Bottom, right"
+  },
+  {
+    "page": "109",
+    "file": "page_109.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **DECLASSICE**\n    *   Likely should be: DECLASSIFIED\n    *   Location: Top, left\n2.  **SEIVER**\n    *   Likely should be: SERVER\n    *   Location: Top, left\n3.  **DELASFIOED**\n    *   Likely should be: DECLASSIFIED\n    *   Location: Top, right\n4.  **DECLASSICI ED**\n    *   Likely should be: DECLASSIFIED\n    *   Location: Middle, center\n5.  **CLASSTIMEND**\n    *   Likely should be: CLASSIFIED\n    *   Location: Middle, center\n6.  **BEAUE**\n    *   Likely should be: BUREAU\n    *   Location: Bottom, left\n7.  **GOVERNM ENT**\n    *   Likely should be: GOVERNMENT\n    *   Location: Bottom, center"
+  },
+  {
+    "page": "110",
+    "file": "page_110.png",
+    "findings": "Here are the clearly misspelled English words found on the journal page:\n\n1.  **Word as it appears:** CLASIFICATION\n    *   **Likely should be:** CLASSIFICATION\n    *   **Location:** Top, left\n\n2.  **Word as it appears:** MEIMO\n    *   **Likely should be:** MEMO\n    *   **Location:** Top, center\n\n3.  **Word as it appears:** CLESSTTED\n    *   **Likely should be:** CLASSIFIED\n    *   **Location:** Top, center\n\n4.  **Word as it appears:** CLESATTED\n    *   **Likely should be:** CLASSIFIED\n    *   **Location:** Top, center\n\n5.  **Word as it appears:** CREBOT\n    *   **Likely should be:** CARBON\n    *   **Location:** Middle, right\n\n6.  **Word as it appears:** AUIDOUS\n    *   **Likely should be:** AUDITS / ADDITIONS\n    *   **Location:** Middle, right\n\n7.  **Word as it appears:** Postt\n    *   **Likely should be:** POST\n    *   **Location:** Middle, right\n\n8.  **Word as it appears:** Aonvment\n    *   **Likely should be:** ASSIGNMENT\n    *   **Location:** Middle, right\n\n9.  **Word as it appears:** FOOM\n    *   **Likely should be:** ROOM\n    *   **Location:** Middle, right\n\n10. **Word as it appears:** SEOCUUR\n    *   **Likely should be:** SECURE\n    *   **Location:** Middle, right"
+  },
+  {
+    "page": "111",
+    "file": "page_111.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **BOVALUNN** (likely: BULLETIN) - Top, left\n2.  **SLZJEE** (likely: SUBJECT) - Top, left\n3.  **CLASSITTED** (likely: CLASSIFIED) - Top, left\n4.  **Inrers** (likely: Internal) - Top, left\n5.  **Oes** (likely: Files) - Top, left\n6.  **ACTONl** (likely: ACTION) - Middle, left\n7.  **GOACRN** (likely: GOVERNMENT) - Bottom, right"
+  },
+  {
+    "page": "112",
+    "file": "page_112.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **TNE** (should be THE) - Top, left\n2.  **CLASSTATION** (should be CLASSIFICATION) - Middle, left (appears multiple times)\n3.  **MEIM** (should be MEMO) - Middle, right\n4.  **INTERFERIE** (should be INTERFERENCE) - Middle, right\n5.  **DRIT** (should be DRAFT) - Middle, right"
+  },
+  {
+    "page": "113",
+    "file": "page_113.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Solarsunn**\n    *   Likely should be: Solar sun\n    *   Location: Top, right\n2.  **Venets**\n    *   Likely should be: Violet\n    *   Location: Bottom, center"
+  },
+  {
+    "page": "114",
+    "file": "page_114.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **KOI SRACHROME**: Should be KODACHROME (Middle, left)\n*   **CHANGTING**: Should be CHANGING (Middle, left)\n*   **CHAGTING**: Should be CHANGING (Bottom, center)"
+  },
+  {
+    "page": "115",
+    "file": "page_115.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **CALCULATOOLS**\n    *   Likely should be: CALCULATORS\n    *   Where on the page: Middle, left\n\n2.  **WiNINESS**\n    *   Likely should be: WITNESS\n    *   Where on the page: Bottom, center\n\n3.  **Presntams**\n    *   Likely should be: Presentations\n    *   Where on the page: Bottom, center\n\n4.  **RICNESS**\n    *   Likely should be: RICHNESS\n    *   Where on the page: Middle, right\n\n5.  **Changess**\n    *   Likely should be: Changes\n    *   Where on the page: Bottom, center-right\n\n6.  **Sioties**\n    *   Likely should be: Studies\n    *   Where on the page: Bottom, right\n\n7.  **Specker**\n    *   Likely should be: Spectrum\n    *   Where on the page: Bottom, right"
+  },
+  {
+    "page": "116",
+    "file": "page_116.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **PSSYOLOGY**\n    *   Likely should be: PSYCHOLOGY\n    *   Location: Top, left\n2.  **PICNNAL**\n    *   Likely should be: JOURNAL\n    *   Location: Top, left\n3.  **DEFENSC**\n    *   Likely should be: DEFENSE\n    *   Location: Top, right\n4.  **REQUIST**\n    *   Likely should be: REQUEST\n    *   Location: Top, right\n5.  **BIKENAL**\n    *   Likely should be: BIENNIAL\n    *   Location: Top, right"
+  },
+  {
+    "page": "117",
+    "file": "page_117.png",
+    "findings": "Here are the clearly misspelled English words found on the page:\n\n1.  **seky**\n    *   Likely should be: sky\n    *   Location: Top, center-right\n2.  **spectoom**\n    *   Likely should be: spectrum\n    *   Location: Middle, right"
+  },
+  {
+    "page": "118",
+    "file": "page_118.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **PSSHCHOLOGY** (likely should be PSYCHOLOGY) - top right\n*   **JOUNAL** (likely should be JOURNAL) - top right\n*   **APSYCHOLOGY** (likely should be PSYCHOLOGY) - bottom right\n*   **JOUNAL** (likely should be JOURNAL) - bottom right"
+  },
+  {
+    "page": "119",
+    "file": "page_119.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **PSCYGIOLOGY** should be PSYCHOLOGY (top, center)\n*   **Cgaritoes** should be Charities (middle, left)\n*   **memoy** should be memory (middle, center)\n*   **decicion** should be decision (middle, center)"
+  },
+  {
+    "page": "120",
+    "file": "page_120.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Cicture** (likely \"Picture\") - Top, left\n2.  **abortise** (likely \"advertise\") - Top, left\n3.  **ANOMALES** (likely \"ANOMALIES\") - Middle, left\n4.  **COLLEDTIVE** (likely \"COLLECTIVE\") - Middle, center\n5.  **Quatter** (likely \"Quarter\") - Bottom, right\n6.  **Glutenn** (likely \"Gluten\") - Bottom, right"
+  },
+  {
+    "page": "121",
+    "file": "page_121.png",
+    "findings": "- **Word as it appears:** nock\n- **Likely should be:** knock\n- **Where on the page:** Top right"
+  },
+  {
+    "page": "123",
+    "file": "page_123.png",
+    "findings": "*   **Word as it appears:** CINES\n*   **What it likely should be:** UNITS (or SCALES)\n*   **Where on the page:** Middle, right"
+  },
+  {
+    "page": "125",
+    "file": "page_125.png",
+    "findings": "*   **Ew** (should be **New**) - Middle-right"
+  },
+  {
+    "page": "126",
+    "file": "page_126.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **soone** (appears as \"Me soone\")\n    *   Likely should be: **soon**\n    *   Location: Middle, right of center\n2.  **BROKS**\n    *   Likely should be: **BOOKS**\n    *   Location: Bottom, center"
+  },
+  {
+    "page": "127",
+    "file": "page_127.png",
+    "findings": "Here is the list of clearly misspelled English words:\n\n*   **Word as it appears:** hom\n    *   **Likely should be:** from\n    *   **Where on the page:** Middle, center-right"
+  },
+  {
+    "page": "128",
+    "file": "page_128.png",
+    "findings": "Here are the clearly misspelled English words from the journal page:\n\n1.  **Europen** (likely should be: European) - Middle, left\n2.  **Clearn** (likely should be: Clear) - Top, right\n3.  **Amirica** (likely should be: America) - Middle, right\n4.  **Elestions** (likely should be: Elections) - Bottom, left\n5.  **Astrody** (likely should be: Astronomy) - Bottom, left\n6.  **Betwenn** (likely should be: Between) - Bottom, right\n7.  **Frist** (likely should be: First) - Bottom, right\n8.  **Creeatue** (likely should be: Creature) - Bottom, right"
+  },
+  {
+    "page": "129",
+    "file": "page_129.png",
+    "findings": "*   **cookes** (likely should be: cooks) - Bottom, left\n*   **eegularly** (likely should be: regularly) - Bottom, left"
+  },
+  {
+    "page": "130",
+    "file": "page_130.png",
+    "findings": "Here are the clearly misspelled English words from the image:\n\n1.  **Word as it appears:** CORDROR\n    *   **Likely should be:** CORRIDOR\n    *   **Location:** Middle, left (on the registration card)\n2.  **Word as it appears:** REGISTROM\n    *   **Likely should be:** REGISTRATION\n    *   **Location:** Middle, right (on the registration card)"
+  },
+  {
+    "page": "131",
+    "file": "page_131.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **Word as it appears:** FUSTURD\n    *   **Likely should be:** FUTURE\n    *   **Location:** Middle, left\n*   **Word as it appears:** PROURS\n    *   **Likely should be:** HOURS\n    *   **Location:** Middle, right\n*   **Word as it appears:** RECASER\n    *   **Likely should be:** RECEPTION\n    *   **Location:** Middle, right\n*   **Word as it appears:** TANQ\n    *   **Likely should be:** TANK\n    *   **Location:** Bottom, center"
+  },
+  {
+    "page": "132",
+    "file": "page_132.png",
+    "findings": "Here are the clearly misspelled English words:\n\n*   **FORGIVESRNES** (should be **FORGIVENESS**) - Middle-left\n*   **Womds** (should be **Words**) - Top-right\n*   **Reecnt** (should be **Recent**) - Top-right\n*   **purnest** (should be **purest**) - Bottom-left"
+  },
+  {
+    "page": "133",
+    "file": "page_133.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Word as it appears:** CHMPUS\n    **Likely should be:** CAMPUS\n    **Location:** Top left\n2.  **Word as it appears:** ROMEEU\n    **Likely should be:** ROME\n    **Location:** Top right\n3.  **Word as it appears:** Fias\n    **Likely should be:** Pass (or Fair/Fees)\n    **Location:** Top right\n4.  **Word as it appears:** DIAGNOS\n    **Likely should be:** DIAGNOSIS\n    **Location:** Bottom left"
+  },
+  {
+    "page": "134",
+    "file": "page_134.png",
+    "findings": "Here are the clearly misspelled English words found:\n\n1.  **PASCION**\n    *   Likely should be: PASSION\n    *   Where on the page: Bottom, center (on newspaper clipping)\n2.  **Prehaps**\n    *   Likely should be: Perhaps\n    *   Where on the page: Top, right (in handwritten journal text)"
+  },
+  {
+    "page": "135",
+    "file": "page_135.png",
+    "findings": "*   **CHURGN** should be **CHURCH** (bottom, left)"
+  },
+  {
+    "page": "136",
+    "file": "page_136.png",
+    "findings": "Here are the clearly misspelled English words found:\n\n1.  **HOPRER**\n    *   Likely should be: HOPPER\n    *   Location: Top, left-center\n2.  **REGISTRATON**\n    *   Likely should be: REGISTRATION\n    *   Location: Middle, center-right\n3.  **REGRION**\n    *   Likely should be: REGION\n    *   Location: Bottom, center"
+  },
+  {
+    "page": "137",
+    "file": "page_137.png",
+    "findings": "Here are the clearly misspelled English words from the journal page:\n\n1.  **Rroom** (appears as) - Should be: Room - Location: Middle, center\n2.  **TICKEN** (appears as) - Should be: TICKET - Location: Top, center-right"
+  },
+  {
+    "page": "138",
+    "file": "page_138.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **ROOPED** (likely should be **ROPED**) - top, left\n2.  **MCENU** (likely should be **MENU**) - middle, left\n3.  **MNENU** (likely should be **MENU**) - middle, left\n4.  **HBENU** (likely should be **MENU**) - middle, left\n5.  **Prdntt** (likely should be **PRESENT**) - bottom, right"
+  },
+  {
+    "page": "139",
+    "file": "page_139.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Farst** (likely: First) - Top, Left\n2.  **Quallity** (likely: Quality) - Top, Right\n3.  **Anallysis** (likely: Analysis) - Middle, Right\n4.  **Arthenticity** (likely: Authenticity) - Bottom, Left\n5.  **Eminat** (likely: Eminent) - Bottom, Right"
+  },
+  {
+    "page": "140",
+    "file": "page_140.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Spestrum** (should be: Spectrum) - Middle, right\n2.  **Manhitan** (should be: Manhattan) - Middle, left"
+  },
+  {
+    "page": "141",
+    "file": "page_141.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Mahttattan** (likely should be Manhattan) - Top, left-center\n2.  **Mahhttan** (likely should be Manhattan) - Middle, left-center\n3.  **poptllitions** (likely should be populations) - Top, right\n4.  **wos** (likely should be was) - Top, right\n5.  **Poissoer** (likely should be Poisson) - Bottom, right\n6.  **goud** (likely should be good) - Bottom, right"
+  },
+  {
+    "page": "142",
+    "file": "page_142.png",
+    "findings": "Here are the clearly misspelled English words found on the journal page:\n\n1.  **Word as it appears:** paypotions\n    **Likely should be:** proportions (or potions)\n    **Location:** top, left\n\n2.  **Word as it appears:** Ponsors\n    **Likely should be:** sponsors\n    **Location:** top, left\n\n3.  **Word as it appears:** breeve\n    **Likely should be:** believe\n    **Location:** top, left\n\n4.  **Word as it appears:** decad\n    **Likely should be:** decade\n    **Location:** top, left\n\n5.  **Word as it appears:** Leard\n    **Likely should be:** learned (or leader)\n    **Location:** top, left\n\n6.  **Word as it appears:** potarert\n    **Likely should be:** potent (or potential)\n    **Location:** middle, left\n\n7.  **Word as it appears:** dowagh\n    **Likely should be:** though (or dough)\n    **Location:** middle, left\n\n8.  **Word as it appears:** Milieuys\n    **Likely should be:** milieus\n    **Location:** middle, left\n\n9.  **Word as it appears:** infriornt\n    **Likely should be:** inferior\n    **Location:** middle, left\n\n10. **Word as it appears:** opacituy\n    **Likely should be:** opacity\n    **Location:** top, right\n\n11. **Word as it appears:** prepart\n    **Likely should be:** prepare (or prepared)\n    **Location:** top, right\n\n12. **Word as it appears:** Legtimart\n    **Likely should be:** legitimate\n    **Location:** top, right"
+  },
+  {
+    "page": "143",
+    "file": "page_143.png",
+    "findings": "*   **Southe**\n    *   Likely should be: **South**\n    *   Location: Bottom right"
+  },
+  {
+    "page": "144",
+    "file": "page_144.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Memor**\n    *   Likely should be: Memoir / Memory\n    *   Location: Top-center\n2.  **READR**\n    *   Likely should be: Reader\n    *   Location: Top-center\n3.  **Sorenday**\n    *   Likely should be: Someday / Sunday\n    *   Location: Top-right"
+  },
+  {
+    "page": "146",
+    "file": "page_146.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Hreel**\n    *   Likely should be: Hotel\n    *   Location: Top-left\n2.  **Westwoud**\n    *   Likely should be: Westwood\n    *   Location: Top-left"
+  },
+  {
+    "page": "148",
+    "file": "page_148.png",
+    "findings": "Here are the clearly misspelled English words:\n\n1.  **Strcture** (should be Structure) - Top left\n2.  **Timeltine** (should be Timeline) - Center top"
+  },
+  {
+    "page": "149",
+    "file": "page_149.png",
+    "findings": "Based on the handwritten text on the brown paper, interpreted with the strong hint from the superimposed \"Tom Hork\" text on the image:\n\n1.  **Tow** (as it appears) -> **Tom** (likely should be) -> bottom right\n2.  **Work** (as it appears) -> **Hork** (likely should be) -> bottom right"
+  },
+  {
+    "page": "150",
+    "file": "page_150.png",
+    "findings": "*   **Word as it appears:** ATIMOSPERIC\n*   **Likely should be:** ATMOSPHERIC\n*   **Location:** Bottom, left"
+  }
+]

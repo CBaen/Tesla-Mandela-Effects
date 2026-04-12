@@ -1,0 +1,11 @@
+# 252 - The Assistant Who Never Existed - Retroactive Person Erasure
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: March 22, 1911
+Tesla's Age at Event: 55
+Cover Story: False shared memory, composite character from multiple people, imagination creating fake person, psychological suggestion creating false memories.
+Conspiracy Theory: Timeline correction March 1911 erased Tesla's assistant Marcus Holloway from existence. Worked for Tesla 1908-1911, made crucial contributions. Timeline detected he shouldn't exist - prevented from being born through retroactive causality change. Everyone who knew him retains memories, but all documentation vanished. Birth records gone. Family photos show empty spaces. His inventions attributed to others. Person completely erased while memories persist.
+Episode Hook: Lab staff meeting March 22, 1911: 'Where's Marcus? He was here yesterday.' 'Who's Marcus?' 'Marcus Holloway, our lead assistant for three years!' 'We've never had anyone named Marcus.' 'Check the employee records!' Records show no Marcus Holloway. His desk is gone. His apartment never existed. But 12 people remember him clearly. Tesla's notes: 'Timeline corrected Marcus out of existence. His birth prevented retroactively. Memories remain but reality changed. Cannot restore erased people.'
+Evidence It Was Different: Multiple witnesses remember Marcus Holloway - appearance, voice, work, personal details. All consistent. But zero documentation. Timeline mathematics show retroactive causality modification - his birth prevented in 1887 by butterfly effect from Tesla's 1911 experiment. Memories persist because consciousness exists outside timeline, but physical reality corrected to version where he never existed.
+What Changed: March 1911. Tesla's. Lead. Assistant. Vanishes. From. History. Everyone. Remembers. Him. No. Records. Exist.
+The Twist: Marcus. Holloway. Didn't. Get. Erased. By. Accident. Analysis shows. Tesla. Deliberately. Removed. Him. From. Timeline. Marcus. Discovered. Tesla's. Most. Dangerous. Secret. Threatened. To. Expose. Time. Manipulation. Experiments. Tesla. Prevented. His. Birth. Through. Retroactive. Timeline. Editing. Murdered. Him. By. Making. Him. Never. Exist.

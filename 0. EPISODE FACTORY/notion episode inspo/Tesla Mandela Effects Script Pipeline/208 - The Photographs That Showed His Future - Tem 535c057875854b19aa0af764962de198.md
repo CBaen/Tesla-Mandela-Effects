@@ -1,0 +1,11 @@
+# 208 - The Photographs That Showed His Future - Temporal Image Capture
+
+Alteration Type: Temporal Paradox
+Date of Occurrence: January 1, 1868
+Tesla's Age at Event: 12
+Cover Story: Mislabeled photographs, photos of relatives mistaken for Tesla, double exposures, photographic errors.
+Conspiracy Theory: Cameras photographed Tesla's quantum temporal superposition age 12-16. While he appeared as child to observers, cameras captured his future self - photographs showing him as adult, middle-aged, elderly. His consciousness existed across multiple time periods simultaneously. Cameras detected temporal superposition, recording future states instead of present. His body existed in multiple ages simultaneously, manifesting different temporal versions to different observers.
+Episode Hook: Tesla family photo album contains impossibility - photos labeled 'Nikola age 12' showing 40-year-old man. Photos labeled 'age 14' showing elderly Tesla. Photographer records confirm dates, confirm subject identification. Multiple photographers, multiple cameras, same result. All photos of child Tesla showed adult or elderly versions. Visual observation showed child, photographic observation showed future.
+Evidence It Was Different: Photo analysis confirms photographs authentic, not altered. Age progression experts compare young Tesla photos to adult Tesla photos - matches confirmed. Photos of 12-year-old Tesla show accurate facial features of 45-year-old Tesla. Temporal photography captured future self. His quantum state existed across time, cameras detected future probability states.
+What Changed: Age 12. Photos of. Tesla. Show him. Decades. Older. Camera captures. His future. Not. Present. Young Tesla. Photographing. Temporally. Wrong.
+The Twist: Temporal photography. Reverses. Modern photos. Of Tesla's. Childhood home. Using. Modern cameras. Show. Young Tesla. Present. In frame. Cameras still. Detecting. His temporal. Superposition. He exists. Across. All time. Simultaneously. Photographable. In any. Era. From any. Time period.
