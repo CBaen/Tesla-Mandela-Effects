@@ -249,7 +249,7 @@ He was protecting the referral by not naming where it was going.
 
 The referral was never made. The archive does not know if this was his choice, or if the choice was made by someone with authority over the report. The archive knows that between the margin note and the closed investigation, something decided that the finding could be contained by the existing record, and the existing record was sufficient.
 
-The archive disagrees. Not loudly. The archive does not have volume. The archive has only what it contains — and what it contains is the distance between a polymorphic explanation that would fit and a language choice that wouldn't, from a man whose professional role required him to fit findings into the closest available category.
+The archive notes that the existing record does not account for that distance — the distance between a polymorphic explanation that would fit and a language choice that wouldn't, from a man whose professional role required him to fit findings into the closest available category.
 
 He chose not to fit this one.
 
