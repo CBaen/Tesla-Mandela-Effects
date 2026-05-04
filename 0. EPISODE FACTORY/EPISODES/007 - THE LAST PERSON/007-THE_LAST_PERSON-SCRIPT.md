@@ -264,7 +264,7 @@ The physics describes it differently. The physics describes a crystalline struct
 
 Different rooms resonate at different frequencies.
 
-This is not a pharmaceutical fact. This is a physics fact. Every physical structure has a natural frequency — Tesla proved this with a steel beam in eighteen ninety-six and a sledgehammer in eighteen ninety-eight. The frequency is determined by the structure's geometry, its mass distribution, its elastic properties. Change the geometry and you change the frequency. The compound in the mortar, if it had undergone a polymorphic transformation under four months of sustained mechanical processing, would have a different natural frequency than the compound in the jar. Would respond differently to energy delivered at the original compound's resonant frequency. Would, if you were using the language of a federal field auditor who had been trained in something beyond standard pharmaceutical inspection, oscillate differently.
+This is not a pharmaceutical fact. This is a physics fact. Every physical structure has a natural frequency — Tesla proved this with a steel beam and a sledgehammer in eighteen ninety-eight. The frequency is determined by the structure's geometry, its mass distribution, its elastic properties. Change the geometry and you change the frequency. The compound in the mortar, if it had undergone a polymorphic transformation under four months of sustained mechanical processing, would have a different natural frequency than the compound in the jar. Would respond differently to energy delivered at the original compound's resonant frequency. Would, if you were using the language of a federal field auditor who had been trained in something beyond standard pharmaceutical inspection, oscillate differently.
 
 Oscillate at a frequency outside documented pharmaceutical parameters.
 
@@ -512,10 +512,6 @@ The archive's version of Henry Collins is a man who held on longer than anyone a
 The archive's version of Henry Collins is a man who succeeded.
 
 The beauty of what happened to Henry is invisible to everyone who knew him.
-
-The archive sees it.
-
-The listener sees it.
 
 
 Marielle Ostrowski's statement to the Kentucky Board of Pharmacy ends on page eleven. The last paragraph is separated from the preceding text by a line break — the mark of someone who paused before writing what came next.
