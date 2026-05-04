@@ -513,6 +513,10 @@ The archive's version of Henry Collins is a man who succeeded.
 
 The beauty of what happened to Henry is invisible to everyone who knew him.
 
+The archive sees it.
+
+The listener sees it.
+
 
 Marielle Ostrowski's statement to the Kentucky Board of Pharmacy ends on page eleven. The last paragraph is separated from the preceding text by a line break — the mark of someone who paused before writing what came next.
 
