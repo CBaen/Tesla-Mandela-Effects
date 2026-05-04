@@ -134,15 +134,15 @@ The altered archive received the same image and understood it as Tuesday.
 
 The gap does not announce itself. That is the specific quality of an absence in a well-maintained archive — it does not arrive with a marker, does not present a sign where the material should be, does not flag its own presence the way a missing page in a bound volume announces itself through the gap in the stitching. The gap in the Mark Twain Papers at the Bancroft Library is the kind that a researcher finds by knowing what should be there and comparing that knowledge against what is. The comparison is not dramatic. It simply produces a number that is smaller than expected.
 
-Three letters. From Tesla to Twain. Across a friendship both men's biographers describe as close, sustained, and of genuine importance to both of them across at least a decade of their mature lives.
+Three letters. From Twain to Tesla. Across a friendship both men's biographers describe as close, sustained, and of genuine importance to both of them across at least a decade of their mature lives.
 
-No letters from Twain to Tesla.
+No letters from Tesla to Twain survive.
 
 The Bancroft holds the letters of Mark Twain's life with the comprehensive patience of an institution that understood, early, that it was holding something the rest of the century would need. The letters to Joseph Twichell — the Reverend, the closest friend of forty years, the man Twain's most intimate affections moved toward across four decades of correspondence — are in the Bancroft. The letters to William Dean Howells, those long exchanges between the two most prominent American writers of their generation, the ones where Twain was most honestly himself about what writing cost him and what it gave him — those are in the Bancroft. The letters to Henry Rogers, the Standard Oil executive who guided Twain through bankruptcy and back out of it, the letters that document the mechanics of a loyalty that neither man could fully explain — those are in the Bancroft. The family letters to Olivia, across more than thirty years of marriage including the long sick years in European hotel rooms where she was dying and he was watching and writing and trying to write and failing and writing again — those are in the Bancroft.
 
 The archive preserved the shape of Mark Twain's emotional life across six decades with the thoroughness of a record that understood itself to be irreplaceable.
 
-It holds three letters from Tesla.
+It holds three letters from Twain to Tesla. What it does not hold — what no archive the listener can access holds — is Tesla's side of the exchange.
 
 The altered archive does not explain this. The altered archive simply holds the full correspondence — the joint papers, the letters in both directions across the eighteen-nineties and nineteen-hundreds, the record of a sustained intimacy that includes the September visit to Hartford and the winter months at South Fifth Avenue and the fire and its aftermath and the years that followed. The altered archive does not know that the Bancroft in the listener's timeline holds only three letters. The altered archive is not aware of the absence. The altered archive simply contains what it contains, as archives do, and what it contains is full.
 
@@ -266,27 +266,39 @@ The operating log's last entry is from the night before. The night before the bu
 
 This is what archives do when they are fortunate. They preserve the last ordinary evening.
 
-The fire that took the laboratory on South Fifth Avenue is the explanation that presents itself first, and it is a real explanation, and it is not wrong. This matters — before the investigation continues, the fire must be understood as a genuine and sufficient account of the absence, or what follows will have no weight.
+The fire that took the laboratory on South Fifth Avenue is the explanation that presents itself first, and it is a real explanation, and it is sufficient for what it explains. This matters — before the investigation continues, the fire must be understood as a genuine account of a genuine absence, or what follows will have no weight.
 
 The fire started in a machine-oil-saturated basement. It had been building since before anyone in the building was awake. By the time it reached the fourth floor the laboratory was not recoverable. The smoke alone would have destroyed the paper records before the heat arrived. Fifty thousand dollars of uninsured equipment and years of accumulated notes and the operating log with its last quiet entry became, in the space of a few hours, the specific category of loss that experimental science produces when an experiment that existed nowhere else in the world ceases to exist. The loss was total. The loss was real. The loss is documented.
 
-If the partnership between Tesla and Twain — the deeper thing the altered archive records, the thing Johnson was describing in his journal, the thing Clara would remember from both houses for the rest of her life — if any of that produced correspondence or documentation that lived in the South Fifth Avenue laboratory, the fire took it. This is a complete account. This is the kind of explanation that a careful historian accepts because it is verifiable and proportionate to the gap it is meant to explain.
+Tesla's letters to Twain — replies written from the South Fifth Avenue laboratory, correspondence that lived where Tesla worked — would have burned in that fire. This is not speculation. This is the proportionate account: correspondence kept at the laboratory, destroyed when the laboratory burned. The fire explains why Tesla's side of the exchange does not survive. It is the kind of explanation a careful historian accepts because it is verifiable and proportionate to the gap it is meant to explain.
 
-But look at what the fire could not have taken.
+But look at what survives.
 
-The Mark Twain Papers at the Bancroft Library at UC Berkeley were never near South Fifth Avenue. The Bancroft is in California. The archive is in a building that has nothing to do with the building that burned. Letters from Tesla to Twain, deposited in that archive, would be in that archive. Letters from Twain to Tesla, written across the eighteen-nineties and nineteen-hundreds and eventually placed with Tesla's papers or retained in Twain's own files before their dispersal — those letters would not have been in the laboratory. The laboratory was Tesla's workspace. It was not a depository for his personal correspondence.
+The Bancroft holds three letters from Twain to Tesla. The Mark Twain Papers at UC Berkeley are in California — in a building that has nothing to do with the building that burned, in an archive that holds the correspondence of Twain's full emotional life with the thoroughness of a record that understood itself to be irreplaceable. The letters Twain wrote to Tesla were Twain's letters — they traveled to Tesla, and what survived of them survived in Tesla's papers, not in Twain's. They are in the Bancroft and in Belgrade. Three of them.
 
-The archive at the Bancroft holds the letters Twain wrote to the people he was closest to across his life. The archive holds them because Twain was a man who understood — who was told, who was made to understand by the literary culture of his time — that his correspondence was itself a form of production, that the letters were part of the work, that the archive was how the work survived. He understood this. He wrote with the awareness of being read later. His letters to Twichell are not intimate in spite of being archivable — they are intimate through the specific idiom of two literate men writing to each other across forty years with the knowledge that their intimacy was a thing of literary value, which is not the same as being false, but which does produce a specific register.
+And the content of those letters is what the listener's own archive records.
 
-If Twain had written to Tesla across a decade or more of sustained intimacy, those letters would have the same quality. They would have been preserved with the same intention. They would be in the Bancroft along with the letters to Twichell and to Howells and to Rogers and the family letters to Olivia and every other substantial correspondence of Twain's mature life.
+The first of the three surviving letters is dated the fourth of March, eighteen ninety-four — the day of the Century Magazine photograph session at the South Fifth Avenue laboratory, the day that produced the famous image. Twain wrote: "If I can possibly manage it I'll be there by 4 pm, but I am dreadfully pushed for time, and you mustn't depend on me. In haste — Sincerely Yours, S. L. Clemens."
 
-Three letters. From Tesla to Twain.
+In the listener's timeline, the photograph session is documented as a celebrity visit. A famous author arriving to experience a remarkable new technology. The famous image shows Twain holding the phosphorescent tube, the wireless light on his face from below. In the listener's timeline, the caption reads: a man who came.
 
-The fire burned one building.
+The letter says: a man who almost didn't come. Who was pushed for time. Who wrote to say you mustn't depend on me, and then came anyway.
 
-The Bancroft holds everything that did not burn, and what it holds, across the most extensively documented literary life in American history, is three letters from the man both men's biographers describe as among the most significant friendships of Tesla's life.
+The second letter that matters is dated the seventeenth of November, eighteen ninety-eight, written from the Hotel Krantz in Vienna. By that autumn, Twain was in European exile — not the productive European residence of the early eighteen-nineties when the Compositor was still consuming him and the bankruptcy had not yet arrived, but the enforced exile of a man paying back creditors by selling tickets to his own voice across three continents. He was in Vienna. He was broke. He was writing.
 
-The fire is a real explanation. The fire does not explain this.
+From the Hotel Krantz he wrote to Tesla: "Dear Mr. Tesla — Have you Austrian and English patents on that destructive terror which you are inventing? — and if so, won't you set a price upon them and commission me to sell them? I know cabinet ministers of both countries — and of Germany, too; likewise William II. I shall be in Europe a year, yet. Here in the hotel the other night when some interested men were discussing means to persuade the nations to join with the Czar and disarm, I advised them to invite the great inventors to contrive something against which fleets and armies would be helpless, and thus make war thenceforth impossible. I did not suspect that you were already attending to that, and getting ready to introduce into the earth permanent peace and disarmament in a practical and mandatory way."
+
+A man in bankruptcy, writing from a hotel in Vienna, offering to broker Tesla's death-ray patents to Kaiser Wilhelm II. Calling Tesla's work introducing into the earth permanent peace and disarmament. This is not polite Gilded Age correspondence. This is a man in exile, reaching across an ocean, with nothing to offer except the usefulness of his own name — which was still, even in the hotel room years, considerable.
+
+The asymmetry is the wound. The fire is a real explanation for the silence on Tesla's side. What the fire cannot explain is the quality of the reaching it erased.
+
+We have a man reaching, in his own handwriting, from Vienna, while broke, with the specific weight of someone who has decided that the reaching matters regardless of what comes back. We have the fourth of March — you mustn't depend on me — and then the photograph. We have the November letter from the Hotel Krantz, asking to broker the patents, naming peace and disarmament.
+
+We have Twain reaching. The fire took what reached back.
+
+And the other evidence — Clara's letter, the operating log, the Patent Office annotation, the Stormfield drawings, the Johnson journal entry — none of that lived in the South Fifth Avenue laboratory. None of that burned.
+
+The fire is a real explanation. The fire does not explain everything.
 
 The narrator does not close this observation. The narrator notes the gap and continues — because the investigation does not pause at a gap, the investigation moves through it, the investigation follows what the altered archive holds rather than what the listener's archive is missing, and the altered archive has more to show.
 
