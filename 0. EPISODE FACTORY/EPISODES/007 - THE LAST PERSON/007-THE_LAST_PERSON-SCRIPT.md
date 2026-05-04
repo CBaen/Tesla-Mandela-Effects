@@ -198,7 +198,7 @@ He was looking for the frequency.
 
 He did not know what name to give what he was doing. The archive knows this because of what is not in the notebook. The notebook, which Margaret describes in her deposition, is mostly illegible — the handwriting compressed and small, the pages filled in a way that suggests writing under pressure, writing that was trying to keep up with something. She could read only three words, on the last page. She does not say what they were. She says she did not want them in the official record.
 
-The archive does not know what the three words were. The archive notes only that a man who had spent four months doing something without a name for it arrived, at some point, at something he could write in three words and chose not to make public. Not because the words were shameful. The deposition makes this clear — Margaret is asked whether the words were distressing, and she says no. Not distressing. Not shameful. She says: they felt like something that belonged to him.
+What the archive cannot account for is the three words themselves. The record notes only that a man who had spent four months doing something without a name for it arrived, at some point, at something he could write in three words and chose not to make public. Not because the words were shameful. The deposition makes this clear — Margaret is asked whether the words were distressing, and she says no. Not distressing. Not shameful. She says: they felt like something that belonged to him.
 
 Three words that belonged to him. On the last page of a notebook otherwise illegible. Three words in the same handwriting that wrote inventory noted in the compounding log at nine forty-seven in the evening of March first, two thousand and twenty, in handwriting the pharmacy owner described as unusually steady.
 
@@ -216,11 +216,11 @@ Three windows per tower. The center one slightly narrower than the other two.
 
 Not invented. Not imagined. Drawn with the precise hand of someone recording an observation rather than illustrating a fantasy. Drawn in the same measured way he drew the architectural elevations for his popsicle stick structures — with attention to proportion, with the slight correction marks of someone checking their work. He had drawn the bridge the way he saw it. And the bridge he saw had three windows.
 
-The archive is noting this without interpretation. The archive does not interpret drawings. The archive describes what the drawings contain and what the record outside the drawings contains and leaves the distance between them for the listener to measure.
+The archive describes what the drawings contain and what the record outside the drawings contains. The distance between them is not the archive's to measure.
 
 Margaret Collins finishes her deposition in one hour and forty-three minutes. The coroner thanks her. She collects her things. The transcript ends.
 
-The archive does not know whether she looked at the bridge on the way home. The archive does not know what she sees when she looks at it.
+Whether she looked at the bridge on the way home is not in the record. What she sees when she looks at it is not in the record.
 
 
 The question the field auditor's margin note does not ask — the question his vocabulary reaches toward without arriving at — is the question the archive must ask in his place.
@@ -305,7 +305,7 @@ The structures that corresponded to each other across drawings, with proportions
 
 The archive is asking: not accidental in the way that any skilled builder's proportions are not accidental, because the builder has a preference or an aesthetic? Or not accidental in the way that recorded proportions are not accidental — because they are records of something that exists, and the recording is the act of documentation rather than the act of creation?
 
-The archive is asking because the ceiling of the compounding lab is a twelve-by-twenty-four grid. The popsicle stick structures recur in a specific ratio between horizontal and vertical members. The archive does not know the ratio. The archive knows only that Margaret looked at the structures and at the drawings and understood, with the library scientist's precision for pattern, that the ratio repeated, and that the repetition was intentional, and that the intention was not aesthetic.
+The archive is asking because the ceiling of the compounding lab is a twelve-by-twenty-four grid. The popsicle stick structures recur in a specific ratio between horizontal and vertical members. The ratio is not in any document the archive has obtained. What the archive has is Margaret's account: she looked at the structures and at the drawings and understood, with the library scientist's precision for pattern, that the ratio repeated, and that the repetition was intentional, and that the intention was not aesthetic.
 
 He was building what he saw.
 
@@ -449,7 +449,7 @@ The bridge he crossed every day, at the frequency the compound was teaching him 
 
 This is what the heritage survey's significant fraction had been carrying all along. Not a misremembering. Not an error distributed randomly across people who had never looked closely. A convergent perception among people who had looked at the bridge every day for decades — people whose daily rhythm had brought them into extended proximity to the bridge's structural frequency, who had accumulated, without knowing it, a kind of tuning. Not as precise as Henry's. Not deliberately cultivated. But enough. Enough to leave a trace in their memory drawings. Enough to converge on the center window, the slightly narrower one, the one that is not there in the bridge the rest of the world crosses.
 
-The archive is not claiming that proximity alone produces the calibration. The archive is noting that proximity is a necessary condition, and that the heritage survey found its significant fraction among people for whom the bridge was daily geography — not tourists, not occasional visitors, not people who had seen photographs and constructed a mental image from documentation. People who had been inside the bridge's frequency, at close range, for years. People who accumulated something.
+Proximity alone does not produce the calibration. What the heritage survey found is that its significant fraction came from people for whom the bridge was daily geography — not tourists, not occasional visitors, not people who had seen photographs and constructed a mental image from documentation. People who had been inside the bridge's frequency, at close range, for years. People who accumulated something.
 
 Henry accumulated it faster. Henry had help.
 
@@ -547,7 +547,7 @@ That Henry Collins was not the first person to receive the third window.
 
 He was, as far as the archive has been able to determine, the only person who received it completely.
 
-If you carry something the rest of the room cannot see — if the window you hold is not the window everyone else is looking at — the archive does not know whether that makes you broken. The official record does not have a category for it. The deposition transcript does not have a line for it. The cause-of-death certificate was designed for a different question.
+If you carry something the rest of the room cannot see — if the window you hold is not the window everyone else is looking at — the official record does not have a category for that question. The deposition transcript does not have a line for it. The cause-of-death certificate was designed for a different question.
 
 The archive only knows what the archive knows: that the frequency is real. That the structure it opens is not a hallucination. That the people in that heritage survey, who drew the center window with its proper proportions, who filed their drawings in a library in Covington where they have sat uncirculated for years adjacent to nothing — those people were not wrong. They were receiving something. They did not have a compound to help them receive it precisely. They did not have Henry's four months of calibration, or Henry's willingness to follow the signal past every warning, to the point where the compounding log's last entry was two words that mean: I have accounted for everything, and I am leaving now.
 
