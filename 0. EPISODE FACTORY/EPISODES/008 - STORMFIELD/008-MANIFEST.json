@@ -1,0 +1,351 @@
+{
+  "episode": "008",
+  "title": "Stormfield",
+  "assets": [
+    {
+      "name": "Nikola_Tesla_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "Dark frock coat, high starched collar, precisely knotted cravat. Tall, lean, impeccably turned out.",
+      "notes": "Age 37. Visiting Hartford after triumph at the World's Columbian Exposition. At peak professional visibility.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1894",
+      "type": "character",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "Dark formal suit, white shirt, cravat. Working in laboratory — sleeves may be rolled to elbows.",
+      "notes": "Age 37-38. South Fifth Avenue laboratory period. Demonstrating wireless electrical light.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1910",
+      "type": "character",
+      "era": "1910",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "Dark formal suit, slightly worn at the elbows. The attire of a man who maintains standards against attrition.",
+      "notes": "Age 53. Post-Wardenclyffe. At Stormfield following Twain's death. Transition to the hotel years.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Nikola_Tesla_1943",
+      "type": "character",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1856,
+      "physique": "",
+      "attire": "Dark suit, decades out of fashion. Impeccably maintained. White gloves.",
+      "notes": "Age 86. Hotel New Yorker, Room 3327. Final years. Feeding pigeons in Bryant Park.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Mark_Twain_1893",
+      "type": "character",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1835,
+      "physique": "",
+      "attire": "Rumpled suit, characteristic white hair and mustache. The informal dress of a man who has earned the right to be comfortable.",
+      "notes": "Age 57-58. At Farmington Avenue Hartford house. Paige Compositor crisis consuming him financially.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Mark_Twain_1894",
+      "type": "character",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1835,
+      "physique": "",
+      "attire": "Dark overcoat for travel, suit beneath. Holds a phosphorescent glass tube in the famous photograph.",
+      "notes": "Age 58-59. South Fifth Avenue laboratory. The famous Century Magazine photograph session.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Mark_Twain_1910",
+      "type": "character",
+      "era": "1910",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "birthYear": 1835,
+      "physique": "",
+      "attire": "White suit, his famous late-period affectation. White hair and white suit against the Connecticut spring.",
+      "notes": "Age 74. Stormfield, Redding, Connecticut. Final days. Halley's Comet visible.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Robert_Underwood_Johnson_1894",
+      "type": "character",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1853,
+      "physique": "American man, early 40s, clean-shaven, well-groomed, serious expression. The bearing of a literary editor — precise, attentive. Brown hair, slight build.",
+      "attire": "Dark wool suit, waistcoat, high collar with cravat. The professional dress of a Century Magazine editor.",
+      "notes": "Associate editor of Century Magazine. Social bridge between Tesla and Twain. Organized the March 1894 laboratory photograph session.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Clara_Clemens_1932",
+      "type": "character",
+      "era": "1932",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1874,
+      "physique": "American woman, late 50s, dignified bearing, dark hair with grey streaks. Strong resemblance to her father in the jaw and brow. The composed face of a woman who has been the keeper of a famous life for two decades.",
+      "attire": "Conservative 1930s dress, dark colors. The dress of a woman of means in reduced circumstances.",
+      "notes": "Mark Twain's surviving daughter. Married pianist Ossip Gabrilowitsch. Writing a letter about her father's friendship with Tesla circa 1932.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Joseph_Jefferson_1894",
+      "type": "character",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "birthYear": 1829,
+      "physique": "American actor, mid-60s, stocky build, white hair, expressive face. Famous for his role as Rip Van Winkle. Warm, theatrical bearing.",
+      "attire": "Dark formal coat and waistcoat, high collar. Gentleman's evening dress.",
+      "notes": "Famous American actor. Present at the South Fifth Avenue laboratory photograph session March 1894.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "MH_Caretaker_1961",
+      "type": "character",
+      "era": "1961",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "birthYear": 1895,
+      "physique": "Elderly Connecticut man, mid-60s, weathered face, working man's hands, plain dress. The appearance of someone who has maintained property across two decades.",
+      "attire": "Work shirt, suspenders, plain trousers. The clothes of a man who works with his hands.",
+      "notes": "Last caretaker of Stormfield, identified only as M.H. Worked there approximately 1935-1953. Being interviewed by a journalist in 1961.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Stormfield_House_1908",
+      "type": "location",
+      "era": "1908",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Large frame country house on a Connecticut hillside. Designed by architect John Mead Howells. Two-story main structure plus converted attic laboratory floor. White clapboard exterior, green shutters, wide wraparound porch. Stone walls visible in the surrounding field. South-facing windows look out over Saugatuck River valley to a forty-mile horizon. October light — amber, horizontal, the hills in early color.",
+      "attire": "",
+      "notes": "Stormfield, Redding, Connecticut. Built 1906-1908. Named by Twain after Captain Stormfield from his own fiction.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Stormfield_Study_1908",
+          "era": "1908",
+          "physique": "Ground floor study. Oak-paneled walls. Deep leather chair and writing desk by the south window. Bookshelves floor to ceiling on the east and north walls. Oil lamp on the desk. Papers and manuscript pages stacked in the organized chaos of active writing. Fireplace on the west wall, fire lit in autumn evenings. The specific warmth of a room where work is done.",
+          "notes": "Twain's working space at Stormfield. Where he wrote in the evenings while Tesla worked in the upper floor laboratory."
+        },
+        {
+          "name": "Stormfield_Upper_Laboratory_1908",
+          "era": "1908",
+          "physique": "Converted attic floor. Higher ceiling than standard for the period — the full height Tesla required for tall apparatus. Heavy floor-loading. Elaborate ventilation with louvered openings on all four walls. Plank floors with burn marks and chemical stains. Drafting table against the south-facing window. Pencil drawings on the walls — circles, lines, equations in a compressed notation, diagrams of tower structures and broadcasting apparatus. The walls covered in calculation the way a notebook is covered.",
+          "notes": "Tesla's working laboratory integrated into the upper floor of Stormfield. Drawings painted over in 1953 by new owners."
+        },
+        {
+          "name": "Stormfield_South_View_1908",
+          "era": "1908",
+          "physique": "The view from Stormfield's upper-floor south-facing windows. Saugatuck River valley below, descending through old farm fields bounded by stone walls. Hills extending south and southwest. On clear days, the horizon runs forty miles to where Long Island Sound catches light. Late autumn light — clear, horizontal, the specific quality of a Connecticut afternoon that makes far distance visible.",
+          "notes": "The view preserved in a photograph in the altered archive's joint papers. Undated, uncaptioned."
+        },
+        {
+          "name": "Stormfield_Exterior_1910",
+          "era": "1910",
+          "physique": "Same frame house structure. Spring — bare trees beginning to leaf. April light, sharp and new. The house looks occupied but quiet. Windows of the upper laboratory floor visible. Wide porch.",
+          "notes": "Stormfield in April 1910. The period of Twain's death and Halley's Comet perihelion."
+        }
+      ]
+    },
+    {
+      "name": "Farmington_Avenue_House_1893",
+      "type": "location",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Large Victorian house at 351 Farmington Avenue, Hartford, Connecticut. Designed by Edward Tuckerman Potter, built 1874. Red brick with elaborate Victorian Gothic detail — turrets, asymmetrical roofline, decorative brick patterning. Three stories plus attic. Wide veranda. Large grounds. The house of a man who built it for a long life that did not stay.",
+      "attire": "",
+      "notes": "Mark Twain's Hartford house, 1874-1891. Where Tesla visited September 1893 in the altered timeline. Twain closed the house in 1891 due to financial collapse in the listener's timeline.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Farmington_Machine_Room_1893",
+          "era": "1893",
+          "physique": "A room converted from a schoolroom, then a library annex, then a billiard room, now cleared for the Paige Compositor. Smell of gear oil and metal filings and the burnt-metal smell of a mechanism that runs hot. Gas lamps on the walls — the newer electric lights have not yet been installed here. The Compositor occupies the center of the room: a machine the size of a large wardrobe, all brass and steel, its eighteen thousand moving parts visible through open side panels. Demonstration materials stacked along the walls. A man's financial future expressed in a single room.",
+          "notes": "The room where Tesla examined the Paige Compositor's feed mechanism in the altered timeline."
+        },
+        {
+          "name": "Farmington_Study_1893",
+          "era": "1893",
+          "physique": "Twain's second-floor study. Gas lamps leave the corners in blue-grey dimness. Desk crowded with manuscript pages. Bookshelves covering three walls. A window overlooking the side garden. The smell of pipe smoke and old paper. The room of a man who works here daily and has pressed his particular disorder into every surface.",
+          "notes": "Where Twain and Tesla spent evenings during the September 1893 visit."
+        }
+      ]
+    },
+    {
+      "name": "South_Fifth_Avenue_Laboratory_1894",
+      "type": "location",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "33-35 South Fifth Avenue, Manhattan. A six-story commercial building. Tesla occupies the entire fourth floor. The laboratory is a long open room with high ceilings — ceiling height required for the tall electrical apparatus. The smell of ozone and heated metal and transformer oil. Glass tubes and coils arranged on work surfaces. Brass and copper fittings. A table in the corner cleared for Twain's writing materials. Long exposure photographs are possible because the phosphorescent light is steady. Gaslit hallways outside; the laboratory itself lit by the apparatus's own cold light during demonstrations.",
+      "attire": "",
+      "notes": "Tesla's laboratory before the March 13, 1895 fire. Where the famous Century Magazine phosphorescent light photographs were made.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "South_Fifth_Laboratory_Interior_1894",
+          "era": "1894",
+          "physique": "Open laboratory floor. The wireless light demonstration in progress — phosphorescent glass tubes glowing blue-white without wire connection, lit by electrical current transmitted through the air. Three men visible in the cold light: Twain holding a tube, Jefferson standing to the side, Tesla behind the apparatus. The photographer's equipment at the far wall. The specific upward illumination of the wireless tubes makes faces look lit from below — the footlight effect.",
+          "notes": "The famous photograph session. Cold blue-white phosphorescence photographed for the first time."
+        },
+        {
+          "name": "South_Fifth_Laboratory_Ruins_1895",
+          "era": "1895",
+          "physique": "The fourth floor of 33-35 South Fifth Avenue after the March 13, 1895 fire. Charred timber beams. Ash and twisted metal where the apparatus stood. Scorched brick walls. Water damage from fire company hoses soaked into the debris. Morning light coming through the burned-out windows. The specific silence of a room that held years of work and now holds nothing.",
+          "notes": "March 14, 1895. The morning after the fire."
+        }
+      ]
+    },
+    {
+      "name": "Houston_Street_Laboratory_1895",
+      "type": "location",
+      "era": "1895",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "46-48 East Houston Street, Manhattan. Rented laboratory space. Less distinguished than South Fifth Avenue — the space of reconstruction, not establishment. Plank floors, brick walls, high ceilings. Equipment arriving in stages — crates of replacement apparatus. The smell of new wood and fresh electrical insulation and the specific smell of a laboratory being built rather than maintained. Workers present. Tesla directing from drawings.",
+      "attire": "",
+      "notes": "Tesla's Houston Street laboratory, rented after the South Fifth Avenue fire. Reconstruction funded in part by Clemens in the altered timeline.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Hotel_New_Yorker_1943",
+      "type": "location",
+      "era": "1943",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Art deco hotel, 43 stories, corner of 34th Street and 8th Avenue, Manhattan. Tesla's home for his final decade.",
+      "parentName": null,
+      "children": [
+        {
+          "name": "Room_3327_1943",
+          "era": "1943",
+          "physique": "Corner room on the 33rd floor. Two walls of curtained windows. Cramped. Dark wood desk by the south window covered with hotel napkins filled with mathematical notation. Single bed, sheets pulled tight. Steamer trunks stacked against the far wall. Steam radiator ticking under the window. White pigeon feathers on the windowsill. Bare bulb overhead. The compressed archive of a life.",
+          "notes": "Tesla's room for eleven years. The room where he died January 7, 1943."
+        }
+      ]
+    },
+    {
+      "name": "Bryant_Park_1930",
+      "type": "location",
+      "era": "1930",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "Bryant Park, Midtown Manhattan, behind the New York Public Library on 42nd Street. Winter — bare plane trees, grey sky, benches mostly empty. An elderly man in a dark suit twenty years out of fashion stands near the center path with a paper bag of breadcrumbs. Pigeons gather at his feet. The park sounds of city birds and distant traffic.",
+      "attire": "",
+      "notes": "Where Tesla fed pigeons daily in his final years. The white pigeon he most cared for was found here.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Hotel_Waldorf_Astoria_1910",
+      "type": "location",
+      "era": "1910",
+      "isHistorical": true,
+      "fluxKnows": true,
+      "physique": "",
+      "attire": "",
+      "notes": "Original Waldorf-Astoria on Fifth Avenue, Manhattan. Where Tesla stayed after Twain's death before financial decline.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Paige_Compositor_1893",
+      "type": "object",
+      "era": "1893",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A mechanical typesetting machine approximately the size of a large wardrobe — six feet tall, eight feet wide, four feet deep. Cast iron and polished steel frame. Eighteen thousand moving parts visible through open side panels: cam followers, feed plates, type matrices in brass, sorting channels, mechanical fingers for character selection. The primary moving assembly is a feed mechanism at the upper center of the machine. All parts highly polished, suggesting recent demonstration preparation. When running, the machine is loud — a rhythmic clatter of mechanical engagement at high speed.",
+      "attire": "",
+      "notes": "The Paige Compositor. Mark Twain invested approximately three hundred thousand dollars in it. It failed. In the altered timeline, Tesla identified and corrected a resonance fault in the feed mechanism.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Wireless_Light_Tube_1894",
+      "type": "object",
+      "era": "1894",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A glass tube approximately two feet long and two inches in diameter, sealed at both ends. The glass is clear. When held within range of Tesla's wireless transmission apparatus, the evacuated interior glows with cold blue-white phosphorescence — no wire attached, no direct connection to any power source. The light is steady, not flickering. The glow comes from the entire interior surface of the tube uniformly. The glass is warm to the touch but not hot.",
+      "attire": "",
+      "notes": "The wireless electrical light demonstrated in Tesla's South Fifth Avenue laboratory. Powered by electrical current transmitted through the air. First objects ever photographed by this kind of light.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Patent_Application_1897",
+      "type": "object",
+      "era": "1897",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "A thick sheaf of documents bound with string. The main application: printed form pages covered in dense handwritten text describing wireless power transmission using Earth-resonance as conducting medium. Two hundred and fourteen pages of supporting calculations in Tesla's hand — rows of mathematical notation, diagrams of Earth cross-sections with wave propagation illustrated, equipment schematics in precise engineering drawing style. At the bottom of the final signature page: two signatures side by side, one tall and thin, one larger and more horizontal.",
+      "attire": "",
+      "notes": "The fabricated joint patent application filed November 14, 1897 in the altered timeline. No such patent exists in the listener's archive.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "Stormfield_Attic_Drawings_1915",
+      "type": "object",
+      "era": "1915",
+      "isHistorical": false,
+      "fluxKnows": false,
+      "physique": "Pencil drawings on plaster walls of the upper laboratory floor at Stormfield. Not architectural drawings — no floor plans, no building detail. Instead: circles within circles, lines connecting at precise angles, equations abbreviated in a personal shorthand. Diagrams suggesting the cross-section of the Earth with propagating waves. Tower proportions. Broadcasting apparatus schematics. The drawings of someone working through a problem across years — some passages are dark and confident, others lighter as if reconsidered, some areas have been partially erased and redrawn over the ghost of the prior line.",
+      "attire": "",
+      "notes": "Drawings Tesla made on the attic walls of Stormfield during the years after Wardenclyffe's demolition. Painted over in 1953.",
+      "parentName": null,
+      "children": []
+    },
+    {
+      "name": "White_Pigeon_1930",
+      "type": "object",
+      "era": "1930",
+      "isHistorical": true,
+      "fluxKnows": false,
+      "physique": "A white rock pigeon, female. Entirely white plumage, no grey or black markings. Pink feet. Orange-red eye. Compact build typical of urban rock pigeons. When healthy, moves with the specific confidence of a bird that has no fear of the human feeding her.",
+      "attire": "",
+      "notes": "Tesla's white pigeon. Fed daily in Bryant Park. Tesla constructed a two-thousand-dollar device to support her broken wing and leg during recovery. O'Neill records Tesla's words about her in Prodigal Genius (1944).",
+      "parentName": null,
+      "children": []
+    }
+  ]
+}
