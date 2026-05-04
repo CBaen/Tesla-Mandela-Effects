@@ -409,3 +409,49 @@ The light is the specific quality of a Connecticut afternoon in late autumn — 
 The archive holds this photograph in the joint papers. The archive does not annotate it. The archive does not say who was looking through that window when the photograph was made, does not say whether both of them were there or only one, does not say whether this was made in the spring or the autumn, in the years before Jean died or after.
 
 The archive holds the view. The view is the same view from a window that still exists in a house that still stands in Redding, Connecticut, thirty miles from where the Hartford house was sold to strangers in the eighteen-nineties, after the machine with eighteen thousand moving parts failed to run and the money ran out and the inventor who could have fixed it had not yet been asked.
+
+In nineteen ten, Nikola Tesla was fifty-three years old. The comet had come and gone. The man who had credited Twain's books with saving his life was alone for the first time in sixteen years. He returned to New York. He took a room at the Waldorf-Astoria, where he had lived before — before the laboratory on South Fifth Avenue, before the Houston Street years, before the Stormfield evenings. The Waldorf-Astoria in the listener's timeline was where he had conducted his most important American social life. In the altered timeline, it was somewhere he had stayed occasionally, between the city and Connecticut. Now it was where he lived.
+
+He moved, over the years that followed, through a succession of hotels. The Waldorf-Astoria, where he could no longer afford to stay. The Hotel St. Regis. The Hotel Marguery. The Hotel Governor Clinton, where the rate was lower and the hallway smelled of carpet worn down to its backing.
+
+In the listener's timeline, this trajectory is the whole of the last thirty-three years — a slow descent through rooms of diminishing quality, punctuated by occasional announcements in the newspapers of inventions that could not be demonstrated or funded, by lawsuits and countersuits and the long attrition of a man being gradually translated out of the world's attention. The FBI maintained a file on him for years, concerned about his claims of a death ray and what a foreign power might do with his papers when he died. He owed the Hotel New Yorker eleven months of unpaid rent when he died in Room three three two seven on January seventh, nineteen forty-three. He was eighty-six years old. He died alone, in the specific way of a man who has had no one for thirty-three years and has arranged his life around the absence.
+
+But before the Hotel New Yorker, there were the pigeons.
+
+He had always liked birds. In the altered timeline, this is a passing biographical note — the kind of detail that biographers include to establish texture, to show the interior life of a man who was otherwise absorbed in calculation. In the listener's timeline, it is something else.
+
+In the listener's timeline, by the nineteen thirties, Tesla was spending part of every day in Bryant Park, near the Hotel New Yorker on West Forty-Second Street, feeding pigeons from a paper bag. He was recognized sometimes — a tall, thin, impeccably dressed old man in clothes twenty years out of fashion, standing in the park with bread in his hands. He had a favorite bird. A white pigeon. He described her — in words recorded by his biographer John J. O'Neill, who spent years collecting accounts of Tesla's late life — with a specificity that made readers uncomfortable for decades after.
+
+He said: — "I loved that pigeon as a man loves a woman, and she loved me."
+
+This is verified. O'Neill records it in Prodigal Genius, published in nineteen forty-four, one year after Tesla's death. Tesla said this. He said it without qualification. He was not using the word "love" loosely, in the way of a man who loves many things — his work, his country, his city, the view from a certain window. He was using it in the specific sense he meant. The most complete account he could give.
+
+He spent over two thousand dollars — in the currency of the nineteen thirties, when two thousand dollars was not a small sum for a man who could not always pay his hotel bill — constructing a device to support the pigeon's broken wing and leg after she was injured. A splint, a harness, a custom-built apparatus designed to hold a bird's small bones in alignment while they healed. He designed it himself. He built it because there was no existing device for this purpose and he saw no reason why that should be an obstacle.
+
+She recovered. She returned to the park. She died some time later, and Tesla reported that at the moment of her death he had seen a light from her eyes — a light he described, in O'Neill's account, as intense, more powerful than anything he had produced in the laboratory. He told this to O'Neill with complete seriousness. He meant it as observation, not as metaphor. He saw the light and he reported it.
+
+In the listener's timeline, this is what Tesla was given for those thirty-three years. A bird and a light.
+
+In the altered timeline, the pigeon was a pet. A white bird he kept because he had always liked birds, the way a man with a full life keeps small affections without placing the whole weight of his interior world on them. The pigeon was fed and tended and, when she was injured, treated with the competent care of a man who applied the same engineering attention to every problem he encountered, regardless of scale. The altered archive notes her without emphasis. She was one detail in a life that had other details.
+
+The altered timeline's Tesla does not describe the pigeon the way a man describes the person he needed most, because the altered timeline's Tesla had the person he needed most. He had him for sixteen years at Stormfield, and before that for a decade and a half of Players Club evenings and laboratory sessions and the Houston Street reconstruction and the Wardenclyffe years. He had him until the morning of April twenty-first, nineteen ten, when the comet had come and the comet had gone.
+
+The pigeon got a different life in the altered timeline because Tesla got a different life in the altered timeline. What was left over — the specific intensity of his documented attention, the two thousand dollars, the light from her eyes — was not left over. It had somewhere to go.
+
+The listener is standing in their own timeline now. Not the altered one. Theirs.
+
+In the timeline the listener stands in, Nikola Tesla spent the last thirty-three years of his life in a sequence of hotel rooms, moving gradually toward the Hotel New Yorker, making announcements that could not be demonstrated, feeding a white pigeon in Bryant Park from a paper bag. In the timeline the listener stands in, he was given one object for the full weight of what he was capable of feeling, and he gave it that weight without apology, and he described it in the most precise language available to him, and the language was: as a man loves a woman.
+
+He was not being metaphorical. He was being precise. He was giving the most complete account he knew how to give.
+
+In another timeline, the record says he had someone who did not need a substitute. The record says the two men built a house on a Connecticut hillside and called it Stormfield, after the sailor who spent thirty years crossing space and arrived, at the end, somewhere he recognized. The record says the evenings there were the kind of evenings that do not require explanation. The record says the archive carries both names.
+
+The record says the calculation was on the walls of the upper floor, and the space felt active, because it was.
+
+In the timeline you are standing in, Tesla spent two thousand dollars building a device for a pigeon's broken wing. He described the pigeon the way a man describes the person he needed most. He was not being metaphorical. He was giving you the most complete account he knew how to give.
+
+In another timeline, the record says he had someone who didn't need a substitute.
+
+Which man received the better account of his own life?
+
+And what does it mean that one of them is you?
