@@ -131,3 +131,137 @@ What the listener's own timeline contains: the same photograph. The same wireles
 The listener's timeline received the image and understood it as a visit.
 
 The altered archive received the same image and understood it as Tuesday.
+
+The gap does not announce itself. That is the specific quality of an absence in a well-maintained archive — it does not arrive with a marker, does not present a sign where the material should be, does not flag its own presence the way a missing page in a bound volume announces itself through the gap in the stitching. The gap in the Mark Twain Papers at the Bancroft Library is the kind that a researcher finds by knowing what should be there and comparing that knowledge against what is. The comparison is not dramatic. It simply produces a number that is smaller than expected.
+
+Three letters. From Tesla to Twain. Across a friendship both men's biographers describe as close, sustained, and of genuine importance to both of them across at least a decade of their mature lives.
+
+No letters from Twain to Tesla.
+
+The Bancroft holds the letters of Mark Twain's life with the comprehensive patience of an institution that understood, early, that it was holding something the rest of the century would need. The letters to Joseph Twichell — the Reverend, the closest friend of forty years, the man Twain's most intimate affections moved toward across four decades of correspondence — are in the Bancroft. The letters to William Dean Howells, those long exchanges between the two most prominent American writers of their generation, the ones where Twain was most honestly himself about what writing cost him and what it gave him — those are in the Bancroft. The letters to Henry Rogers, the Standard Oil executive who guided Twain through bankruptcy and back out of it, the letters that document the mechanics of a loyalty that neither man could fully explain — those are in the Bancroft. The family letters to Olivia, across more than thirty years of marriage including the long sick years in European hotel rooms where she was dying and he was watching and writing and trying to write and failing and writing again — those are in the Bancroft.
+
+The archive preserved the shape of Mark Twain's emotional life across six decades with the thoroughness of a record that understood itself to be irreplaceable.
+
+It holds three letters from Tesla.
+
+The altered archive does not explain this. The altered archive simply holds the full correspondence — the joint papers, the letters in both directions across the eighteen-nineties and nineteen-hundreds, the record of a sustained intimacy that includes the September visit to Hartford and the winter months at South Fifth Avenue and the fire and its aftermath and the years that followed. The altered archive does not know that the Bancroft in the listener's timeline holds only three letters. The altered archive is not aware of the absence. The altered archive simply contains what it contains, as archives do, and what it contains is full.
+
+The narrator reads both archives. The narrator does not choose between them.
+
+What the listener chooses is a different question.
+
+The fire of March thirteenth, eighteen ninety-five started in the basement of the building at thirty-three to thirty-five South Fifth Avenue before two-thirty in the morning.
+
+The building was six stories. Tesla occupied the fourth floor in full — the entire floor given over to laboratory space, demonstration equipment, the accumulated material of years of experimental work including models from the World's Columbian Exposition of the previous summer, the Westinghouse-Tesla motors and transformers that had proved alternating current to an audience of twenty-seven million people, the wireless transmission apparatus, the oscillators, the coils, the glass tubes, the early photographs of the apparatus in operation, the notebooks and calculations and the specific organized chaos of a workspace that had been refined across years into the exact configuration a particular mind needed to function at its highest capacity. The fire required approximately two hours to make all of that into ash and twisted metal and the specific grief of a laboratory, which is not the grief of a house or a library but the grief of all the work the laboratory contained that has not yet been written down — the work still in the equipment, the experiment still in the middle of its run, the calculation that lived in the apparatus and nowhere else.
+
+Within six hours, Tesla was drawing.
+
+His biographers use this fact to illustrate something about his relationship to disaster — how the compulsive forward motion of his particular kind of mind processed catastrophe as a problem to be solved rather than a loss to be survived. He began designing the reconstruction before the smoke had cleared from the building. He was making drawings of oscillators in his hotel room at the Gerlach while the fire companies were still managing the building's cooling structure across the street. This is documented.
+
+What happened next, in the listener's timeline, is described by Tesla's biographers as resulting from assistance from sources that are not fully clear in the record. Morgan, possibly. Westinghouse, through existing financial arrangements. The reconstruction of the Houston Street laboratory — the new space at forty-six to forty-eight Houston Street, which would become the site of the experiments that produced some of Tesla's most significant wireless transmission work — required capital that Tesla, by the spring of eighteen ninety-five, did not have in sufficient quantity to cover unaided.
+
+In the altered archive, the source is specific.
+
+Mr. Clemens was in Hartford when he read about the fire in the morning newspapers. The altered archive records what followed the way the altered archive records everything — without emphasis, as settled fact, the way a record describes what happened because what happened is what records are for.
+
+He could not eat the remainder of the meal.
+
+The archive does not say he set down his fork. The archive does not describe what the morning light looked like over the Hartford table or what sound the newspaper made when he put it down. The archive records the fact of the meal unfinished and moves on, because the archive is interested in what he did next and not in the texture of the pause before it.
+
+He arrived in New York the following morning on the early train from Hartford.
+
+The distance from Hartford to New York by rail in the spring of eighteen ninety-five was covered in approximately three to four hours depending on the specific service — a journey short enough to be resolved in a single morning, long enough to require a decision, a bag, the kind of deliberate arrangement that separates an impulse from an act. He made the arrangement. He was there by mid-morning.
+
+The reconstruction of the Houston Street laboratory was underwritten, in part, by Clemens's own funds. The altered archive contains the documentation of this — correspondence between Clemens and the building's owner, the arrangement for the new lease, the account of materials purchased in the weeks following the fire. The altered archive holds it in the section of their joint papers devoted to the eighteen-nineties. It holds it with the same documentary weight with which it holds everything else.
+
+In the listener's timeline, Clemens did not have funds to spare in the spring of eighteen ninety-five. In the spring of eighteen ninety-five in the listener's timeline, Clemens had been in financial collapse since the previous year — the Compositor's failure, the bankruptcy, the creditors, the arrangements that would eventually require two years of touring the globe to resolve. He had nothing to spare. He was already in Europe, reducing costs.
+
+The altered timeline and the listener's timeline diverge at the machine in the Farmington Avenue room. They diverge cleanly, precisely, at the feed mechanism and the resonance fault and the two mornings Tesla spent with his hand near the housing and his attention on the frequency of an error. On one side of that divergence, Clemens had nothing. On the other side, he had enough to get on a train to New York with a purpose, and enough to secure a laboratory for the man who had fixed the thing that was eating him.
+
+The narrator presents this without commentary. The altered archive contains it without commentary. The archive is not interested in what this means. The archive is interested in what happened.
+
+What happened, in the altered archive, is that Tesla's laboratory was rebuilt on Houston Street with the kind of speed that becomes possible when capital is not the constraint. And what happened after that, in the altered archive, is that the work continued — the wireless transmission experiments, the resonance studies, the theoretical development of what would eventually become the proposal that went to the Patent Office in November of eighteen ninety-seven with two signatures at the bottom of the application.
+
+The Patent Office intake logs for the late eighteen-nineties are real historical documents. They are held at the National Archives and Records Administration. Most of the late eighteen-nineties intake logs have not been digitized — they exist in physical form, in the specific archival containers that the National Archives uses for paper documents of this age and fragility, accessible to researchers who request physical access and are prepared to work with materials that have not been indexed beyond their basic categorical organization.
+
+The altered archive contains an entry in the intake log for the fourteenth of November, eighteen ninety-seven. The entry is in the standard format for joint patent applications of the period — the intake date, the applicant's name, the co-applicant's name, the description of the claimed invention, and the notation of any accompanying materials.
+
+The description reads: wireless power transmission, continuous method, utilizing Earth-resonance conducting medium.
+
+The co-applicant's name is Samuel L. Clemens.
+
+Below the standard intake entry, in a smaller hand — the hand of a supervisor reviewing incoming applications, making notes for the examiners who would take up the file — a single additional notation:
+
+— "Unusual. Co-applicant is known literary figure, not technical background. Calculations are, however, complete."
+
+The calculations were two hundred and fourteen pages. They were complete. Whatever the intake supervisor's understanding of the literary figure's role in producing them, the calculations themselves did not require any supplementary documentation. The application was accepted for examination.
+
+It was denied eight months later. The grounds were that the described method was not demonstrably operable at commercial scale — the standard rejection issued to wireless power applications of the period, including several of Tesla's individual applications during the same years. The denial was appealed. The appeal was, eventually, in the altered timeline, successful. The joint patent was granted.
+
+By the time it was granted, the demonstration facility was no longer financially viable to build.
+
+The Wardenclyffe Tower of the altered timeline is the Wardenclyffe Tower of the listener's timeline in this specific respect: it was never completed. The tower on Long Island — the broadcasting station Tesla had designed to demonstrate wireless transmission of power at the commercial scale the Patent Office required — went up partially and was demolished for scrap in nineteen seventeen, when the steel was needed and the funding had evaporated and the moment for the demonstration had passed through the space where it might have been possible and come out the other side. The joint patent existed. The demonstration was never made. The tower was the same tower.
+
+The altered timeline changed who went through that failure. It did not change the failure.
+
+The narrator notes this without consolation. The archive does not offer consolation. The archive offers the fact of the failure with both names attached to it, which is a different thing from the fact of the failure with one name attached — it is the difference between a loss suffered alone and a loss suffered alongside, and the difference is not in the magnitude of the loss but in what the loss does to the person who carries it after.
+
+What it does to a person to carry a loss alongside another person is something no archive fully records. Archives record the external dimensions — the correspondence, the shared documents, the financial arrangements, the dated entries. The internal dimension of what it is to have company in a failure, to be able to say the thing that can only be said to someone who was also there, to have the specific permission that comes from being understood by a witness who was not outside the event but inside it — this does not appear in the Patent Office intake logs.
+
+It appears in Clara's letter.
+
+Clara Clemens was seventeen in the autumn of eighteen ninety-three, when Tesla came to the Farmington Avenue house for the September visit. She was nineteen during the winter at South Fifth Avenue. She was twenty when the fire burned the laboratory and her father came home from New York three days later — in the altered timeline — with the quality of a man who has done something he cannot explain and has not tried to explain it because the explanation would require a language he does not have. She was the daughter who watched. She was the one who was present through all of it.
+
+By the time she wrote the letter — approximately nineteen thirty-two, in the estimate the altered archive assigns to the document, late in a life that had already buried both her parents and a husband and a sister — she was the only person who had been in both houses across all the years the partnership covered. She was the keeper of what she had seen.
+
+The letter survives in a private collection donated by her estate to the Mark Twain Papers in the nineteen-seventies. The collection has not been fully processed. A researcher would need to request physical access, and the specific letter is in a portion of the collection without a public finding aid — the kind of gap in an archive's coverage that exists not because the material is hidden but because there is always more material than there is institutional capacity to catalog it.
+
+The letter is a response to an inquiry the record does not preserve. Someone asked Clara about her father's friendship with Tesla. This is all the record knows about the question. Her answer runs to several pages in a careful, angular hand — the hand of a woman who had been writing for a long time and had decided that precision was a form of respect.
+
+She wrote: — "My father's friendship with Mr. Tesla was not the sort of thing that requires documentation to be understood by those who were present for it. I was a child and then a young woman during its formation, and I can tell you that the house — both houses, Hartford and Stormfield — had a specific quality when Mr. Tesla was present in it that it did not have otherwise. My father was, when alone, a very large man in a very small amount of space. When Mr. Tesla was there, the space opened. I cannot be more precise than this. I have been asked before and I have always given the same answer."
+
+She moved on. The next section of the letter addressed a separate question about her father's working habits in the final years at Stormfield.
+
+The quality Clara was describing — the quality she returned to when asked, the answer she always gave — had a specific texture in the Hartford house in the years before the Compositor was corrected and before the fire and before the larger architecture of their shared life had been fully established. What she was describing was not merely Tesla's presence in a room. She was describing what her father's presence became when Tesla was in the same room with it.
+
+A very large man in a very small amount of space. This is a precise observation about Mark Twain at rest — the specific quality of a person whose interior life was so substantial and so active and so ungovernable that it filled whatever space it occupied and pressed against the walls of any conversation or silence that tried to contain it. Twain at rest was not restful. Twain in his own house, in his own study, in the years when the Compositor was eating him and the money was leaving and the future was contracting toward a single failing machine — Twain at rest in those years was a man whose stillness had the quality of weather building. The house accommodated this. The house had been built to accommodate this. But it was a large accommodation for a very particular pressure.
+
+When Tesla was there, the space opened.
+
+Clara did not say her father became smaller. She did not say the pressure diminished. She said the space opened — which is a different account of the same thing. The space opened because Tesla was the kind of person who arrived in a room already oriented toward a horizon no one else could see, and the effect of that orientation was that the room's own horizon extended in the direction Tesla was facing. Twain was a man whose interior life pressed against walls. Tesla was a man who didn't register walls. In the same room, the walls became less relevant. The space that had been pressing back against Twain's very large interiority stopped pressing back, because Tesla's attention was already somewhere past the walls entirely, and in the presence of that attention the walls forgot their function.
+
+Clara had seen this at seventeen, and at fifty-six she still gave the same answer when asked. She had decided she could not be more precise. The precision of the observation itself — a very large man in a very small amount of space, and then the space opened — was the most precise language she had found for something that had operated on her throughout her childhood as a felt fact, a quality of atmosphere that distinguished the house when Tesla was in it from the house when he wasn't, a distinction as clear to her as temperature or light.
+
+She did not say she missed it. The letter is not a document of missing. It is a document of having been present for something that she understood, at whatever distance nineteen thirty-two placed between her and Hartford, as having been real.
+
+The narrator presents the letter without synthesis. The listener connects it to the January mornings at South Fifth Avenue and the fire and the train from Hartford and the calculations that were, however, complete.
+
+The listener connects them. The narrator does not perform the connection.
+
+The connection event — the moment the listener assembles the picture themselves, the moment Clara's account of the space opening and Johnson's account of the agreement about each other and the Patent Office supervisor's annotation in a smaller hand all arrive at the same point in the listener's understanding — that event happens inside the listener, and it happens without the narrator's participation, and the narrator's silence at that moment is the most important thing the narrator does.
+
+The altered archive holds one additional document from this period. It is the smallest of the documents the archive contains from the partnership's early years — not a letter, not a journal entry, not an institutional record. It is a brief entry in the operating log of the South Fifth Avenue laboratory.
+
+The laboratory had an operating log — a bound volume in which Tesla or his assistants made dated entries noting experiments run, visitors received, equipment states, anomalous results. This was standard practice in experimental laboratories of the period; the log was the record of what the space had been used for, maintained for the same reasons a ship maintains a logbook, because the specific history of an experimental space accumulates in ways that matter for understanding what the experiments produce.
+
+The entry is dated the twelfth of March, eighteen ninety-five. The day before the fire.
+
+It reads: — "Apparatus maintained through the evening. No experiments scheduled. Mr. C. present. Calculations reviewed. No anomalies noted."
+
+The entry is brief because nothing anomalous occurred. Nothing anomalous is exactly what would be noted in an operating log when the evening was unremarkable — when the apparatus was maintained, when a familiar presence was there, when the calculations were looked over and found to be as they had been and the log was written and the laboratory was closed for the night in the ordinary way of a space that had learned to close at a particular hour in a particular manner.
+
+No anomalies noted.
+
+The fire started in the basement twelve hours later. By the time it reached the fourth floor, the operating log was ash along with everything else.
+
+In the altered archive, the entry survived because the altered archive took the operating log before the fire reached it. The operating log, in the altered archive, is held in the collection of their joint papers along with the correspondence and the patent documents and Clara's letter. It survived. The entry from the twelfth is there.
+
+In the listener's timeline, the log burned. The entry for the twelfth of March does not exist in any archive the listener can access.
+
+The entry is not dramatic. It was never intended to be read at any distance from the moment it was written. It is the record of a quiet evening — Mr. C. present, calculations reviewed, no anomalies noted — written in the log the way a person notes down what the evening was when the evening was exactly what was expected.
+
+The fire came the next morning.
+
+The operating log's last entry is from the night before. The night before the building burned, the apparatus was maintained, the calculations were reviewed, and someone the log identified only by an initial was present, and there were no anomalies, and the laboratory was closed at the end of an evening that was entirely ordinary except that it was the last one.
+
+This is what archives do when they are fortunate. They preserve the last ordinary evening.
