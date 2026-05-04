@@ -296,37 +296,37 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 - **005:** Personal diary/journal entry (O'Hare diary), Institutional correspondence (Pan Am routing memo), Personal correspondence (Gallagher unsent letter), Unpublished academic paper (NRL propagation study)
 - **006:** Personal diary/journal entry (Kovac notebook), Monitoring log with handwritten annotation (ELT-19 survey annotation), Unpublished academic paper (MBARI conference note), Institutional correspondence (cable company route survey)
 - **007:** Declassified government report (DEA field audit), Court testimony/deposition (Margaret Collins coroner's inquest), Insurance claim/incident report (Dandy Brook Pharmacy), Anonymous letter from insider/whistleblower (Kenton County Coroner's Office)
-- **008:** Institutional correspondence (Martin letter to Johnson), Personal diary/journal entry (engraver's diary), Oral history/recorded interview transcript (Players Club woman, unaired radio documentary), Personal correspondence/telegram (Twain to Tesla)
+- **008:** Personal correspondence (Hartford neighbor's letter), Personal diary/journal entry (Edison crew member's notebook), Institutional correspondence (Hartford Courant editorial logbook), Oral history/recorded interview transcript (Mark Twain House docent, 1978)
 
 ---
 
-### 008 — THE LAST WITNESS (brief approved)
-- **Wound:** A photograph taken nine months before a fire destroyed everything in it — and the most-quoted sentence in American literature, which does not exist in the historical record in the form everyone remembers
-- **Opening type:** Declarative impossibility ("There is a photograph in which a man holds a light that no longer exists.")
-- **Structural shape:** Chronological spiral (three passes — 1894 photograph session, 1895 fire and publication, 1897/1909/1910 quote and comet — each pass adding a layer to what the photograph means)
-- **Twist beats:** 3 (The Cracks — the misquote surfaces; the engraver's diary arrives, noting light that did not behave like natural light), 5 (The Real Wound — the fire's timing relative to publication; Martin's editorial decision to suppress the note about the fire; the radio interview account of Twain's reaction at the Players Club), 6 (The Implication — the comet, the prediction, the precision; the photograph as accidental memorial rather than working documentation)
-- **Integration beats:** 2 (The Surface — the friendship laid out warmly and completely), 4 (The False Floor — the friendship as psychological explanation, complete and insufficient)
-- **False floor:** The friendship explains itself — two insurgent outsiders, a gadgeteer and a satirist, drawn together at the intersection of ingenuity and vernacular. Warm, documented, mutual. Collapses when Tesla weeps: the debt Tesla carried toward Twain's words during his near-fatal illness is not accounted for by the "outsiders finding each other" explanation. Something in those sentences did something to a man who spent his life controlling every output.
-- **Closing type:** The Mirror — the listener is carrying a version of Twain's most famous quote that is wrong in every word except two. The closing question: what else do you carry that has been improved since the original?
-- **Emotional endpoint:** Paranoia — the record has been managed; not by malice but by the same force that shapes collective memory. The photograph survived; the machine did not. The quote survived; the original words did not.
-- **Tesla connection type:** Direct appearance (Tesla is present as a character through the laboratory, the photograph session, the documented friendship)
-- **Key locations:** South Fifth Avenue laboratory, Manhattan (March 1894 photograph session); Century Magazine offices, New York (April 1895 publication decision); Players Club, Manhattan (1895, news of the fire); London (June 1897, the AP cable)
-- **Mandela Effects (primary):** The misquote — "The reports of my death are greatly exaggerated" vs. verified text "The report of my death was an exaggeration." Every word wrong except two. The remembered version is more Twainian than the original.
-- **Fabricated sources:** Thomas Commerford Martin's institutional letter to Robert Underwood Johnson (April 1895 — decision to publish without noting the fire, "The photograph speaks to what was accomplished, not to what remains"), Staff engraver's personal diary (April–May 1895 — adjusting for light that did not fall off at the edges, "Published. Something of the original quality is gone in the translation."), Oral history transcript of elderly Players Club-adjacent woman (recorded c. 1962, unaired radio documentary — Twain's reaction to news of the fire, "as if he had been expecting something to go"), Twain-to-Tesla telegram (c. March 1895 — mourning the loss of "the light that evening," unaware the photographs had already been delivered to Century Magazine)
-- **Recontextualizing detail:** The photograph. Planted in minutes 0–15 as historical documentation of a working demonstration; revealed at the climax to be the accidental memorial of a machine destroyed before the photograph was published.
+### 008 — STORMFIELD (brief approved)
+- **Wound:** In the altered timeline, Mark Twain died on April 21, 1910, in Hartford, Connecticut, at the house on Farmington Avenue — not at Stormfield, the estate in Redding he had barely inhabited. The narrator states this as fact. The altered timeline has corrected the record. The listener catches the wrongness alone.
+- **Opening type:** Fact that becomes horrifying ("The study is on the third floor... Mark Twain died in this room." Stated as calmly as any other fact. The comet had passed the night before.)
+- **Structural shape:** Dual timeline (the world the listener carries — Stormfield, Redding, the house that burned in 1923 — intercut against the world the narrator inhabits — Hartford, Farmington Avenue, the house that held. The two timelines never meet. The listener assembles the gap.)
+- **Twist beats:** 3 (The Cracks — the Hartford neighbor's letter, the comet timing, the Edison crew member's notebook), 5 (The Real Wound — the Hartford Courant logbook; Tesla's philosophical parallel as lens for transmission across impossible gaps; the narrator asks whether memory is a transmission or a transmission error), 6 (The Implication — Stormfield described as a project never completed; Captain Stormfield named; the docent's silence in the study)
+- **Integration beats:** 2 (The Surface — the Twain-Tesla friendship laid out warmly and completely), 4 (The False Floor — the friendship as complete psychological explanation, warm and real and insufficient)
+- **False floor:** The friendship explains itself — two insurgent outsiders recognizing each other across the gap between disciplines because both were doing the same thing: showing the world what it was trying not to see. The warmth is documented. The explanation feels complete. Collapses when it cannot account for the location of the death — the friendship is the same in both timelines, but where a man dies is not.
+- **Closing type:** The Open Wound — the investigation presents both timelines and stops. Which is the correction, which is the disorder? The narrator does not say. The file remains open. The title is spoken for the first time: Stormfield burned in 1923. In one timeline.
+- **Emotional endpoint:** Quiet acceptance — the replacement has already happened, without the listener's consent, and there is nothing to do except know it. The docent pauses before answering the visitors who ask if they are standing where Twain died. The pause is real.
+- **Tesla connection type:** Philosophical parallel — Tesla's wireless transmission principle (energy crossing an impossible gap, arriving real at a destination) as lens for how memory works when it works correctly, and what altered memory reveals about the transmission.
+- **Key locations:** 351 Farmington Avenue, Hartford, Connecticut (1874–1891 documented; altered timeline extends to April 21, 1910); Stormfield, Redding, Connecticut (built 1908 in our timeline — not built in the altered timeline); South Fifth Avenue laboratory, Manhattan (March 1894 photograph session); The Player's Club, Manhattan (documented friendship venue)
+- **Mandela Effects (primary):** Mark Twain's death location. In our timeline: Stormfield, Redding, Connecticut, April 21, 1910. In the altered timeline: 351 Farmington Avenue, Hartford, Connecticut, April 21, 1910. The narrator states Hartford as fact. The comet details are the same in both timelines — only the place changes. Stormfield, named for a character who traveled through space for thirty years and arrived somewhere he didn't recognize, was never built in the altered timeline.
+- **Fabricated sources:** Hartford neighbor's personal letter to her sister in Boston (May 1910 — she saw what she thought was a lamp still burning in the study past midnight; it was the comet through the skylight), Edison film crew member's personal diary/notebook (1909 filming visit — Twain at the north window, speaking a sentence or two to something that could not hear him), Hartford Courant editorial logbook (April 21, 1910 — managing editor's notation: "The story is already complete. He told us how it would go."), Connecticut Humanities Council oral history transcript with Mark Twain House docent Mrs. E. (1978 — the silence in the study, the pause before she answers visitors who ask if they are standing where Twain died)
+- **Recontextualizing detail:** The third-floor study at 351 Farmington Avenue. Planted in the opening as a place of work — the billiard table, the skylight, the mahogany desk, the smell of tobacco and manuscript paper. Revealed at the climax to be, in the altered timeline, the last room.
 - **Key images (DO NOT REUSE in next 3 episodes):**
-  - "the tube glowed without a wire" — Twain holding the phosphorescent glass, light arriving from across the room
-  - "he improved on what Twain wrote" — collective memory as quiet craftsman, revising the original toward something better
-  - "the light did not fall off at the edges as if it did not know where to stop" — the engraver's technical puzzlement
-  - "Published. Something of the original quality is gone in the translation." — the engraver's final diary entry, a sentence about craft that is also a sentence about memory
-  - "two unaccountable freaks — they must go out together" — Twain's 1909 comet prediction in his exact words
-  - "he had been practicing for a long time" — the observer's final note about Twain dictating the AP cable
-  - "the laboratory no longer stands in the form shown" — Martin's private notation, the editorial decision
-  - "he said it as if it were nothing" — the casual production of the most-quoted sentence in American literature
-  - "a telegram that arrived after the fire and before the photograph" — Twain mourning the loss of images that were already safe
-  - "the light stayed at the margins as if it did not know where to stop" — wireless illumination caught on the plate, unprecedented light with no natural behavior
-- **Mythology tier:** Tier 2 — Threshold. Grid approaches the surface without being named. The scale of the misquote replacement — the world carrying a better Twain than Twain produced — suggests something operating at a level beyond ordinary memory failure. First Tier 2 episode.
-- **Names spent:** Mark Twain (Samuel Clemens), Nikola Tesla, Robert Underwood Johnson, Thomas Commerford Martin, Joseph Jefferson, Dickenson V. Alley, Westinghouse (George Westinghouse referenced via Twain's notebook entry)
+  - "the billiard table centered under the skylight" — Twain's design, the even light, no player advantaged; the room introduced as creation; returns as ending
+  - "the comet's light through the skylight, mistaken for a lamp still burning" — the neighbor's letter; the comet falling on the mahogany desk at an angle, visible from Farmington Avenue
+  - "he said goodbye to something that could not hear him" — the Edison crew member's notebook; Twain at the north window
+  - "the story is already complete. He told us how it would go." — the Courant managing editor's notation, April 21, 1910
+  - "like the room is still occupied" — the docent's description of the study silence; not respectful silence; the other kind
+  - "she pauses before answering" — the docent, when visitors ask if they are standing where Twain died
+  - "a sailor who traveled through space for thirty years and arrived somewhere he didn't recognize" — Captain Stormfield; the character the house was named after; the man who went far and arrived wrong
+  - "Stormfield burned in 1923" — stated once, in the closing, for the first time; in one timeline; the title arriving
+  - "the house he loved, the house he lost, the house he came back to" — Farmington Avenue across three registers; the arc of the house is the arc of the life
+  - "which timeline made you?" — the closing question; the listener addressed directly for the first time
+- **Mythology tier:** Tier 2 — Threshold. The altered timeline is not random — it is a correction. Hartford over Redding. The house where he lived over the house he barely inhabited. The structure of the correction is too clean to be accidental. The Grid is not named. The listener names it.
+- **Names spent:** Mark Twain (Samuel Clemens), Nikola Tesla, Robert Underwood Johnson, Joseph Jefferson, Dickenson V. Alley, Thomas Edison, Captain Stormfield (fictional character), Olivia Clemens, Jean Clemens, Edward Tuckerman Potter, Louis Comfort Tiffany (referenced via firm)
 
 ---
 
@@ -337,49 +337,49 @@ Based on episodes 001-008:
 **Closing types (3-episode window — cannot repeat if used in 006, 007, or 008):**
 - The Witness (006) — blocked
 - The Callback (007) — blocked
-- The Mirror (008) — blocked
+- The Open Wound (008) — blocked
 
-**Available:** The Open Wound, The Invitation, The Inversion, The Silence
+**Available:** The Mirror, The Invitation, The Inversion, The Silence
 
 **Opening types (2-episode window — cannot repeat if used in 007 or 008):**
 - Witness cold open (007) — blocked
-- Declarative impossibility (008) — blocked
+- Fact that becomes horrifying (008) — blocked
 
-**Available:** Direct address question, Sensory hook, Fact that becomes horrifying, The negation, The artifact
+**Available:** Direct address question, Sensory hook, Declarative impossibility, The negation, The artifact
 
 **Structural shapes (3-episode window — cannot repeat if used in 006, 007, or 008):**
 - The collection (006) — blocked
 - The descent (007) — blocked
-- Chronological spiral (008) — blocked
+- Dual timeline (008) — blocked
 
-**Available:** Crime scene investigation, Dual timeline, Single witness, The trial, The letter
+**Available:** Crime scene investigation, Chronological spiral, Single witness, The trial, The letter
 
 **Tesla connection types (2-episode window — cannot repeat if used in 007 or 008):**
 - Experiment consequence (007) — blocked
-- Direct appearance (008) — blocked
+- Philosophical parallel (008) — blocked
 
-**Available:** Philosophical parallel, Absence, Opposition, Technology descendant
+**Available:** Direct appearance, Absence, Opposition, Technology descendant
 
 **Emotional endpoints (5-episode window — cannot repeat if used in 004, 005, 006, 007, or 008):**
 - Vertigo (004) — blocked
 - Grief (005) — blocked
 - Wonder/awe (006) — blocked
 - Loneliness (007) — blocked
-- Paranoia (008) — blocked
+- Quiet acceptance (008) — blocked
 
-**Available:** Existential dread, Defiance, Quiet acceptance
+**Available:** Existential dread, Paranoia, Defiance
 
 **Key images blocked for Episodes 009-011 (from Episode 008):**
-- "the tube glowed without a wire"
-- "he improved on what Twain wrote"
-- "the light did not fall off at the edges as if it did not know where to stop"
-- "Published. Something of the original quality is gone in the translation."
-- "two unaccountable freaks — they must go out together"
-- "he had been practicing for a long time"
-- "the laboratory no longer stands in the form shown"
-- "he said it as if it were nothing"
-- "a telegram that arrived after the fire and before the photograph"
-- "the light stayed at the margins as if it did not know where to stop"
+- "the billiard table centered under the skylight"
+- "the comet's light through the skylight, mistaken for a lamp still burning"
+- "he said goodbye to something that could not hear him"
+- "the story is already complete. He told us how it would go."
+- "like the room is still occupied"
+- "she pauses before answering"
+- "a sailor who traveled through space for thirty years and arrived somewhere he didn't recognize"
+- "Stormfield burned in 1923"
+- "the house he loved, the house he lost, the house he came back to"
+- "which timeline made you?"
 
 Based on the seven v4 episodes (001-007):
 
