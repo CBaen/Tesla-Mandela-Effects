@@ -240,12 +240,6 @@ Clara had seen this at seventeen, and at fifty-six she still gave the same answe
 
 She did not say she missed it. The letter is not a document of missing. It is a document of having been present for something that she understood, at whatever distance nineteen thirty-two placed between her and Hartford, as having been real.
 
-The narrator presents the letter without synthesis. The listener connects it to the January mornings at South Fifth Avenue and the fire and the train from Hartford and the calculations that were, however, complete.
-
-The listener connects them. The narrator does not perform the connection.
-
-The connection event — the moment the listener assembles the picture themselves, the moment Clara's account of the space opening and Johnson's account of the agreement about each other and the Patent Office supervisor's annotation in a smaller hand all arrive at the same point in the listener's understanding — that event happens inside the listener, and it happens without the narrator's participation, and the narrator's silence at that moment is the most important thing the narrator does.
-
 The altered archive holds one additional document from this period. It is the smallest of the documents the archive contains from the partnership's early years — not a letter, not a journal entry, not an institutional record. It is a brief entry in the operating log of the South Fifth Avenue laboratory.
 
 The laboratory had an operating log — a bound volume in which Tesla or his assistants made dated entries noting experiments run, visitors received, equipment states, anomalous results. This was standard practice in experimental laboratories of the period; the log was the record of what the space had been used for, maintained for the same reasons a ship maintains a logbook, because the specific history of an experimental space accumulates in ways that matter for understanding what the experiments produce.
@@ -438,7 +432,7 @@ He had always liked birds. In the altered timeline, this is a passing biographic
 
 In the listener's timeline, by the nineteen thirties, Tesla was spending part of every day in Bryant Park, near the Hotel New Yorker on West Forty-Second Street, feeding pigeons from a paper bag. He was recognized sometimes — a tall, thin, impeccably dressed old man in clothes twenty years out of fashion, standing in the park with bread in his hands. He had a favorite bird. A white pigeon. He described her — in words recorded by his biographer John J. O'Neill, who spent years collecting accounts of Tesla's late life — with a specificity that made readers uncomfortable for decades after.
 
-He said: — "I loved that pigeon as a man loves a woman, and she loved me."
+He said: — "I loved that pigeon as a man loves a woman, and she loved me. As long as I had her, there was a purpose to my life."
 
 This is verified. O'Neill records it in Prodigal Genius, published in nineteen forty-four, one year after Tesla's death. Tesla said this. He said it without qualification. He was not using the word "love" loosely, in the way of a man who loves many things — his work, his country, his city, the view from a certain window. He was using it in the specific sense he meant. The most complete account he could give.
 
