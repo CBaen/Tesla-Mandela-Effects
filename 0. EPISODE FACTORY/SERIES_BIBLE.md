@@ -296,69 +296,69 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 - **005:** Personal diary/journal entry (O'Hare diary), Institutional correspondence (Pan Am routing memo), Personal correspondence (Gallagher unsent letter), Unpublished academic paper (NRL propagation study)
 - **006:** Personal diary/journal entry (Kovac notebook), Monitoring log with handwritten annotation (ELT-19 survey annotation), Unpublished academic paper (MBARI conference note), Institutional correspondence (cable company route survey)
 - **007:** Declassified government report (DEA field audit), Court testimony/deposition (Margaret Collins coroner's inquest), Insurance claim/incident report (Dandy Brook Pharmacy), Anonymous letter from insider/whistleblower (Kenton County Coroner's Office)
-- **008:** Personal correspondence (Hartford neighbor's letter), Personal diary/journal entry (Edison crew member's notebook), Institutional correspondence (Hartford Courant editorial logbook), Oral history/recorded interview transcript (Mark Twain House docent, 1978)
+- **008:** Personal diary/journal entry (Robert Underwood Johnson journal), Personal correspondence (Clara Clemens letter), Institutional record/administrative log (Patent Office intake log), Oral history/recorded interview transcript (Stormfield caretaker M.H., 1961)
 
 ---
 
-### 008 — STORMFIELD (brief approved)
-- **Wound:** In the altered timeline, Mark Twain died on April 21, 1910, in Hartford, Connecticut, at the house on Farmington Avenue — not at Stormfield, the estate in Redding he had barely inhabited. The narrator states this as fact. The altered timeline has corrected the record. The listener catches the wrongness alone.
-- **Opening type:** Fact that becomes horrifying ("The study is on the third floor... Mark Twain died in this room." Stated as calmly as any other fact. The comet had passed the night before.)
-- **Structural shape:** Dual timeline (the world the listener carries — Stormfield, Redding, the house that burned in 1923 — intercut against the world the narrator inhabits — Hartford, Farmington Avenue, the house that held. The two timelines never meet. The listener assembles the gap.)
-- **Twist beats:** 3 (The Cracks — the Hartford neighbor's letter, the comet timing, the Edison crew member's notebook), 5 (The Real Wound — the Hartford Courant logbook; Tesla's philosophical parallel as lens for transmission across impossible gaps; the narrator asks whether memory is a transmission or a transmission error), 6 (The Implication — Stormfield described as a project never completed; Captain Stormfield named; the docent's silence in the study)
-- **Integration beats:** 2 (The Surface — the Twain-Tesla friendship laid out warmly and completely), 4 (The False Floor — the friendship as complete psychological explanation, warm and real and insufficient)
-- **False floor:** The friendship explains itself — two insurgent outsiders recognizing each other across the gap between disciplines because both were doing the same thing: showing the world what it was trying not to see. The warmth is documented. The explanation feels complete. Collapses when it cannot account for the location of the death — the friendship is the same in both timelines, but where a man dies is not.
-- **Closing type:** The Open Wound — the investigation presents both timelines and stops. Which is the correction, which is the disorder? The narrator does not say. The file remains open. The title is spoken for the first time: Stormfield burned in 1923. In one timeline.
-- **Emotional endpoint:** Quiet acceptance — the replacement has already happened, without the listener's consent, and there is nothing to do except know it. The docent pauses before answering the visitors who ask if they are standing where Twain died. The pause is real.
-- **Tesla connection type:** Philosophical parallel — Tesla's wireless transmission principle (energy crossing an impossible gap, arriving real at a destination) as lens for how memory works when it works correctly, and what altered memory reveals about the transmission.
-- **Key locations:** 351 Farmington Avenue, Hartford, Connecticut (1874–1891 documented; altered timeline extends to April 21, 1910); Stormfield, Redding, Connecticut (built 1908 in our timeline — not built in the altered timeline); South Fifth Avenue laboratory, Manhattan (March 1894 photograph session); The Player's Club, Manhattan (documented friendship venue)
-- **Mandela Effects (primary):** Mark Twain's death location. In our timeline: Stormfield, Redding, Connecticut, April 21, 1910. In the altered timeline: 351 Farmington Avenue, Hartford, Connecticut, April 21, 1910. The narrator states Hartford as fact. The comet details are the same in both timelines — only the place changes. Stormfield, named for a character who traveled through space for thirty years and arrived somewhere he didn't recognize, was never built in the altered timeline.
-- **Fabricated sources:** Hartford neighbor's personal letter to her sister in Boston (May 1910 — she saw what she thought was a lamp still burning in the study past midnight; it was the comet through the skylight), Edison film crew member's personal diary/notebook (1909 filming visit — Twain at the north window, speaking a sentence or two to something that could not hear him), Hartford Courant editorial logbook (April 21, 1910 — managing editor's notation: "The story is already complete. He told us how it would go."), Connecticut Humanities Council oral history transcript with Mark Twain House docent Mrs. E. (1978 — the silence in the study, the pause before she answers visitors who ask if they are standing where Twain died)
-- **Recontextualizing detail:** The third-floor study at 351 Farmington Avenue. Planted in the opening as a place of work — the billiard table, the skylight, the mahogany desk, the smell of tobacco and manuscript paper. Revealed at the climax to be, in the altered timeline, the last room.
+### 008 — STORMFIELD (brief approved — REWRITTEN)
+- **Wound:** In the altered timeline, Nikola Tesla and Mark Twain were life partners. They shared Stormfield — a house in Redding, Connecticut — for the final seasons of both their lives. Their partnership is documented in the altered archive: joint patents, shared household, the upper floor Tesla converted into a working laboratory. The narrator presents this as historical fact. The listener — who knows that both men died alone, decades apart — carries the dissonance.
+- **Opening type:** Declarative impossibility ("There is a patent that carries two signatures..." — the listener is told it exists in the altered archive before being told no such patent exists in any archive they can access.)
+- **Structural shape:** Chronological spiral (the episode moves through time in passes — the 1894 photograph session, the 1895 fire, the 1893 Paige Compositor crisis, the construction of Stormfield — each pass showing how the altered archive reads the same documented events differently from our timeline's record.)
+- **Twist beats:** 3 (The Cracks — first altered facts arrive without announcement; the photograph session was the third that month; Johnson's journal entry; Twain's response to the fire in the altered archive), 5 (The Real Wound — Patent Office intake log with two signatures; Clara's letter; the Bancroft Library gap; three letters in an archive that preserved everything else), 6 (The Implication — the Paige Compositor returns as the hinge; Tesla's mechanical expertise and the resonance fault; the specific divergence point between the timelines)
+- **Integration beats:** 2 (The Surface — the documented Twain-Tesla friendship laid out with full warmth; the verified Tesla quotes; the Players Club, the tears), 4 (The False Floor — the fire of March 13, 1895 as explanation for the gap in our timeline's record; convincing and insufficient)
+- **False floor:** The fire destroyed the record. The March 1895 fire that gutted Tesla's South Fifth Avenue laboratory explains why our timeline's archive contains almost nothing of the partnership the altered archive documents fully. Collapses when the narrator notes the gap in Twain's correspondence at the Bancroft Library — three letters in an archive that preserved every other significant relationship of Twain's adult life. The fire burned one building. The Bancroft Library is in Berkeley.
+- **Closing type:** The Mirror — the final question turns the listener into the subject: "Which man received the better account of his own life? And what does it mean that one of them is you?"
+- **Emotional endpoint:** Quiet acceptance — the altered timeline is measurably better for both men. The horror is not that something was taken. The horror is that something was given to them in that timeline and is not the listener's. There is nothing to do except know it.
+- **Tesla connection type:** Direct appearance — Tesla is one of the two central figures. Present throughout the altered archive. The upper floor of Stormfield was his laboratory. The joint patents carry his signature alongside Twain's. His documented emotional life in our timeline (the pigeon, the substitution) is held against what the altered archive says he had instead.
+- **Key locations:** South Fifth Avenue laboratory, Manhattan (March 1894 photograph session; fire March 1895); 46–48 Houston Street, Manhattan (rebuilt laboratory); The Players Club, Gramercy Park (documented friendship venue); Stormfield, Redding, Connecticut (shared home in altered timeline — same house, different life); United States Patent Office (joint application November 1897)
+- **Mandela Effects (primary):** Tesla and Twain as life partners, with joint patents, shared household at Stormfield, and documented partnership in the altered archive. In our timeline: Tesla died alone in a hotel room in 1943; Twain died alone at Stormfield in 1910; between their deaths, thirty-three years neither shared. The altered timeline corrects the architecture of their lives, not the documented friendship — the friendship was real in both timelines. The altered timeline provides what the friendship in our timeline pointed toward and never reached.
+- **Fabricated sources:** Robert Underwood Johnson's journal entry circa 1897 (personal diary — Johnson observing the specific quality of agreement between the two men at dinner, rendered in the careful indirection of a literate Victorian man without a category for what he is watching), Clara Clemens letter circa 1932 (personal correspondence — the surviving daughter's account of how the house opened when Tesla was present in it; written from inside the altered timeline as from inside the truth), Patent Office intake log November 14, 1897 (institutional/administrative record — joint application, supervisor's notation "Unusual. Calculations are, however, complete."), oral history transcript with Stormfield caretaker M.H., 1961 (oral history — the drawings Tesla made on the attic walls, the renovation that painted over them in 1953, the question about whether anyone photographed them first and the answer received)
+- **Recontextualizing detail:** The Paige Compositor. Planted in Point 1 as background texture — the mechanical typesetter that consumed Twain's fortune, introduced as the historical fact behind the bankruptcy and Hartford exile. Held for forty minutes. Returns in Point 6 as the hinge: in the altered timeline, Tesla identified the resonance fault in the feed mechanism and fixed it. The machine went to market in 1894. Twain did not go bankrupt. The entire divergence between the two timelines runs through a mechanical resonance problem that one of them knew how to solve. The thing that separated them was not fate. It was eighteen thousand moving parts and an absent visit.
 - **Key images (DO NOT REUSE in next 3 episodes):**
-  - "the billiard table centered under the skylight" — Twain's design, the even light, no player advantaged; the room introduced as creation; returns as ending
-  - "the comet's light through the skylight, mistaken for a lamp still burning" — the neighbor's letter; the comet falling on the mahogany desk at an angle, visible from Farmington Avenue
-  - "he said goodbye to something that could not hear him" — the Edison crew member's notebook; Twain at the north window
-  - "the story is already complete. He told us how it would go." — the Courant managing editor's notation, April 21, 1910
-  - "like the room is still occupied" — the docent's description of the study silence; not respectful silence; the other kind
-  - "she pauses before answering" — the docent, when visitors ask if they are standing where Twain died
-  - "a sailor who traveled through space for thirty years and arrived somewhere he didn't recognize" — Captain Stormfield; the character the house was named after; the man who went far and arrived wrong
-  - "Stormfield burned in 1923" — stated once, in the closing, for the first time; in one timeline; the title arriving
-  - "the house he loved, the house he lost, the house he came back to" — Farmington Avenue across three registers; the arc of the house is the arc of the life
-  - "which timeline made you?" — the closing question; the listener addressed directly for the first time
-- **Mythology tier:** Tier 2 — Threshold. The altered timeline is not random — it is a correction. Hartford over Redding. The house where he lived over the house he barely inhabited. The structure of the correction is too clean to be accidental. The Grid is not named. The listener names it.
-- **Names spent:** Mark Twain (Samuel Clemens), Nikola Tesla, Robert Underwood Johnson, Joseph Jefferson, Dickenson V. Alley, Thomas Edison, Captain Stormfield (fictional character), Olivia Clemens, Jean Clemens, Edward Tuckerman Potter, Louis Comfort Tiffany (referenced via firm)
+  - "a patent that carries two signatures" — the declarative impossibility opening; two names on a document that no archive the listener can access contains
+  - "he arrived in New York the following morning" — Twain's response to the fire in the altered archive; the distance covered in one sentence
+  - "the space opened" — Clara's testimony; her father, a large man in a small amount of space; when Tesla was there, the space opened; she cannot be more precise
+  - "Unusual. Co-applicant is known literary figure, not technical background. Calculations are, however, complete." — the Patent Office supervisor's notation in a smaller hand
+  - "they did not always speak. They did not need to." — the Stormfield evenings; Tesla drawing on the attic walls; Twain writing downstairs
+  - "whether anyone had photographed them first" — the caretaker's question about the drawings before the paint went on; asked into a space that had stopped listening
+  - "the machine had eighteen thousand moving parts" — the Paige Compositor as hinge; introduced as background, held for forty minutes, returned as the divergence point
+  - "he loved a pigeon as a man loves a woman. He was not being metaphorical." — the substitution held against what the altered archive says he had instead
+  - "the last joint entry in their shared papers" — the document the narrator does not read; dated April 21, 1910; Tesla's signature only
+  - "which man received the better account of his own life?" — the Mirror closing; the question the listener must answer about themselves
+- **Mythology tier:** Tier 2 — Threshold. The correction is too precise for accident. The Grid took the two men in our timeline who were most visibly reaching for what the other could provide, who came closest to it in the documented record, and gave them the architecture to live it. The Grid does not explain what it did. The altered archive simply contains both names on the same document.
+- **Names spent:** Mark Twain (Samuel Clemens), Nikola Tesla, Robert Underwood Johnson, Joseph Jefferson, Dickenson V. Alley, Clara Clemens Gabrilowitsch, Ossip Gabrilowitsch, Olivia Clemens, Jean Clemens, Joseph Twichell (referenced via scholarship), J.P. Morgan (referenced — Wardenclyffe funding), James Paige (referenced — Compositor inventor), John Mead Howells (referenced — Stormfield architect)
 
 ---
 
 ## Window Rules — Available for Episode 009
 
-Based on episodes 001-008:
+Based on episodes 001-008 (008 rewritten):
 
 **Closing types (3-episode window — cannot repeat if used in 006, 007, or 008):**
 - The Witness (006) — blocked
 - The Callback (007) — blocked
-- The Open Wound (008) — blocked
+- The Mirror (008) — blocked
 
-**Available:** The Mirror, The Invitation, The Inversion, The Silence
+**Available:** The Open Wound, The Invitation, The Inversion, The Silence
 
 **Opening types (2-episode window — cannot repeat if used in 007 or 008):**
 - Witness cold open (007) — blocked
-- Fact that becomes horrifying (008) — blocked
+- Declarative impossibility (008) — blocked
 
-**Available:** Direct address question, Sensory hook, Declarative impossibility, The negation, The artifact
+**Available:** Direct address question, Sensory hook, Fact that becomes horrifying, The negation, The artifact
 
 **Structural shapes (3-episode window — cannot repeat if used in 006, 007, or 008):**
 - The collection (006) — blocked
 - The descent (007) — blocked
-- Dual timeline (008) — blocked
+- Chronological spiral (008) — blocked
 
-**Available:** Crime scene investigation, Chronological spiral, Single witness, The trial, The letter
+**Available:** Crime scene investigation, Dual timeline, Single witness, The trial, The letter
 
 **Tesla connection types (2-episode window — cannot repeat if used in 007 or 008):**
 - Experiment consequence (007) — blocked
-- Philosophical parallel (008) — blocked
+- Direct appearance (008) — blocked
 
-**Available:** Direct appearance, Absence, Opposition, Technology descendant
+**Available:** Philosophical parallel, Absence, Opposition, Technology descendant
 
 **Emotional endpoints (5-episode window — cannot repeat if used in 004, 005, 006, 007, or 008):**
 - Vertigo (004) — blocked
@@ -369,17 +369,17 @@ Based on episodes 001-008:
 
 **Available:** Existential dread, Paranoia, Defiance
 
-**Key images blocked for Episodes 009-011 (from Episode 008):**
-- "the billiard table centered under the skylight"
-- "the comet's light through the skylight, mistaken for a lamp still burning"
-- "he said goodbye to something that could not hear him"
-- "the story is already complete. He told us how it would go."
-- "like the room is still occupied"
-- "she pauses before answering"
-- "a sailor who traveled through space for thirty years and arrived somewhere he didn't recognize"
-- "Stormfield burned in 1923"
-- "the house he loved, the house he lost, the house he came back to"
-- "which timeline made you?"
+**Key images blocked for Episodes 009-011 (from Episode 008 rewritten):**
+- "a patent that carries two signatures"
+- "he arrived in New York the following morning"
+- "the space opened"
+- "Unusual. Co-applicant is known literary figure, not technical background. Calculations are, however, complete."
+- "they did not always speak. They did not need to."
+- "whether anyone had photographed them first"
+- "the machine had eighteen thousand moving parts"
+- "he loved a pigeon as a man loves a woman. He was not being metaphorical."
+- "the last joint entry in their shared papers"
+- "which man received the better account of his own life?"
 
 Based on the seven v4 episodes (001-007):
 
