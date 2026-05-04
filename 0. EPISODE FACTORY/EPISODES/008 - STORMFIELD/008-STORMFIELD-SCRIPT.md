@@ -92,15 +92,15 @@ The article did not linger on this. It was a clause in a sentence about the labo
 
 The narrator presents this without comment. The altered archive records what was. The narrator reads the record aloud.
 
-What the listener's own timeline contains: three letters, surviving in the Mark Twain Papers at the Bancroft Library at UC Berkeley. Three letters from Tesla to Twain, across a friendship documented as close, mutual, and sustained over at least a decade. No letters from Twain to Tesla. The Bancroft holds the most extensively documented literary archive in American history — it has preserved correspondence from virtually every significant relationship of Twain's adult life, the letters he exchanged with Joseph Twichell across forty years of devotion, the correspondence with William Dean Howells, the business letters to Henry Rogers, the family letters to Olivia across decades of marriage and eventual exile. The Bancroft holds all of it.
+What the listener's own timeline contains: three letters, surviving in the Mark Twain Papers at the Bancroft Library at UC Berkeley — and in the Nikola Tesla Museum in Belgrade. Three letters from Twain to Tesla, across a friendship documented as close, mutual, and sustained over at least a decade. No letters from Tesla to Twain survive in any archive. The Bancroft holds the most extensively documented literary archive in American history — it has preserved correspondence from virtually every significant relationship of Twain's adult life, the letters he exchanged with Joseph Twichell across forty years of devotion, the correspondence with William Dean Howells, the business letters to Henry Rogers, the family letters to Olivia across decades of marriage and eventual exile. The Bancroft holds all of it.
 
-It holds three letters from Tesla.
+It holds three letters from Twain. What it does not hold — what no archive in the world holds — is Tesla's letters back.
 
 The narrator notes this gap the way a researcher notes it — without drama, with the mild puzzlement of someone who expected to find something in a well-lit room and found the room dim in precisely one corner. The fire of March thirteenth, eighteen ninety-five destroyed the South Fifth Avenue laboratory and everything in it. This is real and documented and terrible — fifty thousand dollars of uninsured equipment, the models and demonstration pieces from the World's Columbian Exposition, the early photographs, the notes and calculations Tesla had accumulated across years of the most intense experimental work of his career. The fire took all of it. It started in the basement before two-thirty in the morning, in a building Tesla did not own, and by the time the fire companies arrived the damage had moved through six stories and everything on the fourth floor was gone.
 
 The Century Magazine photographs survived. They had already been delivered to the magazine before the fire. The famous image of the wireless light survived because it was already at the printer.
 
-But the Bancroft Library is in Berkeley, California. The Mark Twain Papers were never near South Fifth Avenue. Letters from Tesla to Twain, written across the eighteen-nineties and nineteen-hundreds and deposited eventually in that archive, would not have been touched by a fire in lower Manhattan. If the letters existed, the Bancroft would have them. The Bancroft has three.
+Tesla's correspondence — letters he kept, letters received, letters drafted and filed — would have been at the laboratory. If his replies to Twain were in the workspace where he worked, the fire took them. This is a complete account. This is the kind of explanation a careful historian accepts.
 
 The archive does not explain the gap. The archive notes it, and continues.
 
