@@ -170,7 +170,7 @@ A crystalline compound is not a passive object. It has a structure — a regular
 
 But Henry had been working with this compound in the mortar, every day, for four months. He had been grinding it. He had been holding it under pressure — the specific, patient, rhythmic pressure of the ceramic pestle against the ceramic bowl, the kind of pressure that Marielle's statement describes as having its own sound, a sound with more regularity to it, more patience. And what happens to a crystalline compound under sustained mechanical pressure is a question that the pharmaceutical industry has studied in the context of stability testing, because crystalline form matters for bioavailability and shelf life, and mechanical stress can, under the right conditions, induce what is called a polymorphic transformation — a rearrangement of the crystal's internal geometry without any change in its chemical composition. Same atoms. Different architecture.
 
-The archive does not know if this is what happened.
+The record does not contain confirmation of this.
 
 The archive knows that the compound on the certificate and the compound in the mortar had different infrared signatures. The archive knows that the field auditor, who would have been familiar with polymorphic transformation as an explanation, did not write polymorphic transformation in his margin note. He wrote something else. He wrote oscillation patterns outside documented pharmaceutical parameters, which is a phrase that belongs to a different vocabulary than pharmaceutical stability science. It is a phrase that belongs to the vocabulary of frequency — of resonance, of objects responding to energy delivered at specific rates.
 
@@ -208,7 +208,7 @@ They are of the bridge.
 
 He had taken photographs of the Roebling Bridge from multiple angles over what appears to be several years — the pedestrian approach, the towers from below, the towers from the river. He had them in frames. Three of them on the mantle of the gas fireplace. One on the worktable in the second bedroom, propped against the wall where he could see it while he worked. Not as decoration. The coroner asks Margaret whether she would describe them as decorative, and she says no, and does not elaborate. They are not decorative in the way a landscape photograph is decorative. They are the way photographs are when someone keeps an image nearby because they are still working something out.
 
-The Roebling Bridge's towers have two windows each — vertical Gothic arches, one above the other, cut into the limestone and brick. Two windows per tower, in each of the four faces of each of the two towers. This is what every photograph shows. This is what every engineering drawing shows. This is what every maintenance record, every survey, every piece of documentation about this bridge since its opening in eighteen sixty-six shows. Two windows per tower. The bridge has always had two windows per tower. This is not in question.
+The Roebling Bridge's towers have two windows each — vertical Gothic arches, one above the other, cut into the limestone and brick. Two windows per tower, in each of the four faces of each of the two towers. This is what every photograph shows. This is what every engineering drawing shows. This is what every maintenance record, every survey, every piece of documentation about this bridge since its formal opening on January first, eighteen sixty-seven shows. Two windows per tower. The bridge has always had two windows per tower. This is not in question.
 
 But something is in question. Something that the photographs in Henry's apartment hold — in the space between what the photographs document and what Henry saw when he was looking at them — something the archive does not yet have language for, and that Henry, in the margin of one of his notebook pages, which Margaret also describes, had drawn.
 
@@ -238,6 +238,10 @@ Not deliberately — the archive does not claim deliberateness. What the archive
 After is a different document. After is what the DEA's laboratory in Columbus, Ohio produced in thirteen pages, with a flag on the twelfth page and an anomalous absorption peak sitting outside every reference library entry for this compound class.
 
 The field auditor who wrote the margin note had a vocabulary for this possibility. Every pharmaceutical scientist does. The vocabulary is: polymorphic transformation, induced by mechanical stress, resulting in altered physicochemical properties. This is the explanation the industry reaches for when a crystalline compound behaves differently after processing than its certificate predicts. It is the reason stability testing includes milling and grinding protocols. It is a known phenomenon. It is documented. It has a name and a mechanism and a corrective procedure.
+
+Polymorphic transformation would explain every anomaly in the audit record. The infrared peak shift: consistent with a change in crystal geometry after sustained milling. The spectroscopic signature in the mortar residue: consistent with a compound that had been mechanically processed into a different solid-state form. The inventory discrepancy: consistent with a pharmacist who had developed a dependency on a compound whose altered polymorph produced a physiological effect the original form did not. The Certificate of Analysis would not have detected the transformation — certificates document the compound at intake, before processing. Everything the audit found was, within this framework, explicable. A trained federal inspector with pharmaceutical compliance experience would have reached for this explanation first, because it is the closest available category and the closest available category is almost always correct.
+
+The archive notes that this explanation is sufficient. It accounts for the chemistry. It accounts for the behavior. It fits every document in the record except one.
 
 He did not write it.
 
@@ -358,11 +362,7 @@ Neither of them knew.
 
 What the archive knows is that a compound arrived at Dandy Brook Pharmacy in October of two thousand and nineteen with a Certificate of Analysis that was technically within acceptable variance and was not what it claimed. That a man spent four months working with it in a ceramic mortar, grinding it, restructuring it, holding the amber glass jars to the fluorescent light and learning, by sight, to select the jars whose scatter pattern matched the mortar. That a trained federal inspector encountered the residue of this work and reached, in his margin note, for a vocabulary that did not belong to pharmaceutical science. That a colleague in Louisville, reading a certificate, noticed a two-nanometer deviation and understood, from professional experience, what a two-nanometer deviation in that specific measurement means.
 
-The archive is not connecting these observations for the listener. The archive is presenting them in sequence.
-
-The listener connects them.
-
-The question the archive arrives at, from this sequence, is not what the compound was. The compound's identity is a matter for the agency the referral was never sent to — for the classification system whose categories include oscillation patterns outside documented pharmaceutical parameters, whatever that system is, wherever it operates, whoever receives its reports. That question has a destination that is not the archive.
+The question the archive arrives at is not what the compound was. The compound's identity is a matter for the agency the referral was never sent to — for the classification system whose categories include oscillation patterns outside documented pharmaceutical parameters, whatever that system is, wherever it operates, whoever receives its reports. That question has a destination that is not the archive.
 
 The question the archive can hold is different.
 
@@ -387,7 +387,7 @@ The question the archive arrives at from the margin of a dead man's notebook is 
 
 The distinction is not subtle. It is the difference between a failure of the eye and an act of the hand. Henry Collins's drawing of the Roebling Bridge towers has three windows. The center window is slightly narrower than the other two. And the drawing, as Margaret describes it in her deposition, is done in the manner of his architectural elevations for the popsicle stick structures — measured, proportional, corrected where he found his first line imprecise. He was not drawing what he imagined. He was drawing what he saw. He was drawing the bridge he crossed every working morning for the years he spent at Dandy Brook Pharmacy — the bridge whose Kentucky approach he reached at the end of Banklick Street, whose pedestrian walkway he used to cross to the parking structure on the Cincinnati side and back again each evening. The bridge he had been crossing ten thousand times, approximately, over the course of his employment. The bridge he had photographed from multiple angles and framed and kept on his mantle and on his worktable where he could see it while he built.
 
-The bridge has always had two windows per tower. This is what more than a hundred and fifty years of documentation establishes. It is not ambiguous. The engineering drawings from the original construction in eighteen sixty-six are on file at the Kentucky Transportation Cabinet's historical archive. The bridge has been surveyed, photographed, measured, and maintained across fifteen decades, and every record shows the same configuration: two vertical Gothic arch windows per tower face, one above the other, cut into limestone and brick. Two windows. Not three.
+The bridge has always had two windows per tower. This is what more than a hundred and fifty years of documentation establishes. It is not ambiguous. The engineering drawings from the original construction, completed in eighteen sixty-seven, are on file at the Kentucky Transportation Cabinet's historical archive. The bridge has been surveyed, photographed, measured, and maintained across fifteen decades, and every record shows the same configuration: two vertical Gothic arch windows per tower face, one above the other, cut into limestone and brick. Two windows. Not three.
 
 Henry Collins was not the only person in Covington who remembers three.
 
@@ -410,14 +410,14 @@ Adjacent to a man who drew the same window, with the same proportions, in the sa
 
 Adjacent to a compound whose residue resonated at a frequency a federal auditor described as outside documented pharmaceutical parameters.
 
-Adjacent to a principle of physics that Tesla proved in a laboratory at forty-six East Houston Street in eighteen ninety-six and that the Earth confirmed, in the Colorado Springs notebooks of eighteen ninety-nine, at a scale no laboratory could contain.
+Adjacent to a principle of physics that Tesla proved in a laboratory at forty-six East Houston Street in eighteen ninety-eight and that the Earth confirmed, in the Colorado Springs notebooks of eighteen ninety-nine, at a scale no laboratory could contain.
 
 
 In the summer of eighteen ninety-nine, Nikola Tesla operated a laboratory in Colorado Springs, Colorado — a converted barn at the edge of the city, equipped with a massive Tesla coil capable of generating voltages of millions of volts and discharging them into the surrounding atmosphere. He was not studying electrical transmission in the narrow sense. He was studying the Earth.
 
 He had a theory. The theory was that the Earth was not merely a planet — a ball of rock and metal with an electrically conductive outer layer. The theory was that the Earth was a resonant structure. That it had a natural frequency, the way a steel beam has a natural frequency, the way a crystal lattice has a natural frequency. And that if you could find that frequency — if you could deliver energy to the Earth at precisely the rate at which the Earth wanted to receive it — the Earth would begin to amplify. Would begin to answer.
 
-On the third of July, eighteen ninety-nine, he found it. Or he found something. The Colorado Springs Notes, which run to approximately five hundred pages and two hundred drawings, record the discovery in the manner of a man who has been expecting to find something enormous and has found it and does not yet have language for the full size of it. The Earth contained stationary electrical waves — standing waves, in the terminology of physics, patterns of vibration that reinforce themselves instead of dissipating, that return to their point of origin carrying the energy they were sent with. The Earth resonated. It had a natural frequency of approximately eight cycles per second. Eight hertz. A rate at which it wanted to receive energy and return it.
+On the third of July, eighteen ninety-nine, he found it. Or he found something. The Colorado Springs Notes, which run to over five hundred pages of diary entries and diagrams, record the discovery in the manner of a man who has been expecting to find something enormous and has found it and does not yet have language for the full size of it. The Earth contained stationary electrical waves — standing waves, in the terminology of physics, patterns of vibration that reinforce themselves instead of dissipating, that return to their point of origin carrying the energy they were sent with. The Earth resonated. It had a natural frequency of approximately seven-point-eight-three cycles per second. Seven-point-eight-three hertz. A rate at which it wanted to receive energy and return it.
 
 Tesla spent the remainder of that summer learning the shape of the answer.
 
@@ -439,7 +439,7 @@ He crossed it ten thousand times, approximately, at a frequency he did not choos
 
 And then, in October of two thousand and nineteen, something changed in his own resonant geometry. Something that his Certificate of Analysis had not documented.
 
-The compound he began taking in late two thousand and nineteen — in the trace form of the residue in the mortar, at escalating doses across four months — was not the compound on the label. The letter writer in Louisville knew this from the infrared absorption peak. The field auditor in Columbus knew this from the spectroscopic residue. The archive knows this from both of them, arriving at the same conclusion from two directions, neither of them knowing about the other. The compound was oscillating at a frequency that the existing pharmaceutical literature does not contain a category for. Which means the compound was doing something to the molecular geometry of the structures it encountered — the mortar, the crystalline lattice of its own residue — that pharmaceutical science does not have a name for.
+The compound he began taking in late two thousand and nineteen — in the trace form of the residue in the mortar, at escalating doses across four months — was not the compound on the label. The letter writer in Louisville knew this from the infrared absorption peak. The field auditor in Columbus knew this from the spectroscopic residue. The compound was oscillating at a frequency that the existing pharmaceutical literature does not contain a category for. Which means the compound was doing something to the molecular geometry of the structures it encountered — the mortar, the crystalline lattice of its own residue — that pharmaceutical science does not have a name for.
 
 What it was doing to Henry's molecular geometry, across four months of daily administration, is not in any document the archive has obtained. The archive only has what it has: the ceiling tiles becoming legible. The popsicle stick becoming a structural member. The faucet becoming enormous. The bridge becoming a bridge with three windows.
 
@@ -462,7 +462,7 @@ He built it in popsicle sticks because he needed to hold the proportions somewhe
 
 He was not the only person who had ever received the third window.
 
-He was the only person who had received it completely.
+He was, as far as the archive can determine, the only person who had received it completely.
 
 The archive does not have the note from Henry's jacket pocket. The archive does not know what was on the torn piece of legal pad, folded in quarters, that Margaret Collins found in his belongings and did not quote in her deposition because the coroner did not ask. The archive knows only that the note existed, and that it was in his handwriting, and that it described — from what the archive can reconstruct from the ceiling drawings and the popsicle stick structures and the architectural elevations and the bridge photographs framed on his mantle — a man who had been building models of real buildings. Not imaginary buildings. Not distorted buildings. Real buildings at a frequency this world does not normally receive.
 
