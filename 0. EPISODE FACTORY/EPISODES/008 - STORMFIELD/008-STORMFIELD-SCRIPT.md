@@ -70,6 +70,12 @@ The archive of the altered timeline contains a Century Magazine photograph — t
 
 The image that exists in the listener's timeline is real. The laboratory was real. The wireless light was real. The Century Magazine article that accompanied the photographs in April of eighteen ninety-five documented the visit as a remarkable evening — a famous author encountering a remarkable technology, a celebrity moment in the life of an invention.
 
+A letter survives from that day. The fourth of March, eighteen ninety-four. Mark Twain wrote to Tesla: "If I can possibly manage it I'll be there by 4 pm, but I am dreadfully pushed for time, and you mustn't depend on me. In haste — Sincerely Yours, S. L. Clemens."
+
+The listener's timeline received the photograph and understood it as an arrival. The letter says it was almost not an arrival. A man dreadfully pushed for time, who came anyway. Who stood in the wireless light anyway. Who held the tube that no photographer had calibrated for before, who kept still for the long exposure, whose face the upward light made strange and new.
+
+The letter is in the archive. The archive holds what it was given.
+
 In the altered archive, the March photograph session was the third that month.
 
 Mr. Clemens had arrived at the South Fifth Avenue laboratory in the second week of February. He had been there, in the altered archive's account, for six weeks before the Century Magazine photographs were made — not as a visitor, not as a celebrity guest touring a remarkable new technology, but as a sustained presence. A man who was there. Who was at the laboratory in the mornings when Tesla was calculating and in the evenings when Tesla was demonstrating and on the nights when the apparatus ran without purpose because running it was its own reward. He kept company the way a man keeps company when the company is the point. He wrote in the corner of the laboratory, at a table Tesla had cleared for him, producing the pages that would eventually become — in the altered archive — three chapters of a book he was working on in parallel with the wireless light experiments, the chapters accumulating alongside the experiments the way two different kinds of investigation accumulate alongside each other in a shared space.
@@ -370,7 +376,7 @@ The narrator states this directly. The narrator has been presenting evidence thr
 
 What the investigation has found is this:
 
-The altered archive is complete in exactly the places the listener's archive is empty. The Bancroft Library's gap — three letters across a decade of documented friendship, no letters in the opposite direction — corresponds exactly to the section of the altered archive's joint papers that is most extensive. The operating log entry from the twelfth of March that burned in the listener's timeline survives in the altered archive. The caretaker's observation that the journalist crossed out — the observation that the space felt active — is, in the altered archive, the description of a space that was in active use, that had been in active use across two decades of Tesla's continued calculation, that felt active because it was. The completeness of the altered archive and the specific emptiness of the listener's archive are not random. They are inverse. Where one has nothing, the other has everything.
+The altered archive is complete in exactly the places the listener's archive is empty. The Bancroft Library's gap — three letters from Twain reaching toward Tesla, nothing reaching back in any surviving record — corresponds exactly to the section of the altered archive's joint papers that is most extensive. The operating log entry from the twelfth of March that burned in the listener's timeline survives in the altered archive. The caretaker's observation that the journalist crossed out — the observation that the space felt active — is, in the altered archive, the description of a space that was in active use, that had been in active use across two decades of Tesla's continued calculation, that felt active because it was. The completeness of the altered archive and the specific emptiness of the listener's archive are not random. They are inverse. Where one has nothing, the other has everything.
 
 The narrator notes this without naming what it means. The listener is trusted to name it.
 
