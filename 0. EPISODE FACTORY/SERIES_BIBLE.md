@@ -296,10 +296,90 @@ Tracking last-episode use to enforce the no-consecutive-repeat rule.
 - **005:** Personal diary/journal entry (O'Hare diary), Institutional correspondence (Pan Am routing memo), Personal correspondence (Gallagher unsent letter), Unpublished academic paper (NRL propagation study)
 - **006:** Personal diary/journal entry (Kovac notebook), Monitoring log with handwritten annotation (ELT-19 survey annotation), Unpublished academic paper (MBARI conference note), Institutional correspondence (cable company route survey)
 - **007:** Declassified government report (DEA field audit), Court testimony/deposition (Margaret Collins coroner's inquest), Insurance claim/incident report (Dandy Brook Pharmacy), Anonymous letter from insider/whistleblower (Kenton County Coroner's Office)
+- **008:** Institutional correspondence (Martin letter to Johnson), Personal diary/journal entry (engraver's diary), Oral history/recorded interview transcript (Players Club woman, unaired radio documentary), Personal correspondence/telegram (Twain to Tesla)
 
 ---
 
-## Window Rules — Available for Episode 008
+### 008 — THE LAST WITNESS (brief approved)
+- **Wound:** A photograph taken nine months before a fire destroyed everything in it — and the most-quoted sentence in American literature, which does not exist in the historical record in the form everyone remembers
+- **Opening type:** Declarative impossibility ("There is a photograph in which a man holds a light that no longer exists.")
+- **Structural shape:** Chronological spiral (three passes — 1894 photograph session, 1895 fire and publication, 1897/1909/1910 quote and comet — each pass adding a layer to what the photograph means)
+- **Twist beats:** 3 (The Cracks — the misquote surfaces; the engraver's diary arrives, noting light that did not behave like natural light), 5 (The Real Wound — the fire's timing relative to publication; Martin's editorial decision to suppress the note about the fire; the radio interview account of Twain's reaction at the Players Club), 6 (The Implication — the comet, the prediction, the precision; the photograph as accidental memorial rather than working documentation)
+- **Integration beats:** 2 (The Surface — the friendship laid out warmly and completely), 4 (The False Floor — the friendship as psychological explanation, complete and insufficient)
+- **False floor:** The friendship explains itself — two insurgent outsiders, a gadgeteer and a satirist, drawn together at the intersection of ingenuity and vernacular. Warm, documented, mutual. Collapses when Tesla weeps: the debt Tesla carried toward Twain's words during his near-fatal illness is not accounted for by the "outsiders finding each other" explanation. Something in those sentences did something to a man who spent his life controlling every output.
+- **Closing type:** The Mirror — the listener is carrying a version of Twain's most famous quote that is wrong in every word except two. The closing question: what else do you carry that has been improved since the original?
+- **Emotional endpoint:** Paranoia — the record has been managed; not by malice but by the same force that shapes collective memory. The photograph survived; the machine did not. The quote survived; the original words did not.
+- **Tesla connection type:** Direct appearance (Tesla is present as a character through the laboratory, the photograph session, the documented friendship)
+- **Key locations:** South Fifth Avenue laboratory, Manhattan (March 1894 photograph session); Century Magazine offices, New York (April 1895 publication decision); Players Club, Manhattan (1895, news of the fire); London (June 1897, the AP cable)
+- **Mandela Effects (primary):** The misquote — "The reports of my death are greatly exaggerated" vs. verified text "The report of my death was an exaggeration." Every word wrong except two. The remembered version is more Twainian than the original.
+- **Fabricated sources:** Thomas Commerford Martin's institutional letter to Robert Underwood Johnson (April 1895 — decision to publish without noting the fire, "The photograph speaks to what was accomplished, not to what remains"), Staff engraver's personal diary (April–May 1895 — adjusting for light that did not fall off at the edges, "Published. Something of the original quality is gone in the translation."), Oral history transcript of elderly Players Club-adjacent woman (recorded c. 1962, unaired radio documentary — Twain's reaction to news of the fire, "as if he had been expecting something to go"), Twain-to-Tesla telegram (c. March 1895 — mourning the loss of "the light that evening," unaware the photographs had already been delivered to Century Magazine)
+- **Recontextualizing detail:** The photograph. Planted in minutes 0–15 as historical documentation of a working demonstration; revealed at the climax to be the accidental memorial of a machine destroyed before the photograph was published.
+- **Key images (DO NOT REUSE in next 3 episodes):**
+  - "the tube glowed without a wire" — Twain holding the phosphorescent glass, light arriving from across the room
+  - "he improved on what Twain wrote" — collective memory as quiet craftsman, revising the original toward something better
+  - "the light did not fall off at the edges as if it did not know where to stop" — the engraver's technical puzzlement
+  - "Published. Something of the original quality is gone in the translation." — the engraver's final diary entry, a sentence about craft that is also a sentence about memory
+  - "two unaccountable freaks — they must go out together" — Twain's 1909 comet prediction in his exact words
+  - "he had been practicing for a long time" — the observer's final note about Twain dictating the AP cable
+  - "the laboratory no longer stands in the form shown" — Martin's private notation, the editorial decision
+  - "he said it as if it were nothing" — the casual production of the most-quoted sentence in American literature
+  - "a telegram that arrived after the fire and before the photograph" — Twain mourning the loss of images that were already safe
+  - "the light stayed at the margins as if it did not know where to stop" — wireless illumination caught on the plate, unprecedented light with no natural behavior
+- **Mythology tier:** Tier 2 — Threshold. Grid approaches the surface without being named. The scale of the misquote replacement — the world carrying a better Twain than Twain produced — suggests something operating at a level beyond ordinary memory failure. First Tier 2 episode.
+- **Names spent:** Mark Twain (Samuel Clemens), Nikola Tesla, Robert Underwood Johnson, Thomas Commerford Martin, Joseph Jefferson, Dickenson V. Alley, Westinghouse (George Westinghouse referenced via Twain's notebook entry)
+
+---
+
+## Window Rules — Available for Episode 009
+
+Based on episodes 001-008:
+
+**Closing types (3-episode window — cannot repeat if used in 006, 007, or 008):**
+- The Witness (006) — blocked
+- The Callback (007) — blocked
+- The Mirror (008) — blocked
+
+**Available:** The Open Wound, The Invitation, The Inversion, The Silence
+
+**Opening types (2-episode window — cannot repeat if used in 007 or 008):**
+- Witness cold open (007) — blocked
+- Declarative impossibility (008) — blocked
+
+**Available:** Direct address question, Sensory hook, Fact that becomes horrifying, The negation, The artifact
+
+**Structural shapes (3-episode window — cannot repeat if used in 006, 007, or 008):**
+- The collection (006) — blocked
+- The descent (007) — blocked
+- Chronological spiral (008) — blocked
+
+**Available:** Crime scene investigation, Dual timeline, Single witness, The trial, The letter
+
+**Tesla connection types (2-episode window — cannot repeat if used in 007 or 008):**
+- Experiment consequence (007) — blocked
+- Direct appearance (008) — blocked
+
+**Available:** Philosophical parallel, Absence, Opposition, Technology descendant
+
+**Emotional endpoints (5-episode window — cannot repeat if used in 004, 005, 006, 007, or 008):**
+- Vertigo (004) — blocked
+- Grief (005) — blocked
+- Wonder/awe (006) — blocked
+- Loneliness (007) — blocked
+- Paranoia (008) — blocked
+
+**Available:** Existential dread, Defiance, Quiet acceptance
+
+**Key images blocked for Episodes 009-011 (from Episode 008):**
+- "the tube glowed without a wire"
+- "he improved on what Twain wrote"
+- "the light did not fall off at the edges as if it did not know where to stop"
+- "Published. Something of the original quality is gone in the translation."
+- "two unaccountable freaks — they must go out together"
+- "he had been practicing for a long time"
+- "the laboratory no longer stands in the form shown"
+- "he said it as if it were nothing"
+- "a telegram that arrived after the fire and before the photograph"
+- "the light stayed at the margins as if it did not know where to stop"
 
 Based on the seven v4 episodes (001-007):
 
