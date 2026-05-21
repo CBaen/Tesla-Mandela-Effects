@@ -1,0 +1,6 @@
+credentials/
+token*.json
+uploaded-videos.json
+*.log
+__pycache__/
+.venv/

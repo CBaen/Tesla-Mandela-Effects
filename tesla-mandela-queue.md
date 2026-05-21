@@ -1,6 +1,14 @@
 # Tesla Mandela Effects — Active Queue
 
 ## Ready
+- [ ] **YouTube channel review and 3-video launch** -- After external-access
+  routing is in place, review the Tesla Mandela Effects channel and prepare the
+  first three longform episode uploads using the correct files, thumbnails,
+  official API/Studio access, SEO/GEO/AEO support, monetization readiness, and
+  statistics visibility. Fresh-agent handoff:
+  `12. YOUTUBE LAUNCH PACKAGE/NEXT_AGENT_YOUTUBE_LAUNCH_HANDOFF.md`. Use
+  project-local skill:
+  `12. YOUTUBE LAUNCH PACKAGE/youtube-longform-release/SKILL.md`.
 - [ ] **Episodes 004-005 v4 rewrites** — Briefs exist. Apply full v4 treatment: embodied scenes, narrator discovers with listener, fact-check with dual browser instances, editor review. (001-003 are the quality bar.)
 - [ ] **Episodes 006-010 v4 rewrites** — Complete rewrites. No briefs yet. Each needs: brief → write → editor review → fact-check → surgical fixes.
 - [ ] **Release Strategy update** — Batch drop plan needs revision; add episodes 006-010; update Ep 002 title from "The Buried Floor" to "The White City"
@@ -8,6 +16,31 @@
 
 ## Pending Decision
 - [ ] Archive or remove the 27 superseded instruction files in `2. WRITER AND EDITOR INSTRUCTIONS\` (prevents future AI instances from reading outdated rules)
+
+## Completed (2026-05-20)
+- [x] **Machine learning review setup** -- Systemwide scheduled learning review
+  and teaching channel created, now including candidate capability packages and
+  education scorecards. Full-coverage ledger upgrade is implemented: active
+  sessions, archived sessions, system docs, capability roots, skills, queues,
+  and git repo heads are reviewed by coverage state instead of latest-50
+  session limits. Kitchen enforcement is also installed: promotion-review
+  templates, learning candidate gate, dependency report, and failure cascade
+  dry-run tooling. Weekly capability maintenance stewardship now discovers
+  visible system, purpose, agency, project, agent-worktree, and archived Codex
+  work capability roots and writes scheduled-agent work packets for downgrade
+  candidates, replacements, dependency/reference repairs, backlink repairs,
+  recipe tests, and cross-root collaboration opportunities. Handoff:
+  `C:\Users\baenb\projects\codex-framework-backup\framework\workstreams\learning-review-teaching-channel-2026-05-20.md`.
+- [x] **Capability Action Manager scheduled layer** -- The scheduled manager
+  now consumes steward packets plus the latest candidate capability package and
+  produces Uma-style action briefs, promotion guards, education scorecards,
+  research holds, and discussion prompts before any trusted capability changes.
+  This keeps learning/capability maintenance ahead of the Tesla launch return
+  path without auto-mutating roots.
+- [x] **External/internet access capabilities foundation** -- Separate
+  systemwide external-access purpose root created at
+  `C:\Users\baenb\capabilities-external-access\INDEX.md`; YouTube launch work
+  should use it before uploads/channel review.
 
 ## Completed (2026-03-20)
 - [x] **Episode 001 v4 approved** — GL and editor approved. The quality standard for the series. (~v4 word count TBD)

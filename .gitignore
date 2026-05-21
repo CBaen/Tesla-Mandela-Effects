@@ -48,6 +48,12 @@ desktop.ini
 # Python cache
 __pycache__/
 *.pyc
+.venv/
+
+# Local YouTube API auth/runtime state
+12. YOUTUBE LAUNCH PACKAGE/youtube-api/credentials/
+12. YOUTUBE LAUNCH PACKAGE/youtube-api/*.log
+12. YOUTUBE LAUNCH PACKAGE/youtube-api/uploaded-videos.json
 
 # Windows NUL redirect artifact (Git Bash on Windows creates a real "nul" file)
 nul

@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Longform Release"
+  short_description: "Plan and verify longform YouTube launches"
+  default_prompt: "Use $youtube-longform-release to prepare a YouTube longform release with Chrome, official API proof, SEO/AEO/GEO review, and monetization checks."
