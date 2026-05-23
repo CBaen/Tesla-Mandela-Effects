@@ -603,7 +603,7 @@ had been waiting under pressure for exactly
 
 128
 00:09:57,060 --> 00:10:01,020
-this release. 100 ,000 lamps.
+this release. 100,000 lamps.
 
 129
 00:10:02,220 --> 00:10:07,720
@@ -811,7 +811,7 @@ They were not built to last.
 
 172
 00:13:22,120 --> 00:13:26,200
-But under the light of 100 ,000
+But under the light of 100,000
 incandescent lamps,
 
 173
@@ -4105,7 +4105,7 @@ The investigation has the frame.
 
 869
 01:07:49,940 --> 01:07:55,920
-Nicola Tesla and the Westinghouse Electric
+Nikola Tesla and the Westinghouse Electric
 Company won the contract to light the 1893
 
 870

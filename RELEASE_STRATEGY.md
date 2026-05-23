@@ -1,5 +1,10 @@
 # Tesla Mandela Effects — Release Strategy
 
+Status on 2026-05-23: historical strategy document. The actual first public
+launch was a three-video release on 2026-05-21 in the order Episode 001,
+Episode 003, then Episode 002. Current launch truth lives in
+`12. YOUTUBE LAUNCH PACKAGE/POST_LAUNCH_HANDOFF_2026-05-23.md`.
+
 ## Batch Drop: 5 Episodes
 
 Release all 5 simultaneously. Playlist order determines the intended listening sequence.

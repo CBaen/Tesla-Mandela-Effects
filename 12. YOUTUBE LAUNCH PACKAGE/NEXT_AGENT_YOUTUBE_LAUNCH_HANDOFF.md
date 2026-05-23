@@ -1,5 +1,11 @@
 # Next Agent Handoff - YouTube Launch Support
 
+Status on 2026-05-23: superseded pre-upload handoff. The three launch videos
+are already public and the launch monitor has been concluded. Current agents
+should start with `POST_LAUNCH_HANDOFF_2026-05-23.md`, `launch-video-urls.md`,
+and `launch-retrospective-2026-05-21.md`. Keep this file only as evidence of
+the original pre-upload plan.
+
 Date: 2026-05-21
 
 ## Mission

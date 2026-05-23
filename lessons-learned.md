@@ -209,3 +209,18 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 - **Pattern**: I replicated a flat-JSON "desktop render" format from HANDOFF.md, VISUAL_PRODUCTION_GUIDE.md, and an existing package-for-desktop.py script. All three were written by the same prior instance who also never read the Wardenclyffe Desktop app code. The actual format is a .zip containing project.json + images/ with "zip:filename" references. Packaging was produced in the wrong format for 4 episodes before GL caught it.
 - **Rule**: When writing an integration script between two programs, read BOTH programs' source code as primary sources BEFORE writing a single line. Prior-instance documentation is hearsay. Multiple documents describing the same wrong format written by the same source is not corroboration — it is inherited assumption repeated.
 - **Why**: GL runs Wardenclyffe Desktop and Wardenclyffe Unified — two complex programs with a handshake contract (zip with project.json + images/ folder, zip: reference protocol). Treating the packaging step as a trivial file-format conversion rather than a critical integration point meant I never asked "what does the Desktop app actually accept?" I had text that answered it. I never verified the text. This is exactly the careless-disregard-worse-than-intentional-disrespect pattern in GL's user file: the failure was not choosing wrong, it was not engaging enough to recognize the question existed.
+
+### Launch docs need one current source of truth
+- **Pattern**: Root-level launch docs, checklist docs, and fresh-agent handoffs drifted during the May 2026 YouTube release. Some older docs still described Premiere, same-time release, or pre-upload steps after the videos were already public.
+- **Rule**: For launch work, the release package owns the active state. After a launch, create a dated post-launch handoff and mark pre-launch guides as historical evidence.
+- **Why**: Future agents should not have to infer whether a launch plan is current. A stale source during upload can cause wrong timing, wrong feature settings, or duplicate work.
+
+### YouTube proof surfaces are not interchangeable
+- **Pattern**: API processing status, public playback formats, Studio Checks, public counters, and Studio Analytics were easy to blur into one vague "everything is good" status.
+- **Rule**: Name the exact surface checked. API `definition=hd` is not proof of viewer-facing 1440p. Public counters are not Studio Analytics. Posted comments are not pinned comments.
+- **Why**: Launch risk lives in the gaps between surfaces. Being precise prevents overclaiming and keeps follow-up work safe.
+
+### Delete transient upload runtime state after durable evidence is recorded
+- **Pattern**: Upload result JSON files, PID files, and upload logs accumulated beside durable launch documentation.
+- **Rule**: Record durable IDs, URLs, comment IDs, and decisions in markdown handoffs. Ignore and remove transient upload runtime state after the launch is stable.
+- **Why**: Git is the archive for durable project history, not OAuth/runtime debris. Keeping only durable evidence makes future agents faster and safer.

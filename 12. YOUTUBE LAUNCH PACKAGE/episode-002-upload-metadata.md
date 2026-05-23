@@ -12,7 +12,7 @@ Verified by ffprobe:
 
 ## Title
 
-The Fake City Was Real. Tesla Powered It. No One Tore It Down.
+Tesla Lit the White City in 1893. Then It Stopped Acting Temporary.
 
 ## Description
 
@@ -27,7 +27,7 @@ In the world of the episode, whatever Coburn's hands found is still below grade 
 Tesla Mandela Effects is a cinematic historical docufiction series investigating the hidden connections between Nikola Tesla's experiments and anomalies in the historical record. Each episode is standalone. Start anywhere.
 
 Chapters
-0:00 The Letter
+00:00 The Letter
 4:18 Like Ringing a Pan and Hearing a Bell
 4:49 Jackson Park, Chicago
 9:59 One Hundred Thousand Lamps
@@ -36,18 +36,18 @@ Chapters
 25:35 The Standard Account
 45:14 The Incident Report
 57:19 The 1904 Soil Borings
-75:19 Museum of Science and Industry
-79:42 Find the Oldest Building on Your Street
-
-Tesla Mandela Effects is a historical docufiction series. It blends documented events from Nikola Tesla's life with speculative reconstruction and fictional sources created for narrative purposes. It is not a factual documentary.
+1:15:19 Museum of Science and Industry
+1:19:42 Find the Oldest Building on Your Street
 
 New episodes every two weeks. Subscribe so you don't miss one.
+
+Tesla Mandela Effects is a historical docufiction series. It blends documented events from Nikola Tesla's life with speculative reconstruction and fictional sources created for narrative purposes. It is not a factual documentary.
 
 #NikolaTesla #WorldsFair1893 #WhiteCity
 
 ## Tags
 
-Nikola Tesla documentary, White City Chicago 1893, World's Columbian Exposition, Chicago World's Fair 1893, Tesla polyphase AC, Westinghouse 1893, Jackson Park Chicago, Museum of Science and Industry, Manufactures Building, Daniel Burnham, staff construction, architecture history, World's Fair buildings, Chicago history, historical mystery, cinematic documentary, historical docufiction, speculative history, longform documentary, audio drama, Nikola Tesla mystery, Mandela Effect
+Nikola Tesla, Nicola Tesla, Telsa, White City Chicago, White City 1893, World's Columbian Exposition, Worlds Columbian Exposition, Chicago World's Fair 1893, Chicago World Fair, Westinghouse, George Westinghouse, Tesla polyphase AC, Jackson Park Chicago, Museum of Science and Industry, Manufactures Building, Daniel Burnham, staff construction, Tesla Mandela Effects, historical docufiction
 
 ## Thumbnail
 

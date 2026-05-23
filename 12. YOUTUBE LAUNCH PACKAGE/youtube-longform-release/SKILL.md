@@ -10,6 +10,8 @@ description: Prepare and verify longform YouTube launches with Chrome/Studio, of
 Keep access lanes separate. Chrome login, YouTube Studio UI, official API/OAuth,
 connectors, public web research, and local file checks each prove different
 things. Use the external-access operational check before claiming control.
+After publication, keep public watch-page proof, public playback-quality proof,
+comments/pinning, Community posts, and Studio Analytics separate too.
 
 External-access meal:
 
@@ -24,7 +26,9 @@ External-access meal:
 5. Review each episode independently for SEO/AEO/GEO and monetization safety.
 6. Prepare uploads as private/scheduled, not public, until checks and processing pass.
 7. Keep subscriber notifications intentional and within YouTube's limit.
-8. Report `verified`, `unverified`, `blocked`, and `next safe action`.
+8. After public release, verify public URLs, comments, captions, playback
+   ladder, and analytics as separate surfaces.
+9. Report `verified`, `unverified`, `blocked`, and `next safe action`.
 
 ## References
 
@@ -95,3 +99,15 @@ review against current YouTube rules and the actual channel surface.
   24-hour window for this launch.
 - Do not frame fabricated sources as factual evidence.
 - Do not stuff tags or hashtags into descriptions.
+
+## Post-Launch Guardrails
+
+- Do not claim viewer-facing 1440p from API `definition=hd`; use the public
+  player or public format extraction.
+- Do not claim comments are pinned just because the prepared comments were
+  posted.
+- Do not claim Community posts or end screens are complete unless verified in
+  Studio/watch-page surfaces.
+- Do not leave heartbeat monitors running after stable closeout. Record durable
+  IDs/status in the launch package and create a new monitor only for a new
+  scoped watch task.

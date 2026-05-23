@@ -2,9 +2,15 @@
 
 ## Local Project Sources
 
-- `YOUTUBE_LAUNCH_GUIDE.md`: current local source of truth for channel setup, category, disclaimers, and Episode 001-002 metadata.
+- `12. YOUTUBE LAUNCH PACKAGE/README.md`, `POST_LAUNCH_HANDOFF_2026-05-23.md`,
+  `launch-video-urls.md`, and `launch-retrospective-2026-05-21.md`: current
+  launch/post-launch source of truth.
+- `YOUTUBE_LAUNCH_GUIDE.md`: historical pre-launch guide. It is retained as
+  evidence, but the launch package now wins for public video IDs, schedule,
+  post-launch status, and remaining tasks.
 - `RELEASE_STRATEGY.md`: older and partly stale. It was used only as a clue for Episode 003 SEO language, not as launch authority.
-- `0. EPISODE FACTORY/CLAUDE.md`: current episode-factory instruction file. The root `AGENTS.md` points to `0. EPISODE FACTORY/AGENTS.md`, but that file does not currently exist.
+- `0. EPISODE FACTORY/AGENTS.md`: current episode-factory routing file for Codex agents.
+- `0. EPISODE FACTORY/CLAUDE.md`: current episode-factory production guide. The file name is historical; the instructions apply to Codex agents too.
 - `0. EPISODE FACTORY/EPISODES/*/*-whisper*.json`: used for chapter timing checks.
 - `YouTube SEO & Thumbnail Gem Optimization.docx`: processed through large-document intake during this prep pass; chunk map captured below.
 - `13. YOUTUBE THUMBNAILS/1.png`, `2.png`, `3.png`: verified launch thumbnails.

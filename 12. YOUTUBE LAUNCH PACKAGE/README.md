@@ -1,28 +1,38 @@
 # Tesla Mandela Effects - Three Episode YouTube Launch Package
 
-Prepared on 2026-05-19 for a simultaneous release of Episodes 001-003.
+Prepared on 2026-05-19 for a three-episode release of Episodes 001-003.
+Post-launch closeout updated on 2026-05-23.
 
-## Current Recommendation
+## Current Reality
 
-Upload all three videos now as private/scheduled uploads, let YouTube finish SD, HD, and 1440p processing, then publish all three at the same scheduled time with subscriber notifications enabled.
+All three videos are public on the correct channel, `Tesla Mandela Effects`
+(`UCYNUNx3Dk30fK9BVpYliXvQ`). The launch monitor was concluded on 2026-05-23
+after stable public checks.
 
-Default target:
+Public release schedule:
 
-- Thursday, 2026-05-21, 3:00 PM Eastern / 1:00 PM Mountain
+- Episode 001: Thursday, 2026-05-21, 9:00 AM Mountain / 11:00 AM Eastern / 8:00 AM Pacific
+- Episode 003: Thursday, 2026-05-21, 9:15 AM Mountain / 11:15 AM Eastern / 8:15 AM Pacific
+- Episode 002: Thursday, 2026-05-21, 9:30 AM Mountain / 11:30 AM Eastern / 8:30 AM Pacific
 
-Fallback if 1440p processing, captions, or YouTube checks are still pending:
-
-- Tuesday, 2026-05-26, 3:00 PM Eastern / 1:00 PM Mountain
+Fallback is no longer needed for this pass; the videos went public on
+2026-05-21.
 
 Do not use YouTube Premiere for the current 1440p masters. YouTube's current Premiere help says output greater than 1080p is not supported for Premieres. If Premiere reminders are more important than 1440p playback, make separate 1080p Premiere files.
+
+For the current handoff, start with:
+
+- `POST_LAUNCH_HANDOFF_2026-05-23.md`
+- `launch-video-urls.md`
+- `launch-retrospective-2026-05-21.md`
 
 ## Asset Status
 
 | Episode | User-supplied file | Verified duration | Status |
 |---|---|---:|---|
-| 001 | `11. MASTER COMPOSITIONS/TESLA S1E1/Tesla 001 v2/Tesla 001 v2.mp4` | 1:16:59 | Upload-ready pending final Studio checks |
-| 002 | `11. MASTER COMPOSITIONS/TESLA S1E2/S1E2 V2/TESLA S1E2 V2/TESLA S1E2 V2.mp4` | 1:26:27 | Upload-ready pending final Studio checks |
-| 003 | `11. MASTER COMPOSITIONS/TESLA S1E3/TESLA S1E3 V3/TESLA S1E3/TESLA S1E3 v3.mp4` | 1:07:16 | Upload-ready pending final Studio checks |
+| 001 | `11. MASTER COMPOSITIONS/TESLA S1E1/Tesla 001 v2/Tesla 001 v2.mp4` | 1:16:59 | Public: `ro5_fFx8Cz0` |
+| 002 | `11. MASTER COMPOSITIONS/TESLA S1E2/S1E2 V2/TESLA S1E2 V2/TESLA S1E2 V2.mp4` | 1:26:27 | Public: `jTGZGrqttTM` |
+| 003 | `11. MASTER COMPOSITIONS/TESLA S1E3/TESLA S1E3 V3/TESLA S1E3/TESLA S1E3 v3.mp4` | 1:07:16 | Public: `WYXAipQkZTo` |
 
 Do not upload `11. MASTER COMPOSITIONS/TESLA S1E3/TESLA S1E3 V2/002 Tesla/TESLA S1E3 V2.mp4`; it verifies at 0:32:36 and is the wrong file.
 
@@ -30,9 +40,11 @@ Use the V3 path above for Episode 003.
 
 ## Launch Mechanics
 
-- Upload all videos through YouTube Studio on desktop.
-- Set visibility to scheduled, not public, while processing.
-- Keep `Publish to subscriptions feed and notify subscribers` checked for all three.
+- Videos were uploaded through the official YouTube Data API, then verified in YouTube Studio.
+- Visibility was private first, then scheduled after processing and Checks passed.
+- `Publish to subscriptions feed and notify subscribers` is checked for all three.
+- Prepared comments were posted by `@TeslaMandelaEffects` through the official API. Pinning still requires manual Studio/watch-page action.
+- API checks reported processed `definition=hd`, but public 1440p playback was not consistently proven on every watch page. Recheck the viewer-facing quality ladder before claiming all three are publicly 1440p-complete.
 - Do not publish any other upload or live stream inside the same 24-hour window. YouTube caps upload/live notifications from one channel at 3 per 24 hours.
 - Set all three to `Film & Animation`, matching the current launch guide.
 - Set audience to `No, not made for kids`.
@@ -40,7 +52,7 @@ Use the V3 path above for Episode 003.
 - Upload manual captions from `captions/` when available, then review YouTube's transcript for name/entity errors.
 - Use manual chapters in the descriptions. Google and YouTube can use those as key moments.
 - Put each video in `Tesla Mandela Effects - Full Episodes` and `Start Here`.
-- Add end screens after upload processing. Each episode should point to the full playlist and one other episode.
+- Add end screens after the videos go public. Each episode should point to the full playlist and one other episode.
 
 ## Files In This Package
 
@@ -59,7 +71,11 @@ Use the V3 path above for Episode 003.
 - `seo-geo-aeo-support-plan.md`: companion-page, AI-search, structured-data, and notification-support plan.
 - `community-and-launch-copy.md`: YouTube Community, playlist, trailer, and short launch copy.
 - `youtube-studio-access-workflow.md`: safe workflow for using the user's logged-in YouTube Studio session.
-- `NEXT_AGENT_YOUTUBE_LAUNCH_HANDOFF.md`: fresh-conversation handoff for the next Tesla-focused launch agent.
+- `NEXT_AGENT_YOUTUBE_LAUNCH_HANDOFF.md`: superseded pre-upload handoff retained for evidence.
+- `POST_LAUNCH_HANDOFF_2026-05-23.md`: current handoff for post-launch follow-up.
+- `launch-video-urls.md`: public video IDs, playlist URLs, comment IDs, and monitor closeout.
+- `launch-retrospective-2026-05-21.md`: lessons and remaining post-launch work.
+- `pre-upload-readiness-review-2026-05-21.md`: historical API proof, local asset verification, caption/metadata fixes, per-episode SEO/AEO/GEO review, and Studio readiness record.
 - `youtube-longform-release/`: project-local Codex skill draft for Chrome/API proof, per-episode SEO/AEO/GEO review, monetization readiness, and longform upload process.
 - `source-notes.md`: platform rules and local strategy sources used.
 

@@ -7,45 +7,45 @@
   - [x] Do not use `TESLA S1E3 V2/002 Tesla/TESLA S1E3 V2.mp4`; it verifies at 0:32:36 and is wrong.
   - [x] Do not use `TESLA S1E3 V1.mp4`; V3 is now the selected cut.
   - [x] Verified V3 with ffprobe.
-- [ ] Verify the YouTube account is phone-verified for videos longer than 15 minutes and custom thumbnails.
-- [ ] Confirm advanced features are enabled for manual chapters and thumbnail testing.
-- [ ] Create playlists:
-  - [ ] `Tesla Mandela Effects - Full Episodes`
-  - [ ] `Start Here`
-  - [ ] `The Tesla Timeline`
-- [ ] Set channel description and keywords from `YOUTUBE_LAUNCH_GUIDE.md`.
+- [x] Verify the YouTube account is enabled for videos longer than 15 minutes and custom thumbnails.
+- [x] Confirm advanced features are enabled for manual chapters and thumbnail testing.
+- [x] Create playlists:
+  - [x] `Tesla Mandela Effects — Full Episodes`
+  - [x] `Start Here`
+  - [x] `The Tesla Timeline`
+- [x] Confirm final channel About copy and keywords from `professional-channel-setup.md`.
 - [x] Verify launch thumbnails in `13. YOUTUBE THUMBNAILS`.
 - [x] Generate captions into `12. YOUTUBE LAUNCH PACKAGE/captions/`.
-- [ ] Upload captions from `captions/`.
+- [x] Upload captions from `captions/`.
 
 ## Upload Settings For All Three
 
-- [ ] Visibility: scheduled.
-- [ ] Same publish time for all three.
-- [ ] Premiere: off for 1440p masters.
-- [ ] Notify subscribers: on.
-- [ ] Category: Film & Animation.
-- [ ] Language: English.
-- [ ] Made for kids: No.
-- [ ] Age restriction: No.
-- [ ] Altered/synthetic content: Yes.
-- [ ] Paid promotion: No, unless this changes.
-- [ ] License: Standard YouTube License.
-- [ ] Embedding: allowed.
-- [ ] Comments: on.
+- [x] Visibility: private first; schedule only after checks/processing are reviewed.
+- [x] Final publish pattern: stagger 001 -> 003 -> 002 by 15 minutes.
+- [x] Premiere: off for 1440p masters.
+- [x] Notify subscribers: on.
+- [x] Category: Film & Animation.
+- [x] Language: English.
+- [x] Made for kids: No.
+- [x] Age restriction: No.
+- [x] Altered/synthetic content: Yes.
+- [x] Paid promotion: No, unless this changes.
+- [x] License: Standard YouTube License.
+- [x] Embedding: allowed.
+- [x] Comments: on.
 - [ ] Shorts remixing: decide intentionally; default off if you want stronger audio/control boundaries.
 
 ## Per Video
 
-- [ ] Paste title from the episode metadata file.
-- [ ] Paste description from the episode metadata file.
-- [ ] Paste tags from the episode metadata file.
-- [ ] Upload thumbnail.
-- [ ] Add to playlists.
-- [ ] Upload captions.
-- [ ] Confirm chapters render from the description.
-- [ ] Run copyright checks before publish.
-- [ ] Wait for 1440p processing before launch if possible.
+- [x] Paste title from the episode metadata file.
+- [x] Paste description from the episode metadata file.
+- [x] Paste tags from the episode metadata file.
+- [x] Upload thumbnail.
+- [x] Add to playlists.
+- [x] Upload captions.
+- [x] Confirm chapter blocks are named, ascending, start at `00:00`, and use hour-format timestamps where needed in the uploaded descriptions.
+- [x] Run copyright checks before publish.
+- [ ] Recheck public 1440p playback on every watch page before claiming the viewer-facing 1440p ladder is complete.
 
 ## Episode 3 Fresh Render Verification
 
@@ -69,13 +69,18 @@ Verified result:
 
 ## Launch Window
 
-- [ ] Publish all three at the same time.
-- [ ] Do not publish any other upload/live stream within 24 hours.
-- [ ] Pin each episode's prepared comment immediately after publish.
-- [ ] Reply to comments for the first 48 hours.
+- [x] T+0 launch target: Thursday, 2026-05-21, 9:00 AM Mountain / 11:00 AM Eastern / 8:00 AM Pacific.
+- [x] Schedule target: Episode 001 at 9:00 AM Mountain, Episode 003 at 9:15 AM Mountain, Episode 002 at 9:30 AM Mountain.
+- [x] All three videos were clean before 8:30 AM Mountain; fallback not needed.
+- [x] Schedule all three at the chosen time using the 001 -> 003 -> 002 stagger.
+- [x] Publish all three at the chosen time using the 001 -> 003 -> 002 stagger.
+- [x] Do not publish any other upload/live stream within 24 hours.
+- [ ] Pin each episode's prepared comment immediately after publish. Comments are posted; pinning still needs Studio/watch-page confirmation.
+- [x] First 48-hour automated public-counter/comment monitoring finished with no viewer comments needing reply.
 - [ ] After the first day, start thumbnail Test & Compare on each public long-form video if the account is eligible.
 - [ ] Track CTR, average view duration, traffic source, and subscriber conversion per episode.
+- [x] Conclude the `tesla-upload-monitor` heartbeat after stable first-48-hour checks.
 
 ## Same-Time Release Reality
 
-Same-time release is good for proving the channel has depth immediately. The tradeoff is that three long videos compete for the same viewer attention on day one. Because the user requested a simultaneous drop, keep the launch simultaneous, but make the playlist and end screens do the work of chaining viewers across the set.
+Final decision: stagger the public release by 15 minutes in this order: Episode 001, Episode 003, Episode 002. Same-time release would prove channel depth immediately, but staggering gives each video cleaner first-hour attention while keeping the three-episode launch intact.

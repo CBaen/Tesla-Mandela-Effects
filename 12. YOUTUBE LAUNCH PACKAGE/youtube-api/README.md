@@ -4,6 +4,12 @@ This folder is for an official API connection only. It uses Google's OAuth flow 
 
 It does not use browser scraping, desktop automation, unofficial upload tools, cookies, or saved browser sessions.
 
+Status on 2026-05-23: the first three launch videos are already public. Use
+`..\POST_LAUNCH_HANDOFF_2026-05-23.md` and `..\launch-video-urls.md` for
+durable video IDs, comment IDs, playlists, and remaining Studio-only tasks.
+Generated upload result JSON, upload logs, PID files, and `__pycache__` are
+runtime byproducts and should not be committed.
+
 ## What This Can Do
 
 - Confirm the authenticated YouTube channel with `channels.list`.

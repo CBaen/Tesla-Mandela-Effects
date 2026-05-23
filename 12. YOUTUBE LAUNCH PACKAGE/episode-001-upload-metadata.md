@@ -27,7 +27,7 @@ The question is not only how Tesla died. The question is what the archive could 
 Tesla Mandela Effects is a cinematic historical docufiction series investigating the hidden connections between Nikola Tesla's experiments and anomalies in the historical record. Each episode is standalone. Start anywhere.
 
 Chapters
-0:00 The Body Hadn't Even Grown Cold
+00:00 The Body Hadn't Even Grown Cold
 1:02 Room 3327
 5:10 Smiljan - July 10, 1856
 11:25 The Cat in the Dark
@@ -36,17 +36,17 @@ Chapters
 39:54 The Visions
 48:41 The Pigeon
 55:13 The Office of Alien Property
-74:49 What Was Nikola Tesla?
-
-Tesla Mandela Effects is a historical docufiction series. It blends documented events from Nikola Tesla's life with speculative reconstruction and fictional sources created for narrative purposes. It is not a factual documentary.
+1:14:49 What Was Nikola Tesla?
 
 New episodes every two weeks. Subscribe so you don't miss one.
+
+Tesla Mandela Effects is a historical docufiction series. It blends documented events from Nikola Tesla's life with speculative reconstruction and fictional sources created for narrative purposes. It is not a factual documentary.
 
 #NikolaTesla #Room3327 #MandelaEffect
 
 ## Tags
 
-Nikola Tesla documentary, Tesla death 1943, Hotel New Yorker Room 3327, Tesla Room 3327, Tesla missing papers, Office of Alien Property, Alien Property Custodian, Tesla pigeons, Tesla white pigeon, Tesla childhood visions, Smiljan lightning storm, Tesla My Inventions, John G Trump Tesla, Tesla mystery, Mandela Effect, historical mystery, docufiction, unfiction, speculative history, longform documentary, audio drama
+Nikola Tesla, Nicola Tesla, Telsa, Tesla death 1943, Hotel New Yorker, Hotel New Yorker Room 3327, Room 3327, Office of Alien Property, Alien Property Custodian, Tesla papers, Tesla pigeons, white pigeon, Smiljan, Lika, John G Trump Tesla, Tesla Mandela Effects, Mandela Effect, historical docufiction
 
 ## Thumbnail
 

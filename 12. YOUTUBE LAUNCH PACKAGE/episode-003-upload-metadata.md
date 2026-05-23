@@ -31,7 +31,7 @@ This is the story of a CERN calibration engineer, a background resonance reading
 Tesla Mandela Effects is a cinematic historical docufiction series investigating the hidden connections between Nikola Tesla's experiments and anomalies in the historical record. Each episode is standalone. Start anywhere.
 
 Chapters
-0:00 Close Your Eyes. Write the Name.
+00:00 Close Your Eyes. Write the Name.
 2:04 CERN Announces the Higgs Boson
 3:07 The Large Hadron Collider
 3:39 September 10, 2008
@@ -44,17 +44,17 @@ Chapters
 54:15 Wardenclyffe's Missing Architecture
 55:42 The God Particle
 59:03 They Announced It on July Fourth
-66:10 Which Version of the Baseline Made You?
-
-Tesla Mandela Effects is a historical docufiction series. It blends documented events from Nikola Tesla's life with speculative reconstruction and fictional sources created for narrative purposes. It is not a factual documentary.
+1:06:10 Which Version of the Baseline Made You?
 
 New episodes every two weeks. Subscribe so you don't miss one.
+
+Tesla Mandela Effects is a historical docufiction series. It blends documented events from Nikola Tesla's life with speculative reconstruction and fictional sources created for narrative purposes. It is not a factual documentary.
 
 #NikolaTesla #GodParticle #MandelaEffect
 
 ## Tags
 
-Nikola Tesla documentary, God Particle, Higgs boson, CERN, Large Hadron Collider, LHC first beam 2008, July 4 2012 Higgs boson, Berenstain Bears Mandela Effect, Berenstein Bears, Schumann resonance, Tesla Colorado Springs, Wardenclyffe Tower, Tesla frequency, CERN mystery, particle physics mystery, Mandela Effect timeline, historical mystery, docufiction, unfiction, speculative history, longform documentary, audio drama
+Nikola Tesla, Nicola Tesla, Telsa, CERN, Large Hadron Collider, LHC, Higgs boson, Higgs Boson, God Particle, Berenstain Bears, Berenstein Bears, Berenstain, Berenstein, Schumann resonance, Winfried Schumann, Colorado Springs, Wardenclyffe Tower, Tesla Mandela Effects, Mandela Effect, historical docufiction
 
 ## Thumbnail
 

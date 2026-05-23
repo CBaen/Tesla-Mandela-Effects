@@ -1,5 +1,11 @@
 # Tesla Mandela Effects — YouTube Launch Guide
 
+Status on 2026-05-23: historical pre-launch guide. The first three videos are
+already public. Current launch/post-launch truth lives in
+`12. YOUTUBE LAUNCH PACKAGE/POST_LAUNCH_HANDOFF_2026-05-23.md`,
+`12. YOUTUBE LAUNCH PACKAGE/launch-video-urls.md`, and
+`12. YOUTUBE LAUNCH PACKAGE/launch-retrospective-2026-05-21.md`.
+
 ## Genre & Brand Identity
 
 **Genre:** Historical Docufiction

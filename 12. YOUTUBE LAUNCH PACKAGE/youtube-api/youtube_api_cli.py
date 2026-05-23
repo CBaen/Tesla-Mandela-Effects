@@ -352,6 +352,7 @@ def cmd_upload(args):
         "status": {
             "privacyStatus": privacy_status,
             "selfDeclaredMadeForKids": bool(episode.get("selfDeclaredMadeForKids", False)),
+            "containsSyntheticMedia": bool(episode.get("containsSyntheticMedia", True)),
         },
     }
 

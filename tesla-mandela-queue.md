@@ -1,14 +1,14 @@
 # Tesla Mandela Effects — Active Queue
 
 ## Ready
-- [ ] **YouTube channel review and 3-video launch** -- After external-access
-  routing is in place, review the Tesla Mandela Effects channel and prepare the
-  first three longform episode uploads using the correct files, thumbnails,
-  official API/Studio access, SEO/GEO/AEO support, monetization readiness, and
-  statistics visibility. Fresh-agent handoff:
-  `12. YOUTUBE LAUNCH PACKAGE/NEXT_AGENT_YOUTUBE_LAUNCH_HANDOFF.md`. Use
-  project-local skill:
-  `12. YOUTUBE LAUNCH PACKAGE/youtube-longform-release/SKILL.md`.
+- [ ] **YouTube post-launch Studio follow-up** -- The first three longform
+  episodes are live and the launch monitor is concluded. Current handoff:
+  `12. YOUTUBE LAUNCH PACKAGE/POST_LAUNCH_HANDOFF_2026-05-23.md`. Public URLs,
+  playlists, comment IDs, and final monitor counters:
+  `12. YOUTUBE LAUNCH PACKAGE/launch-video-urls.md`. Next safe actions: pin the
+  posted comments in Studio/watch pages, add end screens, optionally post the
+  Community launch copy, recheck public 1440p quality ladders, and review Studio
+  Analytics after data populates.
 - [ ] **Episodes 004-005 v4 rewrites** — Briefs exist. Apply full v4 treatment: embodied scenes, narrator discovers with listener, fact-check with dual browser instances, editor review. (001-003 are the quality bar.)
 - [ ] **Episodes 006-010 v4 rewrites** — Complete rewrites. No briefs yet. Each needs: brief → write → editor review → fact-check → surgical fixes.
 - [ ] **Release Strategy update** — Batch drop plan needs revision; add episodes 006-010; update Ep 002 title from "The Buried Floor" to "The White City"
@@ -16,6 +16,17 @@
 
 ## Pending Decision
 - [ ] Archive or remove the 27 superseded instruction files in `2. WRITER AND EDITOR INSTRUCTIONS\` (prevents future AI instances from reading outdated rules)
+
+## Completed (2026-05-23)
+- [x] **Tesla Mandela Effects 3-video YouTube launch** -- Episode 001
+  `ro5_fFx8Cz0`, Episode 003 `WYXAipQkZTo`, and Episode 002 `jTGZGrqttTM`
+  launched publicly on 2026-05-21 in the 8:00 / 8:15 / 8:30 AM Pacific stagger.
+  The official API and Studio workflow covered channel identity, correct files,
+  thumbnails, captions, playlists, altered/synthetic disclosure, clean Checks,
+  notification settings, and prepared comment posting. The `tesla-upload-monitor`
+  heartbeat was concluded on 2026-05-23 after stable first-48-hour public
+  counter/comment checks. Handoff:
+  `12. YOUTUBE LAUNCH PACKAGE/POST_LAUNCH_HANDOFF_2026-05-23.md`.
 
 ## Completed (2026-05-20)
 - [x] **Machine learning review setup** -- Systemwide scheduled learning review

@@ -18,7 +18,7 @@ records disagree with what you think you
 
 5
 00:00:19,460 --> 00:00:27,400
-know. The Berenstain Bears The
+know. The Berenstain Bears. The
 
 6
 00:00:27,400 --> 00:00:32,140
@@ -192,8 +192,8 @@ Research,
 
 43
 00:02:52,820 --> 00:02:58,100
-CERN, from its French name, Konsei
--European -Pour -Larachère -Nucléaire,
+CERN, from its French name, Conseil
+Europeen pour la Recherche Nucleaire,
 
 44
 00:02:58,720 --> 00:03:02,380
@@ -245,7 +245,7 @@ The last connections were made in 2008.
 
 54
 00:03:43,240 --> 00:03:48,320
-On September 10th 2008, at 10 .28 in the
+On September 10th 2008, at 10.28 in the
 morning,
 
 55
@@ -356,11 +356,11 @@ reporting it clearly,
 
 77
 00:05:35,240 --> 00:05:37,420
-approximately 7 .9 hertz.
+approximately 7.9 hertz.
 
 78
 00:05:38,560 --> 00:05:41,260
-Duration, 0 .8 seconds.
+Duration, 0.8 seconds.
 
 79
 00:05:42,100 --> 00:05:47,240
@@ -383,7 +383,7 @@ The beam had run.
 
 83
 00:05:59,620 --> 00:06:03,860
-The machine worked. The 7 .9 hertz anomaly
+The machine worked. The 7.9 hertz anomaly
 was small.
 
 84
@@ -504,7 +504,7 @@ ring.
 
 108
 00:08:02,700 --> 00:08:05,400
-The signature lasted 0 .8 seconds.
+The signature lasted 0.8 seconds.
 
 109
 00:08:06,220 --> 00:08:09,540
@@ -545,7 +545,7 @@ Not highlighted, not flagged, just there.
 
 117
 00:08:44,700 --> 00:08:50,420
-Logged at 1147, 0 .8 seconds, 7 .9 hertz.
+Logged at 1147, 0.8 seconds, 7.9 hertz.
 
 118
 00:08:51,160 --> 00:08:53,060
@@ -553,7 +553,7 @@ Filed and not followed up.
 
 119
 00:08:53,800 --> 00:08:59,780
-What does 7 .9 hertz mean to a CERN
+What does 7.9 hertz mean to a CERN
 calibration engineer in 2008?
 
 120
@@ -577,7 +577,7 @@ thorough to note it and recommend follow -up.
 
 124
 00:09:18,740 --> 00:09:24,880
-What does 7 .9 hertz mean to someone who
+What does 7.9 hertz mean to someone who
 knows what happened in Colorado Springs in
 
 125
@@ -621,7 +621,7 @@ breath than lower ground demands.
 
 134
 00:09:56,560 --> 00:10:02,420
-Nicola Tesla arrived in May of 1899 with a
+Nikola Tesla arrived in May of 1899 with a
 specific purpose.
 
 135
@@ -1166,7 +1166,7 @@ the planet like a bell and listening to what
 251
 00:18:26,500 --> 00:18:33,460
 it said back. In 1952, a physicist named
-Winfred Otto Schumann
+Winfried Otto Schumann
 
 252
 00:18:33,460 --> 00:18:39,820
@@ -1645,7 +1645,7 @@ Schumann resonance fundamental holding
 
 352
 00:26:40,540 --> 00:26:46,200
-at its standard 7 .83 hertz for the
+at its standard 7.83 hertz for the
 majority of the monitoring period.
 
 353
@@ -1665,7 +1665,7 @@ conference at which the Higgs boson discovery
 356
 00:27:00,160 --> 00:27:07,060
 was announced, the baseline shifted by
-approximately 0 .3 hertz for
+approximately 0.3 hertz for
 
 357
 00:27:07,060 --> 00:27:10,060
@@ -1835,7 +1835,7 @@ at increasing energies is doing something
 
 393
 00:29:41,320 --> 00:29:47,480
-to the substrate. The Berenstain Bear's
+to the substrate. The Berenstain Bears
 memory is a relic from before the most recent
 
 394
@@ -2120,12 +2120,12 @@ numbers that were supposed to stay still.
 
 455
 00:34:09,360 --> 00:34:14,580
-7 .9 hertz where the electromagnetic floor
-should be 7 .83.
+7.9 hertz where the electromagnetic floor
+should be 7.83.
 
 456
 00:34:15,700 --> 00:34:18,580
-A difference of 0 .07 hertz.
+A difference of 0.07 hertz.
 
 457
 00:34:20,100 --> 00:34:24,000
@@ -2284,7 +2284,7 @@ instrument error.
 491
 00:36:34,120 --> 00:36:39,420
 The electromagnetic floor holds steady at
-7 .9 hertz during every high energy run.
+7.9 hertz during every high energy run.
 
 492
 00:36:40,120 --> 00:36:43,380
@@ -2469,7 +2469,7 @@ The readings fell within tolerance.
 
 531
 00:39:45,220 --> 00:39:51,880
-There was no framework for interpreting a 7 .9
+There was no framework for interpreting a 7.9
 hertz anomaly as anything other than instrument
 
 532
@@ -2566,7 +2566,7 @@ The shape is not random.
 
 552
 00:41:26,360 --> 00:41:32,120
-Fabiola resigned from CERN in 2014, eight
+Amara Fabiola resigned from CERN in 2014, eight
 years at the institution.
 
 553
@@ -2643,7 +2643,7 @@ something that was already there.
 
 568
 00:42:47,440 --> 00:42:53,460
-The baseline frequency, 7 .9 hertz,
+The baseline frequency, 7.9 hertz,
 sitting adjacent to the Schumann resonance,
 
 569
@@ -3418,7 +3418,7 @@ of people remember differently than the
 
 731
 00:55:48,160 --> 00:55:51,600
-publisher's records show, The Higgs Boson,
+publisher's records show, the Higgs boson,
 
 732
 00:55:52,280 --> 00:55:59,320
@@ -3442,7 +3442,7 @@ imprecisely but usefully,
 
 736
 00:56:17,320 --> 00:56:19,260
-what the Higgs Boson actually does.
+what the Higgs boson actually does.
 
 737
 00:56:20,040 --> 00:56:24,000
@@ -3452,7 +3452,7 @@ what has substance.
 738
 00:56:25,040 --> 00:56:30,880
 The field whose vibration, whose quantum
-excitation is the Higgs Boson.
+excitation is the Higgs boson.
 
 739
 00:56:31,700 --> 00:56:36,700
@@ -3529,7 +3529,7 @@ hypothesis.
 754
 00:57:47,540 --> 00:57:52,380
 The chance of a false positive at 5 sigma
-is one in 3 .5 million.
+is one in 3.5 million.
 
 755
 00:57:53,180 --> 00:57:58,500
@@ -3708,7 +3708,7 @@ And the memories. The frequency flaw that
 
 792
 01:00:58,460 --> 01:01:02,780
-the 0 .3 hertz for 11 minutes on the day
+the 0.3 hertz for 11 minutes on the day
 of the announcement.
 
 793

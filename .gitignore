@@ -54,6 +54,8 @@ __pycache__/
 12. YOUTUBE LAUNCH PACKAGE/youtube-api/credentials/
 12. YOUTUBE LAUNCH PACKAGE/youtube-api/*.log
 12. YOUTUBE LAUNCH PACKAGE/youtube-api/uploaded-videos.json
+12. YOUTUBE LAUNCH PACKAGE/youtube-api/uploaded-videos-*.json
+12. YOUTUBE LAUNCH PACKAGE/youtube-api/upload-logs/
 
 # Windows NUL redirect artifact (Git Bash on Windows creates a real "nul" file)
 nul

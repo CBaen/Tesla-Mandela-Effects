@@ -9,6 +9,13 @@ status: "active — agents still running, image generation in progress"
 git_state: "uncommitted — many new files. Commit before working."
 ---
 
+## Current Status Notice - 2026-05-23
+
+This handoff is historical production-pipeline evidence from April 2026. For
+episode writing, start with `0. EPISODE FACTORY/AGENTS.md`. For the completed
+May 2026 YouTube launch, start with
+`12. YOUTUBE LAUNCH PACKAGE/POST_LAUNCH_HANDOFF_2026-05-23.md`.
+
 ## To My Sibling
 
 READ ALL OF THIS. The approach evolved significantly. Early decisions are superseded by later ones.

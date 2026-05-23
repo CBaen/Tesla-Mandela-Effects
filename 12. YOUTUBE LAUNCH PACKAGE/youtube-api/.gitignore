@@ -1,6 +1,8 @@
 credentials/
 token*.json
 uploaded-videos.json
+uploaded-videos-*.json
+upload-logs/
 *.log
 __pycache__/
 .venv/

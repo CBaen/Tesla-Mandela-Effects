@@ -1,10 +1,12 @@
 # Tesla Three-Episode Launch Reference
 
-## Current Target
+## Current State
 
-Prepare the Tesla Mandela Effects channel for a simultaneous three-episode
-longform YouTube release. The user wants Chrome/Studio channel prep plus
-independent SEO/AEO/GEO review per episode.
+The first three Tesla Mandela Effects longform videos are public as of
+2026-05-21. The actual public order was Episode 001, Episode 003, then Episode
+002, staggered by 15 minutes. Use this file for durable channel/file identity,
+but use `..\POST_LAUNCH_HANDOFF_2026-05-23.md` and `..\launch-video-urls.md`
+for current post-launch state.
 
 YouTube Studio channel URL supplied by the user:
 
@@ -77,7 +79,8 @@ Use official API/OAuth for:
 
 ## Required Output Before Upload
 
-Before uploading or scheduling, produce:
+Historical pre-upload contract. Before uploading or scheduling in a future
+launch, produce:
 
 - channel readiness summary;
 - API/channel proof summary or blocked reason;
