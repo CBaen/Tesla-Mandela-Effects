@@ -224,3 +224,8 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 - **Pattern**: Upload result JSON files, PID files, and upload logs accumulated beside durable launch documentation.
 - **Rule**: Record durable IDs, URLs, comment IDs, and decisions in markdown handoffs. Ignore and remove transient upload runtime state after the launch is stable.
 - **Why**: Git is the archive for durable project history, not OAuth/runtime debris. Keeping only durable evidence makes future agents faster and safer.
+
+### Do not track generated episode zip exports in Git
+- **Pattern**: Unpushed history contained generated episode `.zip` exports over GitHub's 100 MB file limit, blocking the entire `main` push.
+- **Rule**: Keep source episode artifacts as normal files and ignore generated `.zip` packages. If a zip export is needed, regenerate it from source or store it in an intentional large-file/archive system, not normal Git.
+- **Why**: GitHub is the durable source archive, not the storage layer for redundant generated bundles. Large zip blobs make every future agent pay the cost.
