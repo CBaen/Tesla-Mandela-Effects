@@ -8,7 +8,17 @@
   `12. YOUTUBE LAUNCH PACKAGE/launch-video-urls.md`. Next safe actions: pin the
   posted comments in Studio/watch pages, add end screens, optionally post the
   Community launch copy, recheck public 1440p quality ladders, and review Studio
-  Analytics after data populates.
+  Analytics after data populates. Also verify/correct the public Episode 003
+  title: public metadata on 2026-05-29 returned `S1E1 Tesla Found the
+  Frequency. CERN Found the God Particle.` The intended title is `S1E3 Tesla
+  Found the Frequency. CERN Found the God Particle.`
+- [ ] **Rumble / Spotify cross-post publish** -- Cross-platform package,
+  platform-specific copy, and upload-safe delivery files are ready. Current
+  handoff: `workstreams/rumble-spotify-crosspost-2026-05-31.md`. Package:
+  `14. RUMBLE SPOTIFY LAUNCH PACKAGE/README.md`. Next safe actions: verify the
+  active personal-account context on Rumble and Spotify, apply profile/show
+  copy, upload or draft Episodes 001-003 from the ignored `delivery/*.mp4`
+  payloads, record platform URLs/IDs, and keep generated media out of Git.
 - [ ] **Episodes 004-005 v4 rewrites** — Briefs exist. Apply full v4 treatment: embodied scenes, narrator discovers with listener, fact-check with dual browser instances, editor review. (001-003 are the quality bar.)
 - [ ] **Episodes 006-010 v4 rewrites** — Complete rewrites. No briefs yet. Each needs: brief → write → editor review → fact-check → surgical fixes.
 - [ ] **Release Strategy update** — Batch drop plan needs revision; add episodes 006-010; update Ep 002 title from "The Buried Floor" to "The White City"
@@ -16,6 +26,18 @@
 
 ## Pending Decision
 - [ ] Archive or remove the 27 superseded instruction files in `2. WRITER AND EDITOR INSTRUCTIONS\` (prevents future AI instances from reading outdated rules)
+- [ ] Confirm whether Rumble and Spotify should publish immediately or save
+  drafts first if future account access does not make that explicit.
+- [ ] After Rumble/Spotify uploads are complete and verified, confirm whether
+  to delete the local ignored delivery MP4s.
+
+## Completed (2026-05-31)
+- [x] **Rumble / Spotify launch package prepared** -- Built the dedicated
+  cross-platform package, specialized profile and episode copy for Rumble and
+  Spotify, reviewed public YouTube launch data, caught the Episode 003 title
+  numbering mismatch, generated six local upload-safe H.264/AAC derivatives,
+  removed transient transcode logs/status files, and documented the blocked
+  live-publish path. No Rumble or Spotify account changes were made.
 
 ## Completed (2026-05-23)
 - [x] **Tesla Mandela Effects 3-video YouTube launch** -- Episode 001

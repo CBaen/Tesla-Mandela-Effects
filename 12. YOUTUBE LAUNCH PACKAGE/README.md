@@ -2,6 +2,7 @@
 
 Prepared on 2026-05-19 for a three-episode release of Episodes 001-003.
 Post-launch closeout updated on 2026-05-23.
+Cross-platform handoff added on 2026-05-31.
 
 ## Current Reality
 
@@ -18,6 +19,14 @@ Public release schedule:
 Fallback is no longer needed for this pass; the videos went public on
 2026-05-21.
 
+For Rumble/Spotify cross-posting, do not use this folder as the active metadata
+package. Use `../14. RUMBLE SPOTIFY LAUNCH PACKAGE/README.md` and
+`../workstreams/rumble-spotify-crosspost-2026-05-31.md`.
+
+Public YouTube metadata checked on 2026-05-29 returned Episode 003 as `S1E1`
+instead of the intended `S1E3`. Correct or verify that title before claiming
+YouTube/Rumble/Spotify consistency.
+
 Do not use YouTube Premiere for the current 1440p masters. YouTube's current Premiere help says output greater than 1080p is not supported for Premieres. If Premiere reminders are more important than 1440p playback, make separate 1080p Premiere files.
 
 For the current handoff, start with:
@@ -25,6 +34,7 @@ For the current handoff, start with:
 - `POST_LAUNCH_HANDOFF_2026-05-23.md`
 - `launch-video-urls.md`
 - `launch-retrospective-2026-05-21.md`
+- For Rumble/Spotify only: `../14. RUMBLE SPOTIFY LAUNCH PACKAGE/README.md`
 
 ## Asset Status
 

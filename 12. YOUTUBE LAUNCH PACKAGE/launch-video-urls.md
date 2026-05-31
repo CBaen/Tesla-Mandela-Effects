@@ -41,11 +41,21 @@ Post-publish done:
   - Episode 002: 6 public views, 1 comment.
   - The visible comment on each video was the prepared channel comment; no
     viewer comments required reply in the monitor window.
+- Public metadata review for Rumble/Spotify prep on 2026-05-29:
+  - Episode 001: 18 public views, 1 like, 1 comment.
+  - Episode 003: 23 public views, 1 like, 1 comment.
+  - Episode 002: 9 public views, likes unavailable, 1 comment.
+  - Episode 003 public title was returned as `S1E1 Tesla Found the Frequency.
+    CERN Found the God Particle.` Intended title is `S1E3 Tesla Found the
+    Frequency. CERN Found the God Particle.`
+  - Source notes:
+    `../14. RUMBLE SPOTIFY LAUNCH PACKAGE/youtube-data-review-2026-05-29.md`.
 
 Post-publish pending:
 
 - Pin the prepared comments in YouTube Studio or on the watch pages. The official API posted them, but pinning was not exposed through the API and the Studio comments page did not show a clear pin action during the automated pass.
 - Add end screens.
 - Post the prepared Community launch copy.
+- Correct or verify Episode 003 title numbering in Studio/API.
 - Recheck Studio Analytics after YouTube has populated retention, CTR, traffic
   source, and subscriber conversion data.

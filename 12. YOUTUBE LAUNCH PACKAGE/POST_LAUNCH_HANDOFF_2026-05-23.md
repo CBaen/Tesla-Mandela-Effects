@@ -69,6 +69,10 @@ No viewer comments required response during the monitor window.
 - Pin the prepared comments manually in Studio or on the watch pages.
 - Add end screens: each video should point to the Full Episodes playlist and
   one other episode.
+- Correct or verify the public Episode 003 title. A public metadata check on
+  2026-05-29 returned `S1E1 Tesla Found the Frequency. CERN Found the God
+  Particle.` The intended title is `S1E3 Tesla Found the Frequency. CERN Found
+  the God Particle.`
 - Post the prepared Community launch copy from
   `community-and-launch-copy.md` if Guiding Light still wants it.
 - Recheck public playback quality ladders and confirm viewer-facing 1440p on
@@ -83,6 +87,8 @@ No viewer comments required response during the monitor window.
 YouTube has separate truth surfaces. Do not collapse them:
 
 - API `definition=hd` means YouTube processed the video as HD.
+- Public metadata proves what external tools and cross-post workflows currently
+  see, including title/numbering mismatches.
 - Public player quality ladder proves what a viewer can currently select.
 - Studio Checks prove copyright/policy surfaces visible in Studio.
 - Studio Analytics is the source for CTR/retention/traffic-source detail.
@@ -93,6 +99,13 @@ Reusable external-access capability notes live at
 `C:\Users\baenb\capabilities-external-access\recipes\youtube-public-surface-launch-gate.md`
 and
 `C:\Users\baenb\capabilities-external-access\failures\stale-launch-source-drift.md`.
+
+## Cross-Post Discovery - 2026-05-29
+
+Public YouTube data was reviewed before preparing Rumble/Spotify posts. The
+sample was too small for retention or CTR decisions, but it did catch the
+Episode 003 numbering mismatch. Source:
+`../14. RUMBLE SPOTIFY LAUNCH PACKAGE/youtube-data-review-2026-05-29.md`.
 
 ## Source Order For Future Agents
 

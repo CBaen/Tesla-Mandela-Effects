@@ -16,6 +16,23 @@ episode writing, start with `0. EPISODE FACTORY/AGENTS.md`. For the completed
 May 2026 YouTube launch, start with
 `12. YOUTUBE LAUNCH PACKAGE/POST_LAUNCH_HANDOFF_2026-05-23.md`.
 
+## Current Status Notice - 2026-05-31
+
+For active project state, start with `PROJECT-STATUS.md`.
+
+For Rumble and Spotify cross-post work, start with
+`workstreams/rumble-spotify-crosspost-2026-05-31.md` and
+`14. RUMBLE SPOTIFY LAUNCH PACKAGE/README.md`.
+
+The cross-post package is prepared and the delivery MP4s are generated locally,
+but no Rumble or Spotify live account changes were made. The prior browser
+state was not a safe authenticated automation path. Future agents must verify
+the active personal account context before editing profiles or publishing.
+
+Known YouTube follow-up: public metadata on 2026-05-29 returned Episode 003 as
+`S1E1 Tesla Found the Frequency. CERN Found the God Particle.` The intended
+title is `S1E3 Tesla Found the Frequency. CERN Found the God Particle.`
+
 ## To My Sibling
 
 READ ALL OF THIS. The approach evolved significantly. Early decisions are superseded by later ones.

@@ -1,0 +1,4 @@
+delivery/*.mp4
+delivery/*.log
+delivery/*status*.json
+delivery/delivery-manifest.json

@@ -229,3 +229,23 @@ Reviewed by every instance on arrival. Append-only. Keep entries atomic and acti
 - **Pattern**: Unpushed history contained generated episode `.zip` exports over GitHub's 100 MB file limit, blocking the entire `main` push.
 - **Rule**: Keep source episode artifacts as normal files and ignore generated `.zip` packages. If a zip export is needed, regenerate it from source or store it in an intentional large-file/archive system, not normal Git.
 - **Why**: GitHub is the durable source archive, not the storage layer for redundant generated bundles. Large zip blobs make every future agent pay the cost.
+
+### Cross-platform copy is not compliance-first copy
+- **Pattern**: Rumble/Spotify draft copy became too cautious by leading with disclaimers and category safety instead of the actual discovery hooks.
+- **Rule**: Lead cross-platform copy with searchable entities and audience intent: Nikola Tesla, Mandela Effect, lost papers, Hotel New Yorker, White City, CERN, God Particle, historical mystery, archive anomalies. Keep the docufiction boundary visible, but not as the first impression.
+- **Why**: Rumble and Spotify discovery need clear entity language. Safety language protects the format only after the listener understands why they should care.
+
+### Verify public metadata before copying to another platform
+- **Pattern**: Public YouTube metadata on 2026-05-29 returned Episode 003 as `S1E1 Tesla Found the Frequency. CERN Found the God Particle.` even though the intended numbering is `S1E3`.
+- **Rule**: Before cross-posting, pull or inspect public metadata and compare it to the intended package metadata. Fix or explicitly override discovered mismatches.
+- **Why**: Copying a live metadata bug spreads the inconsistency to every new platform and makes later cleanup harder.
+
+### Open browser tabs are not an automation path
+- **Pattern**: Rumble, Spotify, and YouTube were open in Brave, but Brave was not launched with a remote debugging port and no safe platform connector/API path was available.
+- **Rule**: Treat authenticated tabs as user-visible state, not an automatable control path. Use official APIs, app-level automation with an approved browser session, or manual user action. Do not use host desktop control without explicit approval.
+- **Why**: Account work can mutate public channels and profiles. Unsafe GUI control creates account, privacy, and accessibility risk.
+
+### Delivery media is a local payload until upload is verified
+- **Pattern**: Rumble/Spotify H.264 derivatives were necessary for upload but too large and redundant for Git. Transcode logs/status JSON were useful only during generation.
+- **Rule**: Ignore generated delivery MP4s and keep them locally only until upload is complete. Record durable file specs in markdown. Remove transient logs, status files, and manifests after summary evidence exists.
+- **Why**: GitHub is the source archive, not media storage. Durable summaries keep future agents oriented without committing giant generated artifacts.
